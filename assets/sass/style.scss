@@ -18,9 +18,26 @@
     justify-content: center;
     flex-direction: column;
     transition: 0.5s linear;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    *{
+        margin: 1rem;
+    }
+    img{
+        border-radius: 2rem;
+        z-index: 0;
+        width: 40%;
+        height: 40%;
+        object-fit: cover;
+        object-position: top;
+        
+    }
     form{
-        *{
+        *{  
             font-size: 2rem;
+            z-index: 3;
+            margin: 2rem 0;
         }
     }
     h1{

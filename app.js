@@ -116,6 +116,7 @@ choices.forEach(choice => {
         }, 1000)
     })
 })
+let maxScore= (MAX_QUESTIONS+1)*10;
 const finalScore = document.querySelector("#finalScore")
 const endtext = document.querySelector('#end-text');
 incrementScore = num => {
@@ -123,7 +124,10 @@ incrementScore = num => {
     scoreText.innerText = score
     finalScore.innerText = score
     // comment = score;
-
+    
+    if ((score / maxScore) >= 0.3) endtext.innerText = 'Giỏi quá zị';
+    if ((score / maxScore) >= 0.5) endtext.innerText = 'Quá vjp pro luôn';
+    if ((score / maxScore) >= 0.7) endtext.innerText = 'U là tr';
 }
 
 // setComment();
@@ -137,3 +141,7 @@ username.addEventListener('keyup', () => {
 saveScoreBtn.addEventListener('click', ()=>{
     resetGame();
 })
+
+function playAudio(url) {
+    new Audio(url).play();
+  }

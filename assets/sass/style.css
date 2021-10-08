@@ -125,26 +125,6 @@ body {
           justify-content: center;
 }
 
-#progressBar {
-  position: absolute;
-  top: 2rem;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-  width: 20rem;
-  height: 3rem;
-  border: 0.2rem solid #0f9b0f;
-  margin-top: 2rem;
-  border-radius: 50px;
-  overflow: hidden;
-}
-
-#progressBarFull {
-  height: 100%;
-  background: #0f9b0f;
-  width: 0;
-}
-
 .main {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -159,6 +139,8 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  -webkit-transition: 0.5s linear;
+  transition: 0.5s linear;
 }
 
 .main * {
@@ -238,6 +220,8 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  -webkit-transition: 0.5s linear;
+  transition: 0.5s linear;
 }
 
 .start .content-box {
@@ -392,10 +376,32 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  -webkit-transition: 0.5s linear;
+  transition: 0.5s linear;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+
+.end * {
+  margin: 1rem;
+}
+
+.end img {
+  border-radius: 2rem;
+  z-index: 0;
+  width: 40%;
+  height: 40%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: top;
+     object-position: top;
 }
 
 .end form * {
   font-size: 2rem;
+  z-index: 3;
+  margin: 2rem 0;
 }
 
 .end h1 {

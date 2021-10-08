@@ -13,16 +13,16 @@
 </head>
 <body>
     <div class="wrapper">
-        <div class="returnBtn" id="returnBtn"><i class="fas fa-undo-alt"></i></div>
+        <div class="returnBtn" id="returnBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-undo-alt"></i></div>
         <!-- <div id="progressBar"><div id="progressBarFull"></div></div> -->
-        <div class="score" id="score">0</div>
+        <div class="score" id="score" onclick="click()">0</div>
         <div class="main" id="main">
             <div class="container-number">
                 <input type="number" placeholder="Số lượng" id="number-box" class="container-number__box">
-                <button type="button" onclick="getInputValue();" class="container-number__btn">OK</button>
+                <button type="button" onclick="getInputValue(); playAudio('./assets/audio/pop.wav');" class="container-number__btn">OK</button>
             </div>
-            <button class="btn startBtn"><i class="fas fa-play"></i></button>
-            <button class="btn leaderboardBtn"><i class="fas fa-university"></i></button>
+            <button class="btn startBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-play"></i></button>
+            <button class="btn leaderboardBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-university"></i></button>
         </div>
 <!-------------------------------------------START------------------------------------------->
         <div class="start" id="start">
@@ -31,13 +31,13 @@
                     <h5 id="question">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente dicta dignissimos aperiam, similique, enim corrupti officiis iste perferendis est facilis facere et sit aspernatur quos incidunt placeat deserunt fuga illum?</h5>
                 </div>
                 <div class="content-box__options">
-                    <div class="choice-container">
+                    <div class="choice-container" onclick="playAudio('./assets/audio/pop.wav')">
                         <p class="choice-text" data-number="1">Choice</p>
                     </div>
-                    <div class="choice-container">
+                    <div class="choice-container" onclick="playAudio('./assets/audio/pop.wav')">
                         <p class="choice-text" data-number="2">Choice 2</p>
                     </div>
-                    <div class="choice-container">
+                    <div class="choice-container" onclick="playAudio('./assets/audio/pop.wav')">
                         <p class="choice-text" data-number="3">Choice 3</p>
                     </div>
                 </div>
@@ -46,10 +46,11 @@
 <!---------------------------------------------END-------------------------------------------->
         <div class="end" id ="end">
             <h1 id="finalScore">0</h1>
-            <form class="end-form-container">
-                <h2 id="end-text">Commnent</h2>
+            <img src="./assets/images/gif-1.gif" alt="">
+            <form class="end-form-container" onclick="playAudio('./assets/audio/pop.wav');">
+                <h2 id="end-text">Gòi xong tới công chuyện</h2>
                 <input type="text" name="name" id="username" placeholder="Tui tên là">
-                <button class="btn" id="saveScoreBtn" type="submit" onclick="saveHighScore(event)" disabled>Lưu</button>
+                <button class="btn" onclick="saveHighScore(event); " id="saveScoreBtn" type="submit"  disabled>Lưu</button>
             </form>
         </div>
 
@@ -59,7 +60,7 @@
         </div>
 </div>
 <!--------------------------------------------SCRIPT------------------------------------------>
-    <script src="./data.js"></script>
+    <script src="./database.js"></script>
     <script src="./app.js"></script>
 </body>
 </html>
