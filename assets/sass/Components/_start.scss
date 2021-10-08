@@ -1,0 +1,64 @@
+.start{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s linear;
+    .content-box{
+        font-family: 'Noto Sans JP', sans-serif;
+        font-weight: 500;
+        width: 80vw;
+        height: 80vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        &__quiz{
+            background: $cl-f;
+            width: 80vw;
+            height: 40vh;
+            border-radius: 1rem;
+            font-size: 3rem;
+            padding: 1rem;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            justify-content: center;
+        }
+        &__options{
+            width: 80vw;
+            margin-top: 4rem;
+            display: flex;
+            justify-content: space-between;
+            font-size: 3rem;
+            .choice-container {
+                background-color: #fff;
+                width: 30rem;
+                height: 20rem;
+                border-radius: 1rem;
+                overflow: hidden;
+                transition: 0.2s linear;
+                &:hover{
+                    transform: translateY(-1rem);
+                    background-color: $cl-y;
+                }
+            }
+        }
+    }
+}
+
+.correct {
+    background: $cl-g;
+}
+
+.incorrect {
+    background: $cl-r;
+}
+
+.choice-text {
+    padding: 2rem;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
