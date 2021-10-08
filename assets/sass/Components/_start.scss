@@ -51,6 +51,9 @@
                 &:hover{
                     transform: translateY(-1rem);
                     background-color: $cl-y;
+                    @include respond(tab){
+                        transform: translateY(-0.2rem);
+                    }
                 }
                 @include respond(tab-land){
                     font-size: 2rem;
