@@ -1,0 +1,99 @@
+
+.end{
+    width: 40rem;
+    height: 50rem;
+    border-radius: 2rem;
+    background-color: $cl-f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: 0.5s linear;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    @include respond(tab-land){
+        width: 36rem;
+        height: 44rem;
+    }
+    @include respond(tab){
+        width: 32rem;
+        height: 40rem;
+    }
+    @include respond(phone){
+        width: 80vw;
+        height: 80vh;
+    }
+    *{
+        margin: 1rem;
+        @include respond(phone)
+        {
+            margin: 0rem;
+        }
+    }
+    img{
+        border-radius: 2rem;
+        z-index: 0;
+        width: 40%;
+        height: 40%;
+        object-fit: cover;
+        object-position: top;
+        @include respond(phone)
+        {
+            width: 18rem;
+            height: 35%;
+        }
+    }
+    form{
+        *{  
+            font-size: 2rem;
+            z-index: 3;
+            margin: 2rem 0;
+            @include respond(phone)
+            {
+                margin: 0.4rem;
+            }
+        }
+    }
+    h1{
+        font-size: 5rem;
+        font-weight: 500;
+        margin-bottom: 1rem;
+        @include respond(phone)
+        {   font-size: 4.4rem;
+            margin-bottom: 1rem;
+        }
+    }
+    h2{
+        font-size: 2.4rem;
+        font-weight: 500;
+        margin: 1rem auto;
+        @include respond(phone)
+        {
+            margin-bottom: 0.4rem;
+            font-size: 2.2rem;
+        }
+    }
+    input{
+        width: 18rem;
+        padding: 2rem;
+        height: 5rem;
+        background-color: #c3c3c350;
+        color: #c3c3c3;
+        @include respond(phone)
+        {
+            height: 4rem;
+        }
+    }
+    button{
+        width: 5rem;
+        height: 5rem;
+        background-color: $cl-g;
+        color:  $cl-f;
+        @include respond(phone)
+        {
+            width: 18rem;
+            height: 4rem;
+        }
+    }
+}

@@ -78,6 +78,7 @@ endGame = () =>{
     document.getElementById('start').style.display = "none";
     document.getElementById('end').style.display = "flex";
     document.getElementById('returnBtn').style.display = "none";
+    document.getElementById('score').style.display="none";
 }
 getNewQuestion = () => {
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {

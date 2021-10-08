@@ -22,6 +22,15 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    @include respond (tab-land){
+        width: 4rem;
+        height: 4rem;
+    }
+    @include respond (tab){
+        width: 3rem;
+        height: 3rem;
+        font-size: 1.4rem;
+    }
 }
 .score{
     width: 6rem;
@@ -35,6 +44,15 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    @include respond (tab-land){
+        width: 4rem;
+        height: 4rem;
+    }
+    @include respond (tab){
+        width: 3rem;
+        height: 3rem;
+        font-size: 1.4rem;
+    }
 }
 // #progressBar {
 //     position: absolute;
