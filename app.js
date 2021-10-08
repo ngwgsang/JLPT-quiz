@@ -124,12 +124,12 @@ incrementScore = num => {
     scoreText.innerText = score
     finalScore.innerText = score
     // comment = score;
-    
-    if ((score / maxScore) >= 0.3) endtext.innerText = 'Giỏi quá zị';
-    if ((score / maxScore) >= 0.5) endtext.innerText = 'Quá vjp pro luôn';
-    if ((score / maxScore) >= 0.7) endtext.innerText = 'U là tr';
 }
-
+comment = ['Đồ tể nihongo','Giỏi quá bạn ưi','Sừ goi sừ goi','Nì hôn zin','U là tr','Giỏi quá zị', 'Chiến thần N1', 'Gòi xong tới công chuyện'];
+function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
+}
+endtext.innerText = comment[getRandomInt(comment.length)];
 // setComment();
 // end
 startGame();
