@@ -997,5 +997,721 @@ let questions = [
         choice3: "旅",
         answer: 2,
         },
-
+        {
+        question: "A126: 火(曜日)の後は何(曜日)？",
+        choice1: "よくび",
+        choice2: "ようび",
+        choice3: "よび",
+        answer: 2,
+        },
+        
+        {
+        question: "A127: 親というものは(末っ子)を可愛がるものだ。",
+        choice1: "ますっこ",
+        choice2: "すえっこ",
+        choice3: "まっこ",
+        answer: 2,
+        },
+        
+        {
+        question: "A128: 彼の課題の期限は(翌月)です。",
+        choice1: "よくげつ",
+        choice2: "よくがつ",
+        choice3: "ようげつ",
+        answer: 1,
+        },
+        
+        {
+        question: "A129: (週末)は何をするの？。",
+        choice1: "しゅまつ",
+        choice2: "じゅうまつ",
+        choice3: "しゅうまつ",
+        answer: 3,
+        },
+        
+        {
+        question: "A130: 私は(昨年)末にバンクーバーに旅行に行きました。",
+        choice1: "さっくねん",
+        choice2: "さくねん",
+        choice3: "ざくねん",
+        answer: 2,
+        },
+        
+        {
+        question: "A131: (昨夜)火事に出られた。",
+        choice1: "ざくや",
+        choice2: "さくや",
+        choice3: "さくよる",
+        answer: 2,
+        },
+        
+        {
+        question: "A132: (年末)は日本にいません。",
+        choice1: "ねんまつ",
+        choice2: "としまつ",
+        choice3: "ねまつ",
+        answer: 1,
+        },
+        
+        {
+        question: "A133: 兄弟中の(末子)だ。",
+        choice1: "はっし",
+        choice2: "ばっし",
+        choice3: "まし",
+        answer: 2,
+        },
+        
+        {
+        question: "A134: 彼は(昨日)ニューヨークにいましたか。",
+        choice1: "きよう",
+        choice2: "さくび",
+        choice3: "きのう",
+        answer: 3,
+        },
+        
+        {
+        question: "A135: (期末)試験を受ける。",
+        choice1: "ぎまつ",
+        choice2: "きまつ",
+        choice3: "きすえ",
+        answer: 2,
+        },
+        
+        {
+        question: "A136: (昨日)は嫌な天気だった。",
+        choice1: "さくび",
+        choice2: "さくひ",
+        choice3: "さくじつ",
+        answer: 3,
+        },
+        
+        {
+        question: "A137: この小説の(結末)に感動した。",
+        choice1: "けつまつ",
+        choice2: "けっまつ",
+        choice3: "げっまつ",
+        answer: 1,
+        },
+        
+        {
+        question: "A138: 私は(翌日)学校に行く必要がない。",
+        choice1: "ようじつ",
+        choice2: "よくじつ",
+        choice3: "よくび",
+        answer: 2,
+        },
+        
+        {
+        question: "A139: 1(月末)でこの仕事を辞めます。",
+        choice1: "げつまつ",
+        choice2: "けつまつ",
+        choice3: "けっまつ",
+        answer: 1,
+        },
+        
+        {
+        question: "A140: これは私が(一昨)日買ったりんごです。",
+        choice1: "いととい",
+        choice2: "おとどい",
+        choice3: "おととい",
+        answer: 3,
+        },
+        
+        {
+        question: "A141: 彼は(昨晩)帰ってきた。",
+        choice1: "よくばん",
+        choice2: "きばん",
+        choice3: "さくばん",
+        answer: 3,
+        },
+        
+        {
+        question: "A142:  (月曜日)に休みます。",
+        choice1: "げつようび",
+        choice2: "けつようび",
+        choice3: "にちようび",
+        answer: 1,
+        },
+        
+        {
+        question: "A143: 私の同僚は(一昨年)の12月に結婚しました",
+        choice1: "いちさくねん",
+        choice2: "いっさくねん",
+        choice3: "いっさくじつ",
+        answer: 2,
+        },
+        
+        {
+        question: "A144: (翌朝)特別に早起きをした。",
+        choice1: "よくちょう",
+        choice2: "ようちょう",
+        choice3: "よくあさ",
+        answer: 1,
+        },
+        
+        {
+        question: "A145: 結婚した(翌年)に女の子が生まれた。",
+        choice1: "らいねん",
+        choice2: "よくねん",
+        choice3: "よくとし",
+        answer: 3,
+        },
+        
+        {
+        question: "A146: そんなことは(末)の末だ。",
+        choice1: "ばつ",
+        choice2: "まつ",
+        choice3: "すえ",
+        answer: 3,
+        },
+        {
+        question: "A147: やすみは(にちようび)しかない。",
+        choice1: "日曜日",
+        choice2: "日濯日",
+        choice3: "日曜目",
+        answer: 1,
+        },
+        
+        {
+        question: "A148: 事件の以外な(けつまつ)を知った。",
+        choice1: "結未",
+        choice2: "結末",
+        choice3: "経末",
+        answer: 2,
+        },
+        
+        {
+        question: "A149: (さくばん)、父がおそく帰ってきた。",
+        choice1: "昨晩",
+        choice2: "作番",
+        choice3: "昨免",
+        answer: 1,
+        },
+        
+        {
+        question: "A150: あした、(きまつ)テストがおこなわれる。",
+        choice1: "基未",
+        choice2: "棋末",
+        choice3: "期末",
+        answer: 3,
+        },
+        
+        {
+        question: "A151: ごぜんちゅうに出せば、(よくちょう)にとどく。",
+        choice1: "竪朝",
+        choice2: "翌朝",
+        choice3: "翌調",
+        answer: 2,
+        },
+        
+        {
+        question: "A152: (しゅうまつ)はたいてい家でゆっくり休む。",
+        choice1: "週未",
+        choice2: "周末",
+        choice3: "週末",
+        answer: 3,
+        },
+        
+        {
+        question: "A153: 今月、(すえ)に、かぞくが日本に遊びに来る。",
+        choice1: "木",
+        choice2: "未",
+        choice3: "末",
+        answer: 3,
+        },
+        
+        {
+        question: "A154:  (さくねん)、むすめがけっこんした。",
+        choice1: "昨牛",
+        choice2: "作年",
+        choice3: "昨年",
+        answer: 3,
+        },
+        
+        {
+        question: "A155: はたらける(ようび)をおしえてください。",
+        choice1: "濯目",
+        choice2: "濯日",
+        choice3: "曜日",
+        answer: 3,
+        },
+        
+        {
+        question: "A156:  (ねんまつ)は海外ですごす予定だ。",
+        choice1: "年未",
+        choice2: "年末",
+        choice3: "牛末",
+        answer: 2,
+        },
+        
+        {
+        question: "A157: わたしは三人兄弟の(すえっこ)です。",
+        choice1: "未っ子",
+        choice2: "末っ子",
+        choice3: "木っ子",
+        answer: 2,
+        },
+        
+        {
+        question: "A158: (よくとし)、かれはやっと大学を卒業した。",
+        choice1: "翌年",
+        choice2: "竪年",
+        choice3: "翌牛",
+        answer: 1,
+        },
+        
+        {
+        question: "A159:  (おととい)、てんきはよくなった。",
+        choice1: "昨日",
+        choice2: "一昨日",
+        choice3: "昨年",
+        answer: 2,
+        },
+        
+        {
+        question: "A160: 兄弟中の(まっし)だ。",
+        choice1: "末子",
+        choice2: "未子",
+        choice3: "末予",
+        answer: 1,
+        },
+        
+        {
+        question: "A161: (きのう)は日曜日だった。",
+        choice1: "一作日",
+        choice2: "作日",
+        choice3: "昨日",
+        answer: 3,
+        },
+        
+        {
+        question: "A162: むすこはいっ(さくねん)の12月に結婚しました。",
+        choice1: "一昨年",
+        choice2: "昨年",
+        choice3: "去年",
+        answer: 3,
+        },
+        
+        {
+        question: "A163: 家賃は(よくげつ)の1日に払わないといけない。",
+        choice1: "浴月",
+        choice2: "翌日",
+        choice3: "翌月",
+        answer: 1,
+        },
+        
+        {
+        question: "A164: 台風の(よくじつ)はいい天気だった。",
+        choice1: "翌日",
+        choice2: "翌月",
+        choice3: "翌年",
+        answer: 1,
+        },
+        
+        {
+        question: "A165: (げつまつ)までにしゃっきんを返すつもりだ。",
+        choice1: "月未",
+        choice2: "月末",
+        choice3: "角末",
+        answer: 2,
+        },
+        
+        {
+        question: "A166: (さくや)からねつが下がらない。",
+        choice1: "作夜",
+        choice2: "昨夜",
+        choice3: "策屋",
+        answer: 2,
+        },
+        
+        {
+        question: "A167: (さくじつ)はありがとうございました。",
+        choice1: "昨日",
+        choice2: "昨月",
+        choice3: "昨年",
+        answer: 1,
+        },
+        {
+        question: "A168: 最近、(天気予報)がよく外れる？",
+        choice1: "でんきよほう",
+        choice2: "てんきよほう",
+        choice3: "てんきようほ",
+        answer: 2,
+        },
+        
+        {
+        question: "A169: 夏休みの(予定)はある？",
+        choice1: "ようて",
+        choice2: "よてい",
+        choice3: "よって",
+        answer: 2,
+        },
+        
+        {
+        question: "A170: 授業の(予習)をする。",
+        choice1: "よしゅう",
+        choice2: "ようしゅ",
+        choice3: "ようしゅう",
+        answer: 1,
+        },
+        
+        {
+        question: "A171: 新しい方法を(用いる)。",
+        choice1: "よちいる",
+        choice2: "よいる",
+        choice3: "もちいる",
+        answer: 3,
+        },
+        
+        {
+        question: "A172: 物価の上がり下がりは需要供給によって(定まる)。",
+        choice1: "ざたまる",
+        choice2: "さだまる",
+        choice3: "ざだまる",
+        answer: 2,
+        },
+        
+        {
+        question: "A173: ホテルに部屋を(予約)する。",
+        choice1: "ようやくする",
+        choice2: "よやくする",
+        choice3: "よかくする",
+        answer: 2,
+        },
+        
+        {
+        question: "A174: この(利用)方法は何？",
+        choice1: "りよう",
+        choice2: "りうよ",
+        choice3: "りよお",
+        answer: 1,
+        },
+        
+        {
+        question: "A175: 彼は(好事家)です。",
+        choice1: "こずうか",
+        choice2: "こうずか",
+        choice3: "こうじか",
+        answer: 2,
+        },
+        
+        {
+        question: "A176: 下記のとおり法律で(定める)。",
+        choice1: "ざかめる",
+        choice2: "ていめる",
+        choice3: "さだめる",
+        answer: 3,
+        },
+        
+        {
+        question: "A177: お(勘定)をしてください。",
+        choice1: "かんてい",
+        choice2: "かんじょう",
+        choice3: "かんぼう",
+        answer: 2,
+        },
+        
+        {
+        question: "A178: (仕事)を始めよう。",
+        choice1: "しこと",
+        choice2: "しじ",
+        choice3: "しごと",
+        answer: 3,
+        },
+        
+        {
+        question: "A179: 私はあなたを(大事)にする。",
+        choice1: "だいじ",
+        choice2: "だいこと",
+        choice3: "たいじ",
+        answer: 1,
+        },
+        
+        {
+        question: "A180: 私が勤めている会社の(定休日)は木曜日です。",
+        choice1: "じょうきゅうび",
+        choice2: "ていきゅうび",
+        choice3: "さだきゅうび",
+        answer: 2,
+        },
+        
+        {
+        question: "A181: 彼は(用事)で出かけた。",
+        choice1: "ようじ",
+        choice2: "よじ",
+        choice3: "よこと",
+        answer: 1,
+        },
+        
+        {
+        question: "A182: その文には(定規)できちんと下線が引いてあった。",
+        choice1: "ていき",
+        choice2: "ていぎ",
+        choice3: "じょうぎ",
+        answer: 3,
+        },
+        
+        {
+        question: "A183: 食卓の(用意)をする。",
+        choice1: "ようみ",
+        choice2: "もちい",
+        choice3: "ようい",
+        answer: 3,
+        },
+        
+        {
+        question: "A184: あなたはどんな(習い事)をしたことがありますか。",
+        choice1: "ならいごと",
+        choice2: "ならいこと",
+        choice3: "ならいじ",
+        answer: 1,
+        },
+        
+        {
+        question: "A185: 面接情報の(用紙)を送ってくれない。",
+        choice1: "ようがみ",
+        choice2: "ようし",
+        choice3: "もちがみ",
+        answer: 2,
+        },
+        
+        {
+        question: "A186: 出生年も(定か)ではない。",
+        choice1: "さだか",
+        choice2: "ざだか",
+        choice3: "ていか",
+        answer: 1,
+        },
+        
+        {
+        question: "A187: おいしく(食事)をする。",
+        choice1: "そくじ",
+        choice2: "しょくこと",
+        choice3: "しょくじ",
+        answer: 3,
+        },
+        
+        {
+        question: "A188: 彼は今年で(定年)だ。",
+        choice1: "じょうねん",
+        choice2: "ていとし",
+        choice3: "ていねん",
+        answer: 3,
+        },
+        
+        {
+        question: "A189: (事)が無事に運んでいる。",
+        choice1: "じ",
+        choice2: "ごと",
+        choice3: "こと",
+        answer: 3,
+        },
+        
+        {
+        question: "A190: (子供用)の浅いプール。",
+        choice1: "こどもよ",
+        choice2: "ごどもよう",
+        choice3: "こどもよう",
+        answer: 3,
+        },
+        
+        {
+        question: "A191: その(工事)は進んでいる。",
+        choice1: "こうじ",
+        choice2: "こうごと",
+        choice3: "こうし",
+        answer: 1,
+        },
+        
+        {
+        question: "A192: りょこうの(よてい)を決める",
+        choice1: "予定",
+        choice2: "子定",
+        choice3: "予疋",
+        answer: 1,
+        },
+        
+        {
+        question: "A193: きゅうな(ようじ)で外出する。",
+        choice1: "用筆",
+        choice2: "用事",
+        choice3: "用聿",
+        answer: 2,
+        },
+        
+        {
+        question: "A194: このきかいは広く(もちい)られている。",
+        choice1: "用い",
+        choice2: "冊い",
+        choice3: "冉い",
+        answer: 1,
+        },
+        
+        {
+        question: "A195: テレビの(てんきよほう)をチェックする。",
+        choice1: "夫気子報",
+        choice2: "天気子報",
+        choice3: "天気予報",
+        answer: 3,
+        },
+        
+        {
+        question: "A196: 父はらいねん、(ていねん)を迎える。",
+        choice1: "疋年",
+        choice2: "定年",
+        choice3: "正年",
+        answer: 2,
+        },
+        
+        {
+        question: "A197: 毎日、じゅぎょうの(よしゅう)を行う。",
+        choice1: "用習",
+        choice2: "子摺",
+        choice3: "予習",
+        answer: 3,
+        },
+        
+        {
+        question: "A198: 彼はなかなか仕事が(さだまらない)。",
+        choice1: "疋まらない",
+        choice2: "正まらない",
+        choice3: "定まらない",
+        answer: 3,
+        },
+        
+        {
+        question: "A199: (ならいごと)をはじめる。",
+        choice1: "習い律",
+        choice2: "摺い事",
+        choice3: "習い事",
+        answer: 3,
+        },
+        
+        {
+        question: "A200: げんこう(ようし)に作文を書いた。",
+        choice1: "用氏",
+        choice2: "冉紙",
+        choice3: "用紙",
+        answer: 3,
+        },
+        
+        {
+        question: "A201: (だいじな)写真をしまっておく。",
+        choice1: "犬事な",
+        choice2: "大事な",
+        choice3: "大書",
+        answer: 2,
+        },
+        
+        {
+        question: "A202: (しょくじ)のじゅんびをする。",
+        choice1: "良事",
+        choice2: "食事",
+        choice3: "食書",
+        answer: 2,
+        },
+        
+        {
+        question: "A203: でんき(こうじ)が行われる。",
+        choice1: "工事",
+        choice2: "工聿",
+        choice3: "工字",
+        answer: 1,
+        },
+        
+        {
+        question: "A204: あの店の(ていきゅうび)は木曜日です。",
+        choice1: "正休日",
+        choice2: "定休日",
+        choice3: "定木日",
+        answer: 2,
+        },
+        
+        {
+        question: "A205: 彼はなかなか(しごと)をさだまらない。",
+        choice1: "仕事",
+        choice2: "士事",
+        choice3: "仕聿",
+        answer: 1,
+        },
+        
+        {
+        question: "A206: (こと)の成り行きを見守る。",
+        choice1: "書",
+        choice2: "聿",
+        choice3: "事",
+        answer: 3,
+        },
+        
+        {
+        question: "A207: (かんじょう)はいくらですか。",
+        choice1: "勘定",
+        choice2: "勧定",
+        choice3: "潅正",
+        answer: 1,
+        },
+        
+        {
+        question: "A208: 学校のきそくを(さだめ)る。",
+        choice1: "定る",
+        choice2: "正める",
+        choice3: "定める",
+        answer: 3,
+        },
+        
+        {
+        question: "A209: しゅっせのためにひとを(りよう)する。",
+        choice1: "理用",
+        choice2: "利用",
+        choice3: "料用",
+        answer: 2,
+        },
+        
+        {
+        question: "A210: 彼のいきさきは(さだか)ではない。",
+        choice1: "用か",
+        choice2: "定か",
+        choice3: "事か",
+        answer: 2,
+        },
+        
+        {
+        question: "A211: (こどもよう)のいすを買う。",
+        choice1: "子供用",
+        choice2: "予共用",
+        choice3: "子共用",
+        answer: 1,
+        },
+        
+        {
+        question: "A212: (ようい)ができましたか。",
+        choice1: "用思",
+        choice2: "容思",
+        choice3: "用意",
+        answer: 3,
+        },
+        
+        {
+        question: "A213: このへやを(よやく)した。",
+        choice1: "予約",
+        choice2: "予終",
+        choice3: "子紀",
+        answer: 1,
+        },
+        
+        {
+        question: "A214: (こうずか)とはふうりゅうをこのむひと。",
+        choice1: "子事家",
+        choice2: "好事家",
+        choice3: "子事冢",
+        answer: 2,
+        },
+        
+        {
+        question: "A215: (じょうぎ)でせんをひく。",
+        choice1: "定義",
+        choice2: "定規",
+        choice3: "情儀",
+        answer: 2,
+        },
 ]
