@@ -9,7 +9,7 @@
 
 :raccoon:  Mình sẽ cập nhập các thông tin về các bộ câu hỏi sao mỗi lần push. 
 ## Sử dụng
-Các bạn truy cập tại đây [JLPT Quiz](https://duckduckgo.com)
+Các bạn truy cập tại đây [JLPT Quiz](https://sangcamap.github.io/JLPT-quiz/)
 
 ## :cherry_blossom:	 Thông tin về các bộ câu hỏi
 ID |Số     |Nội dung        |Phạm vi   |Cập nhập
