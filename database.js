@@ -353,7 +353,7 @@ let questions = [
         },
         
         {
-        question: "A45: ねぼうしたので授業に遅刻した。",
+        question: "A45: (ねぼう)したので授業に遅刻した。",
         choice1: "寝方",
         choice2: "寝防",
         choice3: "寝坊",
@@ -397,6 +397,605 @@ let questions = [
         choice2: "毎永浴",
         choice3: "海氷浴",
         answer: 1,
-        }
+        },
+
+        {
+        question: "A51: (干物)は私の好みに合わない。",
+        choice1: "かんもの",
+        choice2: "ひもの",
+        choice3: "ほすもの",
+        answer: 2,
+        },
+        
+        {
+        question: "A52: 水の流れにより(水洗)するトイレ。",
+        choice1: "みずせん",
+        choice2: "すいせん",
+        choice3: "すいあら",
+        answer: 2,
+        },
+        
+        {
+        question: "A53: (お手洗い)を借りてよろしいですか？",
+        choice1: "おてあらい",
+        choice2: "おしゅあらい",
+        choice3: "おしあらい",
+        answer: 1,
+        },
+        
+        {
+        question: "A54: (食生活)は生存に必要である。",
+        choice1: "たべせいかつ",
+        choice2: "しょくせいよう",
+        choice3: "しょくせいかつ",
+        answer: 3,
+        },
+        
+        {
+        question: "A55: (洗濯物)を持って出た。",
+        choice1: "あらたくもの",
+        choice2: "せんたくもの",
+        choice3: "ぜんたくもの",
+        answer: 2,
+        },
+        
+        {
+        question: "A56: (活発)な会議。",
+        choice1: "かっぱつ",
+        choice2: "かっばつ",
+        choice3: "かつはつ",
+        answer: 1,
+        },
+        
+        {
+        question: "A57: 古くなった冬服を(干す)。",
+        choice1: "ひす",
+        choice2: "ほす",
+        choice3: "かんす",
+        answer: 2,
+        },
+        
+        {
+        question: "A58: この(洗剤)ではウールは洗えない。",
+        choice1: "ぜんさい",
+        choice2: "あらざい",
+        choice3: "せんざい",
+        answer: 3,
+        },
+        
+        {
+        question: "A59: 音楽(活動)を続ける。",
+        choice1: "かっどう",
+        choice2: "はつよう",
+        choice3: "かつどう",
+        answer: 3,
+        },
+        
+        {
+        question: "A60: ウナギと(梅干し)は食い合わせが悪いとされている。",
+        choice1: "うめほし",
+        choice2: "うめぼし",
+        choice3: "うめひし",
+        answer: 2,
+        },
+        
+        {
+        question: "A61: (洗濯機)はすばらしい発明品だ。",
+        choice1: "ぜんたくき",
+        choice2: "せんたくもの",
+        choice3: "せんたくき",
+        answer: 3,
+        },
+        
+        {
+        question: "A62: これを(活用)させていただきます。",
+        choice1: "かつよう",
+        choice2: "はつよう",
+        choice3: "かっよう",
+        answer: 2,
+        },
+        
+        {
+        question: "A63: スタッフを(若干名)募集しています。",
+        choice1: "じゃかんめい",
+        choice2: "じゃっかんめい",
+        choice3: "しゃっかんめい",
+        answer: 2,
+        },
+        
+        {
+        question: "A64: 独身(生活)をする。",
+        choice1: "せかつ",
+        choice2: "せいよう",
+        choice3: "せいかつ",
+        answer: 3,
+        },
+        
+        {
+        question: "A65: (洗面所)のタオルが汚れています。",
+        choice1: "せんめんじょ",
+        choice2: "せんめんしょ",
+        choice3: "ぜんめんじょ",
+        answer: 2,
+        },
+        
+        {
+        question: "A66: 顔と手を(洗う)。",
+        choice1: "せんう",
+        choice2: "らあう",
+        choice3: "あらう",
+        answer: 3,
+        },
+        
+        {
+        question: "A67: 彼は(活気)のある人です。",
+        choice1: "かつき",
+        choice2: "かっき",
+        choice3: "かっぎ",
+        answer: 2,
+        },
+        
+        {
+        question: "A68: 天気がいい日は布団を(ほす)。",
+        choice1: "干す",
+        choice2: "午す",
+        choice3: "牛す",
+        answer: 1,
+        },
+        
+        {
+        question: "A69: 社員を(じゃっかんめい)さいようする。",
+        choice1: "古干右",
+        choice2: "若干名",
+        choice3: "若午右",
+        answer: 2,
+        },
+        
+        {
+        question: "A70: 新発売の(せんざい)がやすくうっていた。",
+        choice1: "洗剤",
+        choice2: "先剤",
+        choice3: "洗斉",
+        answer: 1,
+        },
+        
+        {
+        question: "A71: つった魚で(ひもの)をつくる。",
+        choice1: "午物",
+        choice2: "乾物",
+        choice3: "干物",
+        answer: 3,
+        },
+        
+        {
+        question: "A72: 赤ちゃんが(かっぱつ)に動きまわる。",
+        choice1: "呑溌",
+        choice2: "活発",
+        choice3: "活羌",
+        answer: 2,
+        },
+        
+        {
+        question: "A73: (せんたくもの)をたたむ。",
+        choice1: "先曜物",
+        choice2: "洗曜物",
+        choice3: "洗濯物",
+        answer: 3,
+        },
+        
+        {
+        question: "A74: 通学の時間を(かつよう)して単語を覚える。",
+        choice1: "舌用",
+        choice2: "活曜",
+        choice3: "活用",
+        answer: 3,
+        },
+        
+        {
+        question: "A75: (かっき)のあるしょくば。",
+        choice1: "気活",
+        choice2: "活丸",
+        choice3: "活気",
+        answer: 3,
+        },
+        
+        {
+        question: "A76: (うめぼし)のたねを取ってね。",
+        choice1: "毎干し",
+        choice2: "梅午し",
+        choice3: "梅干し",
+        answer: 3,
+        },
+        
+        {
+        question: "A77: あたらしい(せんたくき)を買った。",
+        choice1: "先濯機",
+        choice2: "洗濯機",
+        choice3: "洗濯議",
+        answer: 1,
+        },
+        
+        {
+        question: "A78:  (せんめんじょ)で歯を磨く。",
+        choice1: "千面所",
+        choice2: "洗面所",
+        choice3: "扇面所",
+        answer: 2,
+        },
+        
+        {
+        question: "A79: (しょくせいかつ)にきをつける。",
+        choice1: "食生活",
+        choice2: "良生活",
+        choice3: "食性活",
+        answer: 1,
+        },
+        
+        {
+        question: "A80: 毎日うがいと(てあらい)をしている。",
+        choice1: "手先い",
+        choice2: "手洗い",
+        choice3: "手洸",
+        answer: 2,
+        },
+        
+        {
+        question: "A81: (せいかつ)のため、アルバイトをする。",
+        choice1: "性活",
+        choice2: "生活",
+        choice3: "姓活",
+        answer: 2,
+        },
+        
+        {
+        question: "A82: しゅうに三回、(せんたく)する。",
+        choice1: "洗濯",
+        choice2: "先曜",
+        choice3: "先濯",
+        answer: 1,
+        },
+        
+        {
+        question: "A83:  富士山の火山(かつどう)を調査する。",
+        choice1: "舌動",
+        choice2: "活働",
+        choice3: "活動",
+        answer: 3,
+        },
+        
+        {
+        question: "A84: 昔は(すいせん)トイレがめずらしかった。",
+        choice1: "水洗",
+        choice2: "氷洗",
+        choice3: "水先",
+        answer: 1,
+        },
+        
+        {
+        question: "A85: 食器をきれいに(あらう)。",
+        choice1: "先う",
+        choice2: "洗う",
+        choice3: "荒う",
+        answer: 2,
+        },
+        {
+        question: "A86: (風袋)込みで 5 キロある。",
+        choice1: "ふたい",
+        choice2: "ふうたい",
+        choice3: "かぜぶくろ",
+        answer: 2,
+        },
+        
+        {
+        question: "A87: その女性は白い(手袋)をはめた。",
+        choice1: "しゅぶくろ",
+        choice2: "てぶくろ",
+        choice3: "てふくろ",
+        answer: 2,
+        },
+        
+        {
+        question: "A88: (紙袋)をいただけますか？",
+        choice1: "かみぶくろ",
+        choice2: "がみぶくろ",
+        choice3: "かみふくろ",
+        answer: 1,
+        },
+        
+        {
+        question: "A89: 古い物を(捨てる)。",
+        choice1: "さてる",
+        choice2: "してる",
+        choice3: "すてる",
+        answer: 3,
+        },
+        
+        {
+        question: "A90: 一円以下は(四捨五入)してよろしい。",
+        choice1: "しじゃごにゅう",
+        choice2: "ししゃごにゅう",
+        choice3: "しさごにゅう",
+        answer: 2,
+        },
+        
+        {
+        question: "A91: (燃料代)が高い。",
+        choice1: "ねんりょだい",
+        choice2: "ねんりょうだい",
+        choice3: "ねんりょうたい",
+        answer: 2,
+        },
+        
+        {
+        question: "A92: 火を付けて物を(燃す)ことができる。",
+        choice1: "もす",
+        choice2: "もえす",
+        choice3: "もやす",
+        answer: 1,
+        },
+        
+        {
+        question: "A93: 証拠を(取捨選択)する。",
+        choice1: "しゅさせんたく",
+        choice2: "しゅしゃせんたく",
+        choice3: "しゅすせんたく",
+        answer: 2,
+        },
+        
+        {
+        question: "A94:  車の窓からたばこのすいがらを(投げ捨てる)。",
+        choice1: "なげさてる",
+        choice2: "あげすてる",
+        choice3: "なげすてる",
+        answer: 3,
+        },
+        
+        {
+        question: "A95: これは(可燃)物ではありません。",
+        choice1: "がねん",
+        choice2: "かりょう",
+        choice3: "かねん",
+        answer: 3,
+        },
+        
+        {
+        question: "A96: それを(燃やす)方法を考える。",
+        choice1: "えやす",
+        choice2: "もやす",
+        choice3: "ねやす",
+        answer: 2,
+        },
+        
+        {
+        question: "A97: 彼は困っている友人を(見捨て)ることは出来なかった。",
+        choice1: "みもてる",
+        choice2: "みしゃてる",
+        choice3: "みすてる",
+        answer: 3,
+        },
+        
+        {
+        question: "A98: (袋)の中に手を突っこむ。",
+        choice1: "ふくろ",
+        choice2: "ぶくろ",
+        choice3: "ふぐろ",
+        answer: 1,
+        },
+        
+        {
+        question: "A99: (拾得物)の数は毎年増えている。",
+        choice1: "しゅとくぶつ",
+        choice2: "しゅうとくぶつ",
+        choice3: "しゅうどくもの",
+        answer: 2,
+        },
+        
+        {
+        question: "A100:  誕生日祝いのつつみに(拾万円)とかく。",
+        choice1: "しゅうまんえん",
+        choice2: "しゅまんえん",
+        choice3: "じゅうまんえん",
+        answer: 3,
+        },
+        
+        {
+        question: "A101: 私は(寝袋)でしばらく寝ていました。",
+        choice1: "ねぶくろ",
+        choice2: "ねふくろ",
+        choice3: "しんふくろ",
+        answer: 1,
+        },
+        
+        {
+        question: "A102: 紙はすぐに(燃える)。",
+        choice1: "まえる",
+        choice2: "やえる",
+        choice3: "もえる",
+        answer: 3,
+        },
+        
+        {
+        question: "A103: タクシーを(拾う)のに苦労したよ。",
+        choice1: "はらう",
+        choice2: "ひろう",
+        choice3: "ひげる",
+        answer: 2,
+        },
+        
+        {
+        question: "A104: 足袋はやはり白を用いる。",
+        choice1: "だび",
+        choice2: "あしぶくろ",
+        choice3: "たび",
+        answer: 3,
+        },
+        
+        {
+        question: "A105: (不燃性)の材料を用いて燃えにくくする。",
+        choice1: "ふねんぜい",
+        choice2: "ふねんせい",
+        choice3: "ぶねんぜい",
+        answer: 2,
+        },
+        
+        {
+        question: "A106: かいがんでかいを(ひろう)。",
+        choice1: "拾う",
+        choice2: "捨う",
+        choice3: "払う",
+        answer: 1,
+        },
+        
+        {
+        question: "A107: 結婚祝いのつつみに(じゅうまんえん)と書く。",
+        choice1: "捨万円",
+        choice2: "拾万円",
+        choice3: "十万円",
+        answer: 2,
+        },
+        
+        {
+        question: "A108: 小数点第一位を(ししゃごにゅう)する。",
+        choice1: "四捨五入",
+        choice2: "囚拾五入",
+        choice3: "四社五入",
+        answer: 1,
+        },
+        
+        {
+        question: "A109: 落ち葉を集めて(もす)。",
+        choice1: "熱す",
+        choice2: "熟す",
+        choice3: "燃す",
+        answer: 3,
+        },
+        
+        {
+        question: "A110: ことしがストーブの(ねんりょう)ひがたかい。",
+        choice1: "熱料",
+        choice2: "燃料",
+        choice3: "熟料",
+        answer: 2,
+        },
+        
+        {
+        question: "A111: 寒い日は(てぶくろ)をはめてでかける。",
+        choice1: "手装",
+        choice2: "手表",
+        choice3: "手袋",
+        answer: 3,
+        },
+        
+        {
+        question: "A112: かれにライバル心を(もやす)。",
+        choice1: "燃す",
+        choice2: "熱す",
+        choice3: "燃やす",
+        answer: 3,
+        },
+        
+        {
+        question: "A113:  かったしょうしんを(ふくろ)にいれてもらう。",
+        choice1: "装",
+        choice2: "表",
+        choice3: "袋",
+        answer: 3,
+        },
+        
+        {
+        question: "A114: 古帽子を(なげすてる)。",
+        choice1: "扞げ捨てる",
+        choice2: "打げ拾てる",
+        choice3: "投げ捨てる",
+        answer: 3,
+        },
+        
+        {
+        question: "A115:  (ふうたい)込みで5キロある。",
+        choice1: "風大",
+        choice2: "風袋",
+        choice3: "風対",
+        answer: 2,
+        },
+        
+        {
+        question: "A116: (ねぶくろ)でしばらく寝ていました。",
+        choice1: "根袋",
+        choice2: "寝袋",
+        choice3: "値装",
+        answer: 2,
+        },
+        
+        {
+        question: "A117: (ふねんせい)ごみの回収は毎週火曜日です。",
+        choice1: "不燃性",
+        choice2: "不熱生",
+        choice3: "不燃姓",
+        answer: 1,
+        },
+        
+        {
+        question: "A118: これは(かねん)ものではありません。",
+        choice1: "化燃",
+        choice2: "可燃",
+        choice3: "可撚",
+        answer: 2,
+        },
+        
+        {
+        question: "A119: しょうこを(しゅしゃせんたく)する。",
+        choice1: "取拾選択",
+        choice2: "取捨選択",
+        choice3: "取捨洗濯",
+        answer: 2,
+        },
+        
+        {
+        question: "A120: 雨にぬれて(かみぶくろ)がやぶれそうだ。",
+        choice1: "紙袋",
+        choice2: "組表",
+        choice3: "給袋",
+        answer: 1,
+        },
+        
+        {
+        question: "A121: あなたはなぜそれを(みすて)るのですか。",
+        choice1: "貝捨てる",
+        choice2: "具拾てる",
+        choice3: "見捨てる",
+        answer: 3,
+        },
+        
+        {
+        question: "A122:  いらなくなった書類を(すてる)。",
+        choice1: "捨てる",
+        choice2: "拾てる",
+        choice3: "拮てる",
+        answer: 1,
+        },
+        
+        {
+        question: "A123: じでとなりのアパートが(もえた)。",
+        choice1: "撚えた",
+        choice2: "燃えた",
+        choice3: "然えた",
+        answer: 2,
+        },
+        
+        {
+        question: "A124: (しゅうとくぶつ)を交番にとどけた。",
+        choice1: "捨得物",
+        choice2: "拾得物",
+        choice3: "拾律物",
+        answer: 2,
+        },
+        
+        {
+        question: "A125: (たび)はやはり白を用いる。",
+        choice1: "度",
+        choice2: "足袋",
+        choice3: "旅",
+        answer: 2,
+        },
 
 ]
