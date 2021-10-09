@@ -15,6 +15,9 @@ Các bạn truy cập tại đây [JLPT Quiz](https://sangcamap.github.io/JLPT-q
 ID |Số     |Nội dung        |Phạm vi   |Cập nhập
 ---|-------|----------------|----------|--------
 A  |1-215  |Kanji Master N3 |Chương 1  |9/10/2021
+---|-------|----------------|----------|--------
+A  |216-?  |Kanji Master N3 |Chương 1  |9/10/2021
+
 
 ## :cherry_blossom:	 Báo lỗi
 :raccoon:  Nếu bạn gặp phải đáp án sai hay lỗi nào đó thì có thể phản hồi [tại đây](https://forms.gle/PJ5ib4EdRPYoewSE7) hoặc qua [Facebook](https://www.facebook.com/sangnguyen0709/) mình ! 

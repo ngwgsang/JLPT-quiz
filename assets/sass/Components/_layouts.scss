@@ -1,4 +1,3 @@
-
 .wrapper{
     position: relative;
     width: 100%;
@@ -11,18 +10,10 @@
     background: linear-gradient(to right,#0f0c29,#302b63,#24243e);
 }
 .returnBtn{
-    cursor: pointer;
-    width: 6rem;
-    height: 6rem;
-    position: absolute; 
+    @include btn; 
+    background-color: $cl-f;
     top: 2rem;
     left: 2rem;
-    border-radius: 0.4rem;
-    background-color: $cl-f;
-    font-size: 2rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     @include respond (tab-land){
         width: 4rem;
         height: 4rem;
@@ -34,33 +25,23 @@
     }
 }
 .reportBtn{
-    cursor: pointer;
-    position: absolute;
+    @include btn;
+    width: auto;
     bottom: 2rem;
     left: 2rem;
-    height: 6rem;
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    border-radius: 0.4rem;
-    font-size: 2rem;
     color: $cl-f;
     background-color: $cl-0;
+    justify-content: start;
     opacity: 0.3;
     transition: 0.3s linear;
     overflow: hidden;
     @include respond (tab-land){
-        width: 4rem;
-        height: 4rem;
         i{
             height: 4rem;
             width: 4rem;
         }
     }
     @include respond (tab){
-        width: 3rem;
-        height: 3rem;
-        font-size: 1.4rem;
         i{
             height: 3rem;
             width: 3rem;
@@ -91,62 +72,73 @@
             margin-left: 1rem;
             visibility: visible;
         }
+        @include respond(phone){
+            width: 3rem;
+            p{
+                display: none;
+            }
+        }
     }
 }
 
 .scoreBtn{
-    width: 6rem;
-    height: 6rem;
-    position: absolute; 
+    @include btn;
     top: 2rem;
     right: 2rem;
-    border-radius: 0.4rem;
     background-color: $cl-y;
-    font-size: 2.1rem;
     font-weight: 700;
     font-family: 'Quicksand',sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    @include respond (tab-land){
-        width: 4rem;
-        height: 4rem;
-    }
-    @include respond (tab){
-        width: 3rem;
-        height: 3rem;
-        font-size: 1.4rem;
-    }
 }
 
 .docBtn{
-    position: absolute;
+    @include btn;
     color: $cl-f;
     background-color: $cl-0;
     opacity: 0.3;
-    border-radius: 0.4rem;
     bottom: 10rem;
     left: 2rem;
-    width: 6rem;
-    height: 6rem;
     font-size: 3rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
     @include respond(tab-land){
-        width: 4rem;
-        height: 4rem;
         bottom: 8rem;
     }
     @include respond(tab){
-        width: 3rem;
-        height: 3rem;
         left: 6rem;
         bottom: 2rem;
-        font-size: 1.4rem;
     }
 }
 
 #frame{
     cursor: pointer;
+}
+
+.preQuestionBtn{
+    @include btn;
+    bottom: 2rem;
+    right: 2rem;
+    color: $cl-f;
+    background-color: $cl-0;
+    opacity: 0.3;
+    font-size: 1rem;
+    line-height: 1.1rem;
+    transition: 0.1s linear;
+    padding: 0.2rem;
+    overflow: hidden;
+    &:hover{
+    width: auto;
+    padding: 0 2rem;
+    }
+    @include respond(tab-land){
+        font-size: 0.7rem;
+    }
+    @include respond(tab){
+        font-size: 0.5rem;
+        width: 50vw;
+    }
+    @include respond(phone)
+    {
+        width: 40vw;
+        padding: 0 0.5rem;
+        font-size: 0.36rem;
+    }
 }

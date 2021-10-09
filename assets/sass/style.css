@@ -55,6 +55,7 @@ body {
   width: 100vw;
   height: 100vh;
   font-size: 62.5%;
+  overflow: hidden;
 }
 
 @media (max-width: 1200px) {
@@ -108,10 +109,7 @@ body {
   width: 6rem;
   height: 6rem;
   position: absolute;
-  top: 2rem;
-  left: 2rem;
   border-radius: 0.4rem;
-  background-color: #fff;
   font-size: 2rem;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -122,6 +120,24 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  background-color: #fff;
+  top: 2rem;
+  left: 2rem;
+}
+
+@media (max-width: 1200px) {
+  .returnBtn {
+    width: 4rem;
+    height: 4rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .returnBtn {
+    width: 3rem;
+    height: 3rem;
+    font-size: 1.4rem;
+  }
 }
 
 @media (max-width: 1200px) {
@@ -141,23 +157,28 @@ body {
 
 .reportBtn {
   cursor: pointer;
-  position: absolute;
-  bottom: 2rem;
-  left: 2rem;
+  width: 6rem;
   height: 6rem;
+  position: absolute;
+  border-radius: 0.4rem;
+  font-size: 2rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: auto;
+  bottom: 2rem;
+  left: 2rem;
+  color: #fff;
+  background-color: #000;
   -webkit-box-pack: start;
       -ms-flex-pack: start;
           justify-content: start;
-  border-radius: 0.4rem;
-  font-size: 2rem;
-  color: #fff;
-  background-color: #000;
   opacity: 0.3;
   -webkit-transition: 0.3s linear;
   transition: 0.3s linear;
@@ -169,10 +190,6 @@ body {
     width: 4rem;
     height: 4rem;
   }
-  .reportBtn i {
-    height: 4rem;
-    width: 4rem;
-  }
 }
 
 @media (max-width: 900px) {
@@ -181,6 +198,16 @@ body {
     height: 3rem;
     font-size: 1.4rem;
   }
+}
+
+@media (max-width: 1200px) {
+  .reportBtn i {
+    height: 4rem;
+    width: 4rem;
+  }
+}
+
+@media (max-width: 900px) {
   .reportBtn i {
     height: 3rem;
     width: 3rem;
@@ -223,17 +250,22 @@ body {
   visibility: visible;
 }
 
+@media (max-width: 600px) {
+  .reportBtn:hover {
+    width: 3rem;
+  }
+  .reportBtn:hover p {
+    display: none;
+  }
+}
+
 .scoreBtn {
+  cursor: pointer;
   width: 6rem;
   height: 6rem;
   position: absolute;
-  top: 2rem;
-  right: 2rem;
   border-radius: 0.4rem;
-  background-color: #FDC830;
-  font-size: 2.1rem;
-  font-weight: 700;
-  font-family: 'Quicksand',sans-serif;
+  font-size: 2rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -243,6 +275,11 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  top: 2rem;
+  right: 2rem;
+  background-color: #FDC830;
+  font-weight: 700;
+  font-family: 'Quicksand',sans-serif;
 }
 
 @media (max-width: 1200px) {
@@ -261,16 +298,12 @@ body {
 }
 
 .docBtn {
-  position: absolute;
-  color: #fff;
-  background-color: #000;
-  opacity: 0.3;
-  border-radius: 0.4rem;
-  bottom: 10rem;
-  left: 2rem;
+  cursor: pointer;
   width: 6rem;
   height: 6rem;
-  font-size: 3rem;
+  position: absolute;
+  border-radius: 0.4rem;
+  font-size: 2rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -280,13 +313,18 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  color: #fff;
+  background-color: #000;
+  opacity: 0.3;
+  bottom: 10rem;
+  left: 2rem;
+  font-size: 3rem;
 }
 
 @media (max-width: 1200px) {
   .docBtn {
     width: 4rem;
     height: 4rem;
-    bottom: 8rem;
   }
 }
 
@@ -294,14 +332,95 @@ body {
   .docBtn {
     width: 3rem;
     height: 3rem;
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 1200px) {
+  .docBtn {
+    bottom: 8rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .docBtn {
     left: 6rem;
     bottom: 2rem;
-    font-size: 1.4rem;
   }
 }
 
 #frame {
   cursor: pointer;
+}
+
+.preQuestionBtn {
+  cursor: pointer;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  border-radius: 0.4rem;
+  font-size: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  bottom: 2rem;
+  right: 2rem;
+  color: #fff;
+  background-color: #000;
+  opacity: 0.3;
+  font-size: 1rem;
+  line-height: 1.1rem;
+  -webkit-transition: 0.1s linear;
+  transition: 0.1s linear;
+  padding: 0.2rem;
+  overflow: hidden;
+}
+
+@media (max-width: 1200px) {
+  .preQuestionBtn {
+    width: 4rem;
+    height: 4rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .preQuestionBtn {
+    width: 3rem;
+    height: 3rem;
+    font-size: 1.4rem;
+  }
+}
+
+.preQuestionBtn:hover {
+  width: auto;
+  padding: 0 2rem;
+}
+
+@media (max-width: 1200px) {
+  .preQuestionBtn {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .preQuestionBtn {
+    font-size: 0.5rem;
+    width: 50vw;
+  }
+}
+
+@media (max-width: 600px) {
+  .preQuestionBtn {
+    width: 40vw;
+    padding: 0 0.5rem;
+    font-size: 0.36rem;
+  }
 }
 
 .main {

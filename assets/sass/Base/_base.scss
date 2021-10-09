@@ -48,6 +48,7 @@ body{
 	width: 100vw;
 	height: 100vh;
 	font-size: 62.5%;
+	overflow: hidden;
 	@include respond(tab-land){
 		font-size: 50%;
 	}

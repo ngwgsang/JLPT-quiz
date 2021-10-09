@@ -13,15 +13,10 @@ document.getElementById('end').style.display = "none";
 document.getElementById('highScores').style.display = "none";
 document.getElementById('returnBtn').style.display = "none";
 document.getElementById('score').style.display = "none";
+document.getElementById('preQuestionBtn').style.display = "none";
 // quay về
 returnBtn.addEventListener('click', ()=>{
     resetGame();
-    document.getElementById('main').style.display = "flex";
-    document.getElementById('start').style.display = "none";
-    document.getElementById('highScores').style.display = "none";
-    document.getElementById('returnBtn').style.display = "none";
-    document.getElementById('score').style.display = "none";
-    document.getElementById('end').style.display = "none";
 });
 // bắt đầu
 startBtn.addEventListener('click', ()=>{
@@ -29,6 +24,7 @@ startBtn.addEventListener('click', ()=>{
     document.getElementById('start').style.display = "flex";
     document.getElementById('returnBtn').style.display = "flex";
     document.getElementById('score').style.display = "flex";
+    document.getElementById('preQuestionBtn').style.display = "flex";
 });
 // leaderboard
 leaderboardBtn.addEventListener('click', ()=>{
@@ -49,6 +45,7 @@ function resetGame(){
     document.getElementById('highScores').style.display = "none";
     document.getElementById('returnBtn').style.display = "none";
     document.getElementById('score').style.display = "none";
+    document.getElementById('preQuestionBtn').style.display = "none";
     document.getElementById("number-box").value = questions.length;
 }
 //start
@@ -82,23 +79,29 @@ endGame = () =>{
     document.getElementById('returnBtn').style.display = "none";
     document.getElementById('score').style.display="none";
 }
+const preQuestionBtn = document.getElementById("preQuestionBtn");
+let   preQuestion =[' ', '  ',];
 getNewQuestion = () => {
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
-        localStorage.setItem('mostRecentScore', score)
+        localStorage.setItem('mostRecentScore', score);
         endGame();
     }
-    questionCounter++
-    // progressBarFull.style.width = `${(questionCounter/MAX_QUESTIONS) * 100}%`
+    questionCounter++;
     const questionsIndex = Math.floor(Math.random() * availableQuestions.length);
     currentQuestion = availableQuestions[questionsIndex];
     question.innerText = currentQuestion.question;
 
     choices.forEach(choice => {
-        const number = choice.dataset['number']
-        choice.innerText = currentQuestion['choice' + number]
+        const number = choice.dataset['number'];
+        choice.innerText = currentQuestion['choice' + number];
     })
-    availableQuestions.splice(questionsIndex, 1)
-    acceptingAnswers = true
+    
+    // Lưu lại giá trị trước khi cắt
+    preQuestion.push(currentQuestion.question);
+    preQuestionBtn.innerText = preQuestion[preQuestion.length-2];
+    //-------
+    availableQuestions.splice(questionsIndex, 1);
+    acceptingAnswers = true;
 }
 
 choices.forEach(choice => {
@@ -189,3 +192,4 @@ function changeColor(){
     ];
     document.getElementById('wrapper').style= bg[getRandomInt(bg.length)];
 }
+
