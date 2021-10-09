@@ -1714,4 +1714,435 @@ let questions = [
         choice3: "情儀",
         answer: 2,
         },
+        {
+        question: "A216: 恩知らずな態度を(取る)",
+        choice1: "しゅる",
+        choice2: "とる",
+        choice3: "きる",
+        answer: 2,
+        },
+        
+        {
+        question: "A217: 人の手を(引く)。",
+        choice1: "とく",
+        choice2: "ひく",
+        choice3: "きく",
+        answer: 2,
+        },
+        
+        {
+        question: "A218: 私の仕事は印鑑を(押す)ことです。",
+        choice1: "おす",
+        choice2: "おうす",
+        choice3: "おさえす",
+        answer: 1,
+        },
+        
+        {
+        question: "A219: 事実から結論を(引き出す)。",
+        choice1: "ときだす",
+        choice2: "あきです",
+        choice3: "ひきだす",
+        answer: 3,
+        },
+        
+        {
+        question: "A220: (押し入れ)の中のものを全部取り出した。",
+        choice1: "おしはいれ",
+        choice2: "おしいれ",
+        choice3: "おさえしいれ",
+        answer: 2,
+        },
+        
+        {
+        question: "A221: いくらかの(割り引き)をする",
+        choice1: "わりひき",
+        choice2: "わりびき",
+        choice3: "わりあき",
+        answer: 2,
+        },
+        
+        {
+        question: "A222: いろいろな手紙を(受け取る)。",
+        choice1: "うけとる",
+        choice2: "うけひる",
+        choice3: "じゅけとる",
+        answer: 1,
+        },
+        
+        {
+        question: "A223: あなたの英語は(聞き取り)やすい。",
+        choice1: "かきとり",
+        choice2: "ききとり",
+        choice3: "ききしゅり",
+        answer: 2,
+        },
+        
+        {
+        question: "A224: いすを前に(押し出す)。",
+        choice1: "おしたす",
+        choice2: "おさえしだす",
+        choice3: "おしだす",
+        answer: 3,
+        },
+        
+        {
+        question: "A225: 彼はその事件の(取材)をしています。",
+        choice1: "しゅうざい",
+        choice2: "とざい",
+        choice3: "しゅざい",
+        answer: 3,
+        },
+        
+        {
+        question: "A226: 彼はその客に(強引)に買わせた。",
+        choice1: "きょういん",
+        choice2: "ごういん",
+        choice3: "ぎょういん",
+        answer: 2,
+        },
+        
+        {
+        question: "A227: 人の不安を(消す)。",
+        choice1: "きえす",
+        choice2: "とす",
+        choice3: "けす",
+        answer: 3,
+        },
+        
+        {
+        question: "A228: ここは狭いので(消防車)が入れない。",
+        choice1: "しょうぼうしゃ",
+        choice2: "きぼうしゃ",
+        choice3: "しょうぼしゃ",
+        answer: 1,
+        },
+        
+        {
+        question: "A229: あなたの(消しゴム)を私に貸してくれますか。",
+        choice1: "としゴム",
+        choice2: "けしゴム",
+        choice3: "きえしゴム",
+        answer: 2,
+        },
+        
+        {
+        question: "A230: 木造部分へ(引火)することもある。",
+        choice1: "きょうか",
+        choice2: "ひか",
+        choice3: "いんか",
+        answer: 3,
+        },
+        
+        {
+        question: "A231: ここに(押印する)。",
+        choice1: "おういん",
+        choice2: "おすいん",
+        choice3: "おいん",
+        answer: 1,
+        },
+        
+        {
+        question: "A232: 動けないようにしっかり(押さえる)。",
+        choice1: "おうさえる",
+        choice2: "きさえる",
+        choice3: "おさえる",
+        answer: 3,
+        },
+        
+        {
+        question: "A233: これはあの本から(引用)しました。",
+        choice1: "いんし",
+        choice2: "いんよう",
+        choice3: "ひくよう",
+        answer: 2,
+        },
+        
+        {
+        question: "A234: 犯罪に関係する物は，(押収)することができる。",
+        choice1: "おういん",
+        choice2: "おしゅう",
+        choice3: "おうしゅう",
+        answer: 3,
+        },
+        
+        {
+        question: "A235: (消化)のよい食べ物。",
+        choice1: "しょうか",
+        choice2: "きえか",
+        choice3: "しょか",
+        answer: 1,
+        },
+        
+        {
+        question: "A236: 箱からりんごを(取り出す)。",
+        choice1: "しゅりだす",
+        choice2: "とりだす",
+        choice3: "とりです",
+        answer: 2,
+        },
+        
+        {
+        question: "A237: 学校は何時に(引ける)か。",
+        choice1: "ひける",
+        choice2: "あける",
+        choice3: "いける",
+        answer: 1,
+        },
+        
+        {
+        question: "A238: 私は大阪へ(引っ越し)た。",
+        choice1: "ひっこうし",
+        choice2: "ひっこし",
+        choice3: "いんっこし",
+        answer: 2,
+        },
+        
+        {
+        question: "A239: (取り替える)ことが不可能である。",
+        choice1: "ひりかえる",
+        choice2: "とりがえる",
+        choice3: "とりかえる",
+        answer: 3,
+        },
+        
+        {
+        question: "A240: 言ったことを(取り消す)。",
+        choice1: "ひりけす",
+        choice2: "とりきえす",
+        choice3: "とりけす",
+        answer: 3,
+        },
+        
+        {
+        question: "A241: この薬で痛みが(消える)だろう。",
+        choice1: "とえる",
+        choice2: "しえる",
+        choice3: "きえる",
+        answer: 3,
+        },
+        
+        {
+        question: "A242: この行が(消去)される。",
+        choice1: "しょうきょう",
+        choice2: "ききょ",
+        choice3: "しょうきょ",
+        answer: 3,
+        },
+        {
+        question: "A243: ボタンを(おして)、係の人をよぶ。",
+        choice1: "押して",
+        choice2: "甲して",
+        choice3: "抻して",
+        answer: 1,
+        },
+        
+        {
+        question: "A244: きずぐちをハンカチで(おさえた)。",
+        choice1: "抻えた",
+        choice2: "押さえた",
+        choice3: "早さえた",
+        answer: 2,
+        },
+        
+        {
+        question: "A245: たばこの火を(けす)。",
+        choice1: "消す",
+        choice2: "硝す",
+        choice3: "哨す",
+        answer: 1,
+        },
+        
+        {
+        question: "A246: 投げたボールを(とる)。",
+        choice1: "収る",
+        choice2: "聴る",
+        choice3: "取る",
+        answer: 3,
+        },
+        
+        {
+        question: "A247: 火がガソリンに(いんか)した。",
+        choice1: "印火",
+        choice2: "引火",
+        choice3: "引化",
+        answer: 2,
+        },
+        
+        {
+        question: "A248: (しょうぼうしゃ)が十台出動した。",
+        choice1: "消坊車",
+        choice2: "肖防車",
+        choice3: "消防車",
+        answer: 3,
+        },
+        
+        {
+        question: "A249: 天ぷらは(しょうか)に悪い。",
+        choice1: "肖火",
+        choice2: "消化",
+        choice3: "消火",
+        answer: 2,
+        },
+        
+        {
+        question: "A250: ゆうめいな小説から(いんよう)する。",
+        choice1: "印用",
+        choice2: "印冊",
+        choice3: "引用",
+        answer: 3,
+        },
+        
+        {
+        question: "A251: 忘年会の予約を(とりけす)。",
+        choice1: "取り肖す",
+        choice2: "耶り消す",
+        choice3: "取り消す",
+        answer: 3,
+        },
+        
+        {
+        question: "A252: 彼は(おしいれ)の中で寝ていました。",
+        choice1: "扞し入れ",
+        choice2: "押し入れ",
+        choice3: "抽し入れ",
+        answer: 2,
+        },
+        
+        {
+        question: "A253: あなたの英語は(ききとり)やすい。",
+        choice1: "間き取り",
+        choice2: "聞き取り",
+        choice3: "聞き耶り",
+        answer: 2,
+        },
+        
+        {
+        question: "A254: いくらかの(わりびき)をする。",
+        choice1: "割り引き",
+        choice2: "害り引き",
+        choice3: "剖り引き",
+        answer: 1,
+        },
+        
+        {
+        question: "A255: この行が(しょうきょ)される。",
+        choice1: "肖去",
+        choice2: "消去",
+        choice3: "硝共",
+        answer: 2,
+        },
+        
+        {
+        question: "A256: (とりかえる)ことが不可能である。",
+        choice1: "取り返る",
+        choice2: "取り替える",
+        choice3: "取り代える",
+        answer: 2,
+        },
+        
+        {
+        question: "A257: 私は大阪へ(ひっこし)た。",
+        choice1: "引っ越し",
+        choice2: "引っ赴し",
+        choice3: "強っ起し",
+        answer: 1,
+        },
+        
+        {
+        question: "A258: プロジェクトを(ごういん)に進める。",
+        choice1: "張引",
+        choice2: "弥印",
+        choice3: "強引",
+        answer: 3,
+        },
+        
+        {
+        question: "A259: この書類にはサインと(おういん)が必要だ。",
+        choice1: "押印",
+        choice2: "抽邱",
+        choice3: "抻印",
+        answer: 1,
+        },
+        
+        {
+        question: "A260: ろうろくの火が(きえる)。",
+        choice1: "硝える",
+        choice2: "消える",
+        choice3: "肖える",
+        answer: 2,
+        },
+        
+        {
+        question: "A261: 新聞の(しゅざい)をうける。",
+        choice1: "聊材",
+        choice2: "取材",
+        choice3: "取村",
+        answer: 2,
+        },
+        
+        {
+        question: "A262: (けしゴム)をゆかにおとした。",
+        choice1: "硝しゴム",
+        choice2: "肖しゴム",
+        choice3: "消しゴム",
+        answer: 3,
+        },
+        
+        {
+        question: "A263:  高いところはこしが(ひける)。",
+        choice1: "消ける",
+        choice2: "押ける",
+        choice3: "引ける",
+        answer: 3,
+        },
+        
+        {
+        question: "A264: 銀行でお金を(ひきだす)。",
+        choice1: "引き出す",
+        choice2: "消き出す",
+        choice3: "取きだす",
+        answer: 1,
+        },
+        
+        {
+        question: "A265: 電車で背中を(おさえた)。",
+        choice1: "抻さえた",
+        choice2: "押さえた",
+        choice3: "弾さえた",
+        answer: 2,
+        },
+        
+        {
+        question: "A266: どこで荷物を(うけとる)のですか。",
+        choice1: "授け取る",
+        choice2: "受け取る",
+        choice3: "授け耶る",
+        answer: 2,
+        },
+        
+        {
+        question: "A267: うまのたづなを(ひく)。",
+        choice1: "引く",
+        choice2: "弾く",
+        choice3: "取く",
+        answer: 1,
+        },
+        
+        {
+        question: "A268: いすをまえに(おしだす)。",
+        choice1: "抻し出す",
+        choice2: "押し出す",
+        choice3: "推し出す",
+        answer: 2,
+        },
+        
+        {
+        question: "A269: せいふはみつゆひんを(おうしゅう)する。",
+        choice1: "押収",
+        choice2: "押吸",
+        choice3: "抻取",
+        answer: 1,
+        },
+        
 ]
