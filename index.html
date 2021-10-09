@@ -5,18 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
-<!--     
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="jquery-3.5.1.min.js"></script> -->
+    <link rel="icon" type="image/png" href="./assets/images/raccoon.png"/>
     <link rel="stylesheet" href="./assets/sass/style.css">
-    <title>Quiz Game</title>
+    <title>JLPT Quiz</title>
 </head>
 <body>
-    <div class="wrapper">
+    <div class="wrapper" id="wrapper">
+<!-------------------------------------------BUTTON------------------------------------------->
         <div class="returnBtn" id="returnBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-undo-alt"></i></div>
         <!-- <div id="progressBar"><div id="progressBarFull"></div></div> -->
-        <div class="score" id="score" onclick="click()">0</div>
+        <a href="https://www.facebook.com/sangnguyen0709/" target="_blank"><div class="reportBtn"><i class="fas fa-exclamation"></i><p>Báo lỗi</p></div></a>
+        <a href="https://github.com/sangcamap/JLPT-quiz" target="_blank"><div class="docBtn"><i class="fab fa-github-alt"></i></div></a>
+        <div class="scoreBtn" id="score">0</div>
+<!---------------------------------------------MAIN------------------------------------------->
         <div class="main" id="main">
+            <img src="./assets/images/Frame-1.png" alt="" id="frame" onclick="choosePic(); playAudio('./assets/audio/pop.wav'); changeColor();">
             <div class="container-number">
                 <input type="number" placeholder="Số lượng" id="number-box" class="container-number__box">
                 <button type="button" onclick="getInputValue(); playAudio('./assets/audio/pop.wav');" class="container-number__btn">OK</button>
@@ -24,7 +27,7 @@
             <button class="btn startBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-play"></i></button>
             <button class="btn leaderboardBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-university"></i></button>
         </div>
-<!-------------------------------------------START------------------------------------------->
+<!--------------------------------------------START------------------------------------------->
         <div class="start" id="start">
             <div class="content-box">
                 <div class="content-box__quiz">
@@ -46,7 +49,7 @@
 <!---------------------------------------------END-------------------------------------------->
         <div class="end" id ="end">
             <h1 id="finalScore">0</h1>
-            <img src="./assets/images/gif-1.gif" alt="">
+            <img src="./assets/images/gif-1.gif" alt="" id="gif">
             <form class="end-form-container" onclick="playAudio('./assets/audio/pop.wav');">
                 <h2 id="end-text">comment</h2>
                 <input type="text" name="name" id="username" placeholder="Tui tên là">
@@ -59,7 +62,7 @@
                 <ul class="highScoresList"></ul>
         </div>
 </div>
-<!--------------------------------------------SCRIPT------------------------------------------>
+<!----------------------------------------------SCRIPT------------------------------------------>
     <script src="./database.js"></script>
     <script src="./app.js"></script>
 </body>

@@ -34,10 +34,10 @@
     img{
         border-radius: 2rem;
         z-index: 0;
-        width: 40%;
-        height: 40%;
+        width: 56%;
+        height: 42%;
         object-fit: cover;
-        object-position: top;
+        object-position: center;
         @include respond(phone)
         {
             width: 18rem;

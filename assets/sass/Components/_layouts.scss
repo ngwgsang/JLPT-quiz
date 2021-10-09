@@ -11,6 +11,7 @@
     background: linear-gradient(to right,#0f0c29,#302b63,#24243e);
 }
 .returnBtn{
+    cursor: pointer;
     width: 6rem;
     height: 6rem;
     position: absolute; 
@@ -32,15 +33,78 @@
         font-size: 1.4rem;
     }
 }
-.score{
+.reportBtn{
+    cursor: pointer;
+    position: absolute;
+    bottom: 2rem;
+    left: 2rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    border-radius: 0.4rem;
+    font-size: 2rem;
+    color: $cl-f;
+    background-color: $cl-0;
+    opacity: 0.3;
+    transition: 0.3s linear;
+    overflow: hidden;
+    @include respond (tab-land){
+        width: 4rem;
+        height: 4rem;
+        i{
+            height: 4rem;
+            width: 4rem;
+        }
+    }
+    @include respond (tab){
+        width: 3rem;
+        height: 3rem;
+        font-size: 1.4rem;
+        i{
+            height: 3rem;
+            width: 3rem;
+        }
+    }
+    p{
+        font-size: 1.6rem;
+        width: 0;
+        overflow: hidden;
+        display: block;
+        transition: 0.2s ease-in;
+        visibility: hidden;
+    }
+    i{
+        width: 6rem;
+        height: 6rem;
+        background-color: $cl-0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 1rem;
+        
+    }
+    &:hover{
+        width: 16rem;
+        p{
+            width: 9rem;
+            margin-left: 1rem;
+            visibility: visible;
+        }
+    }
+}
+
+.scoreBtn{
     width: 6rem;
     height: 6rem;
     position: absolute; 
     top: 2rem;
     right: 2rem;
     border-radius: 0.4rem;
-    background-color: $cl-f;
-    font-size: 2rem;
+    background-color: $cl-y;
+    font-size: 2.1rem;
+    font-weight: 700;
+    font-family: 'Quicksand',sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -54,22 +118,35 @@
         font-size: 1.4rem;
     }
 }
-// #progressBar {
-//     position: absolute;
-//     top: 2rem;
-//     left: 50%;
-//     transform: translate(-50%,-50%);
-//     width: 20rem;
-//     height: 3rem;
-//     border: 0.2rem solid $cl-g;
-//     margin-top: 2rem;
-//     border-radius: 50px;
-//     overflow: hidden;
-// }
 
-// #progressBarFull {
-//     width: 0rem;
-//     height: 100%;
-//     background: $cl-y;
-//     transition: 0.5s linear;
-// }
+.docBtn{
+    position: absolute;
+    color: $cl-f;
+    background-color: $cl-0;
+    opacity: 0.3;
+    border-radius: 0.4rem;
+    bottom: 10rem;
+    left: 2rem;
+    width: 6rem;
+    height: 6rem;
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    @include respond(tab-land){
+        width: 4rem;
+        height: 4rem;
+        bottom: 8rem;
+    }
+    @include respond(tab){
+        width: 3rem;
+        height: 3rem;
+        left: 6rem;
+        bottom: 2rem;
+        font-size: 1.4rem;
+    }
+}
+
+#frame{
+    cursor: pointer;
+}
