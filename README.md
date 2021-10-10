@@ -12,11 +12,11 @@
 Các bạn truy cập tại đây [JLPT Quiz](https://sangcamap.github.io/JLPT-quiz/)
 
 ## :cherry_blossom:	 Thông tin về các bộ câu hỏi
-ID |Số     |Cấp độ  |ội dung         |Phạm vi   |Cập nhập  |Authors
----|-------|--------|----------------|----------|----------|--------
-A  |1-215  |N3      |Kanji Master N3 |Chương 1  |9/10/2021 |[sangcamap](https://github.com/sangcamap)
-A  |216-?  |N3      |Kanji Master N3 |Chương 2  |9/10/2021 |[sangcamap](https://github.com/sangcamap)
-
+ID |Số      |Cấp độ  |Nội dung         |Phạm vi   |Cập nhập  |Authors
+---|--------|--------|----------------|----------|-----------|--------
+A  |001-215 |N3      |Kanji Master N3 |Chương 1  |9/10/2021  |[sangcamap](https://github.com/sangcamap)
+A  |216-440 |N3      |Kanji Master N3 |Chương 2  |10/10/2021 |[sangcamap](https://github.com/sangcamap)
+A  |441-?   |N3      |Kanji Master N3 |Chương 3  |10/10/2021 |[sangcamap](https://github.com/sangcamap)
 
 ## :cherry_blossom:	 Báo lỗi
 :raccoon:  Nếu bạn gặp phải đáp án sai hay lỗi nào đó thì có thể phản hồi [tại đây](https://forms.gle/PJ5ib4EdRPYoewSE7) hoặc qua [Facebook](https://www.facebook.com/sangnguyen0709/) mình ! 
