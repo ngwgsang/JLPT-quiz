@@ -28,7 +28,7 @@
                 line-height: 2.6rem;
             }
             @include respond(tab){
-                margin-top: 2.6rem;
+                margin-top: 4rem;
                 font-size: 1.8rem;
             }
         }
@@ -40,6 +40,7 @@
             font-size: 3rem;
             @include respond(tab){
                 flex-direction: column;
+                margin-bottom: 5vh;
             }
             .choice-container {
                 background-color: #fff;
@@ -51,6 +52,7 @@
                 &:hover{
                     transform: translateY(-1rem);
                     background-color: $cl-y;
+
                     @include respond(tab){
                         transform: translateY(-0.2rem);
                     }
@@ -65,8 +67,13 @@
                     height: 5rem;
                     margin-bottom: 1rem;
                     font-size: 1.6rem;
+                    &:hover{
+                        background-color: $cl-f;
+                    }
+                    &:active{
+                        background-color: $cl-y;
+                    }
                 }
-
             }
         }
     }
