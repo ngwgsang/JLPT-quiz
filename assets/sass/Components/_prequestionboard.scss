@@ -1,0 +1,70 @@
+.preQuestionBoard{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+    h3{
+        font-family: 'Quicksand', sans-serif;
+        font-size: 3rem;
+        line-height: 3.1;
+        margin-bottom: 0.5rem;
+        color: $cl-f;
+        text-transform: uppercase;
+    }
+    &__list{
+        width: 60vw;
+        display: flex;
+        flex-direction: column; 
+        align-items: center;
+        justify-content: flex-start;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        height: 37rem;
+        // background-color: $cl-f;
+        // height: 70vh;
+            li{
+                font-family: 'Noto Sans JP', sans-serif;
+                font-weight: 500;
+                display: flex;
+                justify-content: flex-start;
+                position: relative;
+                height: auto;
+                border-radius: 0.4rem;
+                width: 100%;
+                font-size: 2rem;
+                text-align: center;
+                padding: 2rem;
+                margin-bottom: 1rem;
+                background-color: rgba(0, 0, 0, 0.3);
+                align-items: center;
+                line-height: 2.1rem;
+            }
+            .list__left{
+                text-align: left;
+                width: 70%;
+                color: $cl-f;
+                border-radius: 0.4rem;
+            }
+            .list__right{
+                padding: 1rem;
+                border-radius: 0.4rem;
+                background-color: $cl-y;
+                margin-left: 1rem;
+                width: 30%;
+                height: 14rem;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+    }
+}
+#preQuestionBoard__list::-webkit-scrollbar {
+    width: 0.6rem;
+    height: auto;
+    max-height: 14rem;
+    background-color: #0000001a;
+} 
+#preQuestionBoard__list::-webkit-scrollbar-thumb {
+    background-color: $cl-y;
+}

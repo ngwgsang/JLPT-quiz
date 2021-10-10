@@ -25,7 +25,7 @@
                 <button type="button" onclick="getInputValue(); playAudio('./assets/audio/pop.wav');" class="container-number__btn">OK</button>
             </div>
             <button class="btn startBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-play"></i></button>
-            <button class="btn leaderboardBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-university"></i></button>
+            <button class="btn preQuestionBoardBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-university"></i></button>
         </div>
 <!--------------------------------------------START------------------------------------------->
         <div class="start" id="start">
@@ -53,13 +53,17 @@
             <form class="end-form-container" onclick="playAudio('./assets/audio/pop.wav');">
                 <h2 id="end-text">comment</h2>
                 <input type="text" name="name" id="username" placeholder="Tui tên là">
-                <button class="btn" onclick="saveHighScore(event); " id="saveScoreBtn" type="submit"  disabled>Lưu</button>
+                <!-- <button class="btn" onclick="saveHighScore(event); " id="saveScoreBtn" type="submit"  disabled>Lưu</button> -->
+                <button class="btn" id="saveScoreBtn" onclick="resetGame()" type="submit">Lưu</button>
             </form>
         </div>
 
 <!---------------------------------------------LIB-------------------------------------------->
-        <div class="highScores" id="highScores">
-                <ul class="highScoresList"></ul>
+        <div class="preQuestionBoard" id="preQuestionBoard">
+                <h3>Danh sách câu hỏi trước đó</h3>
+                <ul class="preQuestionBoard__list" id="preQuestionBoard__list">
+                    <!-- ----chèn list----- -->
+                </ul>
         </div>
 </div>
 <!----------------------------------------------SCRIPT------------------------------------------>

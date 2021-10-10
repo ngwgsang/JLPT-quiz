@@ -1,19 +1,17 @@
-
-
 const main = document.querySelector('#main');
 const start = document.querySelector('#start');
-const leaderboard = document.querySelector('#highScores');
 const startBtn= document.querySelector('.startBtn');
-const leaderboardBtn= document.querySelector('.leaderboardBtn');
+const preQuestionBoardBtn= document.querySelector('.preQuestionBoardBtn');
 const returnBtn= document.querySelector('.returnBtn');
+const preQuestionBoard__list = document.querySelector('#preQuestionBoard__list')
 // khởi tạo
 document.getElementById('main').style.display = "flex";
 document.getElementById('start').style.display = "none";
 document.getElementById('end').style.display = "none";
-document.getElementById('highScores').style.display = "none";
 document.getElementById('returnBtn').style.display = "none";
 document.getElementById('score').style.display = "none";
 document.getElementById('preQuestionBtn').style.display = "none";
+document.getElementById('preQuestionBoard').style.display = "none";
 // quay về
 returnBtn.addEventListener('click', ()=>{
     resetGame();
@@ -26,27 +24,28 @@ startBtn.addEventListener('click', ()=>{
     document.getElementById('score').style.display = "flex";
     document.getElementById('preQuestionBtn').style.display = "flex";
 });
-// leaderboard
-leaderboardBtn.addEventListener('click', ()=>{
+// Pre-question board
+preQuestionBoardBtn.addEventListener('click', ()=>{
     document.getElementById('main').style.display = "none";
-    document.getElementById('highScores').style.display = "flex";
+    document.getElementById('preQuestionBoard').style.display = "flex";
     document.getElementById('returnBtn').style.display = "flex";
 });
 // reset
 function resetGame(){
-    currentQuestion = {};
-    acceptingAnswers = true;
-    score = 0;
+    // currentQuestion = {};
+    // acceptingAnswers = true;
+    // score = 0;
+    // availableQuestions = [];
+    // Khi bấm ok thì nó sẽ đếm lại từ 0
     questionCounter = 0;
-    availableQuestions = [];
     document.getElementById('main').style.display = "flex";
     document.getElementById('start').style.display = "none";
     document.getElementById('end').style.display = "none";
-    document.getElementById('highScores').style.display = "none";
     document.getElementById('returnBtn').style.display = "none";
     document.getElementById('score').style.display = "none";
     document.getElementById('preQuestionBtn').style.display = "none";
     document.getElementById("number-box").value = questions.length;
+    document.getElementById('preQuestionBoard').style.display= "none"; 
 }
 //start
 const question = document.querySelector('#question');
@@ -67,23 +66,26 @@ function getInputValue(){
     MAX_QUESTIONS = inputVal - 1;
 }
 
-startGame = () => {
+// startGame = () => {
+function startGame(){
     questionCounter = 0
     score = 0
     availableQuestions = [...questions]
     getNewQuestion()
 }
-endGame = () =>{
+// endGame = () =>{
+function endGame(){
     document.getElementById('start').style.display = "none";
     document.getElementById('end').style.display = "flex";
     document.getElementById('returnBtn').style.display = "none";
     document.getElementById('score').style.display="none";
 }
 const preQuestionBtn = document.getElementById("preQuestionBtn");
-let   preQuestion =[' ', '  ',];
+let   preQuestion =[];
+let   preAnswer =[];
 getNewQuestion = () => {
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
-        localStorage.setItem('mostRecentScore', score);
+        // localStorage.setItem('mostRecentScore', score);
         endGame();
     }
     questionCounter++;
@@ -98,7 +100,12 @@ getNewQuestion = () => {
     
     // Lưu lại giá trị trước khi cắt
     preQuestion.push(currentQuestion.question);
+    preAnswer.push(currentQuestion['choice'+currentQuestion.answer]);
     preQuestionBtn.innerText = preQuestion[preQuestion.length-2];
+    // Cho vào preQuestionBoard
+    if (preQuestion.length-2>-1)
+    preQuestionBoard__list.innerHTML += 
+    `<li><p class='list__left'>${preQuestion[preQuestion.length-2]}</p><p class='list__right'>${preAnswer[preQuestion.length-2]}</p></li>`
     //-------
     availableQuestions.splice(questionsIndex, 1);
     acceptingAnswers = true;
@@ -134,12 +141,12 @@ startGame();
 //--------------------------------------------->
 const username = document.querySelector('#username')
 const saveScoreBtn = document.querySelector("#saveScoreBtn")
-username.addEventListener('keyup', () => {
-    saveScoreBtn.disabled = !username.value
-})
-saveScoreBtn.addEventListener('click', ()=>{
-    resetGame();
-})
+// username.addEventListener('keyup', () => {
+//     saveScoreBtn.disabled = !username.value
+// })
+// saveScoreBtn.addEventListener('click', ()=>{
+//     resetGame();
+// })
 //--------------------------------------------->
 function playAudio(url) {
     new Audio(url).play();
