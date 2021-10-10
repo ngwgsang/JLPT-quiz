@@ -56,7 +56,7 @@ let acceptingAnswers = true
 let score = 0
 let questionCounter = 0
 let availableQuestions = []
-const SCORE_POINTS = 10;
+const SCORE_POINTS = 1;
 
 let MAX_QUESTIONS = questions.length;
 // document.getElementById("number-box").value = 1; 
@@ -66,14 +66,13 @@ function getInputValue(){
     MAX_QUESTIONS = inputVal - 1;
 }
 
-// startGame = () => {
 function startGame(){
     questionCounter = 0
     score = 0
     availableQuestions = [...questions]
     getNewQuestion()
 }
-// endGame = () =>{
+
 function endGame(){
     document.getElementById('start').style.display = "none";
     document.getElementById('end').style.display = "flex";
@@ -129,13 +128,15 @@ choices.forEach(choice => {
         }, 1000)
     })
 })
-let maxScore= (MAX_QUESTIONS+1)*10;
-const finalScore = document.querySelector("#finalScore")
+let maxScore= (MAX_QUESTIONS+1);
+const finalScore = document.querySelector("#finalScore");
 const endtext = document.querySelector('#end-text');
+const percent = document.querySelector('#percentCorrect');
 incrementScore = num => {
     score +=num
     scoreText.innerText = score
-    finalScore.innerText = score
+    finalScore.innerText = `${score}/${MAX_QUESTIONS+1}`
+    percent.innerText = `${Math.floor(Math.fround(score/(MAX_QUESTIONS+1))*100)}%`;
 }
 startGame();
 //--------------------------------------------->
@@ -155,14 +156,17 @@ function getRandomInt(max) {
     return Math.floor(Math.random() * max);
 }
 comment = [
-    'Đồ tể nihongo',
-    'Giỏi quá bạn ưi',
+    'Chiến thần Nhật Ngữ',
+    'Giỏi quá bạn ơi',
     'Sừ goi sừ goi',
-    'Nì hôn zin',
-    'U là tr',
-    'Giỏi quá zị',
+    'Nì hôn jin',
+    'Gì vậy trời',
     'Chiến thần N1',
-    'Gòi xong tới công chuyện'
+    'Gòi xong tới công chuyện',
+    'Rất xinh đẹp, tuyệt vời',
+    'Đi lối này thưa ngài',
+    'Xin chào, tổng tư lệnh',
+    '日本語が上手ですね！',
 ];
 gif =[
     './assets/images/gif-1.gif', 
@@ -187,6 +191,7 @@ document.getElementById("frame").src=frame[getRandomInt(frame.length)];
 function choosePic(){
     document.getElementById("frame").src=frame[getRandomInt(frame.length)];
 };
+//Đổi màu background
 function changeColor(){
     bg = [
         'background: linear-gradient(to right,#0f0c29,#302b63,#24243e) !important',
@@ -199,4 +204,14 @@ function changeColor(){
     ];
     document.getElementById('wrapper').style= bg[getRandomInt(bg.length)];
 }
-
+//Click vào câu hỏi đổi màu
+const changeQuestionBackground = document.querySelector('.content-box__quiz');
+changeQuestionBackground.addEventListener('click',()=>{
+    const qbg = [
+        'background: #000; color: #fff;',
+        'background: #fff; color: #000;',
+        'background: #000; color: #FDC830;',
+        'background: #FDC830; color: #000;',
+    ]
+    changeQuestionBackground.style=qbg[getRandomInt(qbg.length)];
+})

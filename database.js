@@ -3738,226 +3738,387 @@ answer: 3,
 },
 
 {
-    question: "A469: 体がすっかり(ひえて)しまった。",
-    choice1: "冷えて",
-    choice2: "令えて",
-    choice3: "今えて",
-    answer: 1,
-    },
-    
-    {
-    question: "A470: (あつい)コーヒーでしたをやけどする。",
-    choice1: "暑い",
-    choice2: "熱い",
-    choice3: "厚い",
-    answer: 2,
-    },
-    
-    {
-    question: "A471: スープを飲んだら、体が(あたたまった)。",
-    choice1: "温まった",
-    choice2: "涅まった",
-    choice3: "温った",
-    answer: 1,
-    },
-    
-    {
-    question: "A472: インフルエンザにかかり(こうねつ)が出た。",
-    choice1: "高燃",
-    choice2: "高熟",
-    choice3: "高熱",
-    answer: 3,
-    },
-    
-    {
-    question: "A473: (つめたい)ジュースを一気に飲んだ。",
-    choice1: "令たい",
-    choice2: "冷たい",
-    choice3: "冷い",
-    answer: 2,
-    },
-    
-    {
-    question: "A474: (ねっしん)に勉強する。",
-    choice1: "熱必",
-    choice2: "熟心",
-    choice3: "熱心",
-    answer: 3,
-    },
-    
-    {
-    question: "A475: (このたび)はお世話になりました。",
-    choice1: "この康",
-    choice2: "この席",
-    choice3: "この度",
-    answer: 3,
-    },
-    
-    {
-    question: "A476: 日本では(おんど)を「セ氏」で表す。",
-    choice1: "温席",
-    choice2: "涅度",
-    choice3: "温度",
-    answer: 3,
-    },
-    
-    {
-    question: "A477: ビールを(ひやして)おく。",
-    choice1: "令やして",
-    choice2: "冷して",
-    choice3: "冷やして",
-    answer: 3,
-    },
-    
-    {
-    question: "A478: (あたたかい)おふろに使ってつかれを取る。",
-    choice1: "涅かい",
-    choice2: "温かい",
-    choice3: "温い",
-    answer: 2,
-    },
-    
-    {
-    question: "A479: 新婚の二人をみんなで(ひやかす)。",
-    choice1: "冷かす",
-    choice2: "冷やかす",
-    choice3: "玲す",
-    answer: 2,
-    },
-    
-    {
-    question: "A480: 仕事に(ねっちゅう)する。",
-    choice1: "熱中",
-    choice2: "熟忠",
-    choice3: "熱仲",
-    answer: 1,
-    },
-    
-    {
-    question: "A481: きもちが(さめて)、恋人と別れた。",
-    choice1: "令めて",
-    choice2: "冷めて",
-    choice3: "冷て",
-    answer: 2,
-    },
-    
-    {
-    question: "A482: 水を(れいぞうこ)で冷やす。",
-    choice1: "令臓庫",
-    choice2: "冷蔵庫",
-    choice3: "怜臓庫",
-    answer: 2,
-    },
-    
-    {
-    question: "A483: その部屋は(れいぼう)がついていますか。",
-    choice1: "冷房",
-    choice2: "玲房",
-    choice3: "冷防",
-    answer: 1,
-    },
-    
-    {
-    question: "A484: 薬を飲んで熱を(さます)。",
-    choice1: "怜ます",
-    choice2: "洽ます",
-    choice3: "冷ます",
-    answer: 3,
-    },
-    
-    {
-    question: "A485: 電子レンジでおにぎりを(あたためる)。",
-    choice1: "温める",
-    choice2: "浴める",
-    choice3: "涅る",
-    answer: 1,
-    },
-    
-    {
-    question: "A486: 早起きして朝食の(したく)をする。",
-    choice1: "支席",
-    choice2: "支度",
-    choice3: "使度",
-    answer: 2,
-    },
-    
-    {
-    question: "A487: (ねっとう)を入れて3分待ってください。",
-    choice1: "熱易",
-    choice2: "熱湯",
-    choice3: "熟湯",
-    answer: 2,
-    },
-    
-    {
-    question: "A488: (たいおん)けいで熱を測る。",
-    choice1: "体涅計",
-    choice2: "他温計",
-    choice3: "体温計",
-    answer: 3,
-    },
-    
-    {
-    question: "A489: お酒を(ひや)で飲む。",
-    choice1: "令や",
-    choice2: "怜や",
-    choice3: "冷や",
-    answer: 3,
-    },
-    
-    {
-    question: "A490: 手をさすると(あたたか)になる。",
-    choice1: "温か",
-    choice2: "涅か",
-    choice3: "温たか",
-    answer: 1,
-    },
-    
-    {
-    question: "A491: もう(いちど)お願いします。",
-    choice1: "一席",
-    choice2: "一度",
-    choice3: "一渡",
-    answer: 2,
-    },
-    
-    {
-    question: "A492: 彼は(たびたび)遅れてきます。",
-    choice1: "度度",
-    choice2: "度々",
-    choice3: "々度",
-    answer: 2,
-    },
-    
-    {
-    question: "A493: この写真を見る(たび)子供のごろを思い出す。",
-    choice1: "度",
-    choice2: "席",
-    choice3: "渡",
-    answer: 1,
-    },
-    
-    {
-    question: "A494: (はっと)とは禁止されている事柄のこと。",
-    choice1: "怯度",
-    choice2: "法度",
-    choice3: "法席",
-    answer: 2,
-    },
-    
-    {
-    question: "A495: 残り物を(れいとう)する。",
-    choice1: "冷棟",
-    choice2: "冷凍",
-    choice3: "冷東",
-    answer: 2,
-    },
-    
-    {
-    question: "A496: (こんど)は失敗しません。",
-    choice1: "今度",
-    choice2: "令度",
-    choice3: "冷度",
-    answer: 1,
-    },
+question: "A469: 体がすっかり(ひえて)しまった。",
+choice1: "冷えて",
+choice2: "令えて",
+choice3: "今えて",
+answer: 1,
+},
+
+{
+question: "A470: (あつい)コーヒーでしたをやけどする。",
+choice1: "暑い",
+choice2: "熱い",
+choice3: "厚い",
+answer: 2,
+},
+
+{
+question: "A471: スープを飲んだら、体が(あたたまった)。",
+choice1: "温まった",
+choice2: "涅まった",
+choice3: "温った",
+answer: 1,
+},
+
+{
+question: "A472: インフルエンザにかかり(こうねつ)が出た。",
+choice1: "高燃",
+choice2: "高熟",
+choice3: "高熱",
+answer: 3,
+},
+
+{
+question: "A473: (つめたい)ジュースを一気に飲んだ。",
+choice1: "令たい",
+choice2: "冷たい",
+choice3: "冷い",
+answer: 2,
+},
+
+{
+question: "A474: (ねっしん)に勉強する。",
+choice1: "熱必",
+choice2: "熟心",
+choice3: "熱心",
+answer: 3,
+},
+
+{
+question: "A475: (このたび)はお世話になりました。",
+choice1: "この康",
+choice2: "この席",
+choice3: "この度",
+answer: 3,
+},
+
+{
+question: "A476: 日本では(おんど)を「セ氏」で表す。",
+choice1: "温席",
+choice2: "涅度",
+choice3: "温度",
+answer: 3,
+},
+
+{
+question: "A477: ビールを(ひやして)おく。",
+choice1: "令やして",
+choice2: "冷して",
+choice3: "冷やして",
+answer: 3,
+},
+
+{
+question: "A478: (あたたかい)おふろに使ってつかれを取る。",
+choice1: "涅かい",
+choice2: "温かい",
+choice3: "温い",
+answer: 2,
+},
+
+{
+question: "A479: 新婚の二人をみんなで(ひやかす)。",
+choice1: "冷かす",
+choice2: "冷やかす",
+choice3: "玲す",
+answer: 2,
+},
+
+{
+question: "A480: 仕事に(ねっちゅう)する。",
+choice1: "熱中",
+choice2: "熟忠",
+choice3: "熱仲",
+answer: 1,
+},
+
+{
+question: "A481: きもちが(さめて)、恋人と別れた。",
+choice1: "令めて",
+choice2: "冷めて",
+choice3: "冷て",
+answer: 2,
+},
+
+{
+question: "A482: 水を(れいぞうこ)で冷やす。",
+choice1: "令臓庫",
+choice2: "冷蔵庫",
+choice3: "怜臓庫",
+answer: 2,
+},
+
+{
+question: "A483: その部屋は(れいぼう)がついていますか。",
+choice1: "冷房",
+choice2: "玲房",
+choice3: "冷防",
+answer: 1,
+},
+
+{
+question: "A484: 薬を飲んで熱を(さます)。",
+choice1: "怜ます",
+choice2: "洽ます",
+choice3: "冷ます",
+answer: 3,
+},
+
+{
+question: "A485: 電子レンジでおにぎりを(あたためる)。",
+choice1: "温める",
+choice2: "浴める",
+choice3: "涅る",
+answer: 1,
+},
+
+{
+question: "A486: 早起きして朝食の(したく)をする。",
+choice1: "支席",
+choice2: "支度",
+choice3: "使度",
+answer: 2,
+},
+
+{
+question: "A487: (ねっとう)を入れて3分待ってください。",
+choice1: "熱易",
+choice2: "熱湯",
+choice3: "熟湯",
+answer: 2,
+},
+
+{
+question: "A488: (たいおん)けいで熱を測る。",
+choice1: "体涅計",
+choice2: "他温計",
+choice3: "体温計",
+answer: 3,
+},
+
+{
+question: "A489: お酒を(ひや)で飲む。",
+choice1: "令や",
+choice2: "怜や",
+choice3: "冷や",
+answer: 3,
+},
+
+{
+question: "A490: 手をさすると(あたたか)になる。",
+choice1: "温か",
+choice2: "涅か",
+choice3: "温たか",
+answer: 1,
+},
+
+{
+question: "A491: もう(いちど)お願いします。",
+choice1: "一席",
+choice2: "一度",
+choice3: "一渡",
+answer: 2,
+},
+
+{
+question: "A492: 彼は(たびたび)遅れてきます。",
+choice1: "度度",
+choice2: "度々",
+choice3: "々度",
+answer: 2,
+},
+
+{
+question: "A493: この写真を見る(たび)子供のごろを思い出す。",
+choice1: "度",
+choice2: "席",
+choice3: "渡",
+answer: 1,
+},
+
+{
+question: "A494: (はっと)とは禁止されている事柄のこと。",
+choice1: "怯度",
+choice2: "法度",
+choice3: "法席",
+answer: 2,
+},
+
+{
+question: "A495: 残り物を(れいとう)する。",
+choice1: "冷棟",
+choice2: "冷凍",
+choice3: "冷東",
+answer: 2,
+},
+
+{
+question: "A496: (こんど)は失敗しません。",
+choice1: "今度",
+choice2: "令度",
+choice3: "冷度",
+answer: 1,
+},
+
+{
+question: "A497: (材料)は届きましたか。",
+choice1: "さいりょう",
+choice2: "ざいりょう",
+choice3: "さいざい",
+answer: 2,
+},
+
+{
+question: "A498: 私の血液(型)はAB型です。",
+choice1: "かた",
+choice2: "がた",
+choice3: "けい",
+answer: 2,
+},
+
+{
+question: "A499: ゴミを入れる(容器)。",
+choice1: "ようき",
+choice2: "よいき",
+choice3: "ようつわ",
+answer: 1,
+},
+
+{
+question: "A500: 彼は(典型的な)英国人だ。",
+choice1: "てんがたてきな",
+choice2: "でんけいてきな",
+choice3: "てんけいてきな",
+answer: 3,
+},
+
+{
+question: "A501: 何か(楽器)は弾けますか。",
+choice1: "らっき",
+choice2: "がっき",
+choice3: "がくき",
+answer: 2,
+},
+
+{
+question: "A502: 私は家でパンを(焼く)のが好きです。",
+choice1: "かく",
+choice2: "やく",
+choice3: "やいく",
+answer: 2,
+},
+
+{
+question: "A503: これはなんの車の(型式)ですか。",
+choice1: "けいしき",
+choice2: "がたしき",
+choice3: "かたしき",
+answer: 3,
+},
+
+{
+question: "A504: 火事で建物が(全焼)した。",
+choice1: "ぜんやく",
+choice2: "ぜんしょう",
+choice3: "ぜんしょ",
+answer: 2,
+},
+
+{
+question: "A505: カメラを(小型)化する。",
+choice1: "こけい",
+choice2: "しょうがた",
+choice3: "こがた",
+answer: 3,
+},
+
+{
+question: "A506: 飛行機の(模型)を作る。",
+choice1: "もがた",
+choice2: "もうけい",
+choice3: "もけい",
+answer: 3,
+},
+
+{
+question: "A507: 私たちは優れた(人材)を活用する。",
+choice1: "にんざい",
+choice2: "じんざい",
+choice3: "しんざい",
+answer: 2,
+},
+
+{
+question: "A508: 外は(焼け)るように暑かった。",
+choice1: "あける",
+choice2: "しょうける",
+choice3: "やける",
+answer: 3,
+},
+
+{
+question: "A509: 私は不(器用)です。",
+choice1: "きよう",
+choice2: "うつわよう",
+choice3: "ぎよう",
+answer: 1,
+},
+
+{
+question: "A510: 僕は(日焼け)して真っ黒になった。",
+choice1: "にちやけ",
+choice2: "ひやけ",
+choice3: "びやけ",
+answer: 2,
+},
+
+{
+question: "A511: 料理を(器)に盛る。",
+choice1: "つうわ",
+choice2: "うわき",
+choice3: "うつわ",
+answer: 3,
+},
+
+{
+question: "A512: 火事の(延焼)を防ぐ。",
+choice1: "えんしょう",
+choice2: "けんしょう",
+choice3: "えんやく",
+answer: 1,
+},
+
+{
+question: "A513: (木材)にかんなをかける。",
+choice1: "もくさい",
+choice2: "そうざい",
+choice3: "もくざい",
+answer: 3,
+},
+
+{
+question: "A514: あなたのドレスの(素材)は何ですか。",
+choice1: "そうざい",
+choice2: "そざい",
+choice3: "そうさい",
+answer: 2,
+},
+
+{
+question: "A515: 彼は(器が小さい)。",
+choice1: "きがこさい",
+choice2: "きがちいさい",
+choice3: "うつわがちいさい",
+answer: 3,
+},
+
+{
+question: "A516: (食器)を台所へ持っていく。",
+choice1: "しょっき",
+choice2: "しょくき",
+choice3: "しょくうつわ",
+answer: 1,
+},
+
 ]

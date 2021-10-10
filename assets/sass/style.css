@@ -896,9 +896,9 @@ body {
 }
 
 .end h1 {
-  font-size: 5rem;
+  margin: 0.5rem;
+  font-size: 2rem;
   font-weight: 500;
-  margin-bottom: 1rem;
 }
 
 @media (max-width: 600px) {
@@ -947,5 +947,18 @@ body {
     width: 18rem;
     height: 4rem;
   }
+}
+
+#percentCorrect {
+  color: #FDC830;
+  font-size: 5rem;
+  font-weight: 700;
+  margin: 1rem 0 0.5rem 1rem;
+}
+
+#finalScore {
+  position: absolute;
+  right: 0.5rem;
+  top: 0.5rem;
 }
 /*# sourceMappingURL=style.css.map */
