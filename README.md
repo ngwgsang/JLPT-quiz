@@ -29,7 +29,7 @@ I  |001-060 |N4      |Kanji N4 Test    |          |11/10/2021 |[chellyyyy](https
 >
 
 
- Cảm ơn
+
 ## :cherry_blossom:	 P/S
 :raccoon:  Dữ liệu public các bạn cần cứ clone về dùng thoải mái chỉ cần để credit mình là được rồi :wink: :wink:
 
