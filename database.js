@@ -7195,6 +7195,375 @@ choice3: "令",
 answer: 1,
 },
 
+{
+id: "A801",
+question: "彼は(金の亡者)だ。",
+choice1: "きんのししゃ",
+choice2: "かねのもうしゃ",
+choice3: "かねのぼうしゃ",
+answer: 2,
+},
+
+{
+id: "A802",
+question: "彼はお金を貯める事に(必死)だ。",
+choice1: "ひつし",
+choice2: "ひっし",
+choice3: "びっし",
+answer: 2,
+},
+
+{
+id: "A803",
+question: "地震による被災者を(救援)する。",
+choice1: "きゅうえん",
+choice2: "じょうえん",
+choice3: "きゅうじょ",
+answer: 1,
+},
+
+{
+id: "A804",
+question: "この手紙は私の友人が(亡くなる)前に書いたようだ。",
+choice1: "ないくなる",
+choice2: "しくなる",
+choice3: "なくなる",
+answer: 1,
+},
+
+{
+id: "A805",
+question: "被害者を(救助)する。",
+choice1: "ぎゅうじょう",
+choice2: "きゅうじょ",
+choice3: "きゅじょ",
+answer: 2,
+},
+
+{
+id: "A806",
+question: "あの有名な人は(亡い)。",
+choice1: "しい",
+choice2: "ない",
+choice3: "ぼう",
+answer: 2,
+},
+
+{
+id: "A807",
+question: "私は彼を(救急車)で病院に連れて行った。",
+choice1: "きゅうきゅうしゃ",
+choice2: "きゅうぎゅうしゃ",
+choice3: "きゅきゅしゃ",
+answer: 1,
+},
+
+{
+id: "A808",
+question: "他人を助けることは自分を(助ける)こと。",
+choice1: "すける",
+choice2: "たすける",
+choice3: "たける",
+answer: 2,
+},
+
+{
+id: "A809",
+question: "(救急箱)を手近に置いておくべきです。",
+choice1: "きゅきゅうはこ",
+choice2: "きゅうぎゅうばこ",
+choice3: "きゅうきゅうばこ",
+answer: 3,
+},
+
+{
+id: "A810",
+question: "(死体)を発見する。",
+choice1: "しだい",
+choice2: "ひたい",
+choice3: "したい",
+answer: 3,
+},
+
+{
+id: "A811",
+question: "生活難を(救済)する。",
+choice1: "きゅうざい",
+choice2: "きゅうさい",
+choice3: "えんざい",
+answer: 2,
+},
+
+{
+id: "A812",
+question: "私はあなたがそれを許可してくれたので、とても(助かる)。",
+choice1: "たかる",
+choice2: "すかる",
+choice3: "たすかる",
+answer: 3,
+},
+
+{
+id: "A813",
+question: "人を危険から(救う)。",
+choice1: "すくう",
+choice2: "きゅう",
+choice3: "くすう",
+answer: 1,
+},
+
+{
+id: "A814",
+question: "あなたの(助言)が欲しい。",
+choice1: "じょごん",
+choice2: "じょげん",
+choice3: "じょうけん",
+answer: 2,
+},
+
+{
+id: "A815",
+question: "この城を(死守)する決心だ。",
+choice1: "しまもる",
+choice2: "ひしゅ",
+choice3: "ししゅ",
+answer: 3,
+},
+
+{
+id: "A816",
+question: "金銭的(援助)を行う。",
+choice1: "えんじょ",
+choice2: "けんじょ",
+choice3: "えんじょう",
+answer: 1,
+},
+
+{
+id: "A817",
+question: "(亡命)者は日本へ避難した。",
+choice1: "しめい",
+choice2: "もうめい",
+choice3: "ぼうめい",
+answer: 3,
+},
+
+{
+id: "A818",
+question: "危なかったら(助だち)に行く。",
+choice1: "たすだち",
+choice2: "すけだち",
+choice3: "たけだち",
+answer: 2,
+},
+
+{
+id: "A819",
+question: "(死ぬ)ほど愛する。",
+choice1: "きぬ",
+choice2: "じぬ",
+choice3: "しぬ",
+answer: 3,
+},
+
+{
+id: "A820",
+question: "この事故で多くの(死亡者)を出した。",
+choice1: "しぼうしゃ",
+choice2: "しもうしゃ",
+choice3: "しめいしゃ",
+answer: 1,
+},
+
+{
+id: "A821",
+question: "この機能は他の機能を(補助)している。",
+choice1: "ほうじょ",
+choice2: "ほじょ",
+choice3: "ぼじ",
+answer: 2,
+},
+
+{
+id: "A822",
+question: "道にまよっていた人を(たすける)。",
+choice1: "助ける",
+choice2: "叨ける",
+choice3: "肋ける",
+answer: 1,
+},
+
+{
+id: "A823",
+question: "燃える火の中から人を(すくう)。",
+choice1: "球う",
+choice2: "救う",
+choice3: "求う",
+answer: 2,
+},
+
+{
+id: "A824",
+question: "キーパーがゴールを(ししゅ)する。",
+choice1: "死守",
+choice2: "列狩",
+choice3: "歹守",
+answer: 1,
+},
+
+{
+id: "A825",
+question: "(きゅうえん)のぶっしをヘリコプターで運ぶ。",
+choice1: "救媛",
+choice2: "求媛",
+choice3: "救援",
+answer: 3,
+},
+
+{
+id: "A826",
+question: "かっていた犬が病気で(しんだ)。",
+choice1: "列んだ",
+choice2: "死んだ",
+choice3: "歿んだ",
+answer: 2,
+},
+
+{
+id: "A827",
+question: "海でまよっていた人を(きゅうじょ)する。",
+choice1: "逑助",
+choice2: "救鋤",
+choice3: "救助",
+answer: 3,
+},
+
+{
+id: "A828",
+question: "彼はけちでよくばりな(かねのもうじゃ)。",
+choice1: "欽の亡者",
+choice2: "金の死者",
+choice3: "金の亡者",
+answer: 3,
+},
+
+{
+id: "A829",
+question: "(きゅうきゅうしゃ)で病院に運ばれる。",
+choice1: "急球者",
+choice2: "球急連",
+choice3: "救急車",
+answer: 3,
+},
+
+{
+id: "A830",
+question: "この病気は手術をすれば(たすかる)。",
+choice1: "肋すかる",
+choice2: "助る",
+choice3: "助かる",
+answer: 3,
+},
+
+{
+id: "A831",
+question: "交通事故で(なくなる)人が多い。",
+choice1: "死くなる",
+choice2: "亡くなる",
+choice3: "忘くなる",
+answer: 2,
+},
+
+{
+id: "A832",
+question: "先輩に(じょげん)を求める。",
+choice1: "助言",
+choice2: "肋言",
+choice3: "肌言",
+answer: 1,
+},
+
+{
+id: "A833",
+question: "外国へ(ぼうめい)する。",
+choice1: "死命",
+choice2: "亡命",
+choice3: "匹命",
+answer: 2,
+},
+
+{
+id: "A834",
+question: "息子の大学の学費を(ほじょ)する。",
+choice1: "捕肋",
+choice2: "補助",
+choice3: "甫助",
+answer: 2,
+},
+
+{
+id: "A835",
+question: "失業者を(きゅうさい)する。",
+choice1: "求斉",
+choice2: "球剤",
+choice3: "救済",
+answer: 3,
+},
+
+{
+id: "A836",
+question: "親に学費を(えんじょ)してもらう。",
+choice1: "援助",
+choice2: "握肋",
+choice3: "援肋",
+answer: 1,
+},
+
+{
+id: "A837",
+question: "交通じこによる(しぼうしゃ)が多い。",
+choice1: "亡死者",
+choice2: "死亡者",
+choice3: "死四者",
+answer: 2,
+},
+
+{
+id: "A838",
+question: "(きゅうきゅうばこ)を用意する。",
+choice1: "球急相",
+choice2: "救急箱",
+choice3: "急救箱",
+answer: 2,
+},
+
+{
+id: "A839",
+question: "危なかったら(すけだち)に行く。",
+choice1: "助ち",
+choice2: "肋けだち",
+choice3: "助だち",
+answer: 3,
+},
+
+{
+id: "A840",
+question: "(ひっし)に努力する。",
+choice1: "必亡",
+choice2: "心死",
+choice3: "必死",
+answer: 3,
+},
+
+{
+id: "A841",
+question: "池から(したい)が引き上げられた。",
+choice1: "列体",
+choice2: "死体",
+choice3: "死",
+answer: 2,
+},
+
 ]
 
 let n4 = [

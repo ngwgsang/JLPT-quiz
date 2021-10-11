@@ -32,15 +32,12 @@ preQuestionBoardBtn.addEventListener('click', ()=>{
 });
 // Reset
 function resetGame(){
-    // Khi bấm ok thì nó sẽ đếm lại từ 0
-    questionCounter = 0;
     document.getElementById('main').style.display = "flex";
     document.getElementById('start').style.display = "none";
     document.getElementById('end').style.display = "none";
     document.getElementById('returnBtn').style.display = "none";
     document.getElementById('score').style.display = "none";
     document.getElementById('preQuestionBtn').style.display = "none";
-    document.getElementById("number-box").value = questions.length;
     document.getElementById('preQuestionBoard').style.display= "none"; 
 }
 //start
@@ -61,6 +58,7 @@ document.getElementById("number-box").value = questions.length;
 function getInputValue(){
     var inputVal = document.getElementById("number-box").value;
     MAX_QUESTIONS = inputVal - 1;
+    document.getElementById("number-box").innerText = inputVal;
 }
 //------------------------------------------>
 // Lưu lại tổng số câu ra chỗ riêng
