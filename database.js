@@ -1,7 +1,7 @@
-let questions = [
-
+let n3 = [
 {
-question: "A001:  7時に（起きる)。",
+id: "A001",
+question: " 7時に（起きる)。",
 choice1: "あきる",
 choice2: "ききる",
 choice3: "おきる",
@@ -9,7 +9,8 @@ answer: 3,
 },
 
 {
-question: "A002: 寝ているライオンを(起こす)な。",
+id: "A002",
+question: "寝ているライオンを(起こす)な。",
 choice1: "あこす",
 choice2: "おこす",
 choice3: "きこす",
@@ -17,7 +18,8 @@ answer: 2,
 },
 
 {
-question: "A003: その(起源)は不明である。",
+id: "A003",
+question: "その(起源)は不明である。",
 choice1: "きげん",
 choice2: "きがん",
 choice3: "きけん",
@@ -25,7 +27,8 @@ answer: 1,
 },
 
 {
-question: "A004: ほとんど(熱湯)で料理する。",
+id: "A004",
+question: "ほとんど(熱湯)で料理する。",
 choice1: "しんとう",
 choice2: "ねつとう",
 choice3: "ねっとう",
@@ -33,7 +36,8 @@ answer: 3,
 },
 
 {
-question: "A005: 号令がかかると生徒が(起立)する。",
+id: "A005",
+question: "号令がかかると生徒が(起立)する。",
 choice1: "おりつ",
 choice2: "きりつ",
 choice3: "いりつ",
@@ -41,7 +45,8 @@ answer: 2,
 },
 
 {
-question: "A006: 水を(浴びせる)。",
+id: "A006",
+question: "水を(浴びせる)。",
 choice1: "おびせる",
 choice2: "あびせる",
 choice3: "よびせる",
@@ -49,7 +54,8 @@ answer: 2,
 },
 
 {
-question: "A007:  彼らは湖で(水浴び)をした。",
+id: "A007",
+question: " 彼らは湖で(水浴び)をした。",
 choice1: "みずあび",
 choice2: "すいあび",
 choice3: " みずおび",
@@ -57,7 +63,8 @@ answer: 1,
 },
 
 {
-question: "A008:  (寝具)はかび臭く湿っていた。",
+id: "A008",
+question: " (寝具)はかび臭く湿っていた。",
 choice1: "ねぐ",
 choice2: "しんぐ",
 choice3: "しんぐう",
@@ -65,7 +72,8 @@ answer: 2,
 },
 
 {
-question: "A009: 夏はたいてい(海水浴)に行く。",
+id: "A009",
+question: "夏はたいてい(海水浴)に行く。",
 choice1: "がいすいび",
 choice2: "かいすいび",
 choice3: "かいすいよく",
@@ -73,7 +81,8 @@ answer: 3,
 },
 
 {
-question: "A010: 花火大会で(浴衣)を着ました。",
+id: "A010",
+question: "花火大会で(浴衣)を着ました。",
 choice1: "よくい",
 choice2: "ゆがた",
 choice3: "ゆかた",
@@ -81,7 +90,8 @@ answer: 3,
 },
 
 {
-question: "A011: (寝る)のが好き。",
+id: "A011",
+question: "(寝る)のが好き。",
 choice1: "しんる",
 choice2: "ねる",
 choice3: "ねかる",
@@ -89,7 +99,8 @@ answer: 3,
 },
 
 {
-question: "A012: 毎日(昼寝)をします。",
+id: "A012",
+question: "毎日(昼寝)をします。",
 choice1: "ひね",
 choice2: "ひるしん",
 choice3: "ひるね",
@@ -97,7 +108,8 @@ answer: 3,
 },
 
 {
-question: "A013: (起業)家になりたいです",
+id: "A013",
+question: "(起業)家になりたいです",
 choice1: "きぎょう",
 choice2: "おぎょう",
 choice3: "ぎぎょう",
@@ -105,7 +117,8 @@ answer: 1,
 },
 
 {
-question: "A014: そのシャワーの(お湯)が出ません。",
+id: "A014",
+question: "そのシャワーの(お湯)が出ません。",
 choice1: "おね",
 choice2: "おゆ",
 choice3: "おとう",
@@ -113,7 +126,8 @@ answer: 2,
 },
 
 {
-question: "A015: (寝坊)したので授業に遅刻した。",
+id: "A015",
+question: "(寝坊)したので授業に遅刻した。",
 choice1: "しんぼう",
 choice2: "ねほう",
 choice3: "ねぼう",
@@ -121,7 +135,8 @@ answer: 3,
 },
 
 {
-question: "A016: 彼は起きて(寝室)から出た。",
+id: "A016",
+question: "彼は起きて(寝室)から出た。",
 choice1: "しんしつ",
 choice2: "ねしつ",
 choice3: "しんや",
@@ -129,7 +144,8 @@ answer: 1,
 },
 
 {
-question: "A017: 事故は不注意から(起こる)。",
+id: "A017",
+question: "事故は不注意から(起こる)。",
 choice1: "あこる",
 choice2: "きこる",
 choice3: "おこる",
@@ -137,7 +153,8 @@ answer: 3,
 },
 
 {
-question: "A018: (寝台車)を利用するために発行される券。",
+id: "A018",
+question: "(寝台車)を利用するために発行される券。",
 choice1: "ねだいしゃ",
 choice2: "しんだいしゃ",
 choice3: "しんだいくるま",
@@ -145,7 +162,8 @@ answer: 2,
 },
 
 {
-question: "A019: 日本では(湯船)の外で体を洗うことになっています。",
+id: "A019",
+question: "日本では(湯船)の外で体を洗うことになっています。",
 choice1: "とうふね",
 choice2: "ゆうへん",
 choice3: "ゆぶね",
@@ -153,7 +171,8 @@ answer: 3,
 },
 
 {
-question: "A020: 彼が念のためにもう一度パソコンを(起動)した。",
+id: "A020",
+question: "彼が念のためにもう一度パソコンを(起動)した。",
 choice1: "きどう",
 choice2: "ぐどう",
 choice3: "ぎどう",
@@ -161,7 +180,8 @@ answer: 1,
 },
 
 {
-question: "A021: シャワーを(浴びる)。",
+id: "A021",
+question: "シャワーを(浴びる)。",
 choice1: "おびる",
 choice2: "あびる",
 choice3: "ゆびる",
@@ -169,7 +189,8 @@ answer: 2,
 },
 
 {
-question: "A022: (早起き)は健康によい。",
+id: "A022",
+question: "(早起き)は健康によい。",
 choice1: "はやおき",
 choice2: "そうおき",
 choice3: "しんおき",
@@ -177,7 +198,8 @@ answer: 1,
 },
 
 {
-question: "A023: シャワーを備えた(浴室)。",
+id: "A023",
+question: "シャワーを備えた(浴室)。",
 choice1: "あしつ",
 choice2: "よくしつ",
 choice3: "よくや",
@@ -185,7 +207,8 @@ answer: 2,
 },
 
 {
-question: "A024: (日光浴)をしてとてものんびりした。",
+id: "A024",
+question: "(日光浴)をしてとてものんびりした。",
 choice1: "ひこうよく",
 choice2: "ひこうび",
 choice3: "にっこうよく",
@@ -193,7 +216,8 @@ answer: 3,
 },
 
 {
-question: "A025:   彼女はよく(寝言)を言う。",
+id: "A025",
+question: "  彼女はよく(寝言)を言う。",
 choice1: "しんごと",
 choice2: "ねごん",
 choice3: "ねごと",
@@ -201,7 +225,8 @@ answer: 3,
 },
 
 {
-question: "A026: 休日はいつもより遅く(おきる)。",
+id: "A026",
+question: "休日はいつもより遅く(おきる)。",
 choice1: "起きる",
 choice2: "走きる",
 choice3: "赴きる",
@@ -209,7 +234,8 @@ answer: 1,
 },
 
 {
-question: "A027: 布団は私たちの(しんぐ)です。",
+id: "A027",
+question: "布団は私たちの(しんぐ)です。",
 choice1: "寢貝",
 choice2: "寝具",
 choice3: "深具",
@@ -217,7 +243,8 @@ answer: 2,
 },
 
 {
-question: "A028: みなさん、ご(きりつ)ください。",
+id: "A028",
+question: "みなさん、ご(きりつ)ください。",
 choice1: "起立",
 choice2: "規律",
 choice3: "紀立",
@@ -225,7 +252,8 @@ answer: 1,
 },
 
 {
-question: "A029:  子供が(ひるね)をする。",
+id: "A029",
+question: " 子供が(ひるね)をする。",
 choice1: "尼寝",
 choice2: "昼根",
 choice3: "昼寝",
@@ -233,7 +261,8 @@ answer: 3,
 },
 
 {
-question: "A030: (おゆ)をわかしてコーヒーを入れる。",
+id: "A030",
+question: "(おゆ)をわかしてコーヒーを入れる。",
 choice1: "お易",
 choice2: "お湯",
 choice3: "お優",
@@ -241,7 +270,8 @@ answer: 2,
 },
 
 {
-question: "A031: 川で(みずあび)をする。",
+id: "A031",
+question: "川で(みずあび)をする。",
 choice1: "氷浴び",
 choice2: "水洽び",
 choice3: "水浴び",
@@ -249,7 +279,8 @@ answer: 3,
 },
 
 {
-question: "A032: その(きげん)は不明です。",
+id: "A032",
+question: "その(きげん)は不明です。",
 choice1: "期限",
 choice2: "起原",
 choice3: "起源",
@@ -257,7 +288,8 @@ answer: 3,
 },
 
 {
-question: "A033: ジョギング後にシャワーを(あびる)。",
+id: "A033",
+question: "ジョギング後にシャワーを(あびる)。",
 choice1: "洽びる",
 choice2: "永びる",
 choice3: "浴びる",
@@ -265,7 +297,8 @@ answer: 3,
 },
 
 {
-question: "A034: クリスマス気分に冷水を(あびせる)。",
+id: "A034",
+question: "クリスマス気分に冷水を(あびせる)。",
 choice1: "洽びせる",
 choice2: "湯びせる",
 choice3: "浴びせる",
@@ -273,7 +306,8 @@ answer: 3,
 },
 
 {
-question: "A035: (はやおき)するのは気持ちがいい。",
+id: "A035",
+question: "(はやおき)するのは気持ちがいい。",
 choice1: "果起き",
 choice2: "早起き",
 choice3: "速起き",
@@ -281,7 +315,8 @@ answer: 2,
 },
 
 {
-question: "A036: (しんだいしゃ)を利用して旅をする。",
+id: "A036",
+question: "(しんだいしゃ)を利用して旅をする。",
 choice1: "寢台車",
 choice2: "寝台車",
 choice3: "寝大車",
@@ -289,7 +324,8 @@ answer: 2,
 },
 
 {
-question: "A037: 昨夜、小さな地震が(おこった)。",
+id: "A037",
+question: "昨夜、小さな地震が(おこった)。",
 choice1: "起こった",
 choice2: "走こった",
 choice3: "怒った",
@@ -297,7 +333,8 @@ answer: 1,
 },
 
 {
-question: "A038: 彼女は よく (ねごと)を言う。",
+id: "A038",
+question: "彼女は よく (ねごと)を言う。",
 choice1: "寝語",
 choice2: "寝言",
 choice3: "寝事",
@@ -305,7 +342,8 @@ answer: 2,
 },
 
 {
-question: "A039: (しんしつ)に新しいベッドを置いた。",
+id: "A039",
+question: "(しんしつ)に新しいベッドを置いた。",
 choice1: "心室",
 choice2: "寝室",
 choice3: "寝至",
@@ -313,7 +351,8 @@ answer: 2,
 },
 
 {
-question: "A040: パソコンをさい(きどう)する。",
+id: "A040",
+question: "パソコンをさい(きどう)する。",
 choice1: "起動",
 choice2: "機動",
 choice3: "起働",
@@ -321,7 +360,8 @@ answer: 1,
 },
 
 {
-question: "A041: ベランダで(にっこうよく)をする。",
+id: "A041",
+question: "ベランダで(にっこうよく)をする。",
 choice1: "日党浴",
 choice2: "日光洽",
 choice3: "日光浴",
@@ -329,7 +369,8 @@ answer: 3,
 },
 
 {
-question: "A042: (よくしつ)のリフォームに百万円かかった。",
+id: "A042",
+question: "(よくしつ)のリフォームに百万円かかった。",
 choice1: "浴室",
 choice2: "浴至",
 choice3: "洽室",
@@ -337,7 +378,8 @@ answer: 1,
 },
 
 {
-question: "A043: チャンスがあれば、(きぎょう)したい。",
+id: "A043",
+question: "チャンスがあれば、(きぎょう)したい。",
 choice1: "企業",
 choice2: "起業",
 choice3: "走業",
@@ -345,7 +387,8 @@ answer: 2,
 },
 
 {
-question: "A044: (ねっとう)を入れて3分待ってください。",
+id: "A044",
+question: "(ねっとう)を入れて3分待ってください。",
 choice1: "熱易",
 choice2: "熱湯",
 choice3: "熟湯",
@@ -353,7 +396,8 @@ answer: 2,
 },
 
 {
-question: "A045: (ねぼう)したので授業に遅刻した。",
+id: "A045",
+question: "(ねぼう)したので授業に遅刻した。",
 choice1: "寝方",
 choice2: "寝防",
 choice3: "寝坊",
@@ -361,7 +405,8 @@ answer: 3,
 },
 
 {
-question: "A046: ゆっくり(ゆぶね)につかる。",
+id: "A046",
+question: "ゆっくり(ゆぶね)につかる。",
 choice1: "易舟",
 choice2: "易船",
 choice3: "湯船",
@@ -369,7 +414,8 @@ answer: 3,
 },
 
 {
-question: "A047: 毎朝、母に(おこして)もらっている。",
+id: "A047",
+question: "毎朝、母に(おこして)もらっている。",
 choice1: "起こして",
 choice2: "紀こして",
 choice3: "お越して",
@@ -377,7 +423,8 @@ answer: 1,
 },
 
 {
-question: "A048: (ゆかた)を買いに行こう。",
+id: "A048",
+question: "(ゆかた)を買いに行こう。",
 choice1: "湯方",
 choice2: "浴衣",
 choice3: "浴哀",
@@ -385,14 +432,16 @@ answer: 2,
 },
 
 {
-question: "A049: 子供を(ねかす)のは私の役目だ。",
+id: "A049",
+question: "子供を(ねかす)のは私の役目だ。",
 choice1: "寢かす",
 choice2: "寝かす",
 choice3: "隻かす",
 answer: 2,
 },
 {
-question: "A050: 家族で(かいすいよく)に行く。",
+id: "A050",
+question: "家族で(かいすいよく)に行く。",
 choice1: "海水浴",
 choice2: "毎永浴",
 choice3: "海氷浴",
@@ -400,7 +449,8 @@ answer: 1,
 },
 
 {
-question: "A051: (干物)は私の好みに合わない。",
+id: "A051",
+question: "(干物)は私の好みに合わない。",
 choice1: "かんもの",
 choice2: "ひもの",
 choice3: "ほすもの",
@@ -408,7 +458,8 @@ answer: 2,
 },
 
 {
-question: "A052: 水の流れにより(水洗)するトイレ。",
+id: "A052",
+question: "水の流れにより(水洗)するトイレ。",
 choice1: "みずせん",
 choice2: "すいせん",
 choice3: "すいあら",
@@ -416,7 +467,8 @@ answer: 2,
 },
 
 {
-question: "A053: (お手洗い)を借りてよろしいですか？",
+id: "A053",
+question: "(お手洗い)を借りてよろしいですか？",
 choice1: "おてあらい",
 choice2: "おしゅあらい",
 choice3: "おしあらい",
@@ -424,7 +476,8 @@ answer: 1,
 },
 
 {
-question: "A054: (食生活)は生存に必要である。",
+id: "A054",
+question: "(食生活)は生存に必要である。",
 choice1: "たべせいかつ",
 choice2: "しょくせいよう",
 choice3: "しょくせいかつ",
@@ -432,7 +485,8 @@ answer: 3,
 },
 
 {
-question: "A055: (洗濯物)を持って出た。",
+id: "A055",
+question: "(洗濯物)を持って出た。",
 choice1: "あらたくもの",
 choice2: "せんたくもの",
 choice3: "ぜんたくもの",
@@ -440,7 +494,8 @@ answer: 2,
 },
 
 {
-question: "A056: (活発)な会議。",
+id: "A056",
+question: "(活発)な会議。",
 choice1: "かっぱつ",
 choice2: "かっばつ",
 choice3: "かつはつ",
@@ -448,7 +503,8 @@ answer: 1,
 },
 
 {
-question: "A057: 古くなった冬服を(干す)。",
+id: "A057",
+question: "古くなった冬服を(干す)。",
 choice1: "ひす",
 choice2: "ほす",
 choice3: "かんす",
@@ -456,7 +512,8 @@ answer: 2,
 },
 
 {
-question: "A058: この(洗剤)ではウールは洗えない。",
+id: "A058",
+question: "この(洗剤)ではウールは洗えない。",
 choice1: "ぜんさい",
 choice2: "あらざい",
 choice3: "せんざい",
@@ -464,7 +521,8 @@ answer: 3,
 },
 
 {
-question: "A059: 音楽(活動)を続ける。",
+id: "A059",
+question: "音楽(活動)を続ける。",
 choice1: "かっどう",
 choice2: "はつよう",
 choice3: "かつどう",
@@ -472,7 +530,8 @@ answer: 3,
 },
 
 {
-question: "A060: ウナギと(梅干し)は食い合わせが悪いとされている。",
+id: "A060",
+question: "ウナギと(梅干し)は食い合わせが悪いとされている。",
 choice1: "うめほし",
 choice2: "うめぼし",
 choice3: "うめひし",
@@ -480,7 +539,8 @@ answer: 2,
 },
 
 {
-question: "A061: (洗濯機)はすばらしい発明品だ。",
+id: "A061",
+question: "(洗濯機)はすばらしい発明品だ。",
 choice1: "ぜんたくき",
 choice2: "せんたくもの",
 choice3: "せんたくき",
@@ -488,7 +548,8 @@ answer: 3,
 },
 
 {
-question: "A062: これを(活用)させていただきます。",
+id: "A062",
+question: "これを(活用)させていただきます。",
 choice1: "かつよう",
 choice2: "はつよう",
 choice3: "かっよう",
@@ -496,7 +557,8 @@ answer: 2,
 },
 
 {
-question: "A063: スタッフを(若干名)募集しています。",
+id: "A063",
+question: "スタッフを(若干名)募集しています。",
 choice1: "じゃかんめい",
 choice2: "じゃっかんめい",
 choice3: "しゃっかんめい",
@@ -504,7 +566,8 @@ answer: 2,
 },
 
 {
-question: "A064: 独身(生活)をする。",
+id: "A064",
+question: "独身(生活)をする。",
 choice1: "せかつ",
 choice2: "せいよう",
 choice3: "せいかつ",
@@ -512,7 +575,8 @@ answer: 3,
 },
 
 {
-question: "A065: (洗面所)のタオルが汚れています。",
+id: "A065",
+question: "(洗面所)のタオルが汚れています。",
 choice1: "せんめんじょ",
 choice2: "せんめんしょ",
 choice3: "ぜんめんじょ",
@@ -520,7 +584,8 @@ answer: 2,
 },
 
 {
-question: "A066: 顔と手を(洗う)。",
+id: "A066",
+question: "顔と手を(洗う)。",
 choice1: "せんう",
 choice2: "らあう",
 choice3: "あらう",
@@ -528,7 +593,8 @@ answer: 3,
 },
 
 {
-question: "A067: 彼は(活気)のある人です。",
+id: "A067",
+question: "彼は(活気)のある人です。",
 choice1: "かつき",
 choice2: "かっき",
 choice3: "かっぎ",
@@ -536,7 +602,8 @@ answer: 2,
 },
 
 {
-question: "A068: 天気がいい日は布団を(ほす)。",
+id: "A068",
+question: "天気がいい日は布団を(ほす)。",
 choice1: "干す",
 choice2: "午す",
 choice3: "牛す",
@@ -544,7 +611,8 @@ answer: 1,
 },
 
 {
-question: "A069: 社員を(じゃっかんめい)さいようする。",
+id: "A069",
+question: "社員を(じゃっかんめい)さいようする。",
 choice1: "古干右",
 choice2: "若干名",
 choice3: "若午右",
@@ -552,7 +620,8 @@ answer: 2,
 },
 
 {
-question: "A070: 新発売の(せんざい)がやすくうっていた。",
+id: "A070",
+question: "新発売の(せんざい)がやすくうっていた。",
 choice1: "洗剤",
 choice2: "先剤",
 choice3: "洗斉",
@@ -560,7 +629,8 @@ answer: 1,
 },
 
 {
-question: "A071: つった魚で(ひもの)をつくる。",
+id: "A071",
+question: "つった魚で(ひもの)をつくる。",
 choice1: "午物",
 choice2: "乾物",
 choice3: "干物",
@@ -568,7 +638,8 @@ answer: 3,
 },
 
 {
-question: "A072: 赤ちゃんが(かっぱつ)に動きまわる。",
+id: "A072",
+question: "赤ちゃんが(かっぱつ)に動きまわる。",
 choice1: "呑溌",
 choice2: "活発",
 choice3: "活羌",
@@ -576,7 +647,8 @@ answer: 2,
 },
 
 {
-question: "A073: (せんたくもの)をたたむ。",
+id: "A073",
+question: "(せんたくもの)をたたむ。",
 choice1: "先曜物",
 choice2: "洗曜物",
 choice3: "洗濯物",
@@ -584,7 +656,8 @@ answer: 3,
 },
 
 {
-question: "A074: 通学の時間を(かつよう)して単語を覚える。",
+id: "A074",
+question: "通学の時間を(かつよう)して単語を覚える。",
 choice1: "舌用",
 choice2: "活曜",
 choice3: "活用",
@@ -592,7 +665,8 @@ answer: 3,
 },
 
 {
-question: "A075: (かっき)のあるしょくば。",
+id: "A075",
+question: "(かっき)のあるしょくば。",
 choice1: "気活",
 choice2: "活丸",
 choice3: "活気",
@@ -600,7 +674,8 @@ answer: 3,
 },
 
 {
-question: "A076: (うめぼし)のたねを取ってね。",
+id: "A076",
+question: "(うめぼし)のたねを取ってね。",
 choice1: "毎干し",
 choice2: "梅午し",
 choice3: "梅干し",
@@ -608,7 +683,8 @@ answer: 3,
 },
 
 {
-question: "A077: あたらしい(せんたくき)を買った。",
+id: "A077",
+question: "あたらしい(せんたくき)を買った。",
 choice1: "先濯機",
 choice2: "洗濯機",
 choice3: "洗濯議",
@@ -616,7 +692,8 @@ answer: 1,
 },
 
 {
-question: "A078:  (せんめんじょ)で歯を磨く。",
+id: "A078",
+question: " (せんめんじょ)で歯を磨く。",
 choice1: "千面所",
 choice2: "洗面所",
 choice3: "扇面所",
@@ -624,7 +701,8 @@ answer: 2,
 },
 
 {
-question: "A079: (しょくせいかつ)にきをつける。",
+id: "A079",
+question: "(しょくせいかつ)にきをつける。",
 choice1: "食生活",
 choice2: "良生活",
 choice3: "食性活",
@@ -632,7 +710,8 @@ answer: 1,
 },
 
 {
-question: "A080: 毎日うがいと(てあらい)をしている。",
+id: "A080",
+question: "毎日うがいと(てあらい)をしている。",
 choice1: "手先い",
 choice2: "手洗い",
 choice3: "手洸",
@@ -640,7 +719,8 @@ answer: 2,
 },
 
 {
-question: "A081: (せいかつ)のため、アルバイトをする。",
+id: "A081",
+question: "(せいかつ)のため、アルバイトをする。",
 choice1: "性活",
 choice2: "生活",
 choice3: "姓活",
@@ -648,7 +728,8 @@ answer: 2,
 },
 
 {
-question: "A082: しゅうに三回、(せんたく)する。",
+id: "A082",
+question: "しゅうに三回、(せんたく)する。",
 choice1: "洗濯",
 choice2: "先曜",
 choice3: "先濯",
@@ -656,7 +737,8 @@ answer: 1,
 },
 
 {
-question: "A083:  富士山の火山(かつどう)を調査する。",
+id: "A083",
+question: " 富士山の火山(かつどう)を調査する。",
 choice1: "舌動",
 choice2: "活働",
 choice3: "活動",
@@ -664,7 +746,8 @@ answer: 3,
 },
 
 {
-question: "A084: 昔は(すいせん)トイレがめずらしかった。",
+id: "A084",
+question: "昔は(すいせん)トイレがめずらしかった。",
 choice1: "水洗",
 choice2: "氷洗",
 choice3: "水先",
@@ -672,14 +755,16 @@ answer: 1,
 },
 
 {
-question: "A085: 食器をきれいに(あらう)。",
+id: "A085",
+question: "食器をきれいに(あらう)。",
 choice1: "先う",
 choice2: "洗う",
 choice3: "荒う",
 answer: 2,
 },
 {
-question: "A086: (風袋)込みで 5 キロある。",
+id: "A086",
+question: "(風袋)込みで 5 キロある。",
 choice1: "ふたい",
 choice2: "ふうたい",
 choice3: "かぜぶくろ",
@@ -687,7 +772,8 @@ answer: 2,
 },
 
 {
-question: "A087: その女性は白い(手袋)をはめた。",
+id: "A087",
+question: "その女性は白い(手袋)をはめた。",
 choice1: "しゅぶくろ",
 choice2: "てぶくろ",
 choice3: "てふくろ",
@@ -695,7 +781,8 @@ answer: 2,
 },
 
 {
-question: "A088: (紙袋)をいただけますか？",
+id: "A088",
+question: "(紙袋)をいただけますか？",
 choice1: "かみぶくろ",
 choice2: "がみぶくろ",
 choice3: "かみふくろ",
@@ -703,7 +790,8 @@ answer: 1,
 },
 
 {
-question: "A089: 古い物を(捨てる)。",
+id: "A089",
+question: "古い物を(捨てる)。",
 choice1: "さてる",
 choice2: "してる",
 choice3: "すてる",
@@ -711,7 +799,8 @@ answer: 3,
 },
 
 {
-question: "A090: 一円以下は(四捨五入)してよろしい。",
+id: "A090",
+question: "一円以下は(四捨五入)してよろしい。",
 choice1: "しじゃごにゅう",
 choice2: "ししゃごにゅう",
 choice3: "しさごにゅう",
@@ -719,7 +808,8 @@ answer: 2,
 },
 
 {
-question: "A091: (燃料代)が高い。",
+id: "A091",
+question: "(燃料代)が高い。",
 choice1: "ねんりょだい",
 choice2: "ねんりょうだい",
 choice3: "ねんりょうたい",
@@ -727,7 +817,8 @@ answer: 2,
 },
 
 {
-question: "A092: 火を付けて物を(燃す)ことができる。",
+id: "A092",
+question: "火を付けて物を(燃す)ことができる。",
 choice1: "もす",
 choice2: "もえす",
 choice3: "もやす",
@@ -735,7 +826,8 @@ answer: 1,
 },
 
 {
-question: "A093: 証拠を(取捨選択)する。",
+id: "A093",
+question: "証拠を(取捨選択)する。",
 choice1: "しゅさせんたく",
 choice2: "しゅしゃせんたく",
 choice3: "しゅすせんたく",
@@ -743,7 +835,8 @@ answer: 2,
 },
 
 {
-question: "A094:  車の窓からたばこのすいがらを(投げ捨てる)。",
+id: "A094",
+question: " 車の窓からたばこのすいがらを(投げ捨てる)。",
 choice1: "なげさてる",
 choice2: "あげすてる",
 choice3: "なげすてる",
@@ -751,7 +844,8 @@ answer: 3,
 },
 
 {
-question: "A095: これは(可燃)物ではありません。",
+id: "A095",
+question: "これは(可燃)物ではありません。",
 choice1: "がねん",
 choice2: "かりょう",
 choice3: "かねん",
@@ -759,7 +853,8 @@ answer: 3,
 },
 
 {
-question: "A096: それを(燃やす)方法を考える。",
+id: "A096",
+question: "それを(燃やす)方法を考える。",
 choice1: "えやす",
 choice2: "もやす",
 choice3: "ねやす",
@@ -767,7 +862,8 @@ answer: 2,
 },
 
 {
-question: "A097: 彼は困っている友人を(見捨て)ることは出来なかった。",
+id: "A097",
+question: "彼は困っている友人を(見捨て)ることは出来なかった。",
 choice1: "みもてる",
 choice2: "みしゃてる",
 choice3: "みすてる",
@@ -775,7 +871,8 @@ answer: 3,
 },
 
 {
-question: "A098: (袋)の中に手を突っこむ。",
+id: "A098",
+question: "(袋)の中に手を突っこむ。",
 choice1: "ふくろ",
 choice2: "ぶくろ",
 choice3: "ふぐろ",
@@ -783,7 +880,8 @@ answer: 1,
 },
 
 {
-question: "A099: (拾得物)の数は毎年増えている。",
+id: "A099",
+question: "(拾得物)の数は毎年増えている。",
 choice1: "しゅとくぶつ",
 choice2: "しゅうとくぶつ",
 choice3: "しゅうどくもの",
@@ -791,7 +889,8 @@ answer: 2,
 },
 
 {
-question: "A100:  誕生日祝いのつつみに(拾万円)とかく。",
+id: "A100",
+question: " 誕生日祝いのつつみに(拾万円)とかく。",
 choice1: "しゅうまんえん",
 choice2: "しゅまんえん",
 choice3: "じゅうまんえん",
@@ -799,7 +898,8 @@ answer: 3,
 },
 
 {
-question: "A101: 私は(寝袋)でしばらく寝ていました。",
+id: "A101",
+question: "私は(寝袋)でしばらく寝ていました。",
 choice1: "ねぶくろ",
 choice2: "ねふくろ",
 choice3: "しんふくろ",
@@ -807,7 +907,8 @@ answer: 1,
 },
 
 {
-question: "A102: 紙はすぐに(燃える)。",
+id: "A102",
+question: "紙はすぐに(燃える)。",
 choice1: "まえる",
 choice2: "やえる",
 choice3: "もえる",
@@ -815,7 +916,8 @@ answer: 3,
 },
 
 {
-question: "A103: タクシーを(拾う)のに苦労したよ。",
+id: "A103",
+question: "タクシーを(拾う)のに苦労したよ。",
 choice1: "はらう",
 choice2: "ひろう",
 choice3: "ひげる",
@@ -823,7 +925,8 @@ answer: 2,
 },
 
 {
-question: "A104: 足袋はやはり白を用いる。",
+id: "A104",
+question: "足袋はやはり白を用いる。",
 choice1: "だび",
 choice2: "あしぶくろ",
 choice3: "たび",
@@ -831,7 +934,8 @@ answer: 3,
 },
 
 {
-question: "A105: (不燃性)の材料を用いて燃えにくくする。",
+id: "A105",
+question: "(不燃性)の材料を用いて燃えにくくする。",
 choice1: "ふねんぜい",
 choice2: "ふねんせい",
 choice3: "ぶねんぜい",
@@ -839,7 +943,8 @@ answer: 2,
 },
 
 {
-question: "A106: かいがんでかいを(ひろう)。",
+id: "A106",
+question: "かいがんでかいを(ひろう)。",
 choice1: "拾う",
 choice2: "捨う",
 choice3: "払う",
@@ -847,7 +952,8 @@ answer: 1,
 },
 
 {
-question: "A107: 結婚祝いのつつみに(じゅうまんえん)と書く。",
+id: "A107",
+question: "結婚祝いのつつみに(じゅうまんえん)と書く。",
 choice1: "捨万円",
 choice2: "拾万円",
 choice3: "十万円",
@@ -855,7 +961,8 @@ answer: 2,
 },
 
 {
-question: "A108: 小数点第一位を(ししゃごにゅう)する。",
+id: "A108",
+question: "小数点第一位を(ししゃごにゅう)する。",
 choice1: "四捨五入",
 choice2: "囚拾五入",
 choice3: "四社五入",
@@ -863,7 +970,8 @@ answer: 1,
 },
 
 {
-question: "A109: 落ち葉を集めて(もす)。",
+id: "A109",
+question: "落ち葉を集めて(もす)。",
 choice1: "熱す",
 choice2: "熟す",
 choice3: "燃す",
@@ -871,7 +979,8 @@ answer: 3,
 },
 
 {
-question: "A110: ことしがストーブの(ねんりょう)ひがたかい。",
+id: "A110",
+question: "ことしがストーブの(ねんりょう)ひがたかい。",
 choice1: "熱料",
 choice2: "燃料",
 choice3: "熟料",
@@ -879,7 +988,8 @@ answer: 2,
 },
 
 {
-question: "A111: 寒い日は(てぶくろ)をはめてでかける。",
+id: "A111",
+question: "寒い日は(てぶくろ)をはめてでかける。",
 choice1: "手装",
 choice2: "手表",
 choice3: "手袋",
@@ -887,7 +997,8 @@ answer: 3,
 },
 
 {
-question: "A112: かれにライバル心を(もやす)。",
+id: "A112",
+question: "かれにライバル心を(もやす)。",
 choice1: "燃す",
 choice2: "熱す",
 choice3: "燃やす",
@@ -895,7 +1006,8 @@ answer: 3,
 },
 
 {
-question: "A113:  かったしょうしんを(ふくろ)にいれてもらう。",
+id: "A113",
+question: " かったしょうしんを(ふくろ)にいれてもらう。",
 choice1: "装",
 choice2: "表",
 choice3: "袋",
@@ -903,7 +1015,8 @@ answer: 3,
 },
 
 {
-question: "A114: 古帽子を(なげすてる)。",
+id: "A114",
+question: "古帽子を(なげすてる)。",
 choice1: "扞げ捨てる",
 choice2: "打げ拾てる",
 choice3: "投げ捨てる",
@@ -911,7 +1024,8 @@ answer: 3,
 },
 
 {
-question: "A115:  (ふうたい)込みで5キロある。",
+id: "A115",
+question: " (ふうたい)込みで5キロある。",
 choice1: "風大",
 choice2: "風袋",
 choice3: "風対",
@@ -919,7 +1033,8 @@ answer: 2,
 },
 
 {
-question: "A116: (ねぶくろ)でしばらく寝ていました。",
+id: "A116",
+question: "(ねぶくろ)でしばらく寝ていました。",
 choice1: "根袋",
 choice2: "寝袋",
 choice3: "値装",
@@ -927,7 +1042,8 @@ answer: 2,
 },
 
 {
-question: "A117: (ふねんせい)ごみの回収は毎週火曜日です。",
+id: "A117",
+question: "(ふねんせい)ごみの回収は毎週火曜日です。",
 choice1: "不燃性",
 choice2: "不熱生",
 choice3: "不燃姓",
@@ -935,7 +1051,8 @@ answer: 1,
 },
 
 {
-question: "A118: これは(かねん)ものではありません。",
+id: "A118",
+question: "これは(かねん)ものではありません。",
 choice1: "化燃",
 choice2: "可燃",
 choice3: "可撚",
@@ -943,7 +1060,8 @@ answer: 2,
 },
 
 {
-question: "A119: しょうこを(しゅしゃせんたく)する。",
+id: "A119",
+question: "しょうこを(しゅしゃせんたく)する。",
 choice1: "取拾選択",
 choice2: "取捨選択",
 choice3: "取捨洗濯",
@@ -951,7 +1069,8 @@ answer: 2,
 },
 
 {
-question: "A120: 雨にぬれて(かみぶくろ)がやぶれそうだ。",
+id: "A120",
+question: "雨にぬれて(かみぶくろ)がやぶれそうだ。",
 choice1: "紙袋",
 choice2: "組表",
 choice3: "給袋",
@@ -959,7 +1078,8 @@ answer: 1,
 },
 
 {
-question: "A121: あなたはなぜそれを(みすて)るのですか。",
+id: "A121",
+question: "あなたはなぜそれを(みすて)るのですか。",
 choice1: "貝捨てる",
 choice2: "具拾てる",
 choice3: "見捨てる",
@@ -967,7 +1087,8 @@ answer: 3,
 },
 
 {
-question: "A122:  いらなくなった書類を(すてる)。",
+id: "A122",
+question: " いらなくなった書類を(すてる)。",
 choice1: "捨てる",
 choice2: "拾てる",
 choice3: "拮てる",
@@ -975,7 +1096,8 @@ answer: 1,
 },
 
 {
-question: "A123: じでとなりのアパートが(もえた)。",
+id: "A123",
+question: "じでとなりのアパートが(もえた)。",
 choice1: "撚えた",
 choice2: "燃えた",
 choice3: "然えた",
@@ -983,7 +1105,8 @@ answer: 2,
 },
 
 {
-question: "A124: (しゅうとくぶつ)を交番にとどけた。",
+id: "A124",
+question: "(しゅうとくぶつ)を交番にとどけた。",
 choice1: "捨得物",
 choice2: "拾得物",
 choice3: "拾律物",
@@ -991,14 +1114,16 @@ answer: 2,
 },
 
 {
-question: "A125: (たび)はやはり白を用いる。",
+id: "A125",
+question: "(たび)はやはり白を用いる。",
 choice1: "度",
 choice2: "足袋",
 choice3: "旅",
 answer: 2,
 },
 {
-question: "A126: 火(曜日)の後は何(曜日)？",
+id: "A126",
+question: "火(曜日)の後は何(曜日)？",
 choice1: "よくび",
 choice2: "ようび",
 choice3: "よび",
@@ -1006,7 +1131,8 @@ answer: 2,
 },
 
 {
-question: "A127: 親というものは(末っ子)を可愛がるものだ。",
+id: "A127",
+question: "親というものは(末っ子)を可愛がるものだ。",
 choice1: "ますっこ",
 choice2: "すえっこ",
 choice3: "まっこ",
@@ -1014,7 +1140,8 @@ answer: 2,
 },
 
 {
-question: "A128: 彼の課題の期限は(翌月)です。",
+id: "A128",
+question: "彼の課題の期限は(翌月)です。",
 choice1: "よくげつ",
 choice2: "よくがつ",
 choice3: "ようげつ",
@@ -1022,7 +1149,8 @@ answer: 1,
 },
 
 {
-question: "A129: (週末)は何をするの？。",
+id: "A129",
+question: "(週末)は何をするの？。",
 choice1: "しゅまつ",
 choice2: "じゅうまつ",
 choice3: "しゅうまつ",
@@ -1030,7 +1158,8 @@ answer: 3,
 },
 
 {
-question: "A130: 私は(昨年)末にバンクーバーに旅行に行きました。",
+id: "A130",
+question: "私は(昨年)末にバンクーバーに旅行に行きました。",
 choice1: "さっくねん",
 choice2: "さくねん",
 choice3: "ざくねん",
@@ -1038,7 +1167,8 @@ answer: 2,
 },
 
 {
-question: "A131: (昨夜)火事に出られた。",
+id: "A131",
+question: "(昨夜)火事に出られた。",
 choice1: "ざくや",
 choice2: "さくや",
 choice3: "さくよる",
@@ -1046,7 +1176,8 @@ answer: 2,
 },
 
 {
-question: "A132: (年末)は日本にいません。",
+id: "A132",
+question: "(年末)は日本にいません。",
 choice1: "ねんまつ",
 choice2: "としまつ",
 choice3: "ねまつ",
@@ -1054,7 +1185,8 @@ answer: 1,
 },
 
 {
-question: "A133: 兄弟中の(末子)だ。",
+id: "A133",
+question: "兄弟中の(末子)だ。",
 choice1: "はっし",
 choice2: "ばっし",
 choice3: "まし",
@@ -1062,7 +1194,8 @@ answer: 2,
 },
 
 {
-question: "A134: 彼は(昨日)ニューヨークにいましたか。",
+id: "A134",
+question: "彼は(昨日)ニューヨークにいましたか。",
 choice1: "きよう",
 choice2: "さくび",
 choice3: "きのう",
@@ -1070,7 +1203,8 @@ answer: 3,
 },
 
 {
-question: "A135: (期末)試験を受ける。",
+id: "A135",
+question: "(期末)試験を受ける。",
 choice1: "ぎまつ",
 choice2: "きまつ",
 choice3: "きすえ",
@@ -1078,7 +1212,8 @@ answer: 2,
 },
 
 {
-question: "A136: (昨日)は嫌な天気だった。",
+id: "A136",
+question: "(昨日)は嫌な天気だった。",
 choice1: "さくび",
 choice2: "さくひ",
 choice3: "さくじつ",
@@ -1086,7 +1221,8 @@ answer: 3,
 },
 
 {
-question: "A137: この小説の(結末)に感動した。",
+id: "A137",
+question: "この小説の(結末)に感動した。",
 choice1: "けつまつ",
 choice2: "けっまつ",
 choice3: "げっまつ",
@@ -1094,7 +1230,8 @@ answer: 1,
 },
 
 {
-question: "A138: 私は(翌日)学校に行く必要がない。",
+id: "A138",
+question: "私は(翌日)学校に行く必要がない。",
 choice1: "ようじつ",
 choice2: "よくじつ",
 choice3: "よくび",
@@ -1102,7 +1239,8 @@ answer: 2,
 },
 
 {
-question: "A139: 1(月末)でこの仕事を辞めます。",
+id: "A139",
+question: "1(月末)でこの仕事を辞めます。",
 choice1: "げつまつ",
 choice2: "けつまつ",
 choice3: "けっまつ",
@@ -1110,7 +1248,8 @@ answer: 1,
 },
 
 {
-question: "A140: これは私が(一昨)日買ったりんごです。",
+id: "A140",
+question: "これは私が(一昨)日買ったりんごです。",
 choice1: "いととい",
 choice2: "おとどい",
 choice3: "おととい",
@@ -1118,7 +1257,8 @@ answer: 3,
 },
 
 {
-question: "A141: 彼は(昨晩)帰ってきた。",
+id: "A141",
+question: "彼は(昨晩)帰ってきた。",
 choice1: "よくばん",
 choice2: "きばん",
 choice3: "さくばん",
@@ -1126,7 +1266,8 @@ answer: 3,
 },
 
 {
-question: "A142:  (月曜日)に休みます。",
+id: "A142",
+question: " (月曜日)に休みます。",
 choice1: "げつようび",
 choice2: "けつようび",
 choice3: "にちようび",
@@ -1134,7 +1275,8 @@ answer: 1,
 },
 
 {
-question: "A143: 私の同僚は(一昨年)の12月に結婚しました",
+id: "A143",
+question: "私の同僚は(一昨年)の12月に結婚しました",
 choice1: "いちさくねん",
 choice2: "いっさくねん",
 choice3: "いっさくじつ",
@@ -1142,7 +1284,8 @@ answer: 2,
 },
 
 {
-question: "A144: (翌朝)特別に早起きをした。",
+id: "A144",
+question: "(翌朝)特別に早起きをした。",
 choice1: "よくちょう",
 choice2: "ようちょう",
 choice3: "よくあさ",
@@ -1150,7 +1293,8 @@ answer: 1,
 },
 
 {
-question: "A145: 結婚した(翌年)に女の子が生まれた。",
+id: "A145",
+question: "結婚した(翌年)に女の子が生まれた。",
 choice1: "らいねん",
 choice2: "よくねん",
 choice3: "よくとし",
@@ -1158,14 +1302,16 @@ answer: 3,
 },
 
 {
-question: "A146: そんなことは(末)の末だ。",
+id: "A146",
+question: "そんなことは(末)の末だ。",
 choice1: "ばつ",
 choice2: "まつ",
 choice3: "すえ",
 answer: 3,
 },
 {
-question: "A147: やすみは(にちようび)しかない。",
+id: "A147",
+question: "やすみは(にちようび)しかない。",
 choice1: "日曜日",
 choice2: "日濯日",
 choice3: "日曜目",
@@ -1173,7 +1319,8 @@ answer: 1,
 },
 
 {
-question: "A148: 事件の以外な(けつまつ)を知った。",
+id: "A148",
+question: "事件の以外な(けつまつ)を知った。",
 choice1: "結未",
 choice2: "結末",
 choice3: "経末",
@@ -1181,7 +1328,8 @@ answer: 2,
 },
 
 {
-question: "A149: (さくばん)、父がおそく帰ってきた。",
+id: "A149",
+question: "(さくばん)、父がおそく帰ってきた。",
 choice1: "昨晩",
 choice2: "作番",
 choice3: "昨免",
@@ -1189,7 +1337,8 @@ answer: 1,
 },
 
 {
-question: "A150: あした、(きまつ)テストがおこなわれる。",
+id: "A150",
+question: "あした、(きまつ)テストがおこなわれる。",
 choice1: "基未",
 choice2: "棋末",
 choice3: "期末",
@@ -1197,7 +1346,8 @@ answer: 3,
 },
 
 {
-question: "A151: ごぜんちゅうに出せば、(よくちょう)にとどく。",
+id: "A151",
+question: "ごぜんちゅうに出せば、(よくちょう)にとどく。",
 choice1: "竪朝",
 choice2: "翌朝",
 choice3: "翌調",
@@ -1205,7 +1355,8 @@ answer: 2,
 },
 
 {
-question: "A152: (しゅうまつ)はたいてい家でゆっくり休む。",
+id: "A152",
+question: "(しゅうまつ)はたいてい家でゆっくり休む。",
 choice1: "週未",
 choice2: "周末",
 choice3: "週末",
@@ -1213,7 +1364,8 @@ answer: 3,
 },
 
 {
-question: "A153: 今月、(すえ)に、かぞくが日本に遊びに来る。",
+id: "A153",
+question: "今月、(すえ)に、かぞくが日本に遊びに来る。",
 choice1: "木",
 choice2: "未",
 choice3: "末",
@@ -1221,7 +1373,8 @@ answer: 3,
 },
 
 {
-question: "A154:  (さくねん)、むすめがけっこんした。",
+id: "A154",
+question: " (さくねん)、むすめがけっこんした。",
 choice1: "昨牛",
 choice2: "作年",
 choice3: "昨年",
@@ -1229,7 +1382,8 @@ answer: 3,
 },
 
 {
-question: "A155: はたらける(ようび)をおしえてください。",
+id: "A155",
+question: "はたらける(ようび)をおしえてください。",
 choice1: "濯目",
 choice2: "濯日",
 choice3: "曜日",
@@ -1237,7 +1391,8 @@ answer: 3,
 },
 
 {
-question: "A156:  (ねんまつ)は海外ですごす予定だ。",
+id: "A156",
+question: " (ねんまつ)は海外ですごす予定だ。",
 choice1: "年未",
 choice2: "年末",
 choice3: "牛末",
@@ -1245,7 +1400,8 @@ answer: 2,
 },
 
 {
-question: "A157: わたしは三人兄弟の(すえっこ)です。",
+id: "A157",
+question: "わたしは三人兄弟の(すえっこ)です。",
 choice1: "未っ子",
 choice2: "末っ子",
 choice3: "木っ子",
@@ -1253,7 +1409,8 @@ answer: 2,
 },
 
 {
-question: "A158: (よくとし)、かれはやっと大学を卒業した。",
+id: "A158",
+question: "(よくとし)、かれはやっと大学を卒業した。",
 choice1: "翌年",
 choice2: "竪年",
 choice3: "翌牛",
@@ -1261,7 +1418,8 @@ answer: 1,
 },
 
 {
-question: "A159:  (おととい)、てんきはよくなった。",
+id: "A159",
+question: " (おととい)、てんきはよくなった。",
 choice1: "昨日",
 choice2: "一昨日",
 choice3: "昨年",
@@ -1269,7 +1427,8 @@ answer: 2,
 },
 
 {
-question: "A160: 兄弟中の(まっし)だ。",
+id: "A160",
+question: "兄弟中の(まっし)だ。",
 choice1: "末子",
 choice2: "未子",
 choice3: "末予",
@@ -1277,7 +1436,8 @@ answer: 1,
 },
 
 {
-question: "A161: (きのう)は日曜日だった。",
+id: "A161",
+question: "(きのう)は日曜日だった。",
 choice1: "一作日",
 choice2: "作日",
 choice3: "昨日",
@@ -1285,7 +1445,8 @@ answer: 3,
 },
 
 {
-question: "A162: むすこはいっ(さくねん)の12月に結婚しました。",
+id: "A162",
+question: "むすこはいっ(さくねん)の12月に結婚しました。",
 choice1: "一昨年",
 choice2: "昨年",
 choice3: "去年",
@@ -1293,7 +1454,8 @@ answer: 3,
 },
 
 {
-question: "A163: 家賃は(よくげつ)の1日に払わないといけない。",
+id: "A163",
+question: "家賃は(よくげつ)の1日に払わないといけない。",
 choice1: "浴月",
 choice2: "翌日",
 choice3: "翌月",
@@ -1301,7 +1463,8 @@ answer: 1,
 },
 
 {
-question: "A164: 台風の(よくじつ)はいい天気だった。",
+id: "A164",
+question: "台風の(よくじつ)はいい天気だった。",
 choice1: "翌日",
 choice2: "翌月",
 choice3: "翌年",
@@ -1309,7 +1472,8 @@ answer: 1,
 },
 
 {
-question: "A165: (げつまつ)までにしゃっきんを返すつもりだ。",
+id: "A165",
+question: "(げつまつ)までにしゃっきんを返すつもりだ。",
 choice1: "月未",
 choice2: "月末",
 choice3: "角末",
@@ -1317,7 +1481,8 @@ answer: 2,
 },
 
 {
-question: "A166: (さくや)からねつが下がらない。",
+id: "A166",
+question: "(さくや)からねつが下がらない。",
 choice1: "作夜",
 choice2: "昨夜",
 choice3: "策屋",
@@ -1325,14 +1490,16 @@ answer: 2,
 },
 
 {
-question: "A167: (さくじつ)はありがとうございました。",
+id: "A167",
+question: "(さくじつ)はありがとうございました。",
 choice1: "昨日",
 choice2: "昨月",
 choice3: "昨年",
 answer: 1,
 },
 {
-question: "A168: 最近、(天気予報)がよく外れる？",
+id: "A168",
+question: "最近、(天気予報)がよく外れる？",
 choice1: "でんきよほう",
 choice2: "てんきよほう",
 choice3: "てんきようほ",
@@ -1340,7 +1507,8 @@ answer: 2,
 },
 
 {
-question: "A169: 夏休みの(予定)はある？",
+id: "A169",
+question: "夏休みの(予定)はある？",
 choice1: "ようて",
 choice2: "よてい",
 choice3: "よって",
@@ -1348,7 +1516,8 @@ answer: 2,
 },
 
 {
-question: "A170: 授業の(予習)をする。",
+id: "A170",
+question: "授業の(予習)をする。",
 choice1: "よしゅう",
 choice2: "ようしゅ",
 choice3: "ようしゅう",
@@ -1356,7 +1525,8 @@ answer: 1,
 },
 
 {
-question: "A171: 新しい方法を(用いる)。",
+id: "A171",
+question: "新しい方法を(用いる)。",
 choice1: "よちいる",
 choice2: "よいる",
 choice3: "もちいる",
@@ -1364,7 +1534,8 @@ answer: 3,
 },
 
 {
-question: "A172: 物価の上がり下がりは需要供給によって(定まる)。",
+id: "A172",
+question: "物価の上がり下がりは需要供給によって(定まる)。",
 choice1: "ざたまる",
 choice2: "さだまる",
 choice3: "ざだまる",
@@ -1372,7 +1543,8 @@ answer: 2,
 },
 
 {
-question: "A173: ホテルに部屋を(予約)する。",
+id: "A173",
+question: "ホテルに部屋を(予約)する。",
 choice1: "ようやくする",
 choice2: "よやくする",
 choice3: "よかくする",
@@ -1380,7 +1552,8 @@ answer: 2,
 },
 
 {
-question: "A174: この(利用)方法は何？",
+id: "A174",
+question: "この(利用)方法は何？",
 choice1: "りよう",
 choice2: "りうよ",
 choice3: "りよお",
@@ -1388,7 +1561,8 @@ answer: 1,
 },
 
 {
-question: "A175: 彼は(好事家)です。",
+id: "A175",
+question: "彼は(好事家)です。",
 choice1: "こずうか",
 choice2: "こうずか",
 choice3: "こうじか",
@@ -1396,7 +1570,8 @@ answer: 2,
 },
 
 {
-question: "A176: 下記のとおり法律で(定める)。",
+id: "A176",
+question: "下記のとおり法律で(定める)。",
 choice1: "ざかめる",
 choice2: "ていめる",
 choice3: "さだめる",
@@ -1404,7 +1579,8 @@ answer: 3,
 },
 
 {
-question: "A177: お(勘定)をしてください。",
+id: "A177",
+question: "お(勘定)をしてください。",
 choice1: "かんてい",
 choice2: "かんじょう",
 choice3: "かんぼう",
@@ -1412,7 +1588,8 @@ answer: 2,
 },
 
 {
-question: "A178: (仕事)を始めよう。",
+id: "A178",
+question: "(仕事)を始めよう。",
 choice1: "しこと",
 choice2: "しじ",
 choice3: "しごと",
@@ -1420,7 +1597,8 @@ answer: 3,
 },
 
 {
-question: "A179: 私はあなたを(大事)にする。",
+id: "A179",
+question: "私はあなたを(大事)にする。",
 choice1: "だいじ",
 choice2: "だいこと",
 choice3: "たいじ",
@@ -1428,7 +1606,8 @@ answer: 1,
 },
 
 {
-question: "A180: 私が勤めている会社の(定休日)は木曜日です。",
+id: "A180",
+question: "私が勤めている会社の(定休日)は木曜日です。",
 choice1: "じょうきゅうび",
 choice2: "ていきゅうび",
 choice3: "さだきゅうび",
@@ -1436,7 +1615,8 @@ answer: 2,
 },
 
 {
-question: "A181: 彼は(用事)で出かけた。",
+id: "A181",
+question: "彼は(用事)で出かけた。",
 choice1: "ようじ",
 choice2: "よじ",
 choice3: "よこと",
@@ -1444,7 +1624,8 @@ answer: 1,
 },
 
 {
-question: "A182: その文には(定規)できちんと下線が引いてあった。",
+id: "A182",
+question: "その文には(定規)できちんと下線が引いてあった。",
 choice1: "ていき",
 choice2: "ていぎ",
 choice3: "じょうぎ",
@@ -1452,7 +1633,8 @@ answer: 3,
 },
 
 {
-question: "A183: 食卓の(用意)をする。",
+id: "A183",
+question: "食卓の(用意)をする。",
 choice1: "ようみ",
 choice2: "もちい",
 choice3: "ようい",
@@ -1460,7 +1642,8 @@ answer: 3,
 },
 
 {
-question: "A184: あなたはどんな(習い事)をしたことがありますか。",
+id: "A184",
+question: "あなたはどんな(習い事)をしたことがありますか。",
 choice1: "ならいごと",
 choice2: "ならいこと",
 choice3: "ならいじ",
@@ -1468,7 +1651,8 @@ answer: 1,
 },
 
 {
-question: "A185: 面接情報の(用紙)を送ってくれない。",
+id: "A185",
+question: "面接情報の(用紙)を送ってくれない。",
 choice1: "ようがみ",
 choice2: "ようし",
 choice3: "もちがみ",
@@ -1476,7 +1660,8 @@ answer: 2,
 },
 
 {
-question: "A186: 出生年も(定か)ではない。",
+id: "A186",
+question: "出生年も(定か)ではない。",
 choice1: "さだか",
 choice2: "ざだか",
 choice3: "ていか",
@@ -1484,7 +1669,8 @@ answer: 1,
 },
 
 {
-question: "A187: おいしく(食事)をする。",
+id: "A187",
+question: "おいしく(食事)をする。",
 choice1: "そくじ",
 choice2: "しょくこと",
 choice3: "しょくじ",
@@ -1492,7 +1678,8 @@ answer: 3,
 },
 
 {
-question: "A188: 彼は今年で(定年)だ。",
+id: "A188",
+question: "彼は今年で(定年)だ。",
 choice1: "じょうねん",
 choice2: "ていとし",
 choice3: "ていねん",
@@ -1500,7 +1687,8 @@ answer: 3,
 },
 
 {
-question: "A189: (事)が無事に運んでいる。",
+id: "A189",
+question: "(事)が無事に運んでいる。",
 choice1: "じ",
 choice2: "ごと",
 choice3: "こと",
@@ -1508,7 +1696,8 @@ answer: 3,
 },
 
 {
-question: "A190: (子供用)の浅いプール。",
+id: "A190",
+question: "(子供用)の浅いプール。",
 choice1: "こどもよ",
 choice2: "ごどもよう",
 choice3: "こどもよう",
@@ -1516,7 +1705,8 @@ answer: 3,
 },
 
 {
-question: "A191: その(工事)は進んでいる。",
+id: "A191",
+question: "その(工事)は進んでいる。",
 choice1: "こうじ",
 choice2: "こうごと",
 choice3: "こうし",
@@ -1524,7 +1714,8 @@ answer: 1,
 },
 
 {
-question: "A192: りょこうの(よてい)を決める",
+id: "A192",
+question: "りょこうの(よてい)を決める",
 choice1: "予定",
 choice2: "子定",
 choice3: "予疋",
@@ -1532,7 +1723,8 @@ answer: 1,
 },
 
 {
-question: "A193: きゅうな(ようじ)で外出する。",
+id: "A193",
+question: "きゅうな(ようじ)で外出する。",
 choice1: "用筆",
 choice2: "用事",
 choice3: "用聿",
@@ -1540,7 +1732,8 @@ answer: 2,
 },
 
 {
-question: "A194: このきかいは広く(もちい)られている。",
+id: "A194",
+question: "このきかいは広く(もちい)られている。",
 choice1: "用い",
 choice2: "冊い",
 choice3: "冉い",
@@ -1548,7 +1741,8 @@ answer: 1,
 },
 
 {
-question: "A195: テレビの(てんきよほう)をチェックする。",
+id: "A195",
+question: "テレビの(てんきよほう)をチェックする。",
 choice1: "夫気子報",
 choice2: "天気子報",
 choice3: "天気予報",
@@ -1556,7 +1750,8 @@ answer: 3,
 },
 
 {
-question: "A196: 父はらいねん、(ていねん)を迎える。",
+id: "A196",
+question: "父はらいねん、(ていねん)を迎える。",
 choice1: "疋年",
 choice2: "定年",
 choice3: "正年",
@@ -1564,7 +1759,8 @@ answer: 2,
 },
 
 {
-question: "A197: 毎日、じゅぎょうの(よしゅう)を行う。",
+id: "A197",
+question: "毎日、じゅぎょうの(よしゅう)を行う。",
 choice1: "用習",
 choice2: "子摺",
 choice3: "予習",
@@ -1572,7 +1768,8 @@ answer: 3,
 },
 
 {
-question: "A198: 彼はなかなか仕事が(さだまらない)。",
+id: "A198",
+question: "彼はなかなか仕事が(さだまらない)。",
 choice1: "疋まらない",
 choice2: "正まらない",
 choice3: "定まらない",
@@ -1580,7 +1777,8 @@ answer: 3,
 },
 
 {
-question: "A199: (ならいごと)をはじめる。",
+id: "A199",
+question: "(ならいごと)をはじめる。",
 choice1: "習い律",
 choice2: "摺い事",
 choice3: "習い事",
@@ -1588,7 +1786,8 @@ answer: 3,
 },
 
 {
-question: "A200: げんこう(ようし)に作文を書いた。",
+id: "A200",
+question: "げんこう(ようし)に作文を書いた。",
 choice1: "用氏",
 choice2: "冉紙",
 choice3: "用紙",
@@ -1596,7 +1795,8 @@ answer: 3,
 },
 
 {
-question: "A201: (だいじな)写真をしまっておく。",
+id: "A201",
+question: "(だいじな)写真をしまっておく。",
 choice1: "犬事な",
 choice2: "大事な",
 choice3: "大書",
@@ -1604,7 +1804,8 @@ answer: 2,
 },
 
 {
-question: "A202: (しょくじ)のじゅんびをする。",
+id: "A202",
+question: "(しょくじ)のじゅんびをする。",
 choice1: "良事",
 choice2: "食事",
 choice3: "食書",
@@ -1612,7 +1813,8 @@ answer: 2,
 },
 
 {
-question: "A203: でんき(こうじ)が行われる。",
+id: "A203",
+question: "でんき(こうじ)が行われる。",
 choice1: "工事",
 choice2: "工聿",
 choice3: "工字",
@@ -1620,7 +1822,8 @@ answer: 1,
 },
 
 {
-question: "A204: あの店の(ていきゅうび)は木曜日です。",
+id: "A204",
+question: "あの店の(ていきゅうび)は木曜日です。",
 choice1: "正休日",
 choice2: "定休日",
 choice3: "定木日",
@@ -1628,7 +1831,8 @@ answer: 2,
 },
 
 {
-question: "A205: 彼はなかなか(しごと)をさだまらない。",
+id: "A205",
+question: "彼はなかなか(しごと)をさだまらない。",
 choice1: "仕事",
 choice2: "士事",
 choice3: "仕聿",
@@ -1636,7 +1840,8 @@ answer: 1,
 },
 
 {
-question: "A206: (こと)の成り行きを見守る。",
+id: "A206",
+question: "(こと)の成り行きを見守る。",
 choice1: "書",
 choice2: "聿",
 choice3: "事",
@@ -1644,7 +1849,8 @@ answer: 3,
 },
 
 {
-question: "A207: (かんじょう)はいくらですか。",
+id: "A207",
+question: "(かんじょう)はいくらですか。",
 choice1: "勘定",
 choice2: "勧定",
 choice3: "潅正",
@@ -1652,7 +1858,8 @@ answer: 1,
 },
 
 {
-question: "A208: 学校のきそくを(さだめ)る。",
+id: "A208",
+question: "学校のきそくを(さだめ)る。",
 choice1: "定る",
 choice2: "正める",
 choice3: "定める",
@@ -1660,7 +1867,8 @@ answer: 3,
 },
 
 {
-question: "A209: しゅっせのためにひとを(りよう)する。",
+id: "A209",
+question: "しゅっせのためにひとを(りよう)する。",
 choice1: "理用",
 choice2: "利用",
 choice3: "料用",
@@ -1668,7 +1876,8 @@ answer: 2,
 },
 
 {
-question: "A210: 彼のいきさきは(さだか)ではない。",
+id: "A210",
+question: "彼のいきさきは(さだか)ではない。",
 choice1: "用か",
 choice2: "定か",
 choice3: "事か",
@@ -1676,7 +1885,8 @@ answer: 2,
 },
 
 {
-question: "A211: (こどもよう)のいすを買う。",
+id: "A211",
+question: "(こどもよう)のいすを買う。",
 choice1: "子供用",
 choice2: "予共用",
 choice3: "子共用",
@@ -1684,7 +1894,8 @@ answer: 1,
 },
 
 {
-question: "A212: (ようい)ができましたか。",
+id: "A212",
+question: "(ようい)ができましたか。",
 choice1: "用思",
 choice2: "容思",
 choice3: "用意",
@@ -1692,7 +1903,8 @@ answer: 3,
 },
 
 {
-question: "A213: このへやを(よやく)した。",
+id: "A213",
+question: "このへやを(よやく)した。",
 choice1: "予約",
 choice2: "予終",
 choice3: "子紀",
@@ -1700,7 +1912,8 @@ answer: 1,
 },
 
 {
-question: "A214: (こうずか)とはふうりゅうをこのむひと。",
+id: "A214",
+question: "(こうずか)とはふうりゅうをこのむひと。",
 choice1: "子事家",
 choice2: "好事家",
 choice3: "子事冢",
@@ -1708,14 +1921,16 @@ answer: 2,
 },
 
 {
-question: "A215: (じょうぎ)でせんをひく。",
+id: "A215",
+question: "(じょうぎ)でせんをひく。",
 choice1: "定義",
 choice2: "定規",
 choice3: "情儀",
 answer: 2,
 },
 {
-question: "A216: 恩知らずな態度を(取る)",
+id: "A216",
+question: "恩知らずな態度を(取る)",
 choice1: "しゅる",
 choice2: "とる",
 choice3: "きる",
@@ -1723,7 +1938,8 @@ answer: 2,
 },
 
 {
-question: "A217: 人の手を(引く)。",
+id: "A217",
+question: "人の手を(引く)。",
 choice1: "とく",
 choice2: "ひく",
 choice3: "きく",
@@ -1731,7 +1947,8 @@ answer: 2,
 },
 
 {
-question: "A218: 私の仕事は印鑑を(押す)ことです。",
+id: "A218",
+question: "私の仕事は印鑑を(押す)ことです。",
 choice1: "おす",
 choice2: "おうす",
 choice3: "おさえす",
@@ -1739,7 +1956,8 @@ answer: 1,
 },
 
 {
-question: "A219: 事実から結論を(引き出す)。",
+id: "A219",
+question: "事実から結論を(引き出す)。",
 choice1: "ときだす",
 choice2: "あきです",
 choice3: "ひきだす",
@@ -1747,7 +1965,8 @@ answer: 3,
 },
 
 {
-question: "A220: (押し入れ)の中のものを全部取り出した。",
+id: "A220",
+question: "(押し入れ)の中のものを全部取り出した。",
 choice1: "おしはいれ",
 choice2: "おしいれ",
 choice3: "おさえしいれ",
@@ -1755,7 +1974,8 @@ answer: 2,
 },
 
 {
-question: "A221: いくらかの(割り引き)をする",
+id: "A221",
+question: "いくらかの(割り引き)をする",
 choice1: "わりひき",
 choice2: "わりびき",
 choice3: "わりあき",
@@ -1763,7 +1983,8 @@ answer: 2,
 },
 
 {
-question: "A222: いろいろな手紙を(受け取る)。",
+id: "A222",
+question: "いろいろな手紙を(受け取る)。",
 choice1: "うけとる",
 choice2: "うけひる",
 choice3: "じゅけとる",
@@ -1771,7 +1992,8 @@ answer: 1,
 },
 
 {
-question: "A223: あなたの英語は(聞き取り)やすい。",
+id: "A223",
+question: "あなたの英語は(聞き取り)やすい。",
 choice1: "かきとり",
 choice2: "ききとり",
 choice3: "ききしゅり",
@@ -1779,7 +2001,8 @@ answer: 2,
 },
 
 {
-question: "A224: いすを前に(押し出す)。",
+id: "A224",
+question: "いすを前に(押し出す)。",
 choice1: "おしたす",
 choice2: "おさえしだす",
 choice3: "おしだす",
@@ -1787,7 +2010,8 @@ answer: 3,
 },
 
 {
-question: "A225: 彼はその事件の(取材)をしています。",
+id: "A225",
+question: "彼はその事件の(取材)をしています。",
 choice1: "しゅうざい",
 choice2: "とざい",
 choice3: "しゅざい",
@@ -1795,7 +2019,8 @@ answer: 3,
 },
 
 {
-question: "A226: 彼はその客に(強引)に買わせた。",
+id: "A226",
+question: "彼はその客に(強引)に買わせた。",
 choice1: "きょういん",
 choice2: "ごういん",
 choice3: "ぎょういん",
@@ -1803,7 +2028,8 @@ answer: 2,
 },
 
 {
-question: "A227: 人の不安を(消す)。",
+id: "A227",
+question: "人の不安を(消す)。",
 choice1: "きえす",
 choice2: "とす",
 choice3: "けす",
@@ -1811,7 +2037,8 @@ answer: 3,
 },
 
 {
-question: "A228: ここは狭いので(消防車)が入れない。",
+id: "A228",
+question: "ここは狭いので(消防車)が入れない。",
 choice1: "しょうぼうしゃ",
 choice2: "きぼうしゃ",
 choice3: "しょうぼしゃ",
@@ -1819,7 +2046,8 @@ answer: 1,
 },
 
 {
-question: "A229: あなたの(消しゴム)を私に貸してくれますか。",
+id: "A229",
+question: "あなたの(消しゴム)を私に貸してくれますか。",
 choice1: "としゴム",
 choice2: "けしゴム",
 choice3: "きえしゴム",
@@ -1827,7 +2055,8 @@ answer: 2,
 },
 
 {
-question: "A230: 木造部分へ(引火)することもある。",
+id: "A230",
+question: "木造部分へ(引火)することもある。",
 choice1: "きょうか",
 choice2: "ひか",
 choice3: "いんか",
@@ -1835,7 +2064,8 @@ answer: 3,
 },
 
 {
-question: "A231: ここに(押印する)。",
+id: "A231",
+question: "ここに(押印する)。",
 choice1: "おういん",
 choice2: "おすいん",
 choice3: "おいん",
@@ -1843,7 +2073,8 @@ answer: 1,
 },
 
 {
-question: "A232: 動けないようにしっかり(押さえる)。",
+id: "A232",
+question: "動けないようにしっかり(押さえる)。",
 choice1: "おうさえる",
 choice2: "きさえる",
 choice3: "おさえる",
@@ -1851,7 +2082,8 @@ answer: 3,
 },
 
 {
-question: "A233: これはあの本から(引用)しました。",
+id: "A233",
+question: "これはあの本から(引用)しました。",
 choice1: "いんし",
 choice2: "いんよう",
 choice3: "ひくよう",
@@ -1859,7 +2091,8 @@ answer: 2,
 },
 
 {
-question: "A234: 犯罪に関係する物は，(押収)することができる。",
+id: "A234",
+question: "犯罪に関係する物は，(押収)することができる。",
 choice1: "おういん",
 choice2: "おしゅう",
 choice3: "おうしゅう",
@@ -1867,7 +2100,8 @@ answer: 3,
 },
 
 {
-question: "A235: (消化)のよい食べ物。",
+id: "A235",
+question: "(消化)のよい食べ物。",
 choice1: "しょうか",
 choice2: "きえか",
 choice3: "しょか",
@@ -1875,7 +2109,8 @@ answer: 1,
 },
 
 {
-question: "A236: 箱からりんごを(取り出す)。",
+id: "A236",
+question: "箱からりんごを(取り出す)。",
 choice1: "しゅりだす",
 choice2: "とりだす",
 choice3: "とりです",
@@ -1883,7 +2118,8 @@ answer: 2,
 },
 
 {
-question: "A237: 学校は何時に(引ける)か。",
+id: "A237",
+question: "学校は何時に(引ける)か。",
 choice1: "ひける",
 choice2: "あける",
 choice3: "いける",
@@ -1891,7 +2127,8 @@ answer: 1,
 },
 
 {
-question: "A238: 私は大阪へ(引っ越し)た。",
+id: "A238",
+question: "私は大阪へ(引っ越し)た。",
 choice1: "ひっこうし",
 choice2: "ひっこし",
 choice3: "いんっこし",
@@ -1899,7 +2136,8 @@ answer: 2,
 },
 
 {
-question: "A239: (取り替える)ことが不可能である。",
+id: "A239",
+question: "(取り替える)ことが不可能である。",
 choice1: "ひりかえる",
 choice2: "とりがえる",
 choice3: "とりかえる",
@@ -1907,7 +2145,8 @@ answer: 3,
 },
 
 {
-question: "A240: 言ったことを(取り消す)。",
+id: "A240",
+question: "言ったことを(取り消す)。",
 choice1: "ひりけす",
 choice2: "とりきえす",
 choice3: "とりけす",
@@ -1915,7 +2154,8 @@ answer: 3,
 },
 
 {
-question: "A241: この薬で痛みが(消える)だろう。",
+id: "A241",
+question: "この薬で痛みが(消える)だろう。",
 choice1: "とえる",
 choice2: "しえる",
 choice3: "きえる",
@@ -1923,14 +2163,16 @@ answer: 3,
 },
 
 {
-question: "A242: この行が(消去)される。",
+id: "A242",
+question: "この行が(消去)される。",
 choice1: "しょうきょう",
 choice2: "ききょ",
 choice3: "しょうきょ",
 answer: 3,
 },
 {
-question: "A243: ボタンを(おして)、係の人をよぶ。",
+id: "A243",
+question: "ボタンを(おして)、係の人をよぶ。",
 choice1: "押して",
 choice2: "甲して",
 choice3: "抻して",
@@ -1938,7 +2180,8 @@ answer: 1,
 },
 
 {
-question: "A244: きずぐちをハンカチで(おさえた)。",
+id: "A244",
+question: "きずぐちをハンカチで(おさえた)。",
 choice1: "抻えた",
 choice2: "押さえた",
 choice3: "早さえた",
@@ -1946,7 +2189,8 @@ answer: 2,
 },
 
 {
-question: "A245: たばこの火を(けす)。",
+id: "A245",
+question: "たばこの火を(けす)。",
 choice1: "消す",
 choice2: "硝す",
 choice3: "哨す",
@@ -1954,7 +2198,8 @@ answer: 1,
 },
 
 {
-question: "A246: 投げたボールを(とる)。",
+id: "A246",
+question: "投げたボールを(とる)。",
 choice1: "収る",
 choice2: "聴る",
 choice3: "取る",
@@ -1962,7 +2207,8 @@ answer: 3,
 },
 
 {
-question: "A247: 火がガソリンに(いんか)した。",
+id: "A247",
+question: "火がガソリンに(いんか)した。",
 choice1: "印火",
 choice2: "引火",
 choice3: "引化",
@@ -1970,7 +2216,8 @@ answer: 2,
 },
 
 {
-question: "A248: (しょうぼうしゃ)が十台出動した。",
+id: "A248",
+question: "(しょうぼうしゃ)が十台出動した。",
 choice1: "消坊車",
 choice2: "肖防車",
 choice3: "消防車",
@@ -1978,7 +2225,8 @@ answer: 3,
 },
 
 {
-question: "A249: 天ぷらは(しょうか)に悪い。",
+id: "A249",
+question: "天ぷらは(しょうか)に悪い。",
 choice1: "肖火",
 choice2: "消化",
 choice3: "消火",
@@ -1986,7 +2234,8 @@ answer: 2,
 },
 
 {
-question: "A250: ゆうめいな小説から(いんよう)する。",
+id: "A250",
+question: "ゆうめいな小説から(いんよう)する。",
 choice1: "印用",
 choice2: "印冊",
 choice3: "引用",
@@ -1994,7 +2243,8 @@ answer: 3,
 },
 
 {
-question: "A251: 忘年会の予約を(とりけす)。",
+id: "A251",
+question: "忘年会の予約を(とりけす)。",
 choice1: "取り肖す",
 choice2: "耶り消す",
 choice3: "取り消す",
@@ -2002,7 +2252,8 @@ answer: 3,
 },
 
 {
-question: "A252: 彼は(おしいれ)の中で寝ていました。",
+id: "A252",
+question: "彼は(おしいれ)の中で寝ていました。",
 choice1: "扞し入れ",
 choice2: "押し入れ",
 choice3: "抽し入れ",
@@ -2010,7 +2261,8 @@ answer: 2,
 },
 
 {
-question: "A253: あなたの英語は(ききとり)やすい。",
+id: "A253",
+question: "あなたの英語は(ききとり)やすい。",
 choice1: "間き取り",
 choice2: "聞き取り",
 choice3: "聞き耶り",
@@ -2018,7 +2270,8 @@ answer: 2,
 },
 
 {
-question: "A254: いくらかの(わりびき)をする。",
+id: "A254",
+question: "いくらかの(わりびき)をする。",
 choice1: "割り引き",
 choice2: "害り引き",
 choice3: "剖り引き",
@@ -2026,7 +2279,8 @@ answer: 1,
 },
 
 {
-question: "A255: この行が(しょうきょ)される。",
+id: "A255",
+question: "この行が(しょうきょ)される。",
 choice1: "肖去",
 choice2: "消去",
 choice3: "硝共",
@@ -2034,7 +2288,8 @@ answer: 2,
 },
 
 {
-question: "A256: (とりかえる)ことが不可能である。",
+id: "A256",
+question: "(とりかえる)ことが不可能である。",
 choice1: "取り返る",
 choice2: "取り替える",
 choice3: "取り代える",
@@ -2042,7 +2297,8 @@ answer: 2,
 },
 
 {
-question: "A257: 私は大阪へ(ひっこし)た。",
+id: "A257",
+question: "私は大阪へ(ひっこし)た。",
 choice1: "引っ越し",
 choice2: "引っ赴し",
 choice3: "強っ起し",
@@ -2050,7 +2306,8 @@ answer: 1,
 },
 
 {
-question: "A258: プロジェクトを(ごういん)に進める。",
+id: "A258",
+question: "プロジェクトを(ごういん)に進める。",
 choice1: "張引",
 choice2: "弥印",
 choice3: "強引",
@@ -2058,7 +2315,8 @@ answer: 3,
 },
 
 {
-question: "A259: この書類にはサインと(おういん)が必要だ。",
+id: "A259",
+question: "この書類にはサインと(おういん)が必要だ。",
 choice1: "押印",
 choice2: "抽邱",
 choice3: "抻印",
@@ -2066,7 +2324,8 @@ answer: 1,
 },
 
 {
-question: "A260: ろうろくの火が(きえる)。",
+id: "A260",
+question: "ろうろくの火が(きえる)。",
 choice1: "硝える",
 choice2: "消える",
 choice3: "肖える",
@@ -2074,7 +2333,8 @@ answer: 2,
 },
 
 {
-question: "A261: 新聞の(しゅざい)をうける。",
+id: "A261",
+question: "新聞の(しゅざい)をうける。",
 choice1: "聊材",
 choice2: "取材",
 choice3: "取村",
@@ -2082,7 +2342,8 @@ answer: 2,
 },
 
 {
-question: "A262: (けしゴム)をゆかにおとした。",
+id: "A262",
+question: "(けしゴム)をゆかにおとした。",
 choice1: "硝しゴム",
 choice2: "肖しゴム",
 choice3: "消しゴム",
@@ -2090,7 +2351,8 @@ answer: 3,
 },
 
 {
-question: "A263:  高いところはこしが(ひける)。",
+id: "A263",
+question: " 高いところはこしが(ひける)。",
 choice1: "消ける",
 choice2: "押ける",
 choice3: "引ける",
@@ -2098,7 +2360,8 @@ answer: 3,
 },
 
 {
-question: "A264: 銀行でお金を(ひきだす)。",
+id: "A264",
+question: "銀行でお金を(ひきだす)。",
 choice1: "引き出す",
 choice2: "消き出す",
 choice3: "取きだす",
@@ -2106,7 +2369,8 @@ answer: 1,
 },
 
 {
-question: "A265: 電車で背中を(おさえた)。",
+id: "A265",
+question: "電車で背中を(おさえた)。",
 choice1: "抻さえた",
 choice2: "押さえた",
 choice3: "弾さえた",
@@ -2114,7 +2378,8 @@ answer: 2,
 },
 
 {
-question: "A266: どこで荷物を(うけとる)のですか。",
+id: "A266",
+question: "どこで荷物を(うけとる)のですか。",
 choice1: "授け取る",
 choice2: "受け取る",
 choice3: "授け耶る",
@@ -2122,7 +2387,8 @@ answer: 2,
 },
 
 {
-question: "A267: うまのたづなを(ひく)。",
+id: "A267",
+question: "うまのたづなを(ひく)。",
 choice1: "引く",
 choice2: "弾く",
 choice3: "取く",
@@ -2130,7 +2396,8 @@ answer: 1,
 },
 
 {
-question: "A268: いすをまえに(おしだす)。",
+id: "A268",
+question: "いすをまえに(おしだす)。",
 choice1: "抻し出す",
 choice2: "押し出す",
 choice3: "推し出す",
@@ -2138,14 +2405,16 @@ answer: 2,
 },
 
 {
-question: "A269: せいふはみつゆひんを(おうしゅう)する。",
+id: "A269",
+question: "せいふはみつゆひんを(おうしゅう)する。",
 choice1: "押収",
 choice2: "押吸",
 choice3: "抻取",
 answer: 1,
 },
 {
-question: "A270: (石段)を上がると神社がある。",
+id: "A270",
+question: "(石段)を上がると神社がある。",
 choice1: "いしかい",
 choice2: "いしだん",
 choice3: "いじだん",
@@ -2153,7 +2422,8 @@ answer: 2,
 },
 
 {
-question: "A271: 今日は大家さんが(網戸)の修理にやってきます。",
+id: "A271",
+question: "今日は大家さんが(網戸)の修理にやってきます。",
 choice1: "くみど",
 choice2: "あみど",
 choice3: "あみと",
@@ -2161,7 +2431,8 @@ answer: 2,
 },
 
 {
-question: "A272: (窓)をちょっとあけなさい",
+id: "A272",
+question: "(窓)をちょっとあけなさい",
 choice1: "まど",
 choice2: "あど",
 choice3: "そう",
@@ -2169,7 +2440,8 @@ answer: 1,
 },
 
 {
-question: "A273: 実行は(段階)的に行われます。",
+id: "A273",
+question: "実行は(段階)的に行われます。",
 choice1: "たんがい",
 choice2: "かいだん",
 choice3: "だんかい",
@@ -2177,7 +2449,8 @@ answer: 3,
 },
 
 {
-question: "A274: (門戸)に錠をかける。",
+id: "A274",
+question: "(門戸)に錠をかける。",
 choice1: "もんご",
 choice2: "もんこ",
 choice3: "もんと",
@@ -2185,7 +2458,8 @@ answer: 2,
 },
 
 {
-question: "A275: 会社の(窓口)を教えて下さい。",
+id: "A275",
+question: "会社の(窓口)を教えて下さい。",
 choice1: "まとくち",
 choice2: "まどぐち",
 choice3: "まどくち",
@@ -2193,7 +2467,8 @@ answer: 2,
 },
 
 {
-question: "A276: 私の部屋は(六階)です。",
+id: "A276",
+question: "私の部屋は(六階)です。",
 choice1: "ろっかい",
 choice2: "ろくかい",
 choice3: "ろくがい",
@@ -2201,7 +2476,8 @@ answer: 1,
 },
 
 {
-question: "A277: (戸籍)や学籍などから除名する。",
+id: "A277",
+question: "(戸籍)や学籍などから除名する。",
 choice1: "こうせき",
 choice2: "こせき",
 choice3: "とせき",
@@ -2209,7 +2485,8 @@ answer: 2,
 },
 
 {
-question: "A278: 私たちは今度、(同窓会)をすることになった。",
+id: "A278",
+question: "私たちは今度、(同窓会)をすることになった。",
 choice1: "とうそうがい",
 choice2: "どうまどかい",
 choice3: "どうそうかい",
@@ -2217,7 +2494,8 @@ answer: 3,
 },
 
 {
-question: "A279: (戸棚)の中を空にする。",
+id: "A279",
+question: "(戸棚)の中を空にする。",
 choice1: "とたな",
 choice2: "こだな",
 choice3: "とだな",
@@ -2225,7 +2503,8 @@ answer: 3,
 },
 
 {
-question: "A280: これは(値段)が高すぎます。",
+id: "A280",
+question: "これは(値段)が高すぎます。",
 choice1: "ねかい",
 choice2: "ねだん",
 choice3: "ねんだん",
@@ -2233,7 +2512,8 @@ answer: 2,
 },
 
 {
-question: "A281: 私は気分を晴らそうと(車窓)から景色を見つめた。",
+id: "A281",
+question: "私は気分を晴らそうと(車窓)から景色を見つめた。",
 choice1: "しゃまど",
 choice2: "くるままど",
 choice3: "しゃそう",
@@ -2241,7 +2521,8 @@ answer: 3,
 },
 
 {
-question: "A282: この(井戸水)は飲んでも大丈夫です。",
+id: "A282",
+question: "この(井戸水)は飲んでも大丈夫です。",
 choice1: "いどみず",
 choice2: "いとみず",
 choice3: "いこみず",
@@ -2249,7 +2530,8 @@ answer: 1,
 },
 
 {
-question: "A283: 二(階)建てのバス。",
+id: "A283",
+question: "二(階)建てのバス。",
 choice1: "がい",
 choice2: "かい",
 choice3: "ばい",
@@ -2257,7 +2539,8 @@ answer: 2,
 },
 
 {
-question: "A284: 思い切った(手段)をとる。",
+id: "A284",
+question: "思い切った(手段)をとる。",
 choice1: "しゅかい",
 choice2: "てしゅ",
 choice3: "しゅだん",
@@ -2265,7 +2548,8 @@ answer: 3,
 },
 
 {
-question: "A285: (戸)がギューとあく。",
+id: "A285",
+question: "(戸)がギューとあく。",
 choice1: "と",
 choice2: "とう",
 choice3: "こ",
@@ -2273,7 +2557,8 @@ answer: 1,
 },
 
 {
-question: "A286: あなたは(一戸建て)とアパートのどちらが好みですか",
+id: "A286",
+question: "あなたは(一戸建て)とアパートのどちらが好みですか",
 choice1: "いっとだて",
 choice2: "いちこだて",
 choice3: "いっこだて",
@@ -2281,7 +2566,8 @@ answer: 3,
 },
 
 {
-question: "A287: (階段)に気をつけて。",
+id: "A287",
+question: "(階段)に気をつけて。",
 choice1: "だんかい",
 choice2: "かいだん",
 choice3: "がいだん",
@@ -2289,7 +2575,8 @@ answer: 2,
 },
 
 {
-question: "A288: 彼は(普段)７時に起きる。",
+id: "A288",
+question: "彼は(普段)７時に起きる。",
 choice1: "ふたん",
 choice2: "ふうだん",
 choice3: "ふだん",
@@ -2297,7 +2584,8 @@ answer: 3,
 },
 
 {
-question: "A289: (と)がしまる",
+id: "A289",
+question: "(と)がしまる",
 choice1: "戸",
 choice2: "尸",
 choice3: "声",
@@ -2305,7 +2593,8 @@ answer: 1,
 },
 
 {
-question: "A290:(まど)ガラスをきれいにふく。",
+id: "A290",
+question: "(まど)ガラスをきれいにふく。",
 choice1: "密",
 choice2: "窓",
 choice3: "念",
@@ -2313,7 +2602,8 @@ answer: 2,
 },
 
 {
-question: "A291: パソコン売り場が(ろっかい)です。",
+id: "A291",
+question: "パソコン売り場が(ろっかい)です。",
 choice1: "六階",
 choice2: "六皆",
 choice3: "六段",
@@ -2321,7 +2611,8 @@ answer: 1,
 },
 
 {
-question: "A292: (あみど)のおかげで虫が入らない。",
+id: "A292",
+question: "(あみど)のおかげで虫が入らない。",
 choice1: "綢尸",
 choice2: "綯戸",
 choice3: "網戸",
@@ -2329,7 +2620,8 @@ answer: 3,
 },
 
 {
-question: "A293: 神社の(いしだん)を上る。",
+id: "A293",
+question: "神社の(いしだん)を上る。",
 choice1: "右段",
 choice2: "石段",
 choice3: "石役",
@@ -2337,7 +2629,8 @@ answer: 2,
 },
 
 {
-question: "A294: 外国に(もんこ)をひらく。",
+id: "A294",
+question: "外国に(もんこ)をひらく。",
 choice1: "門声",
 choice2: "間尸",
 choice3: "門戸",
@@ -2345,7 +2638,8 @@ answer: 3,
 },
 
 {
-question: "A295: ゆっくり(かいだん)をくだる。",
+id: "A295",
+question: "ゆっくり(かいだん)をくだる。",
 choice1: "皆段",
 choice2: "段階",
 choice3: "階段",
@@ -2353,7 +2647,8 @@ answer: 3,
 },
 
 {
-question: "A296: (いどみず)をのむ。",
+id: "A296",
+question: "(いどみず)をのむ。",
 choice1: "井戸泳",
 choice2: "丼戸水",
 choice3: "井戸水",
@@ -2361,7 +2656,8 @@ answer: 3,
 },
 
 {
-question: "A297: (どうそうかい)にでる。",
+id: "A297",
+question: "(どうそうかい)にでる。",
 choice1: "同念絵",
 choice2: "司窓絵",
 choice3: "同窓会",
@@ -2369,7 +2665,8 @@ answer: 3,
 },
 
 {
-question: "A298: (しゃそう)からのながめは最高だった。",
+id: "A298",
+question: "(しゃそう)からのながめは最高だった。",
 choice1: "軍窓",
 choice2: "車窓",
 choice3: "車念",
@@ -2377,7 +2674,8 @@ answer: 2,
 },
 
 {
-question: "A299: (いっこだて)を建てる。",
+id: "A299",
+question: "(いっこだて)を建てる。",
 choice1: "一戸筆て",
 choice2: "一戸建て",
 choice3: "一尸聿て",
@@ -2385,7 +2683,8 @@ answer: 2,
 },
 
 {
-question: "A300: エレベーターがよん(かい)にとまった。",
+id: "A300",
+question: "エレベーターがよん(かい)にとまった。",
 choice1: "階",
 choice2: "陛",
 choice3: "阪",
@@ -2393,7 +2692,8 @@ answer: 1,
 },
 
 {
-question: "A301: 銀行の(まどぐち)でてつづきをする。",
+id: "A301",
+question: "銀行の(まどぐち)でてつづきをする。",
 choice1: "念口",
 choice2: "窓口",
 choice3: "密口",
@@ -2401,7 +2701,8 @@ answer: 2,
 },
 
 {
-question: "A302: (ふだん)夕食後に何をしているの？",
+id: "A302",
+question: "(ふだん)夕食後に何をしているの？",
 choice1: "普役",
 choice2: "普段",
 choice3: "善段",
@@ -2409,7 +2710,8 @@ answer: 2,
 },
 
 {
-question: "A303: もくてきのためには(しゅだん)を選ばない。",
+id: "A303",
+question: "もくてきのためには(しゅだん)を選ばない。",
 choice1: "手段",
 choice2: "手役",
 choice3: "手没",
@@ -2417,7 +2719,8 @@ answer: 1,
 },
 
 {
-question: "A304: それは(ねだん)が高くなった。",
+id: "A304",
+question: "それは(ねだん)が高くなった。",
 choice1: "直殳",
 choice2: "直段",
 choice3: "値段",
@@ -2425,7 +2728,8 @@ answer: 3,
 },
 
 {
-question: "A305: (こせき)を調べる。",
+id: "A305",
+question: "(こせき)を調べる。",
 choice1: "戸籍",
 choice2: "声箱",
 choice3: "尸積",
@@ -2433,7 +2737,8 @@ answer: 1,
 },
 
 {
-question: "A306: 皿を(とだな)へしまってくれますか。",
+id: "A306",
+question: "皿を(とだな)へしまってくれますか。",
 choice1: "尸枇",
 choice2: "戸棚",
 choice3: "戸枷",
@@ -2441,7 +2746,8 @@ answer: 2,
 },
 
 {
-question: "A307: (だんかい)をおって説明する。",
+id: "A307",
+question: "(だんかい)をおって説明する。",
 choice1: "階段",
 choice2: "段階",
 choice3: "段皆",
@@ -2449,7 +2755,8 @@ answer: 2,
 },
 
 {
-question: "A308: 庭に木を(植える)",
+id: "A308",
+question: "庭に木を(植える)",
 choice1: "おえる",
 choice2: "うえる",
 choice3: "きえる",
@@ -2457,7 +2764,8 @@ answer: 2,
 },
 
 {
-question: "A309: 秋は果物が(実る)。",
+id: "A309",
+question: "秋は果物が(実る)。",
 choice1: "じつる",
 choice2: "みのる",
 choice3: "みる",
@@ -2465,7 +2773,8 @@ answer: 2,
 },
 
 {
-question: "A310: 木の(葉)は赤くなった。",
+id: "A310",
+question: "木の(葉)は赤くなった。",
 choice1: "は",
 choice2: "ば",
 choice3: "げ",
@@ -2473,7 +2782,8 @@ answer: 1,
 },
 
 {
-question: "A311: (植木)などに水をあたえる。",
+id: "A311",
+question: "(植木)などに水をあたえる。",
 choice1: "うえもく",
 choice2: "こんき",
 choice3: "うえき",
@@ -2481,7 +2791,8 @@ answer: 3,
 },
 
 {
-question: "A312: 君に(根気)負けした。",
+id: "A312",
+question: "君に(根気)負けした。",
 choice1: "こんぎ",
 choice2: "こんき",
 choice3: "うえき",
@@ -2489,7 +2800,8 @@ answer: 2,
 },
 
 {
-question: "A313: (根本)的に改革する。",
+id: "A313",
+question: "(根本)的に改革する。",
 choice1: "こんほん",
 choice2: "こんぽん",
 choice3: "ねほん",
@@ -2497,7 +2809,8 @@ answer: 2,
 },
 
 {
-question: "A314: 彼はその土地の(入植)者だった。",
+id: "A314",
+question: "彼はその土地の(入植)者だった。",
 choice1: "にゅうしょく",
 choice2: "にゅうそく",
 choice3: "にゅうじょく",
@@ -2505,7 +2818,8 @@ answer: 1,
 },
 
 {
-question: "A315: 今は(実力)の時代だ。",
+id: "A315",
+question: "今は(実力)の時代だ。",
 choice1: "みりょく",
 choice2: "じつりょく",
 choice3: "みちから",
@@ -2513,7 +2827,8 @@ answer: 2,
 },
 
 {
-question: "A316: 桜が(植わって)いた。",
+id: "A316",
+question: "桜が(植わって)いた。",
 choice1: "しょくわって",
 choice2: "うえわって",
 choice3: "うわって",
@@ -2521,7 +2836,8 @@ answer: 3,
 },
 
 {
-question: "A317: (事実)が明らかになった。",
+id: "A317",
+question: "(事実)が明らかになった。",
 choice1: "ことじつ",
 choice2: "じしつ",
 choice3: "じじつ",
@@ -2529,7 +2845,8 @@ answer: 3,
 },
 
 {
-question: "A318: 彼に反対する(根拠)がない。",
+id: "A318",
+question: "彼に反対する(根拠)がない。",
 choice1: "こんきょう",
 choice2: "こんきょ",
 choice3: "ごんぎょう",
@@ -2537,7 +2854,8 @@ answer: 2,
 },
 
 {
-question: "A319: 彼女の夢は(実現)した。",
+id: "A319",
+question: "彼女の夢は(実現)した。",
 choice1: "みのげん",
 choice2: "じっげん",
 choice3: "じつげん",
@@ -2545,7 +2863,8 @@ answer: 3,
 },
 
 {
-question: "A320: (植物)だけを食べる。",
+id: "A320",
+question: "(植物)だけを食べる。",
 choice1: "しょくぶつ",
 choice2: "ねぶつ",
 choice3: "しょくもの",
@@ -2553,7 +2872,8 @@ answer: 1,
 },
 
 {
-question: "A321: (落ち葉)を集めてたき火をする。",
+id: "A321",
+question: "(落ち葉)を集めてたき火をする。",
 choice1: "うちは",
 choice2: "おちば",
 choice3: "おちは",
@@ -2561,7 +2881,8 @@ answer: 2,
 },
 
 {
-question: "A322: (紅葉)を見に行きたい。",
+id: "A322",
+question: "(紅葉)を見に行きたい。",
 choice1: "こよう",
 choice2: "こうば",
 choice3: "こうよう",
@@ -2569,7 +2890,8 @@ answer: 3,
 },
 
 {
-question: "A323: 僕は(実際)を言うのだ。",
+id: "A323",
+question: "僕は(実際)を言うのだ。",
 choice1: "じっさい",
 choice2: "じつさい",
 choice3: "じっざい",
@@ -2577,7 +2899,8 @@ answer: 1,
 },
 
 {
-question: "A324: (言葉)に気をつけろ！",
+id: "A324",
+question: "(言葉)に気をつけろ！",
 choice1: "こんば",
 choice2: "ごとば",
 choice3: "ことば",
@@ -2585,7 +2908,8 @@ answer: 3,
 },
 
 {
-question: "A325: 植物が(実)を実らせる。",
+id: "A325",
+question: "植物が(実)を実らせる。",
 choice1: "じつ",
 choice2: "み",
 choice3: "みの",
@@ -2593,7 +2917,8 @@ answer: 2,
 },
 
 {
-question: "A326: ここでは秋は(紅葉)を楽しめる。",
+id: "A326",
+question: "ここでは秋は(紅葉)を楽しめる。",
 choice1: "こうじ",
 choice2: "こうば",
 choice3: "もみじ",
@@ -2601,7 +2926,8 @@ answer: 3,
 },
 
 {
-question: "A327: 木が(根)を下ろす。",
+id: "A327",
+question: "木が(根)を下ろす。",
 choice1: "ね",
 choice2: "こん",
 choice3: "うえ",
@@ -2609,7 +2935,8 @@ answer: 1,
 },
 
 {
-question: "A328: この(葉書)を大切にする",
+id: "A328",
+question: "この(葉書)を大切にする",
 choice1: "ばかき",
 choice2: "はがき",
 choice3: "はしょ",
@@ -2617,7 +2944,8 @@ answer: 2,
 },
 
 {
-question: "A329: 雨が(屋根)を打っていた。",
+id: "A329",
+question: "雨が(屋根)を打っていた。",
 choice1: "やね",
 choice2: "やこん",
 choice3: "しつこん",
@@ -2625,7 +2953,8 @@ answer: 1,
 },
 
 {
-question: "A330: 新しい皮膚を(移植)する",
+id: "A330",
+question: "新しい皮膚を(移植)する",
 choice1: "いぶつ",
 choice2: "いしょく",
 choice3: "どうしょく",
@@ -2633,7 +2962,8 @@ answer: 2,
 },
 
 {
-question: "A331: 妻の(実家)は沖縄です。",
+id: "A331",
+question: "妻の(実家)は沖縄です。",
 choice1: "じついえ",
 choice2: "じつか",
 choice3: "じっか",
@@ -2641,7 +2971,8 @@ answer: 3,
 },
 
 {
-question: "A332: あの人の病気の(根元)は酒だ。",
+id: "A332",
+question: "あの人の病気の(根元)は酒だ。",
 choice1: "ねもと",
 choice2: "こんもと",
 choice3: "こんげん",
@@ -2649,7 +2980,8 @@ answer: 3,
 },
 
 {
-question: "A333: 山に木を(うえる)。",
+id: "A333",
+question: "山に木を(うえる)。",
 choice1: "植える",
 choice2: "埴える",
 choice3: "稙える",
@@ -2657,7 +2989,8 @@ answer: 1,
 },
 
 {
-question: "A334: 新しい(ことば)を覚える。",
+id: "A334",
+question: "新しい(ことば)を覚える。",
 choice1: "言菓",
 choice2: "言葉",
 choice3: "言莱",
@@ -2665,7 +2998,8 @@ answer: 2,
 },
 
 {
-question: "A335: 正月に(じっか)に帰る。",
+id: "A335",
+question: "正月に(じっか)に帰る。",
 choice1: "実家",
 choice2: "実稼",
 choice3: "家実",
@@ -2673,7 +3007,8 @@ answer: 1,
 },
 
 {
-question: "A336: ゆめを(じつげん)させる。",
+id: "A336",
+question: "ゆめを(じつげん)させる。",
 choice1: "芙現",
 choice2: "実硯",
 choice3: "実現",
@@ -2681,7 +3016,8 @@ answer: 3,
 },
 
 {
-question: "A337: いちょうの(は)が黄色くなる。",
+id: "A337",
+question: "いちょうの(は)が黄色くなる。",
 choice1: "菓",
 choice2: "葉",
 choice3: "莱",
@@ -2689,7 +3025,8 @@ answer: 2,
 },
 
 {
-question: "A338: (いしょく)手術を受ける。",
+id: "A338",
+question: "(いしょく)手術を受ける。",
 choice1: "多稙",
 choice2: "侈埴",
 choice3: "移植",
@@ -2697,7 +3034,8 @@ answer: 3,
 },
 
 {
-question: "A339: トマトの(み)がなった。",
+id: "A339",
+question: "トマトの(み)がなった。",
 choice1: "根",
 choice2: "葉",
 choice3: "実",
@@ -2705,7 +3043,8 @@ answer: 3,
 },
 
 {
-question: "A340: 木を(こんげん)から切り倒す。",
+id: "A340",
+question: "木を(こんげん)から切り倒す。",
 choice1: "根光",
 choice2: "眼元",
 choice3: "根元",
@@ -2713,7 +3052,8 @@ answer: 3,
 },
 
 {
-question: "A341: 畑にじゃがいもが(うわって)いる。",
+id: "A341",
+question: "畑にじゃがいもが(うわって)いる。",
 choice1: "稙わって",
 choice2: "直わって",
 choice3: "植わって",
@@ -2721,7 +3061,8 @@ answer: 3,
 },
 
 {
-question: "A342: ベランダで(しょくぶつ)を育てる。",
+id: "A342",
+question: "ベランダで(しょくぶつ)を育てる。",
 choice1: "稙勿",
 choice2: "植物",
 choice3: "殖物",
@@ -2729,7 +3070,8 @@ answer: 2,
 },
 
 {
-question: "A343: おち(ば)をほうきで集める。",
+id: "A343",
+question: "おち(ば)をほうきで集める。",
 choice1: "茉",
 choice2: "葉",
 choice3: "菓",
@@ -2737,7 +3079,8 @@ answer: 2,
 },
 
 {
-question: "A344: (こうよう)を見に行く。",
+id: "A344",
+question: "(こうよう)を見に行く。",
 choice1: "紅葉",
 choice2: "紀葉",
 choice3: "紅菓",
@@ -2745,7 +3088,8 @@ answer: 1,
 },
 
 {
-question: "A345: 根拠のある(じじつ)。",
+id: "A345",
+question: "根拠のある(じじつ)。",
 choice1: "箏実",
 choice2: "事実",
 choice3: "事夫",
@@ -2753,7 +3097,8 @@ answer: 2,
 },
 
 {
-question: "A346: (じつりょく)をためす。",
+id: "A346",
+question: "(じつりょく)をためす。",
 choice1: "芙功",
 choice2: "実力",
 choice3: "家協",
@@ -2761,7 +3106,8 @@ answer: 2,
 },
 
 {
-question: "A347: (うえき)に水をやる。",
+id: "A347",
+question: "(うえき)に水をやる。",
 choice1: "植木",
 choice2: "稙木",
 choice3: "殖木",
@@ -2769,7 +3115,8 @@ answer: 1,
 },
 
 {
-question: "A348: 木の(ね)を薬として飲む",
+id: "A348",
+question: "木の(ね)を薬として飲む",
 choice1: "寝",
 choice2: "値",
 choice3: "根",
@@ -2777,7 +3124,8 @@ answer: 3,
 },
 
 {
-question: "A349: (やね)につもった雪を下ろす。",
+id: "A349",
+question: "(やね)につもった雪を下ろす。",
 choice1: "屋根",
 choice2: "至恨",
 choice3: "室恨",
@@ -2785,7 +3133,8 @@ answer: 1,
 },
 
 {
-question: "A350: (じっさい)に会ったことがある。",
+id: "A350",
+question: "(じっさい)に会ったことがある。",
 choice1: "実祭",
 choice2: "実際",
 choice3: "芙際",
@@ -2793,7 +3142,8 @@ answer: 2,
 },
 
 {
-question: "A351: 彼に反対する(こんきょ)がない。",
+id: "A351",
+question: "彼に反対する(こんきょ)がない。",
 choice1: "恨処",
 choice2: "根拠",
 choice3: "粮拠",
@@ -2801,7 +3151,8 @@ answer: 2,
 },
 
 {
-question: "A352: この(はがき)を大切にする。",
+id: "A352",
+question: "この(はがき)を大切にする。",
 choice1: "菓署",
 choice2: "葉暑",
 choice3: "葉書",
@@ -2809,7 +3160,8 @@ answer: 3,
 },
 
 {
-question: "A353: (もみじ)祭りを見に行った。",
+id: "A353",
+question: "(もみじ)祭りを見に行った。",
 choice1: "葉紅",
 choice2: "紀葉",
 choice3: "紅葉",
@@ -2817,7 +3169,8 @@ answer: 3,
 },
 
 {
-question: "A354: 私の恋はいつ(みのる)のだろう。",
+id: "A354",
+question: "私の恋はいつ(みのる)のだろう。",
 choice1: "実る",
 choice2: "実のる",
 choice3: "芙る",
@@ -2825,7 +3178,8 @@ answer: 1,
 },
 
 {
-question: "A355: 君の(こんき)に負けた。",
+id: "A355",
+question: "君の(こんき)に負けた。",
 choice1: "眼気",
 choice2: "根気",
 choice3: "恨気",
@@ -2833,7 +3187,8 @@ answer: 2,
 },
 
 {
-question: "A356: 考え方が(こんぽん)からちがう。",
+id: "A356",
+question: "考え方が(こんぽん)からちがう。",
 choice1: "根本",
 choice2: "恨本",
 choice3: "限本",
@@ -2841,7 +3196,8 @@ answer: 1,
 },
 
 {
-question: "A357: そこには家が建つ予定でした。",
+id: "A357",
+question: "そこには家が建つ予定でした。",
 choice1: "おえる",
 choice2: "たつ",
 choice3: "きえる",
@@ -2849,7 +3205,8 @@ answer: 2,
 },
 
 {
-question: "A358: 日本家は木で造る。",
+id: "A358",
+question: "日本家は木で造る。",
 choice1: "づくる",
 choice2: "つくる",
 choice3: "ぞうる",
@@ -2857,7 +3214,8 @@ answer: 2,
 },
 
 {
-question: "A359: 古い建物を修復する。",
+id: "A359",
+question: "古い建物を修復する。",
 choice1: "たてもの",
 choice2: "たつもの",
 choice3: "けんもの",
@@ -2865,7 +3223,8 @@ answer: 1,
 },
 
 {
-question: "A360: 子供たちと信頼関係を築く。",
+id: "A360",
+question: "子供たちと信頼関係を築く。",
 choice1: "ちずく",
 choice2: "ちく",
 choice3: "きずく",
@@ -2873,7 +3232,8 @@ answer: 3,
 },
 
 {
-question: "A361: 私は自分の家を改築する。",
+id: "A361",
+question: "私は自分の家を改築する。",
 choice1: "かいぢく",
 choice2: "かいちく",
 choice3: "がいちく",
@@ -2881,7 +3241,8 @@ answer: 2,
 },
 
 {
-question: "A362: どのような情報でも(構い)ませんのでお願いいたします。",
+id: "A362",
+question: "どのような情報でも(構い)ませんのでお願いいたします。",
 choice1: "うまい",
 choice2: "かまい",
 choice3: "こまい",
@@ -2889,7 +3250,8 @@ answer: 2,
 },
 
 {
-question: "A363: 私の父は(建築)家です。",
+id: "A363",
+question: "私の父は(建築)家です。",
 choice1: "けんちく",
 choice2: "たてちく",
 choice3: "たてきず",
@@ -2897,7 +3259,8 @@ answer: 1,
 },
 
 {
-question: "A364: 彼は服装を(構わない)。",
+id: "A364",
+question: "彼は服装を(構わない)。",
 choice1: "かえわない",
 choice2: "かまわない",
 choice3: "こわない",
@@ -2905,7 +3268,8 @@ answer: 2,
 },
 
 {
-question: "A365: その家は(建設)中です。",
+id: "A365",
+question: "その家は(建設)中です。",
 choice1: "けんやく",
 choice2: "たてせつ",
 choice3: "けんせつ",
@@ -2913,7 +3277,8 @@ answer: 3,
 },
 
 {
-question: "A366: 息子に家を(新築)してあげた。",
+id: "A366",
+question: "息子に家を(新築)してあげた。",
 choice1: "しんにく",
 choice2: "しんやく",
 choice3: "しんちく",
@@ -2921,7 +3286,8 @@ answer: 3,
 },
 
 {
-question: "A367: その絵は(構造)がまずい。",
+id: "A367",
+question: "その絵は(構造)がまずい。",
 choice1: "こうずく",
 choice2: "こうぞう",
 choice3: "ごうつく",
@@ -2929,7 +3295,8 @@ answer: 2,
 },
 
 {
-question: "A368: (建立)時期については前述のとおりである。",
+id: "A368",
+question: "(建立)時期については前述のとおりである。",
 choice1: "こんりつ",
 choice2: "けんりつ",
 choice3: "こんりゅう",
@@ -2937,7 +3304,8 @@ answer: 3,
 },
 
 {
-question: "A369: (構内)には貨物が積んである。",
+id: "A369",
+question: "(構内)には貨物が積んである。",
 choice1: "こうない",
 choice2: "かまうち",
 choice3: "ぞうない",
@@ -2945,7 +3313,8 @@ answer: 1,
 },
 
 {
-question: "A370: (木造)家屋は燃えやすい。",
+id: "A370",
+question: "(木造)家屋は燃えやすい。",
 choice1: "きぞう",
 choice2: "もくぞう",
 choice3: "きずく",
@@ -2953,7 +3322,8 @@ answer: 2,
 },
 
 {
-question: "A371: 彼はまだ一戸を(構える)資力が無い。",
+id: "A371",
+question: "彼はまだ一戸を(構える)資力が無い。",
 choice1: "かまわえる",
 choice2: "こうえる",
 choice3: "かまえる",
@@ -2961,7 +3331,8 @@ answer: 3,
 },
 
 {
-question: "A372: 私の仕事は建物を(建てる)ことです。",
+id: "A372",
+question: "私の仕事は建物を(建てる)ことです。",
 choice1: "たてる",
 choice2: "だてる",
 choice3: "けてる",
@@ -2969,7 +3340,8 @@ answer: 1,
 },
 
 {
-question: "A373: この(造花)はまるで本物のようだ。",
+id: "A373",
+question: "この(造花)はまるで本物のようだ。",
 choice1: "こうか",
 choice2: "ぞうはな",
 choice3: "ぞうか",
@@ -2977,7 +3349,8 @@ answer: 3,
 },
 
 {
-question: "A374: 社会は個人によって(構成)される。",
+id: "A374",
+question: "社会は個人によって(構成)される。",
 choice1: "かませい",
 choice2: "こうせい",
 choice3: "ぞうせい",
@@ -2985,7 +3358,8 @@ answer: 2,
 },
 
 {
-question: "A375: 歴史的な(建造物)がとても好きです。",
+id: "A375",
+question: "歴史的な(建造物)がとても好きです。",
 choice1: "たつぞうもの",
 choice2: "けんぞうもの",
 choice3: "けんぞうぶつ",
@@ -2993,7 +3367,8 @@ answer: 3,
 },
 
 {
-question: "A376: (造船業)は好況とは言えない。",
+id: "A376",
+question: "(造船業)は好況とは言えない。",
 choice1: "ぞうせん",
 choice2: "こうせん",
 choice3: "ぞうふね",
@@ -3001,7 +3376,8 @@ answer: 1,
 },
 
 {
-question: "A377: 私の実家は今年で(築10年)になる",
+id: "A377",
+question: "私の実家は今年で(築10年)になる",
 choice1: "ちく10とし",
 choice2: "ちく10ねん",
 choice3: "きず10ねん",
@@ -3009,7 +3385,8 @@ answer: 2,
 },
 
 {
-question: "A378: あの橋は歴史的(けんぞうぶつ)だ。",
+id: "A378",
+question: "あの橋は歴史的(けんぞうぶつ)だ。",
 choice1: "建造物",
 choice2: "聿造勿",
 choice3: "律造物",
@@ -3017,7 +3394,8 @@ answer: 1,
 },
 
 {
-question: "A379: 番組を(こうせい)する。",
+id: "A379",
+question: "番組を(こうせい)する。",
 choice1: "講成",
 choice2: "構成",
 choice3: "購成",
@@ -3025,7 +3403,8 @@ answer: 2,
 },
 
 {
-question: "A380: 彼は身なりに全く(かまわない)人。",
+id: "A380",
+question: "彼は身なりに全く(かまわない)人。",
 choice1: "構わない",
 choice2: "講わない",
 choice3: "構い",
@@ -3033,7 +3412,8 @@ answer: 1,
 },
 
 {
-question: "A381: (ぞうせん)業で有名な町。",
+id: "A381",
+question: "(ぞうせん)業で有名な町。",
 choice1: "浩船",
 choice2: "造舟",
 choice3: "造船",
@@ -3041,7 +3421,8 @@ answer: 3,
 },
 
 {
-question: "A382: いっきゅう(けんちく)しをめざす。",
+id: "A382",
+question: "いっきゅう(けんちく)しをめざす。",
 choice1: "聿筑",
 choice2: "建築",
 choice3: "健築",
@@ -3049,7 +3430,8 @@ answer: 2,
 },
 
 {
-question: "A383: その家は(けんせつ)中だ。",
+id: "A383",
+question: "その家は(けんせつ)中だ。",
 choice1: "腱設",
 choice2: "健説",
 choice3: "建設",
@@ -3057,7 +3439,8 @@ answer: 3,
 },
 
 {
-question: "A384: (ぞうか)のバラをかざる。",
+id: "A384",
+question: "(ぞうか)のバラをかざる。",
 choice1: "告花",
 choice2: "造化",
 choice3: "造花",
@@ -3065,7 +3448,8 @@ answer: 3,
 },
 
 {
-question: "A385: マンションを(たてる)。",
+id: "A385",
+question: "マンションを(たてる)。",
 choice1: "建る",
 choice2: "健てる",
 choice3: "建てる",
@@ -3073,7 +3457,8 @@ answer: 3,
 },
 
 {
-question: "A386: 私の実家は今年で(ちく30ねん)になる。",
+id: "A386",
+question: "私の実家は今年で(ちく30ねん)になる。",
 choice1: "策30年",
 choice2: "簗30年",
 choice3: "築30年",
@@ -3081,7 +3466,8 @@ answer: 3,
 },
 
 {
-question: "A387: 一等地に店を(かまえる)。",
+id: "A387",
+question: "一等地に店を(かまえる)。",
 choice1: "講える",
 choice2: "構える",
 choice3: "冓える",
@@ -3089,7 +3475,8 @@ answer: 2,
 },
 
 {
-question: "A388: 巨大な船を(つくる)。",
+id: "A388",
+question: "巨大な船を(つくる)。",
 choice1: "迢る",
 choice2: "造る",
 choice3: "浩る",
@@ -3097,7 +3484,8 @@ answer: 2,
 },
 
 {
-question: "A389: 駅の(こうない)にレストランができた。",
+id: "A389",
+question: "駅の(こうない)にレストランができた。",
 choice1: "構内",
 choice2: "講内",
 choice3: "購内",
@@ -3105,7 +3493,8 @@ answer: 1,
 },
 
 {
-question: "A390: (もくぞう)の家でくらす。",
+id: "A390",
+question: "(もくぞう)の家でくらす。",
 choice1: "未造",
 choice2: "木造",
 choice3: "未浩",
@@ -3113,7 +3502,8 @@ answer: 2,
 },
 
 {
-question: "A391: 古い(たてもの)が好きです。",
+id: "A391",
+question: "古い(たてもの)が好きです。",
 choice1: "聿物",
 choice2: "建物",
 choice3: "健物",
@@ -3121,7 +3511,8 @@ answer: 2,
 },
 
 {
-question: "A392: 今のオレには女に(かまって)いる暇はない。",
+id: "A392",
+question: "今のオレには女に(かまって)いる暇はない。",
 choice1: "構って",
 choice2: "稙って",
 choice3: "講って",
@@ -3129,7 +3520,8 @@ answer: 1,
 },
 
 {
-question: "A393: (しんちく)マンションを買う。",
+id: "A393",
+question: "(しんちく)マンションを買う。",
 choice1: "親策",
 choice2: "親築",
 choice3: "新築",
@@ -3137,7 +3529,8 @@ answer: 3,
 },
 
 {
-question: "A394: 古いアパートを(かいちく)する。",
+id: "A394",
+question: "古いアパートを(かいちく)する。",
 choice1: "改築",
 choice2: "牧筑",
 choice3: "改策",
@@ -3145,7 +3538,8 @@ answer: 1,
 },
 
 {
-question: "A395: 新しく寺を(こんりゅう)する。",
+id: "A395",
+question: "新しく寺を(こんりゅう)する。",
 choice1: "根流",
 choice2: "建立",
 choice3: "健立",
@@ -3153,7 +3547,8 @@ answer: 2,
 },
 
 {
-question: "A396: 機械の内部(こうぞう)を知る。",
+id: "A396",
+question: "機械の内部(こうぞう)を知る。",
 choice1: "講造",
 choice2: "構造",
 choice3: "購告",
@@ -3161,7 +3556,8 @@ answer: 2,
 },
 
 {
-question: "A397: ていぼうを(きずく)。",
+id: "A397",
+question: "ていぼうを(きずく)。",
 choice1: "策く",
 choice2: "簇く",
 choice3: "築く",
@@ -3169,7 +3565,8 @@ answer: 3,
 },
 
 {
-question: "A398: 家の前はマンションが(たつ)。",
+id: "A398",
+question: "家の前はマンションが(たつ)。",
 choice1: "廷つ",
 choice2: "健つ",
 choice3: "建つ",
@@ -3177,7 +3574,8 @@ answer: 3,
 },
 
 {
-question: "A399: その原料は(在庫)がありません。",
+id: "A399",
+question: "その原料は(在庫)がありません。",
 choice1: "ざいしゃ",
 choice2: "ざいこ",
 choice3: "さいこう",
@@ -3185,7 +3583,8 @@ answer: 2,
 },
 
 {
-question: "A400: (金庫)に金を入れる。",
+id: "A400",
+question: "(金庫)に金を入れる。",
 choice1: "きんしゃ",
 choice2: "きんこ",
 choice3: "かねこ",
@@ -3193,7 +3592,8 @@ answer: 2,
 },
 
 {
-question: "A401: 私はそれについて説明する機会を(設ける)。",
+id: "A401",
+question: "私はそれについて説明する機会を(設ける)。",
 choice1: "もうける",
 choice2: "せっける",
 choice3: "せつける",
@@ -3201,7 +3601,8 @@ answer: 1,
 },
 
 {
-question: "A402: 家を西に(向ける)。",
+id: "A402",
+question: "家を西に(向ける)。",
 choice1: "こける",
 choice2: "ほける",
 choice3: "むける",
@@ -3209,7 +3610,8 @@ answer: 3,
 },
 
 {
-question: "A403: 屋根を(支柱)で支える。",
+id: "A403",
+question: "屋根を(支柱)で支える。",
 choice1: "しちゅ",
 choice2: "しちゅう",
 choice3: "しばしら",
@@ -3217,7 +3619,8 @@ answer: 2,
 },
 
 {
-question: "A404: 彼は(建設)業で働いている。",
+id: "A404",
+question: "彼は(建設)業で働いている。",
 choice1: "こんせつ",
 choice2: "けんせつ",
 choice3: "けんやく",
@@ -3225,7 +3628,8 @@ answer: 2,
 },
 
 {
-question: "A405: 反対の(方向)に進む。",
+id: "A405",
+question: "反対の(方向)に進む。",
 choice1: "ほうこう",
 choice2: "ほうほう",
 choice3: "ほうむう",
@@ -3233,7 +3637,8 @@ answer: 1,
 },
 
 {
-question: "A406: 地面に(柱)を立てる。",
+id: "A406",
+question: "地面に(柱)を立てる。",
 choice1: "ばしら",
 choice2: "はしら",
 choice3: "しはら",
@@ -3241,7 +3646,8 @@ answer: 2,
 },
 
 {
-question: "A407: この建物は2000年に(設立)しました。",
+id: "A407",
+question: "この建物は2000年に(設立)しました。",
 choice1: "もうりつ",
 choice2: "せつたつ",
 choice3: "せつりつ",
@@ -3249,7 +3655,8 @@ answer: 3,
 },
 
 {
-question: "A408: 彼の車は(電柱)にぶつかった。",
+id: "A408",
+question: "彼の車は(電柱)にぶつかった。",
 choice1: "でんちゅ",
 choice2: "でんばしら",
 choice3: "でんちゅう",
@@ -3257,7 +3664,8 @@ answer: 3,
 },
 
 {
-question: "A409: (向こう)は青い海だった。",
+id: "A409",
+question: "(向こう)は青い海だった。",
 choice1: "こうこう",
 choice2: "むこう",
 choice3: "ほうこう",
@@ -3265,7 +3673,8 @@ answer: 2,
 },
 
 {
-question: "A410: その小屋は(車庫)の用をしている。",
+id: "A410",
+question: "その小屋は(車庫)の用をしている。",
 choice1: "しゃこう",
 choice2: "しゃご",
 choice3: "しゃこ",
@@ -3273,7 +3682,8 @@ answer: 3,
 },
 
 {
-question: "A411: 私の長所は(向上心)があることです。",
+id: "A411",
+question: "私の長所は(向上心)があることです。",
 choice1: "こうじょうしん",
 choice2: "こううえしん",
 choice3: "こうじょしん",
@@ -3281,7 +3691,8 @@ answer: 1,
 },
 
 {
-question: "A412: 私の父は一家の(大黒柱)だ。",
+id: "A412",
+question: "私の父は一家の(大黒柱)だ。",
 choice1: "だいくろばしら",
 choice2: "だいこくばしら",
 choice3: "だいこくしらば",
@@ -3289,7 +3700,8 @@ answer: 2,
 },
 
 {
-question: "A413: 水を(冷蔵庫)で冷やす。",
+id: "A413",
+question: "水を(冷蔵庫)で冷やす。",
 choice1: "れいぞこう",
 choice2: "れいぞうこう",
 choice3: "れいぞうこ",
@@ -3297,7 +3709,8 @@ answer: 3,
 },
 
 {
-question: "A414: 私たちはその(設計)の準備をする。",
+id: "A414",
+question: "私たちはその(設計)の準備をする。",
 choice1: "せっけい",
 choice2: "せつけい",
 choice3: "せっけ",
@@ -3305,7 +3718,8 @@ answer: 1,
 },
 
 {
-question: "A415: 私たちはその時計を(入庫)しました。",
+id: "A415",
+question: "私たちはその時計を(入庫)しました。",
 choice1: "にゅうご",
 choice2: "にゅうこう",
 choice3: "にゅうこ",
@@ -3313,7 +3727,8 @@ answer: 3,
 },
 
 {
-question: "A416: 磁針は北を(向く)。",
+id: "A416",
+question: "磁針は北を(向く)。",
 choice1: "こうく",
 choice2: "むく",
 choice3: "まく",
@@ -3321,7 +3736,8 @@ answer: 2,
 },
 
 {
-question: "A417: (庫裏)北側に置かれている。",
+id: "A417",
+question: "(庫裏)北側に置かれている。",
 choice1: "しゃり",
 choice2: "しゃこ",
 choice3: "くり",
@@ -3329,7 +3745,8 @@ answer: 3,
 },
 
 {
-question: "A418: この(設定)は無効です。",
+id: "A418",
+question: "この(設定)は無効です。",
 choice1: "せってい",
 choice2: "せつてい",
 choice3: "せって",
@@ -3337,7 +3754,8 @@ answer: 1,
 },
 
 {
-question: "A419: 私は歩いて会社に(向かう)。",
+id: "A419",
+question: "私は歩いて会社に(向かう)。",
 choice1: "こかう",
 choice2: "むかう",
 choice3: "ほかう",
@@ -3346,7 +3764,8 @@ answer: 2,
 
 
 {
-question: "A420: 新しいルールを(もうける)。",
+id: "A420",
+question: "新しいルールを(もうける)。",
 choice1: "設ける",
 choice2: "説ける",
 choice3: "訪ける",
@@ -3354,7 +3773,8 @@ answer: 1,
 },
 
 {
-question: "A421: パソコンのメールを(せってい)する。",
+id: "A421",
+question: "パソコンのメールを(せってい)する。",
 choice1: "説定する",
 choice2: "設定する",
 choice3: "設正する",
@@ -3362,7 +3782,8 @@ answer: 2,
 },
 
 {
-question: "A422: (でんちゅう)に車がぶつかった。",
+id: "A422",
+question: "(でんちゅう)に車がぶつかった。",
 choice1: "電柱",
 choice2: "電主",
 choice3: "雪注",
@@ -3370,7 +3791,8 @@ answer: 1,
 },
 
 {
-question: "A423: (けんせつ)がいしゃで働く。",
+id: "A423",
+question: "(けんせつ)がいしゃで働く。",
 choice1: "腱設",
 choice2: "健説",
 choice3: "建設",
@@ -3378,7 +3800,8 @@ answer: 3,
 },
 
 {
-question: "A424: (きんこ)に金を入れる。",
+id: "A424",
+question: "(きんこ)に金を入れる。",
 choice1: "欽庫",
 choice2: "金庫",
 choice3: "金車",
@@ -3386,7 +3809,8 @@ answer: 2,
 },
 
 {
-question: "A425: 太い(はしら)が家を支えている。",
+id: "A425",
+question: "太い(はしら)が家を支えている。",
 choice1: "主",
 choice2: "注",
 choice3: "柱",
@@ -3394,7 +3818,8 @@ answer: 3,
 },
 
 {
-question: "A426: 急いでインベント会場へ(むかう)。",
+id: "A426",
+question: "急いでインベント会場へ(むかう)。",
 choice1: "内かう",
 choice2: "同かう",
 choice3: "向かう",
@@ -3402,7 +3827,8 @@ answer: 3,
 },
 
 {
-question: "A427: (しゃこ)にバイクを止める。",
+id: "A427",
+question: "(しゃこ)にバイクを止める。",
 choice1: "軍庫",
 choice2: "庫車",
 choice3: "車庫",
@@ -3410,7 +3836,8 @@ answer: 3,
 },
 
 {
-question: "A428: 会社を(せつりつ)する。",
+id: "A428",
+question: "会社を(せつりつ)する。",
 choice1: "設泣",
 choice2: "説立",
 choice3: "設立",
@@ -3418,7 +3845,8 @@ answer: 3,
 },
 
 {
-question: "A429: 進行(ほうこう)を指さす。",
+id: "A429",
+question: "進行(ほうこう)を指さす。",
 choice1: "坊向",
 choice2: "方向",
 choice3: "法向",
@@ -3426,7 +3854,8 @@ answer: 2,
 },
 
 {
-question: "A430: 大会に(むけて)練習する。",
+id: "A430",
+question: "大会に(むけて)練習する。",
 choice1: "同けて",
 choice2: "向けて",
 choice3: "向て",
@@ -3434,7 +3863,8 @@ answer: 2,
 },
 
 {
-question: "A431: 彼はチームの(だいこくばしら)だ。",
+id: "A431",
+question: "彼はチームの(だいこくばしら)だ。",
 choice1: "大黒柱",
 choice2: "犬黒注",
 choice3: "大黒主",
@@ -3442,7 +3872,8 @@ answer: 1,
 },
 
 {
-question: "A432: 自分に(むいた)仕事は何か考える。",
+id: "A432",
+question: "自分に(むいた)仕事は何か考える。",
 choice1: "回いた",
 choice2: "向いた",
 choice3: "何いた",
@@ -3450,7 +3881,8 @@ answer: 2,
 },
 
 {
-question: "A433: これは(ざいこ)品です。",
+id: "A433",
+question: "これは(ざいこ)品です。",
 choice1: "存庫",
 choice2: "在庫",
 choice3: "左庫",
@@ -3458,7 +3890,8 @@ answer: 2,
 },
 
 {
-question: "A434: 通りの(むこう)に人が集まっている。",
+id: "A434",
+question: "通りの(むこう)に人が集まっている。",
 choice1: "向こう",
 choice2: "向う",
 choice3: "同う",
@@ -3466,7 +3899,8 @@ answer: 1,
 },
 
 {
-question: "A435: 水を(れいぞうこ)で冷やす。",
+id: "A435",
+question: "水を(れいぞうこ)で冷やす。",
 choice1: "令蔵車",
 choice2: "冷臓車",
 choice3: "冷蔵庫",
@@ -3474,7 +3908,8 @@ answer: 3,
 },
 
 {
-question: "A436: 新しい商品が昨日(にゅうこ)した。",
+id: "A436",
+question: "新しい商品が昨日(にゅうこ)した。",
 choice1: "入庫",
 choice2: "人庫",
 choice3: "入車",
@@ -3482,7 +3917,8 @@ answer: 1,
 },
 
 {
-question: "A437: (くり)とは寺の台所のこと。",
+id: "A437",
+question: "(くり)とは寺の台所のこと。",
 choice1: "車衰",
 choice2: "庫裏",
 choice3: "厚衷",
@@ -3490,7 +3926,8 @@ answer: 2,
 },
 
 {
-question: "A438: ビルを(せっけい)する。",
+id: "A438",
+question: "ビルを(せっけい)する。",
 choice1: "説訃",
 choice2: "設計",
 choice3: "設訐",
@@ -3498,7 +3935,8 @@ answer: 2,
 },
 
 {
-question: "A439: (こうじょうしん)のある学生。",
+id: "A439",
+question: "(こうじょうしん)のある学生。",
 choice1: "回土心",
 choice2: "同上必",
 choice3: "向上心",
@@ -3506,7 +3944,8 @@ answer: 3,
 },
 
 {
-question: "A440: 彼は家族の(しちゅう)だ。",
+id: "A440",
+question: "彼は家族の(しちゅう)だ。",
 choice1: "伎注",
 choice2: "技主",
 choice3: "支柱",
@@ -3514,7 +3953,8 @@ answer: 3,
 },
 
 {
-question: "A441: スープが(温まる)まで待ちなさい。",
+id: "A441",
+question: "スープが(温まる)まで待ちなさい。",
 choice1: "あたまる",
 choice2: "あたたまる",
 choice3: "かたたまる",
@@ -3522,7 +3962,8 @@ answer: 2,
 },
 
 {
-question: "A442: それが(冷える)のには時間がかかる。",
+id: "A442",
+question: "それが(冷える)のには時間がかかる。",
 choice1: "ひやえる",
 choice2: "ひえる",
 choice3: "つめえる",
@@ -3530,7 +3971,8 @@ answer: 2,
 },
 
 {
-question: "A443: (熱い)から気をつけてね。",
+id: "A443",
+question: "(熱い)から気をつけてね。",
 choice1: "あつい",
 choice2: "ねつい",
 choice3: "まつい",
@@ -3538,7 +3980,8 @@ answer: 1,
 },
 
 {
-question: "A444: (体温計)を口にくわえて、体温を測りましたか。",
+id: "A444",
+question: "(体温計)を口にくわえて、体温を測りましたか。",
 choice1: "からだおんけい",
 choice2: "たいあんけい",
 choice3: "たいおんけい",
@@ -3546,7 +3989,8 @@ answer: 3,
 },
 
 {
-question: "A445: 彼は(度々)遅れてきます。",
+id: "A445",
+question: "彼は(度々)遅れてきます。",
 choice1: "ねんど",
 choice2: "たびたび",
 choice3: "どうどう",
@@ -3554,7 +3998,8 @@ answer: 2,
 },
 
 {
-question: "A446: 彼は(熱心)に私を指導してくれた。",
+id: "A446",
+question: "彼は(熱心)に私を指導してくれた。",
 choice1: "ねつしん",
 choice2: "ねっしん",
 choice3: "あつこころ",
@@ -3562,7 +4007,8 @@ answer: 2,
 },
 
 {
-question: "A447: かき氷はとても(冷たい)です。",
+id: "A447",
+question: "かき氷はとても(冷たい)です。",
 choice1: "つめたい",
 choice2: "ひやたい",
 choice3: "ひやしたい",
@@ -3570,7 +4016,8 @@ answer: 1,
 },
 
 {
-question: "A448: 彼は(高熱)でうわごとを言った。",
+id: "A448",
+question: "彼は(高熱)でうわごとを言った。",
 choice1: "たかねつ",
 choice2: "こうねつ",
 choice3: "こうあつ",
@@ -3578,7 +4025,8 @@ answer: 2,
 },
 
 {
-question: "A449: それが(冷める)前に食べて下さい。",
+id: "A449",
+question: "それが(冷める)前に食べて下さい。",
 choice1: "ひやめる",
 choice2: "ひめる",
 choice3: "さめる",
@@ -3586,7 +4034,8 @@ answer: 3,
 },
 
 {
-question: "A450: (この度)はお世話になります。",
+id: "A450",
+question: "(この度)はお世話になります。",
 choice1: "このどう",
 choice2: "このど",
 choice3: "このたび",
@@ -3594,7 +4043,8 @@ answer: 3,
 },
 
 {
-question: "A451: (冷蔵庫)の中をきれいに掃除した。",
+id: "A451",
+question: "(冷蔵庫)の中をきれいに掃除した。",
 choice1: "ひやぞうこ",
 choice2: "れいぞうこ",
 choice3: "れぞうこう",
@@ -3602,7 +4052,8 @@ answer: 2,
 },
 
 {
-question: "A452: 電子レンジで食べ物を(温める)。",
+id: "A452",
+question: "電子レンジで食べ物を(温める)。",
 choice1: "おんめる",
 choice2: "あためる",
 choice3: "あたためる",
@@ -3610,7 +4061,8 @@ answer: 3,
 },
 
 {
-question: "A453: (冷凍)したものを解凍する。",
+id: "A453",
+question: "(冷凍)したものを解凍する。",
 choice1: "れいとう",
 choice2: "ひやとう",
 choice3: "れいぼう",
@@ -3618,7 +4070,8 @@ answer: 1,
 },
 
 {
-question: "A454: その部屋は(冷房)がついていますか。",
+id: "A454",
+question: "その部屋は(冷房)がついていますか。",
 choice1: "れいぽう",
 choice2: "れいぼう",
 choice3: "れいとう",
@@ -3626,7 +4079,8 @@ answer: 2,
 },
 
 {
-question: "A455: (温度)は何度ですか。",
+id: "A455",
+question: "(温度)は何度ですか。",
 choice1: "かんど",
 choice2: "あたたど",
 choice3: "おんど",
@@ -3634,7 +4088,8 @@ answer: 3,
 },
 
 {
-question: "A456: それは(冷やす)ことで美味しく食べれます。",
+id: "A456",
+question: "それは(冷やす)ことで美味しく食べれます。",
 choice1: "ひやす",
 choice2: "さやす",
 choice3: "ひえやす",
@@ -3642,7 +4097,8 @@ answer: 1,
 },
 
 {
-question: "A457: この宗派は肉食妻帯はご(法度)だ",
+id: "A457",
+question: "この宗派は肉食妻帯はご(法度)だ",
 choice1: "ほうど",
 choice2: "ほっと",
 choice3: "はっと",
@@ -3650,7 +4106,8 @@ answer: 3,
 },
 
 {
-question: "A458: 冗談を言って(冷やかす)ことができる。",
+id: "A458",
+question: "冗談を言って(冷やかす)ことができる。",
 choice1: "さやかす",
 choice2: "ひやかす",
 choice3: "ひえやかす",
@@ -3658,7 +4115,8 @@ answer: 2,
 },
 
 {
-question: "A459: 私は(熱中)症になった。",
+id: "A459",
+question: "私は(熱中)症になった。",
 choice1: "ねっしゅう",
 choice2: "ねつちゅう",
 choice3: "ねっちゅう",
@@ -3666,7 +4124,8 @@ answer: 3,
 },
 
 {
-question: "A460: (今度)は君の番だ。",
+id: "A460",
+question: "(今度)は君の番だ。",
 choice1: "こんど",
 choice2: "こんや",
 choice3: "こんたび",
@@ -3674,7 +4133,8 @@ answer: 1,
 },
 
 {
-question: "A461: このワインを(冷や)したい。",
+id: "A461",
+question: "このワインを(冷や)したい。",
 choice1: "ひえや",
 choice2: "ひや",
 choice3: "さや",
@@ -3682,7 +4142,8 @@ answer: 2,
 },
 
 {
-question: "A462: 何か(温かい)食べ物が欲しい。",
+id: "A462",
+question: "何か(温かい)食べ物が欲しい。",
 choice1: "あたたかい",
 choice2: "おんかい",
 choice3: "あたかい",
@@ -3690,7 +4151,8 @@ answer: 1,
 },
 
 {
-question: "A463: 湯揚げをしたら、すぐに冷水に浸して(冷ます)。",
+id: "A463",
+question: "湯揚げをしたら、すぐに冷水に浸して(冷ます)。",
 choice1: "ひます",
 choice2: "さます",
 choice3: "ひやます",
@@ -3698,7 +4160,8 @@ answer: 2,
 },
 
 {
-question: "A464: この写真を見る(度)母のことを思い出す。",
+id: "A464",
+question: "この写真を見る(度)母のことを思い出す。",
 choice1: "たびたび",
 choice2: "ど",
 choice3: "たび",
@@ -3706,7 +4169,8 @@ answer: 3,
 },
 
 {
-question: "A465: ほとんど(熱湯)で料理する。",
+id: "A465",
+question: "ほとんど(熱湯)で料理する。",
 choice1: "ねつとう",
 choice2: "ねっゆう",
 choice3: "ねっとう",
@@ -3714,7 +4178,8 @@ answer: 3,
 },
 
 {
-question: "A466: その絵は(温か)な印象を与える。",
+id: "A466",
+question: "その絵は(温か)な印象を与える。",
 choice1: "あたたか",
 choice2: "おんか",
 choice3: "あたか",
@@ -3722,7 +4187,8 @@ answer: 1,
 },
 
 {
-question: "A467: 風呂の(支度)が出来ました。",
+id: "A467",
+question: "風呂の(支度)が出来ました。",
 choice1: "しど",
 choice2: "したく",
 choice3: "したび",
@@ -3730,7 +4196,8 @@ answer: 2,
 },
 
 {
-question: "A468: もう(一度)お願いします。",
+id: "A468",
+question: "もう(一度)お願いします。",
 choice1: "いちどう",
 choice2: "いちたび",
 choice3: "いちど",
@@ -3738,7 +4205,8 @@ answer: 3,
 },
 
 {
-question: "A469: 体がすっかり(ひえて)しまった。",
+id: "A469",
+question: "体がすっかり(ひえて)しまった。",
 choice1: "冷えて",
 choice2: "令えて",
 choice3: "今えて",
@@ -3746,7 +4214,8 @@ answer: 1,
 },
 
 {
-question: "A470: (あつい)コーヒーでしたをやけどする。",
+id: "A470",
+question: "(あつい)コーヒーでしたをやけどする。",
 choice1: "暑い",
 choice2: "熱い",
 choice3: "厚い",
@@ -3754,7 +4223,8 @@ answer: 2,
 },
 
 {
-question: "A471: スープを飲んだら、体が(あたたまった)。",
+id: "A471",
+question: "スープを飲んだら、体が(あたたまった)。",
 choice1: "温まった",
 choice2: "涅まった",
 choice3: "温った",
@@ -3762,7 +4232,8 @@ answer: 1,
 },
 
 {
-question: "A472: インフルエンザにかかり(こうねつ)が出た。",
+id: "A472",
+question: "インフルエンザにかかり(こうねつ)が出た。",
 choice1: "高燃",
 choice2: "高熟",
 choice3: "高熱",
@@ -3770,7 +4241,8 @@ answer: 3,
 },
 
 {
-question: "A473: (つめたい)ジュースを一気に飲んだ。",
+id: "A473",
+question: "(つめたい)ジュースを一気に飲んだ。",
 choice1: "令たい",
 choice2: "冷たい",
 choice3: "冷い",
@@ -3778,7 +4250,8 @@ answer: 2,
 },
 
 {
-question: "A474: (ねっしん)に勉強する。",
+id: "A474",
+question: "(ねっしん)に勉強する。",
 choice1: "熱必",
 choice2: "熟心",
 choice3: "熱心",
@@ -3786,7 +4259,8 @@ answer: 3,
 },
 
 {
-question: "A475: (このたび)はお世話になりました。",
+id: "A475",
+question: "(このたび)はお世話になりました。",
 choice1: "この康",
 choice2: "この席",
 choice3: "この度",
@@ -3794,7 +4268,8 @@ answer: 3,
 },
 
 {
-question: "A476: 日本では(おんど)を「セ氏」で表す。",
+id: "A476",
+question: "日本では(おんど)を「セ氏」で表す。",
 choice1: "温席",
 choice2: "涅度",
 choice3: "温度",
@@ -3802,7 +4277,8 @@ answer: 3,
 },
 
 {
-question: "A477: ビールを(ひやして)おく。",
+id: "A477",
+question: "ビールを(ひやして)おく。",
 choice1: "令やして",
 choice2: "冷して",
 choice3: "冷やして",
@@ -3810,7 +4286,8 @@ answer: 3,
 },
 
 {
-question: "A478: (あたたかい)おふろに使ってつかれを取る。",
+id: "A478",
+question: "(あたたかい)おふろに使ってつかれを取る。",
 choice1: "涅かい",
 choice2: "温かい",
 choice3: "温い",
@@ -3818,7 +4295,8 @@ answer: 2,
 },
 
 {
-question: "A479: 新婚の二人をみんなで(ひやかす)。",
+id: "A479",
+question: "新婚の二人をみんなで(ひやかす)。",
 choice1: "冷かす",
 choice2: "冷やかす",
 choice3: "玲す",
@@ -3826,7 +4304,8 @@ answer: 2,
 },
 
 {
-question: "A480: 仕事に(ねっちゅう)する。",
+id: "A480",
+question: "仕事に(ねっちゅう)する。",
 choice1: "熱中",
 choice2: "熟忠",
 choice3: "熱仲",
@@ -3834,7 +4313,8 @@ answer: 1,
 },
 
 {
-question: "A481: きもちが(さめて)、恋人と別れた。",
+id: "A481",
+question: "きもちが(さめて)、恋人と別れた。",
 choice1: "令めて",
 choice2: "冷めて",
 choice3: "冷て",
@@ -3842,7 +4322,8 @@ answer: 2,
 },
 
 {
-question: "A482: 水を(れいぞうこ)で冷やす。",
+id: "A482",
+question: "水を(れいぞうこ)で冷やす。",
 choice1: "令臓庫",
 choice2: "冷蔵庫",
 choice3: "怜臓庫",
@@ -3850,7 +4331,8 @@ answer: 2,
 },
 
 {
-question: "A483: その部屋は(れいぼう)がついていますか。",
+id: "A483",
+question: "その部屋は(れいぼう)がついていますか。",
 choice1: "冷房",
 choice2: "玲房",
 choice3: "冷防",
@@ -3858,7 +4340,8 @@ answer: 1,
 },
 
 {
-question: "A484: 薬を飲んで熱を(さます)。",
+id: "A484",
+question: "薬を飲んで熱を(さます)。",
 choice1: "怜ます",
 choice2: "洽ます",
 choice3: "冷ます",
@@ -3866,7 +4349,8 @@ answer: 3,
 },
 
 {
-question: "A485: 電子レンジでおにぎりを(あたためる)。",
+id: "A485",
+question: "電子レンジでおにぎりを(あたためる)。",
 choice1: "温める",
 choice2: "浴める",
 choice3: "涅る",
@@ -3874,7 +4358,8 @@ answer: 1,
 },
 
 {
-question: "A486: 早起きして朝食の(したく)をする。",
+id: "A486",
+question: "早起きして朝食の(したく)をする。",
 choice1: "支席",
 choice2: "支度",
 choice3: "使度",
@@ -3882,7 +4367,8 @@ answer: 2,
 },
 
 {
-question: "A487: (ねっとう)を入れて3分待ってください。",
+id: "A487",
+question: "(ねっとう)を入れて3分待ってください。",
 choice1: "熱易",
 choice2: "熱湯",
 choice3: "熟湯",
@@ -3890,7 +4376,8 @@ answer: 2,
 },
 
 {
-question: "A488: (たいおん)けいで熱を測る。",
+id: "A488",
+question: "(たいおん)けいで熱を測る。",
 choice1: "体涅計",
 choice2: "他温計",
 choice3: "体温計",
@@ -3898,7 +4385,8 @@ answer: 3,
 },
 
 {
-question: "A489: お酒を(ひや)で飲む。",
+id: "A489",
+question: "お酒を(ひや)で飲む。",
 choice1: "令や",
 choice2: "怜や",
 choice3: "冷や",
@@ -3906,7 +4394,8 @@ answer: 3,
 },
 
 {
-question: "A490: 手をさすると(あたたか)になる。",
+id: "A490",
+question: "手をさすると(あたたか)になる。",
 choice1: "温か",
 choice2: "涅か",
 choice3: "温たか",
@@ -3914,7 +4403,8 @@ answer: 1,
 },
 
 {
-question: "A491: もう(いちど)お願いします。",
+id: "A491",
+question: "もう(いちど)お願いします。",
 choice1: "一席",
 choice2: "一度",
 choice3: "一渡",
@@ -3922,7 +4412,8 @@ answer: 2,
 },
 
 {
-question: "A492: 彼は(たびたび)遅れてきます。",
+id: "A492",
+question: "彼は(たびたび)遅れてきます。",
 choice1: "度度",
 choice2: "度々",
 choice3: "々度",
@@ -3930,7 +4421,8 @@ answer: 2,
 },
 
 {
-question: "A493: この写真を見る(たび)子供のごろを思い出す。",
+id: "A493",
+question: "この写真を見る(たび)子供のごろを思い出す。",
 choice1: "度",
 choice2: "席",
 choice3: "渡",
@@ -3938,7 +4430,8 @@ answer: 1,
 },
 
 {
-question: "A494: (はっと)とは禁止されている事柄のこと。",
+id: "A494",
+question: "(はっと)とは禁止されている事柄のこと。",
 choice1: "怯度",
 choice2: "法度",
 choice3: "法席",
@@ -3946,7 +4439,8 @@ answer: 2,
 },
 
 {
-question: "A495: 残り物を(れいとう)する。",
+id: "A495",
+question: "残り物を(れいとう)する。",
 choice1: "冷棟",
 choice2: "冷凍",
 choice3: "冷東",
@@ -3954,7 +4448,8 @@ answer: 2,
 },
 
 {
-question: "A496: (こんど)は失敗しません。",
+id: "A496",
+question: "(こんど)は失敗しません。",
 choice1: "今度",
 choice2: "令度",
 choice3: "冷度",
@@ -3962,7 +4457,8 @@ answer: 1,
 },
 
 {
-question: "A497: (材料)は届きましたか。",
+id: "A497",
+question: "(材料)は届きましたか。",
 choice1: "さいりょう",
 choice2: "ざいりょう",
 choice3: "さいざい",
@@ -3970,7 +4466,8 @@ answer: 2,
 },
 
 {
-question: "A498: 私の血液(型)はAB型です。",
+id: "A498",
+question: "私の血液(型)はAB型です。",
 choice1: "かた",
 choice2: "がた",
 choice3: "けい",
@@ -3978,7 +4475,8 @@ answer: 2,
 },
 
 {
-question: "A499: ゴミを入れる(容器)。",
+id: "A499",
+question: "ゴミを入れる(容器)。",
 choice1: "ようき",
 choice2: "よいき",
 choice3: "ようつわ",
@@ -3986,7 +4484,8 @@ answer: 1,
 },
 
 {
-question: "A500: 彼は(典型的な)英国人だ。",
+id: "A500",
+question: "彼は(典型的な)英国人だ。",
 choice1: "てんがたてきな",
 choice2: "でんけいてきな",
 choice3: "てんけいてきな",
@@ -3994,7 +4493,8 @@ answer: 3,
 },
 
 {
-question: "A501: 何か(楽器)は弾けますか。",
+id: "A501",
+question: "何か(楽器)は弾けますか。",
 choice1: "らっき",
 choice2: "がっき",
 choice3: "がくき",
@@ -4002,7 +4502,8 @@ answer: 2,
 },
 
 {
-question: "A502: 私は家でパンを(焼く)のが好きです。",
+id: "A502",
+question: "私は家でパンを(焼く)のが好きです。",
 choice1: "かく",
 choice2: "やく",
 choice3: "やいく",
@@ -4010,7 +4511,8 @@ answer: 2,
 },
 
 {
-question: "A503: これはなんの車の(型式)ですか。",
+id: "A503",
+question: "これはなんの車の(型式)ですか。",
 choice1: "けいしき",
 choice2: "がたしき",
 choice3: "かたしき",
@@ -4018,7 +4520,8 @@ answer: 3,
 },
 
 {
-question: "A504: 火事で建物が(全焼)した。",
+id: "A504",
+question: "火事で建物が(全焼)した。",
 choice1: "ぜんやく",
 choice2: "ぜんしょう",
 choice3: "ぜんしょ",
@@ -4026,7 +4529,8 @@ answer: 2,
 },
 
 {
-question: "A505: カメラを(小型)化する。",
+id: "A505",
+question: "カメラを(小型)化する。",
 choice1: "こけい",
 choice2: "しょうがた",
 choice3: "こがた",
@@ -4034,7 +4538,8 @@ answer: 3,
 },
 
 {
-question: "A506: 飛行機の(模型)を作る。",
+id: "A506",
+question: "飛行機の(模型)を作る。",
 choice1: "もがた",
 choice2: "もうけい",
 choice3: "もけい",
@@ -4042,7 +4547,8 @@ answer: 3,
 },
 
 {
-question: "A507: 私たちは優れた(人材)を活用する。",
+id: "A507",
+question: "私たちは優れた(人材)を活用する。",
 choice1: "にんざい",
 choice2: "じんざい",
 choice3: "しんざい",
@@ -4050,7 +4556,8 @@ answer: 2,
 },
 
 {
-question: "A508: 外は(焼け)るように暑かった。",
+id: "A508",
+question: "外は(焼け)るように暑かった。",
 choice1: "あける",
 choice2: "しょうける",
 choice3: "やける",
@@ -4058,7 +4565,8 @@ answer: 3,
 },
 
 {
-question: "A509: 私は不(器用)です。",
+id: "A509",
+question: "私は不(器用)です。",
 choice1: "きよう",
 choice2: "うつわよう",
 choice3: "ぎよう",
@@ -4066,7 +4574,8 @@ answer: 1,
 },
 
 {
-question: "A510: 僕は(日焼け)して真っ黒になった。",
+id: "A510",
+question: "僕は(日焼け)して真っ黒になった。",
 choice1: "にちやけ",
 choice2: "ひやけ",
 choice3: "びやけ",
@@ -4074,7 +4583,8 @@ answer: 2,
 },
 
 {
-question: "A511: 料理を(器)に盛る。",
+id: "A511",
+question: "料理を(器)に盛る。",
 choice1: "つうわ",
 choice2: "うわき",
 choice3: "うつわ",
@@ -4082,7 +4592,8 @@ answer: 3,
 },
 
 {
-question: "A512: 火事の(延焼)を防ぐ。",
+id: "A512",
+question: "火事の(延焼)を防ぐ。",
 choice1: "えんしょう",
 choice2: "けんしょう",
 choice3: "えんやく",
@@ -4090,7 +4601,8 @@ answer: 1,
 },
 
 {
-question: "A513: (木材)にかんなをかける。",
+id: "A513",
+question: "(木材)にかんなをかける。",
 choice1: "もくさい",
 choice2: "そうざい",
 choice3: "もくざい",
@@ -4098,7 +4610,8 @@ answer: 3,
 },
 
 {
-question: "A514: あなたのドレスの(素材)は何ですか。",
+id: "A514",
+question: "あなたのドレスの(素材)は何ですか。",
 choice1: "そうざい",
 choice2: "そざい",
 choice3: "そうさい",
@@ -4106,7 +4619,8 @@ answer: 2,
 },
 
 {
-question: "A515: 彼は(器が小さい)。",
+id: "A515",
+question: "彼は(器が小さい)。",
 choice1: "きがこさい",
 choice2: "きがちいさい",
 choice3: "うつわがちいさい",
@@ -4114,11 +4628,1138 @@ answer: 3,
 },
 
 {
-question: "A516: (食器)を台所へ持っていく。",
+id: "A516",
+question: "(食器)を台所へ持っていく。",
 choice1: "しょっき",
 choice2: "しょくき",
 choice3: "しょくうつわ",
 answer: 1,
 },
+
+{
+id: "A517",
+question: "サケは(産卵)のために川を上る。",
+choice1: "さんたまご",
+choice2: "さんらん",
+choice3: "らんさん",
+answer: 2,
+},
+
+{
+id: "A518",
+question: "(粉末)状になって飛び散るもの。",
+choice1: "ぶんまつ",
+choice2: "ふんまつ",
+choice3: "こまつ",
+answer: 2,
+},
+
+{
+id: "A519",
+question: "1つの(卵黄)のある卵。",
+choice1: "らんおう",
+choice2: "らんぼう",
+choice3: "らんほう",
+answer: 1,
+},
+
+{
+id: "A520",
+question: "彼は(塩辛い)ものが大嫌いだ。",
+choice1: "しおしらい",
+choice2: "えんからい",
+choice3: "しおからい",
+answer: 3,
+},
+
+{
+id: "A521",
+question: "(卵白)を塗ってパンにつやを出す。",
+choice1: "らんしろ",
+choice2: "らんぱく",
+choice3: "らんばく",
+answer: 2,
+},
+
+{
+id: "A522",
+question: "この牧場では手で牛の(乳)を搾っている。",
+choice1: "にゅう",
+choice2: "ちち",
+choice3: "ち",
+answer: 2,
+},
+
+{
+id: "A523",
+question: "(乳飲み子)をかかえて非常に苦労した。",
+choice1: "ちのみご",
+choice2: "ちちのみこ",
+choice3: "にゅうのみご",
+answer: 1,
+},
+
+{
+id: "A524",
+question: "彼女の(乳歯)は抜けそうだ。",
+choice1: "にゅうば",
+choice2: "ちちば",
+choice3: "にゅうし",
+answer: 3,
+},
+
+{
+id: "A525",
+question: "(塩素)で消毒する。",
+choice1: "えんそう",
+choice2: "しおそ",
+choice3: "えんそ",
+answer: 3,
+},
+
+{
+id: "A526",
+question: "私は(牛乳)が嫌いです。",
+choice1: "きゅうにゅう",
+choice2: "ぎゅうにゅう",
+choice3: "うしにゅう",
+answer: 2,
+},
+
+{
+id: "A527",
+question: "イルカは(哺乳類)である。",
+choice1: "ほちるい",
+choice2: "ほうにゅうるい",
+choice3: "ほにゅうるい",
+answer: 3,
+},
+
+{
+id: "A528",
+question: "(粉)から作られたもの。",
+choice1: "こな",
+choice2: "ふん",
+choice3: "こ",
+answer: 1,
+},
+
+{
+id: "A529",
+question: "(卵)を固くゆでる。",
+choice1: "たごま",
+choice2: "たまご",
+choice3: "らん",
+answer: 2,
+},
+
+{
+id: "A530",
+question: "この(粉薬)は毎食後飲んでください。",
+choice1: "ぶんくすり",
+choice2: "ふんぐすり",
+choice3: "こなぐすり",
+answer: 3,
+},
+
+{
+id: "A531",
+question: "(塩)で味を付ける。",
+choice1: "しお",
+choice2: "えん",
+choice3: "じお",
+answer: 1,
+},
+
+{
+id: "A532",
+question: "(小麦粉)をパンにする。",
+choice1: "こむぎこな",
+choice2: "しょうむぎこ",
+choice3: "こむぎこ",
+answer: 3,
+},
+
+{
+id: "A533",
+question: "毎朝(塩水)を1杯飲みます。",
+choice1: "えんすい",
+choice2: "しおみず",
+choice3: "えんみず",
+answer: 2,
+},
+
+{
+id: "A534",
+question: "外は(粉雪)が降っていた。",
+choice1: "ふんゆき",
+choice2: "こゆき",
+choice3: "こなゆき",
+answer: 3,
+},
+
+{
+id: "A535",
+question: "(花粉)症になったかもしれません。",
+choice1: "かふん",
+choice2: "はなふん",
+choice3: "かこ",
+answer: 1,
+},
+
+{
+id: "A536",
+question: "もうちょっと(塩味)をきかせてみたら",
+choice1: "えんあじ",
+choice2: "しおあじ",
+choice3: "しおいみ",
+answer: 2,
+},
+
+{
+id: "A537",
+question: "この水には(塩分)がある。",
+choice1: "しおぶん",
+choice2: "えんぶん",
+choice3: "えんふん",
+answer: 2,
+},
+
+{
+id: "A538",
+question: "(たまご)をわって、ボールに入れる。",
+choice1: "卵",
+choice2: "卯",
+choice3: "印",
+answer: 1,
+},
+
+{
+id: "A539",
+question: "(こむぎこ)はしっかりふるってください。",
+choice1: "少麦粉",
+choice2: "小麦粉",
+choice3: "小素紛",
+answer: 2,
+},
+
+{
+id: "A540",
+question: "(しお)をひとつまみ入れると味が変わる。",
+choice1: "塩",
+choice2: "培",
+choice3: "壊",
+answer: 1,
+},
+
+{
+id: "A541",
+question: "山羊の(ちち)を使ったチーズはおいしい。",
+choice1: "孚",
+choice2: "浮",
+choice3: "乳",
+answer: 3,
+},
+
+{
+id: "A542",
+question: "毎日、食後に二種類の(こなぐすり)をのむ。",
+choice1: "紛楽",
+choice2: "粉薬",
+choice3: "粉楽",
+answer: 2,
+},
+
+{
+id: "A543",
+question: "チョークの(こな)は、吸うと体に良くないと言われている。",
+choice1: "紛",
+choice2: "粉",
+choice3: "扮",
+answer: 2,
+},
+
+{
+id: "A544",
+question: "(らんぱく)にさとうを入れてよくあわ立てる。",
+choice1: "卯自",
+choice2: "卵百",
+choice3: "卵白",
+answer: 3,
+},
+
+{
+id: "A545",
+question: "永久歯が生え始め、(にゅうし)がぬける。",
+choice1: "乳葉",
+choice2: "乳脂",
+choice3: "乳歯",
+answer: 3,
+},
+
+{
+id: "A546",
+question: "(ふんまつ)スープにお湯を入れる。",
+choice1: "粉未",
+choice2: "紛未",
+choice3: "粉末",
+answer: 3,
+},
+
+{
+id: "A547",
+question: "(しおあじ)のラーメンを注文する。",
+choice1: "盒末",
+choice2: "塩未",
+choice3: "塩味",
+answer: 3,
+},
+
+{
+id: "A548",
+question: "(ぎゅうにゅう)パックを再利用する。",
+choice1: "年乳",
+choice2: "牛乳",
+choice3: "午乳",
+answer: 2,
+},
+
+{
+id: "A549",
+question: "春になると(かふん)が大量に飛ぶ。",
+choice1: "化紛",
+choice2: "花粉",
+choice3: "花扮",
+answer: 2,
+},
+
+{
+id: "A550",
+question: "地球上の(ほにゅうるい)は約五千種だ。",
+choice1: "哺乳類",
+choice2: "甫乳数",
+choice3: "哺孚類",
+answer: 1,
+},
+
+{
+id: "A551",
+question: "じょうすいきで水道の(えんそ)をとる。",
+choice1: "培素",
+choice2: "塩素",
+choice3: "塩麦",
+answer: 2,
+},
+
+{
+id: "A552",
+question: "この卵は2つの(らんおう)がある。",
+choice1: "卯横",
+choice2: "卵黄",
+choice3: "卵横",
+answer: 2,
+},
+
+{
+id: "A553",
+question: "寒さが厳しくなり、(こなゆき)がちちつく。",
+choice1: "粉雪",
+choice2: "紛電",
+choice3: "粉震",
+answer: 1,
+},
+
+{
+id: "A554",
+question: "彼は(しおからい)ものがだいきらいだ。",
+choice1: "盒辛い",
+choice2: "塩幸い",
+choice3: "塩辛い",
+answer: 3,
+},
+
+{
+id: "A555",
+question: "(えんぶん)のとりすぎはよくない。",
+choice1: "塩分",
+choice2: "塩扮",
+choice3: "盒紛",
+answer: 1,
+},
+
+{
+id: "A556",
+question: "(ちのみご)をかかえて、働きに出る。",
+choice1: "乳飯み子",
+choice2: "乳飲み子",
+choice3: "孚飲み字",
+answer: 2,
+},
+
+{
+id: "A557",
+question: "ウミガメが海辺で(さんらん)する。",
+choice1: "生卵",
+choice2: "産卵",
+choice3: "彦卵",
+answer: 2,
+},
+
+{
+id: "A558",
+question: " 毎朝(しおみず)を 一杯飲みます。",
+choice1: "盒永",
+choice2: "塩氷",
+choice3: "塩水",
+answer: 3,
+},
+
+
+{
+id: "A559",
+question: "いすみ鉄道てつどうの路線ろせんは(菜の花)で有名な地域ちいきを通っている。",
+choice1: "やのはな",
+choice2: "なのはな",
+choice3: "さいのはな",
+answer: 2,
+},
+
+{
+id: "A560",
+question: "重要な役割を(果たす)。",
+choice1: "たたす",
+choice2: "はたす",
+choice3: "こたす",
+answer: 2,
+},
+
+{
+id: "A561",
+question: "(野菜)を厚く切る。",
+choice1: "やさい",
+choice2: "やな",
+choice3: "やざい",
+answer: 1,
+},
+
+{
+id: "A562",
+question: "これは(効果)があるはずだ。",
+choice1: "こうは",
+choice2: "きくか",
+choice3: "こうか",
+answer: 3,
+},
+
+{
+id: "A563",
+question: "(豆腐)の原料は大豆です。",
+choice1: "ずふう",
+choice2: "とうふ",
+choice3: "まめふう",
+answer: 2,
+},
+
+{
+id: "A564",
+question: "当然の(結果)だと思います。",
+choice1: "けつか",
+choice2: "けっか",
+choice3: "けった",
+answer: 2,
+},
+
+{
+id: "A565",
+question: "果物を(缶詰)にする。",
+choice1: "かんづめ",
+choice2: "かんつめ",
+choice3: "かんめ",
+answer: 1,
+},
+
+{
+id: "A566",
+question: "今日ちょっとやくたつ日本(豆知識)をご紹介したいと思う。",
+choice1: "あんちしき",
+choice2: "まめちしき",
+choice3: "まめきちし",
+answer: 2,
+},
+
+{
+id: "A567",
+question: "彼女は好んで新鮮な(生野菜)を食べます。",
+choice1: "まなやさい",
+choice2: "せいやさい",
+choice3: "なまやさい",
+answer: 3,
+},
+
+{
+id: "A568",
+question: "(疲れ果てる)まで疲れさせられた。",
+choice1: "つかれくだてる",
+choice2: "つかれかたる",
+choice3: "つかれはてる",
+answer: 3,
+},
+
+{
+id: "A569",
+question: "私は(納豆)を食べることができません。",
+choice1: "なつとう",
+choice2: "なっとう",
+choice3: "なっふう",
+answer: 2,
+},
+
+{
+id: "A570",
+question: "私は困り(果て)てます。",
+choice1: "くだて",
+choice2: "たて",
+choice3: "はて",
+answer: 3,
+},
+
+{
+id: "A571",
+question: "それは大きな(成果)がでた。",
+choice1: "せいか",
+choice2: "せいは",
+choice3: "せいが",
+answer: 1,
+},
+
+{
+id: "A572",
+question: "氷水の上に(小豆)あんをかけた物がすきです。",
+choice1: "こずき",
+choice2: "あずき",
+choice3: "こまめ",
+answer: 2,
+},
+
+{
+id: "A573",
+question: "(果物)がお好きですか。",
+choice1: "かもの",
+choice2: "はもの",
+choice3: "くだもの",
+answer: 3,
+},
+
+{
+id: "A574",
+question: "コーヒー(豆)を炒る。",
+choice1: "まめ",
+choice2: "あん",
+choice3: "あず",
+answer: 1,
+},
+
+{
+id: "A575",
+question: "彼は(菜園)でトマトを育てている。",
+choice1: "なえん",
+choice2: "さいや",
+choice3: "さいえん",
+answer: 3,
+},
+
+{
+id: "A576",
+question: "(枝豆)はビールのつまみに最適です。",
+choice1: "えだとう",
+choice2: "えだまめ",
+choice3: "えだずき",
+answer: 2,
+},
+
+{
+id: "A577",
+question: "冷蔵庫から(缶)ビールを1本取り出す。",
+choice1: "けん",
+choice2: "がん",
+choice3: "かん",
+answer: 3,
+},
+
+{
+id: "A578",
+question: "日本の(大豆)料理は素晴らしい。",
+choice1: "だいず",
+choice2: "だいとう",
+choice3: "だいずう",
+answer: 1,
+},
+
+{
+id: "A579",
+question: "(豆乳)飲料という飲み物がすきです。",
+choice1: "ずにゅう",
+choice2: "とうにゅう",
+choice3: "まめにゅう",
+answer: 2,
+},
+
+{
+id: "A580",
+question: "(空き缶)をゴミ箱へ捨てます。",
+choice1: "あきかん",
+choice2: "くきかん",
+choice3: "あきがん",
+answer: 1,
+},
+
+{
+id: "A581",
+question: "(果実酒)を床下のクロールスペースに保管しましょう。",
+choice1: "たじつしゅ",
+choice2: "かじつしゅ",
+choice3: "かじつさけ",
+answer: 2,
+},
+
+{
+id: "A582",
+question: "(薬缶)が沸いている。",
+choice1: "くすりかん",
+choice2: "やかん",
+choice3: "ぐすりかん",
+answer: 2,
+},
+
+
+{
+id: "A583",
+question: "緑黄色(やさい)をたくさん食べる。",
+choice1:  "野菜",
+choice2:  "野料",
+choice3:  "理採",
+answer: 1,
+},
+
+{
+id: "A584",
+question: "日ごろの練習の(せいか)を出す。",
+choice1:  "式果",
+choice2:  "成果",
+choice3:  "成早",
+answer: 2,
+},
+
+{
+id: "A585",
+question: " 2月のせつぶんの日は(まめ)まきをる。",
+choice1: "豆",
+choice2: "豈",
+choice3: "痘",
+answer: 1,
+},
+
+{
+id: "A586",
+question: "川辺の(あきかん)を拾う活動に参加する。",
+choice1: "突き缶",
+choice2: "空き岳",
+choice3: "空き缶",
+answer: 3,
+},
+
+{
+id: "A587",
+question: "(だいず)からしょうゆやみそが作られる。",
+choice1:  "犬豈",
+choice2:  "大豆",
+choice3:  "代豆",
+answer: 2,
+},
+
+{
+id: "A588",
+question: "いろいろな(かじつしゅ)を作る。",
+choice1: "果夫酉",
+choice2: "早実洒",
+choice3: "果実酒",
+answer: 3,
+},
+
+{
+id: "A589",
+question: "(なまやさい)のサラダを食べる。",
+choice1: "生野採",
+choice2: "宝野采",
+choice3: "生野菜",
+answer: 3,
+},
+
+{
+id: "A590",
+question: "春になると(なのはな)で一面黄色になる。",
+choice1: "采の花",
+choice2: "採の化",
+choice3: "菜の花",
+answer: 3,
+},
+
+{
+id: "A591",
+question: "何があっても彼女との約束を(はたす)。",
+choice1: "果す",
+choice2: "早たす",
+choice3: "果たす",
+answer: 3,
+},
+
+{
+id: "A592",
+question: "低カロリーの(とうふ)はダイエットにいい。",
+choice1:  "豆楓",
+choice2:  "豆腐",
+choice3:  "荳風",
+answer: 2,
+},
+
+{
+id: "A593",
+question: "(かん)コーヒーを飲んで一休みする。",
+choice1: "官",
+choice2: "缶",
+choice3: "管",
+answer: 2,
+},
+
+{
+id: "A594",
+question: "働きすぎて(つかれはて)た。",
+choice1: "疲れ果て",
+choice2: "彼れ果て",
+choice3: "病れ東て",
+answer: 1,
+},
+
+{
+id: "A595",
+question: "家庭(さいえん)でトマトを育てる。",
+choice1:  "素園",
+choice2:  "菜園",
+choice3:  "菜薗",
+answer: 2,
+},
+
+{
+id: "A596",
+question: "(くだもの)がお好きですか。",
+choice1:  "凍物",
+choice2:  "果物",
+choice3:  "棟物",
+answer: 2,
+},
+
+{
+id: "A597",
+question: "世界の(はて)まで旅をしたい。",
+choice1: "果て",
+choice2: "果",
+choice3: "東て",
+answer: 1,
+},
+
+{
+id: "A598",
+question: "(まめちしき)が豊富な人。",
+choice1: "荳知試",
+choice2: "豆知試",
+choice3: "豆知識",
+answer: 3,
+},
+
+{
+id: "A599",
+question: "これは(こうか)があるはずだ。",
+choice1:  "効果",
+choice2:  "校果",
+choice3:  "効菓",
+answer: 1,
+},
+
+{
+id: "A600",
+question: "(かんづめ)を使った簡単な料理。",
+choice1:  "両詰",
+choice2:  "缶詰",
+choice3:  "缶詩",
+answer: 2,
+},
+
+{
+id: "A601",
+question: "当然の(けっか)だと思います。",
+choice1:  "詰果",
+choice2:  "結果",
+choice3:  "結課",
+answer: 2,
+},
+
+{
+id: "A602",
+question: "私は起きたらすぐに(とうにゅう)を飲みます。",
+choice1:  "豊乳",
+choice2:  "豆孚",
+choice3:  "豆乳",
+answer: 3,
+},
+
+{
+id: "A603",
+question: "(えだまめ)はビールのつまみに最適です。",
+choice1:  "杖荳",
+choice2:  "枚豆",
+choice3:  "枝豆",
+answer: 3,
+},
+
+{
+id: "A604",
+question: "「(あずき)」の意味はマメ科の一年草のこと。",
+choice1:  "小豆",
+choice2:  "少豆",
+choice3:  "心豆",
+answer: 1,
+},
+
+{
+id: "A605",
+question: "私は(なっとう)を食べることができます。",
+choice1:  "絅豆",
+choice2:  "納豆",
+choice3:  "綱荳",
+answer: 2,
+},
+
+{
+id: "A606",
+question: "(やかん)が沸いている。",
+choice1: "楽缶",
+choice2: "薬缶",
+choice3: "樂",
+answer: 2,
+},
+
+{
+id: "A607",
+question: "(杯)に酒を注ぐ。",
+choice1: "ばい",
+choice2: "さかずき",
+choice3: "ざかすき",
+answer: 2,
+},
+
+{
+id: "A608",
+question: "物品の(重量)をはかる。",
+choice1: "じゅりょう",
+choice2: "じゅうりょう",
+choice3: "じゅうた",
+answer: 2,
+},
+
+{
+id: "A609",
+question: "二人は学問では(匹敵)している。",
+choice1: "ひってき",
+choice2: "ひきてき",
+choice3: "ひつてき",
+answer: 1,
+},
+
+{
+id: "A610",
+question: "あなたの未来に(乾杯)！",
+choice1: "かんばい",
+choice2: "かんはい",
+choice3: "かんぱい",
+answer: 3,
+},
+
+{
+id: "A611",
+question: "彼は若いし、おまけに、(二枚)目だ。",
+choice1: "ふたつまいめ",
+choice2: "にまいめ",
+choice3: "にまめ",
+answer: 2,
+},
+
+{
+id: "A612",
+question: "私はシャツを(三枚)洗いました。",
+choice1: "みっつまい",
+choice2: "さんまい",
+choice3: "さまい",
+answer: 2,
+},
+
+{
+id: "A613",
+question: "彼は２(匹)猫を飼っている。",
+choice1: "ひき",
+choice2: "びき",
+choice3: "ぴき",
+answer: 1,
+},
+
+{
+id: "A614",
+question: "等しい(分量)に分ける。",
+choice1: "ぶんりょう",
+choice2: "ふんりょう",
+choice3: "ぶんりょ",
+answer: 1,
+},
+
+{
+id: "A615",
+question: "私は(二十匹)の魚を捕まえました。",
+choice1: "にじっびき",
+choice2: "にじゅっぴき",
+choice3: "にじっぴ",
+answer: 3,
+},
+
+{
+id: "A616",
+question: "(枚数)を数えてください。",
+choice1: "まいかず",
+choice2: "まいすい",
+choice3: "まいすう",
+answer: 3,
+},
+
+{
+id: "A617",
+question: "ココアを(一杯)ください。",
+choice1: "いちはい",
+choice2: "いっぱい",
+choice3: "いっばい",
+answer: 2,
+},
+
+{
+id: "A618",
+question: "私は猫を(三匹)飼っています。",
+choice1: "さんぴき",
+choice2: "さんひき",
+choice3: "さんびき",
+answer: 3,
+},
+
+{
+id: "A619",
+question: "(枚)70円です。",
+choice1: "まい",
+choice2: "はい",
+choice3: "ばい",
+answer: 1,
+},
+
+{
+id: "A620",
+question: "彼はネコを一匹と犬を(二匹)飼っている。",
+choice1: "にびき",
+choice2: "にひき",
+choice3: "にぴき",
+answer: 2,
+},
+
+{
+id: "A621",
+question: "(計量)する前にすりきりしなさい。",
+choice1: "けいはかる",
+choice2: "けいりょ",
+choice3: "けいりょ",
+answer: 3,
+},
+
+{
+id: "A622",
+question: "はかりで体重を(量る)。",
+choice1: "はかる",
+choice2: "りょる",
+choice3: "やかる",
+answer: 1,
+},
+
+{
+id: "A623",
+question: "もう残っているのは(五枚)だけね。",
+choice1: "よんまい",
+choice2: "ごうまい",
+choice3: "ごまい",
+answer: 3,
+},
+
+{
+id: "A624",
+question: "「(さんびき)の子ぶた」の物語を読む。",
+choice1: "三匹",
+choice2: "三四",
+choice3: "三冏",
+answer: 1,
+},
+
+{
+id: "A625",
+question: "魚を三(まい)に下ろす。",
+choice1: "朴",
+choice2: "枚",
+choice3: "林",
+answer: 2,
+},
+
+{
+id: "A626",
+question: "家はねこが2(ひき)います。",
+choice1: "匹",
+choice2: "四",
+choice3: "内",
+answer: 1,
+},
+
+{
+id: "A627",
+question: "八十円切手を(ごまい)買う。",
+choice1: "五林",
+choice2: "五枚",
+choice3: "五杯",
+answer: 2,
+},
+
+{
+id: "A628",
+question: "(にじっぴき)の熱帯魚。",
+choice1: "二十匠",
+choice2: "二十四",
+choice3: "二十匹",
+answer: 3,
+},
+
+{
+id: "A629",
+question: "ダイエットのために毎日体重を(はかる)。",
+choice1: "書る",
+choice2: "皇る",
+choice3: "量る",
+answer: 3,
+},
+
+{
+id: "A630",
+question: "魚を(さんまい)におろす。",
+choice1: "三株",
+choice2: "三杯",
+choice3: "三枚",
+answer: 3,
+},
+
+{
+id: "A631",
+question: "くうこうでは荷物の(じゅうりょう)検査がある。",
+choice1: "重星",
+choice2: "動量",
+choice3: "重量",
+answer: 3,
+},
+
+{
+id: "A632",
+question: "コピーしたプリントの(まいすう)を確認する。",
+choice1: "杯薮",
+choice2: "枚数",
+choice3: "株数",
+answer: 2,
+},
+
+{
+id: "A633",
+question: "おかし作りは(けいりょう)がポイントだ。",
+choice1: "訃畳",
+choice2: "計量",
+choice3: "訐量",
+answer: 2,
+},
+
+{
+id: "A634",
+question: "(いっぱい)のんでから帰ることにする。",
+choice1: "一杯",
+choice2: "一枚",
+choice3: "一村",
+answer: 1,
+},
+
+{
+id: "A635",
+question: "道に(にひき)の子猫が捨てられている。",
+choice1: "二四",
+choice2: "二匹",
+choice3: "二匠",
+answer: 2,
+},
+
+{
+id: "A636",
+question: "モデルの彼はさがすに(にまいめ)だ。",
+choice1: "二杯目",
+choice2: "二枚目",
+choice3: "二枚日",
+answer: 2,
+},
+
+{
+id: "A637",
+question: "(ふんりょう)をまちがえたのか、味がおかしい。",
+choice1: "分量",
+choice2: "芬量",
+choice3: "粉量",
+answer: 1,
+},
+
+{
+id: "A638",
+question: "二人の幸せを願って(かんぱい)した。",
+choice1: "軟杯",
+choice2: "乾枚",
+choice3: "乾杯",
+answer: 3,
+},
+
+{
+id: "A639",
+question: "彼はプロに(ひってき)する絵の才能を持つ。",
+choice1: "匹敵",
+choice2: "四滴",
+choice3: "匹摘",
+answer: 1,
+},
+
+{
+id: "A640",
+question: "(さかずき)にお酒をなみなみと注ぐ。",
+choice1: "枚",
+choice2: "杯",
+choice3: "林",
+answer: 2,
+},
+
+]
+
+let n4 = [
+
+]
+
+let n5 = [
 
 ]

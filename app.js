@@ -4,7 +4,7 @@ const startBtn= document.querySelector('.startBtn');
 const preQuestionBoardBtn= document.querySelector('.preQuestionBoardBtn');
 const returnBtn= document.querySelector('.returnBtn');
 const preQuestionBoard__list = document.querySelector('#preQuestionBoard__list')
-// khởi tạo
+// Khởi tạo
 document.getElementById('main').style.display = "flex";
 document.getElementById('start').style.display = "none";
 document.getElementById('end').style.display = "none";
@@ -12,11 +12,11 @@ document.getElementById('returnBtn').style.display = "none";
 document.getElementById('score').style.display = "none";
 document.getElementById('preQuestionBtn').style.display = "none";
 document.getElementById('preQuestionBoard').style.display = "none";
-// quay về
+// Quay về
 returnBtn.addEventListener('click', ()=>{
     resetGame();
 });
-// bắt đầu
+// Bắt đầu
 startBtn.addEventListener('click', ()=>{
     document.getElementById('main').style.display = "none";
     document.getElementById('start').style.display = "flex";
@@ -30,12 +30,8 @@ preQuestionBoardBtn.addEventListener('click', ()=>{
     document.getElementById('preQuestionBoard').style.display = "flex";
     document.getElementById('returnBtn').style.display = "flex";
 });
-// reset
+// Reset
 function resetGame(){
-    // currentQuestion = {};
-    // acceptingAnswers = true;
-    // score = 0;
-    // availableQuestions = [];
     // Khi bấm ok thì nó sẽ đếm lại từ 0
     questionCounter = 0;
     document.getElementById('main').style.display = "flex";
@@ -48,6 +44,7 @@ function resetGame(){
     document.getElementById('preQuestionBoard').style.display= "none"; 
 }
 //start
+let questions =[...n3,...n4,...n5];   // vì nó trỏ đến các mảng khác nên ưu tiên để lên đây
 const question = document.querySelector('#question');
 const choices = Array.from(document.querySelectorAll('.choice-text'));
 const scoreText = document.querySelector('#score');
@@ -65,6 +62,39 @@ function getInputValue(){
     var inputVal = document.getElementById("number-box").value;
     MAX_QUESTIONS = inputVal - 1;
 }
+//------------------------------------------>
+// Lưu lại tổng số câu ra chỗ riêng
+let indexQuestions= [];
+indexQuestions = questions;
+function changeLevel_All(){
+    questions = indexQuestions;
+    MAX_QUESTIONS = questions.length;
+    document.getElementById("number-box").value = questions.length;
+    playAudio('./assets/audio/pop.wav');
+}
+
+function changeLevel_N3(){
+    questions = n3;
+    MAX_QUESTIONS = questions.length;
+    document.getElementById("number-box").value = questions.length;
+    playAudio('./assets/audio/pop.wav');
+}
+
+function changeLevel_N4(){
+    questions = n4;
+    MAX_QUESTIONS = questions.length;
+    document.getElementById("number-box").value = questions.length;
+    playAudio('./assets/audio/pop.wav');
+}
+
+function changeLevel_N5(){
+    questions = n5;
+    MAX_QUESTIONS = questions.length;
+    document.getElementById("number-box").value = questions.length;
+    playAudio('./assets/audio/pop.wav');
+}
+
+//------------------------------------------>
 
 function startGame(){
     questionCounter = 0
@@ -90,7 +120,8 @@ getNewQuestion = () => {
     questionCounter++;
     const questionsIndex = Math.floor(Math.random() * availableQuestions.length);
     currentQuestion = availableQuestions[questionsIndex];
-    question.innerText = currentQuestion.question;
+    // Đẩy câu hỏi từ database vào question
+    question.innerText = currentQuestion.id +':  '+currentQuestion.question;
 
     choices.forEach(choice => {
         const number = choice.dataset['number'];
@@ -158,13 +189,14 @@ function getRandomInt(max) {
 comment = [
     'Chiến thần Nhật Ngữ',
     'Giỏi quá bạn ơi',
-    'Sừ goi sừ goi',
-    'Nì hôn jin',
+    'Sugoi Sugoi Onii-chan',
+    '🙌万歳🙌',
     'Gì vậy trời',
     'Chiến thần N1',
     'Gòi xong tới công chuyện',
     'Rất xinh đẹp, tuyệt vời',
     'Đi lối này thưa ngài',
+    'Kẻ hủy diệt Kanji',
     'Xin chào, tổng tư lệnh',
     '日本語が上手ですね！',
 ];
@@ -185,33 +217,42 @@ frame=[
     './assets/images/Frame-2.png',
     './assets/images/Frame-3.png'
 ]
-endtext.innerText = comment[getRandomInt(comment.length)];
-document.getElementById("gif").src= gif[getRandomInt(gif.length)];
+
+var bg_count= 0;
+bg = [
+    'background: linear-gradient(to right,#0f0c29,#302b63,#24243e) !important',
+    'background: linear-gradient(to right,#0F2027,#203A43,#2C5364) !important',
+    'background: linear-gradient(to right,#2c3e50,#2c3e50) !important',
+    'background: linear-gradient(to right,#093028,#093028) !important',
+    'background: linear-gradient(to right,#000428,#004e92) !important',
+    'background: linear-gradient(to right,#434343,#004e92) !important',
+    'background: linear-gradient(to right,#232526,#414345) !important',
+];
+
+var qbg_count= 0;
+const qbg = [
+    'background: #000; color: #fff;',
+    'background: #000; color: #FDC830;',
+    'background: #FDC830; color: #000;',
+    'background: #fff; color: #000;',
+]
+
+// Khởi tạo frame, gif, comment ngẫu nhiên
 document.getElementById("frame").src=frame[getRandomInt(frame.length)];
-function choosePic(){
-    document.getElementById("frame").src=frame[getRandomInt(frame.length)];
-};
-//Đổi màu background
-function changeColor(){
-    bg = [
-        'background: linear-gradient(to right,#0f0c29,#302b63,#24243e) !important',
-        'background: linear-gradient(to right,#0F2027,#203A43,#2C5364) !important',
-        'background: linear-gradient(to right,#2c3e50,#2c3e50) !important',
-        'background: linear-gradient(to right,#093028,#093028) !important',
-        'background: linear-gradient(to right,#000428,#004e92) !important',
-        'background: linear-gradient(to right,#434343,#004e92) !important',
-        'background: linear-gradient(to right,#232526,#414345) !important',
-    ];
-    document.getElementById('wrapper').style= bg[getRandomInt(bg.length)];
-}
-//Click vào câu hỏi đổi màu
-const changeQuestionBackground = document.querySelector('.content-box__quiz');
-changeQuestionBackground.addEventListener('click',()=>{
-    const qbg = [
-        'background: #000; color: #fff;',
-        'background: #fff; color: #000;',
-        'background: #000; color: #FDC830;',
-        'background: #FDC830; color: #000;',
-    ]
-    changeQuestionBackground.style=qbg[getRandomInt(qbg.length)];
+document.getElementById("gif").src= gif[getRandomInt(gif.length)];
+endtext.innerText = comment[getRandomInt(comment.length)];
+
+// Đổi màu frame tanuki khi click
+document.querySelector('#frame').addEventListener('click', (e)=>{
+    e.target.src=frame[getRandomInt(frame.length)];
+    document.querySelector('#wrapper').style= bg[bg_count++];
+    if (bg_count == bg.length) bg_count= 0;
+    playAudio('./assets/audio/pop.wav');
 })
+
+//Click vào câu hỏi đổi màu
+document.querySelector('.content-box__quiz').addEventListener('click',(e)=>{
+    if (qbg_count == qbg.length) qbg_count= 0;
+    e.target.style=qbg[qbg_count++];
+})
+

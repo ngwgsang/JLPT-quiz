@@ -19,8 +19,14 @@
         <a href="https://github.com/sangcamap/JLPT-quiz" target="_blank" onclick="playAudio('./assets/audio/pop.wav')"><div class="docBtn"><i class="fab fa-github-alt"></i></div></a>
 <!---------------------------------------------MAIN------------------------------------------->
         <div class="main" id="main">
-            <img src="./assets/images/Frame-1.png" alt="" id="frame" onclick="choosePic(); playAudio('./assets/audio/pop.wav'); changeColor();">
+            <img src="./assets/images/Frame-1.png" alt="" id="frame">
             <div class="container-number">
+                <select multiple name="Level" class="container-number__select" id="select-box">
+                    <option  onclick="changeLevel_All()">Tất cả</option>
+                    <option  onclick="changeLevel_N3()">N3</option>
+                    <option  onclick="changeLevel_N4()">N4</option>
+                    <option  onclick="changeLevel_N5()">N5</option>
+                </select>
                 <input type="number" placeholder="Số lượng" id="number-box" class="container-number__box">
                 <button type="button" onclick="getInputValue(); playAudio('./assets/audio/pop.wav');" class="container-number__btn">OK</button>
             </div>
@@ -53,7 +59,7 @@
             <img src="./assets/images/gif-1.gif" alt="" id="gif">
             <form class="end-form-container" onclick="playAudio('./assets/audio/pop.wav');">
                 <h2 id="end-text">comment</h2>
-                <input type="text" name="name" id="username" placeholder="Tui tên là">
+                <input type="text" name="name" id="username" placeholder="Tên bạn là">
                 <!-- <button class="btn" onclick="saveHighScore(event); " id="saveScoreBtn" type="submit"  disabled>Lưu</button> -->
                 <button class="btn" id="saveScoreBtn" onclick="resetGame()" type="submit">Lưu</button>
             </form>
