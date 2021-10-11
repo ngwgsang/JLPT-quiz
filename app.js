@@ -69,6 +69,7 @@ function changeLevel_All(){
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
     playAudio('./assets/audio/pop.wav');
+    startGame();
 }
 
 function changeLevel_N3(){
@@ -76,6 +77,7 @@ function changeLevel_N3(){
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
     playAudio('./assets/audio/pop.wav');
+    startGame();
 }
 
 function changeLevel_N4(){
@@ -83,6 +85,7 @@ function changeLevel_N4(){
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
     playAudio('./assets/audio/pop.wav');
+    startGame();
 }
 
 function changeLevel_N5(){
@@ -90,11 +93,12 @@ function changeLevel_N5(){
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
     playAudio('./assets/audio/pop.wav');
+    startGame();
 }
 
 //------------------------------------------>
-
 function startGame(){
+    // Bắt đầu và gán các giá trị vào Current question
     questionCounter = 0
     score = 0
     availableQuestions = [...questions]

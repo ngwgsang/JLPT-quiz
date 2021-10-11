@@ -22,6 +22,9 @@ A  |641-841 |N3      |Kanji Master N3 |Chương 4  |11/10/2021 |[sangcamap](http
 ## :cherry_blossom:	 Báo lỗi
 :raccoon:  Nếu bạn gặp phải đáp án sai hay lỗi nào đó thì có thể phản hồi [tại đây](https://forms.gle/PJ5ib4EdRPYoewSE7) hoặc qua [Facebook](https://www.facebook.com/sangnguyen0709/) mình ! 
 
+## :cherry_blossom: Đóng góp 
+:raccoon:  Nếu các bạn muốn hỗ trợ mình trong việc thu thập câu hỏi thì có thể đóng góp tại đây nha !
+
 ## :cherry_blossom:	 P/S
 :raccoon:  Dữ liệu public các bạn cần cứ clone về dùng thoải mái chỉ cần để credit mình là được rồi :wink: :wink:
 
