@@ -111,7 +111,8 @@ function endGame(){
 }
 const preQuestionBtn = document.getElementById("preQuestionBtn");
 let   preQuestion =[];
-let   preAnswer =[];
+let   preAnswer   =[];
+let   preId       =[];
 getNewQuestion = () => {
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         // localStorage.setItem('mostRecentScore', score);
@@ -129,13 +130,14 @@ getNewQuestion = () => {
     })
     
     // Lưu lại giá trị trước khi cắt
+    preId.push(currentQuestion.id);
     preQuestion.push(currentQuestion.question);
     preAnswer.push(currentQuestion['choice'+currentQuestion.answer]);
     preQuestionBtn.innerText = preQuestion[preQuestion.length-2];
     // Cho vào preQuestionBoard
     if (preQuestion.length-2>-1)
     preQuestionBoard__list.innerHTML += 
-    `<li><p class='list__left'>${preQuestion[preQuestion.length-2]}</p><p class='list__right'>${preAnswer[preQuestion.length-2]}</p></li>`
+    `<li><p class='list__left'>${preId[preQuestion.length-2]}: ${preQuestion[preQuestion.length-2]}</p><p class='list__right'>${preAnswer[preQuestion.length-2]}</p></li>`
     //-------
     availableQuestions.splice(questionsIndex, 1);
     acceptingAnswers = true;
