@@ -5754,6 +5754,1447 @@ choice3: "林",
 answer: 2,
 },
 
+{
+id: "A641",
+question: "(頭)に気をつけて！",
+choice1: "くび",
+choice2: "あたま",
+choice3: "かお",
+answer: 2,
+},
+
+{
+id: "A642",
+question: "あの人の(顔)は立派な顔だ。",
+choice1: "あたま",
+choice2: "かお",
+choice3: "くび",
+answer: 2,
+},
+
+{
+id: "A643",
+question: "寝て(頭痛)を治す。",
+choice1: "ずつう",
+choice2: "とつう",
+choice3: "とうつう",
+answer: 1,
+},
+
+{
+id: "A644",
+question: "人の(手首)を捕まえる。",
+choice1: "てぐび",
+choice2: "しゅくび",
+choice3: "てくび",
+answer: 3,
+},
+
+{
+id: "A645",
+question: "文章のはじめの語は(頭文字)で書きなさい。",
+choice1: "とうもじ",
+choice2: "かしらもじ",
+choice3: "からしもじ",
+answer: 2,
+},
+
+{
+id: "A646",
+question: "イギリスの(首都)どこですか？",
+choice1: "しゅぶ",
+choice2: "しゅと",
+choice3: "しゅうと",
+answer: 2,
+},
+
+{
+id: "A647",
+question: "(口頭)試験でこわごわ答えた。",
+choice1: "こうとう",
+choice2: "くうとう",
+choice3: "こうずう",
+answer: 1,
+},
+
+{
+id: "A648",
+question: "私は会社を(首になった)。",
+choice1: "あびになった",
+choice2: "くびになった",
+choice3: "しゅになった",
+answer: 2,
+},
+
+{
+id: "A649",
+question: "彼らは(耳鼻科)で診察してもらった。",
+choice1: "みひか",
+choice2: "みびか",
+choice3: "じびか",
+answer: 3,
+},
+
+{
+id: "A650",
+question: "私が乾杯の(音頭)をとります、乾杯！。",
+choice1: "おんず",
+choice2: "おんと",
+choice3: "おんど",
+answer: 3,
+},
+
+{
+id: "A651",
+question: "恒例の(年頭)におけるあいさつ。",
+choice1: "ねんずう",
+choice2: "ねんとう",
+choice3: "ねんどう",
+answer: 2,
+},
+
+{
+id: "A652",
+question: "あなたの(笑顔)が大好き。",
+choice1: "えがん",
+choice2: "えかお",
+choice3: "えがお",
+answer: 3,
+},
+
+{
+id: "A653",
+question: "彼の(顔色)が良くなる。",
+choice1: "かおいろ",
+choice2: "がんいろ",
+choice3: "がおいろ",
+answer: 1,
+},
+
+{
+id: "A654",
+question: "あの子には大人も(顔負)けだ。",
+choice1: "がんまけ",
+choice2: "かおまけ",
+choice3: "かおうけ",
+answer: 2,
+},
+
+{
+id: "A655",
+question: "君は成功して(鼻が高い)。",
+choice1: "まながたかい",
+choice2: "びがたかい",
+choice3: "はながたかい",
+answer: 3,
+},
+
+{
+id: "A656",
+question: "彼女は私の(顔面)をたたいた。",
+choice1: "がんめん",
+choice2: "かおめん",
+choice3: "かんめん",
+answer: 1,
+},
+
+{
+id: "A657",
+question: "吸入士式の(点鼻薬)。",
+choice1: "てんはなくすり",
+choice2: "てんびぐすり",
+choice3: "てんびやく",
+answer: 3,
+},
+
+{
+id: "A658",
+question: "私はダブル(洗顔)でしっかり毛穴の汚れを落とします。",
+choice1: "せんかお",
+choice2: "せんがん",
+choice3: "せんがお",
+answer: 2,
+},
+
+{
+id: "A659",
+question: "(首)を振って断わる。",
+choice1: "ぐび",
+choice2: "あび",
+choice3: "くび",
+answer: 3,
+},
+
+{
+id: "A660",
+question: "あの人は(鼻)が高い。",
+choice1: "はな",
+choice2: "ばな",
+choice3: "び",
+answer: 1,
+},
+
+{
+id: "A661",
+question: "彼はあまり良い(首相)ではない。",
+choice1: "しゅと",
+choice2: "しゅしょう",
+choice3: "しゅうしょう",
+answer: 2,
+},
+
+{
+id: "A662",
+question: "リーグ戦で両チームとも(首位)になった。",
+choice1: "しゅい",
+choice2: "しゅうい",
+choice3: "くびい",
+answer: 1,
+},
+
+{
+id: "A663",
+question: "ずっと(鼻水)が出ます。",
+choice1: "はなすい",
+choice2: "はなみず",
+choice3: "びすい",
+answer: 2,
+},
+
+{
+id: "A664",
+question: "(部首)とは漢字を分類する際に用いられる漢字の一部分である。",
+choice1: "ぶうしゅ",
+choice2: "ぶしゅ",
+choice3: "ぶとう",
+answer: 2,
+},
+
+{
+id: "A665",
+question: "ボールが(がんめん)に当たり鼻血が出た。",
+choice1: "顔面",
+choice2: "頭面",
+choice3: "顕面",
+answer: 1,
+},
+
+{
+id: "A666",
+question: "社長が(ねんとう)のあいさつに立つ。",
+choice1: "年頼",
+choice2: "年頭",
+choice3: "年頷",
+answer: 2,
+},
+
+{
+id: "A667",
+question: "有名大学に合格して(はな)が高い。",
+choice1: "鼻",
+choice2: "昇",
+choice3: "算",
+answer: 1,
+},
+
+{
+id: "A668",
+question: "(あたま)をなでて子供をほめる。",
+choice1: "顕",
+choice2: "題",
+choice3: "頭",
+answer: 3,
+},
+
+{
+id: "A669",
+question: "二位のチームが逆転して(しゅい)に立つ。",
+choice1: "頁位",
+choice2: "首位",
+choice3: "首立",
+answer: 2,
+},
+
+{
+id: "A670",
+question: "昨日からひどい(ずつう)が続いている。",
+choice1: "顔痛",
+choice2: "頭通",
+choice3: "頭痛",
+answer: 3,
+},
+
+{
+id: "A671",
+question: "朝起きてすぐに(かお)を洗う。",
+choice1: "頭",
+choice2: "顏",
+choice3: "顔",
+answer: 3,
+},
+
+{
+id: "A672",
+question: "かぜをひいて(はなみず)が出る。",
+choice1: "算泳",
+choice2: "鼻氷",
+choice3: "鼻水",
+answer: 3,
+},
+
+{
+id: "A673",
+question: "寝ちがえて(くび)がまわらない。",
+choice1: "百",
+choice2: "苜",
+choice3: "首",
+answer: 3,
+},
+
+{
+id: "A674",
+question: "耳の調子が悪く、(じびか)へ行く。",
+choice1: "茸鼻科",
+choice2: "耳鼻科",
+choice3: "耳算科",
+answer: 2,
+},
+
+{
+id: "A675",
+question: "受験科目に(こうとう)試験がある。",
+choice1: "口顛",
+choice2: "口頭",
+choice3: "口顔",
+answer: 2,
+},
+
+{
+id: "A676",
+question: "友人を(えがお)で出迎える。",
+choice1: "笑顔",
+choice2: "笑頭",
+choice3: "笑顏",
+answer: 1,
+},
+
+{
+id: "A677",
+question: "歴代の(しゅしょう)を調べる。",
+choice1: "首目",
+choice2: "首相",
+choice3: "頁相",
+answer: 2,
+},
+
+{
+id: "A678",
+question: "名前を(かしらもじ)を書く。",
+choice1: "顔文子",
+choice2: "頭文字",
+choice3: "頼文字",
+answer: 2,
+},
+
+{
+id: "A679",
+question: "じょうしの(かおいろ)をうかがう。",
+choice1: "顔色",
+choice2: "頭色",
+choice3: "顔邑",
+answer: 1,
+},
+
+{
+id: "A680",
+question: "会社を(くび)になる。",
+choice1: "頁になる",
+choice2: "百になる",
+choice3: "首になる",
+answer: 3,
+},
+
+{
+id: "A681",
+question: "(はな)にかかった声であまえる。",
+choice1: "鼻",
+choice2: "鼾",
+choice3: "舅",
+answer: 1,
+},
+
+{
+id: "A682",
+question: "大人か(おまけ)の知識がある。",
+choice1: "顏負け",
+choice2: "顔負け",
+choice3: "顔貝け",
+answer: 2,
+},
+
+{
+id: "A683",
+question: "参加者はその(おんど)に合わせて踊る。",
+choice1: "部頭",
+choice2: "音頭",
+choice3: "暗顔",
+answer: 2,
+},
+
+{
+id: "A684",
+question: "日本の(せんがん)はとても人気がある。",
+choice1: "洗頭",
+choice2: "先願",
+choice3: "洗顔",
+answer: 3,
+},
+
+{
+id: "A685",
+question: "彼女は(てくび)の骨を折りました。",
+choice1: "手具",
+choice2: "手相",
+choice3: "手首",
+answer: 3,
+},
+
+{
+id: "A686",
+question: "イギリスの(しゅと)はどこですか。",
+choice1: "首都",
+choice2: "首部",
+choice3: "首暗",
+answer: 1,
+},
+
+{
+id: "A687",
+question: "この(てんびやく)はとてもいいです。",
+choice1: "店鼾楽",
+choice2: "点鼻薬",
+choice3: "点鼻落",
+answer: 2,
+},
+
+{
+id: "A688",
+question: "(ぶしゅ)は漢字の一部分である。",
+choice1: "首都",
+choice2: "部首",
+choice3: "首",
+answer: 2,
+},
+
+{
+id: "A689",
+question: "人の名を大声で(呼ぶ)。",
+choice1: "こぶ",
+choice2: "よぶ",
+choice3: "ようぶ",
+answer: 2,
+},
+
+{
+id: "A690",
+question: "私は走ると(息切れ)がします。",
+choice1: "いききれ",
+choice2: "いきぎれ",
+choice3: "そくきれ",
+answer: 2,
+},
+
+{
+id: "A691",
+question: "(利息)を取って金を貸す。",
+choice1: "りそく",
+choice2: "りいき",
+choice3: "りぞく",
+answer: 1,
+},
+
+{
+id: "A692",
+question: "人を区別して(名前を呼ぶ)。",
+choice1: "はまえをようぶ",
+choice2: "なえをこぶ",
+choice3: "なまえをよぶ",
+answer: 3,
+},
+
+{
+id: "A693",
+question: "十分に(休息)をとる。",
+choice1: "きゅそく",
+choice2: "きゅうそく",
+choice3: "きゅういき",
+answer: 2,
+},
+
+{
+id: "A694",
+question: "タバコを(吸う)のを禁止する",
+choice1: "しゅう",
+choice2: "すう",
+choice3: "こう",
+answer: 2,
+},
+
+{
+id: "A695",
+question: "緊急のときに(助けを呼ぶ)ために押すボタン。",
+choice1: "たすけをよぶ",
+choice2: "たけをよぶ",
+choice3: "たっけをこぶ",
+answer: 1,
+},
+
+{
+id: "A696",
+question: " (息)を切らす。",
+choice1: "そく",
+choice2: "いき",
+choice3: "いけ",
+answer: 2,
+},
+
+{
+id: "A697",
+question: "(汗)が止まらない。",
+choice1: "かぜ",
+choice2: "あめ",
+choice3: "あせ",
+answer: 3,
+},
+
+{
+id: "A698",
+question: "(息子)さんはお元気ですか？",
+choice1: "いきこ",
+choice2: "そくこ",
+choice3: "むすこ",
+answer: 3,
+},
+
+{
+id: "A699",
+question: "(呼吸)がしにくいのです。",
+choice1: "ほきゅう",
+choice2: "こきゅう",
+choice3: "こうきゅう",
+answer: 2,
+},
+
+{
+id: "A700",
+question: "病人は(息苦)しい様子だ。",
+choice1: "いきくる",
+choice2: "そくぐる",
+choice3: "いきぐる",
+answer: 3,
+},
+
+{
+id: "A701",
+question: "電話をかけて(タクシー)を呼ぶ。",
+choice1: "タクシーをよぶ",
+choice2: "タクシーをこぶ",
+choice3: "タクシーをようぶ",
+answer: 1,
+},
+
+{
+id: "A702",
+question: "(深呼吸)するのは健康に良い。",
+choice1: "ふくこきゅう",
+choice2: "しんこきゅう",
+choice3: "しんこうきゅう",
+answer: 2,
+},
+
+{
+id: "A703",
+question: "植物は地中から水分を(吸い取る)。",
+choice1: "ほいとる",
+choice2: "こいとる",
+choice3: "すいとる",
+answer: 3,
+},
+
+{
+id: "A704",
+question: "(発汗)で体重が減る。",
+choice1: "はっかん",
+choice2: "はつかん",
+choice3: "はっせん",
+answer: 1,
+},
+
+{
+id: "A705",
+question: "恐怖のため(冷や汗)をかく。",
+choice1: "ひえやあせ",
+choice2: "ひやあせ",
+choice3: "ひやか",
+answer: 2,
+},
+
+
+{
+id: "A706",
+question: "借りていたお金の(りそく)を払う。",
+choice1: "利息",
+choice2: "莉息",
+choice3: "利急",
+answer: 1,
+},
+
+{
+id: "A707",
+question: "火事に気付き、大声で(たすけ)をよぶ。",
+choice1: "肋けを呼ぶ",
+choice2: "助けを呼ぶ",
+choice3: "助けけを吁ぶ",
+answer: 2,
+},
+
+{
+id: "A708",
+question: "(きゅうそく)の時間をたっぷり取る。",
+choice1: "休息",
+choice2: "木忠",
+choice3: "休思",
+answer: 1,
+},
+
+{
+id: "A709",
+question: "たくさん運動して(あせ)をかいた。",
+choice1: "肝",
+choice2: "干",
+choice3: "汗",
+answer: 3,
+},
+
+{
+id: "A710",
+question: "手を上げて(タクシー)をよぶ。",
+choice1: "タクシーを咤ぶ",
+choice2: "タクシーを呼ぶ",
+choice3: "タクシーを味ぶ",
+answer: 2,
+},
+
+{
+id: "A711",
+question: "この部屋はなんだか(いきぐるしい)。",
+choice1: "恩古しい",
+choice2: "息若しい",
+choice3: "息苦しい",
+answer: 3,
+},
+
+{
+id: "A712",
+question: "恥ずかしくて(ひやあせ)をかいた。",
+choice1: "怜や汗",
+choice2: "令や干",
+choice3: "冷や汗",
+answer: 3,
+},
+
+{
+id: "A713",
+question: "(しんこきゅう)して気持ちを落ち着かせる。",
+choice1: "染呼及",
+choice2: "探呼扱",
+choice3: "深呼吸",
+answer: 3,
+},
+
+{
+id: "A714",
+question: "そうじきで部屋のゴミを(すいとる)。",
+choice1: "及取る",
+choice2: "扱い耶る",
+choice3: "吸い取る",
+answer: 3,
+},
+
+{
+id: "A715",
+question: "(こきゅう)が苦しい。",
+choice1: "乎級",
+choice2: "呼吸",
+choice3: "呼扱",
+answer: 2,
+},
+
+{
+id: "A716",
+question: "この食品には(はっかん)作用がある。",
+choice1: "癸干",
+choice2: "発汗",
+choice3: "溌肝",
+answer: 2,
+},
+
+{
+id: "A717",
+question: "私には(むすこ)が 2 人いる。",
+choice1: "息子",
+choice2: "息仔",
+choice3: "思予",
+answer: 1,
+},
+
+{
+id: "A718",
+question: "しんせんな空気を(すう)。",
+choice1: "級う",
+choice2: "吸う",
+choice3: "及う",
+answer: 2,
+},
+
+{
+id: "A719",
+question: "(いきぎれ)するまで走る。",
+choice1: "息功れ",
+choice2: "息切れ",
+choice3: "恩刀れ",
+answer: 2,
+},
+
+{
+id: "A720",
+question: "出欠を取るために学生の(名前をよぶ)。",
+choice1: "名前を呼ぶ",
+choice2: "右前を乎ぶ",
+choice3: "召前を呼ぶ",
+answer: 1,
+},
+
+{
+id: "A721",
+question: "向こうから(いき)を切らして走ってくる。",
+choice1: "患",
+choice2: "悳",
+choice3: "息",
+answer: 3,
+},
+
+{
+id: "A722",
+question: "ここでたばこを(すわない)でください。",
+choice1: "吸わない",
+choice2: "及わない",
+choice3: "汲わな",
+answer: 1,
+},
+
+{
+id: "A723",
+question: "(歯医者)に予約をしました！",
+choice1: "はいいしゃ",
+choice2: "はいしゃ",
+choice3: "はいじゃ",
+answer: 2,
+},
+
+{
+id: "A724",
+question: "私は車を(点検)する。",
+choice1: "てんかん",
+choice2: "てんけん",
+choice3: "でんげん",
+answer: 2,
+},
+
+{
+id: "A725",
+question: "私は背中がひどく(痛い)。",
+choice1: "いたい",
+choice2: "つうい",
+choice3: "いだい",
+answer: 1,
+},
+
+{
+id: "A726",
+question: "(虫歯)を抜いてもらった。",
+choice1: "しむば",
+choice2: "むしは",
+choice3: "むしば",
+answer: 3,
+},
+
+{
+id: "A727",
+question: "(痛み止め)の注射をしてもらった。",
+choice1: "いたみとめ",
+choice2: "いたみどめ",
+choice3: "つうみどめ",
+answer: 2,
+},
+
+{
+id: "A728",
+question: "(歯車)をかみ合わせる。",
+choice1: "はしゃ",
+choice2: "はぐるま",
+choice3: "はくるま",
+answer: 2,
+},
+
+{
+id: "A729",
+question: "(探検)家でよく外国へ行きます。",
+choice1: "たんけん",
+choice2: "しんけん",
+choice3: "ふくけん",
+answer: 1,
+},
+
+{
+id: "A730",
+question: "事件を(調査)する。",
+choice1: "ちょさ",
+choice2: "ちょうさ",
+choice3: "そうさ",
+answer: 2,
+},
+
+{
+id: "A731",
+question: "食べ過ぎて(腹痛)を起こした。",
+choice1: "ずつう",
+choice2: "ようつう",
+choice3: "ふくつう",
+answer: 3,
+},
+
+{
+id: "A732",
+question: "彼は(歯科)処置を受けた。",
+choice1: "しりょう",
+choice2: "はりょう",
+choice3: "しか",
+answer: 3,
+},
+
+{
+id: "A733",
+question: "突然胃に(激痛)を感じた。",
+choice1: "けきつう",
+choice2: "げきつう",
+choice3: "つよつう",
+answer: 2,
+},
+
+{
+id: "A734",
+question: "食品の安(全性)を検証する。",
+choice1: "たんしょ",
+choice2: " かんしょう",
+choice3: "けんしょう",
+answer: 3,
+},
+
+{
+id: "A735",
+question: "散歩すると(頭痛)が治る。",
+choice1: "ずつう",
+choice2: "あたまいた",
+choice3: "ようつう",
+answer: 1,
+},
+
+{
+id: "A736",
+question: "ビザの申請書を(審査)する。",
+choice1: "ばんさ",
+choice2: "しんさ",
+choice3: "しんしゃ",
+answer: 2,
+},
+
+{
+id: "A737",
+question: "キャンディーを食べすぎると(歯)によくない。",
+choice1: "ば",
+choice2: "し",
+choice3: "は",
+answer: 3,
+},
+
+{
+id: "A738",
+question: "(審査員)の選択は賢明でなかったと思う人もいました。",
+choice1: "しんさいん",
+choice2: "かんしゃいん",
+choice3: "しんそいん",
+answer: 1,
+},
+
+{
+id: "A739",
+question: "その件は(検討)済みです。",
+choice1: "けんぼう",
+choice2: "けんしょう",
+choice3: "けんとう",
+answer: 3,
+},
+
+{
+id: "A740",
+question: "乳歯は 8 歳ごろ(永久歯)に生え変わり始める。",
+choice1: "すいきゅうば",
+choice2: "えいきゅうし",
+choice3: "えいきゅうは",
+answer: 2,
+},
+
+{
+id: "A741",
+question: "歯がずきずき(痛む)。",
+choice1: "つうむ",
+choice2: "いめむ",
+choice3: "いたむ",
+answer: 3,
+},
+
+{
+id: "A742",
+question: "土地を(検査)する。",
+choice1: "けんさする",
+choice2: "かんそする",
+choice3: "けんしゃする",
+answer: 1,
+},
+
+{
+id: "A743",
+question: "寝方が悪くて体の筋を(痛める)。",
+choice1: "つめる",
+choice2: "いためる",
+choice3: "いだめる",
+answer: 2,
+},
+
+{
+id: "A744",
+question: "旅券の(査証)を受ける。",
+choice1: "さしょう",
+choice2: "しゃしょう",
+choice3: "さそう",
+answer: 1,
+},
+
+{
+id: "A745",
+question: "彼女は(腰痛)に悩まされている。",
+choice1: "ふくつう",
+choice2: "ようつう",
+choice3: "こうつ",
+answer: 2,
+},
+
+{
+id: "A746",
+question: "出かける前に火の元を(てんけん)する。",
+choice1: "点検",
+choice2: "店剣",
+choice3: "点険",
+answer: 1,
+},
+
+{
+id: "A747",
+question: "くうこうで入国の(さしょう)を受ける。",
+choice1: "植証",
+choice2: "査証",
+choice3: "香正",
+answer: 2,
+},
+
+{
+id: "A748",
+question: "(むしば)のちりょうは大人でもこわい。",
+choice1: "虫歯",
+choice2: "史菌",
+choice3: "兎歯",
+answer: 1,
+},
+
+{
+id: "A749",
+question: " 急におなかが(いたく)なり救急車を呼ぶ。",
+choice1: "涌く",
+choice2: "通く",
+choice3: "痛く",
+answer: 3,
+},
+
+{
+id: "A750",
+question: "病気を調べるために(けんさ)する。",
+choice1: "剣査",
+choice2: "検査",
+choice3: "険査",
+answer: 2,
+},
+
+{
+id: "A751",
+question: "この薬は(ずつう)に効く。",
+choice1: "顔痛",
+choice2: "頭通",
+choice3: "頭痛",
+answer: 3,
+},
+
+{
+id: "A752",
+question: "だれも知らない土地を(たんけん)する。",
+choice1: "探険",
+choice2: "深剣",
+choice3: "探検",
+answer: 3,
+},
+
+{
+id: "A753",
+question: "いっさいをすぎて(は)が生えてきた。",
+choice1: "園",
+choice2: "菌",
+choice3: "歯",
+answer: 3,
+},
+
+{
+id: "A754",
+question: "学生が希望する進路を(ちょうさ)する。",
+choice1: "調香",
+choice2: "凋査",
+choice3: "調査",
+answer: 3,
+},
+
+{
+id: "A755",
+question: "(えいきゅうし)に生え変わる。",
+choice1: "氷九歯",
+choice2: "永久歯",
+choice3: "水久菌",
+answer: 2,
+},
+
+{
+id: "A756",
+question: "階段で転んでひざに(げきつう)が走った。",
+choice1: "檄通",
+choice2: "激痛",
+choice3: "劇痛",
+answer: 2,
+},
+
+{
+id: "A757",
+question: "近所のしか(医院)に通う。",
+choice1: "歯科",
+choice2: "歯将",
+choice3: "菌料",
+answer: 1,
+},
+
+{
+id: "A758",
+question: "寒さでひざが(いたむ)。",
+choice1: "通む",
+choice2: "痛む",
+choice3: "桶む",
+answer: 2,
+},
+
+{
+id: "A759",
+question: "会議で(けんとう)したうえで決める。",
+choice1: "険討",
+choice2: "検討",
+choice3: "剣証",
+answer: 2,
+},
+
+{
+id: "A760",
+question: "二人の関係の(はぐるま)がくるう。",
+choice1: "歯車",
+choice2: "噛車",
+choice3: "菊車",
+answer: 1,
+},
+
+{
+id: "A761",
+question: "火事の原因を(けんしょう)する。",
+choice1: "剣正",
+choice2: "険討",
+choice3: "検証",
+answer: 3,
+},
+
+{
+id: "A762",
+question: "赤字で頭が(いたい)。",
+choice1: "痛い",
+choice2: "通い",
+choice3: "桶い",
+answer: 1,
+},
+
+{
+id: "A763",
+question: "スピーチ大会の(しんさいん)。",
+choice1: "番査買",
+choice2: "審査員",
+choice3: "晋査屓",
+answer: 2,
+},
+
+{
+id: "A764",
+question: "食べ過ぎて(ふくつう)になりました。",
+choice1: "複通",
+choice2: "腹痛",
+choice3: "服痛",
+answer: 2,
+},
+
+{
+id: "A765",
+question: "(はいしゃ)に予約をしました。",
+choice1: "噛医員",
+choice2: "齒医考",
+choice3: "歯医者",
+answer: 3,
+},
+
+{
+id: "A766",
+question: "私は(いたみどめ)を飲みました。",
+choice1: "俑み正め",
+choice2: "涌み止め",
+choice3: "痛み止め",
+answer: 3,
+},
+
+{
+id: "A767",
+question: "ビザの申請書を(しんさ)する。",
+choice1: "審査",
+choice2: "深杳",
+choice3: "番香",
+answer: 1,
+},
+
+{
+id: "A768",
+question: "今朝、(ようつう)で目が覚めました。",
+choice1: "胸通",
+choice2: "腰痛",
+choice3: "服",
+answer: 2,
+},
+
+{
+id: "A769",
+question: "酒気(帯び)運転は法律で禁止されている",
+choice1: "だび",
+choice2: "おび",
+choice3: "あび",
+answer: 2,
+},
+
+{
+id: "A770",
+question: "(血統書)付きの高価な犬。",
+choice1: "けつとうしょ",
+choice2: "けっとうしょ",
+choice3: "けっとうしょう",
+answer: 2,
+},
+
+{
+id: "A771",
+question: "(包み)を開けて下さい。",
+choice1: "つつみ",
+choice2: "だいみ",
+choice3: "つづみ",
+answer: 1,
+},
+
+{
+id: "A772",
+question: "雨があたり(一帯)に降っている。",
+choice1: "いちだい",
+choice2: "いっだい",
+choice3: "いったい",
+answer: 3,
+},
+
+{
+id: "A773",
+question: "血は(血管)の中を流れる。",
+choice1: "けつかん",
+choice2: "けっかん",
+choice3: "けつがん",
+answer: 2,
+},
+
+{
+id: "A774",
+question: "このイベントの目的の１つは地域の(連帯感)を生むことだった。",
+choice1: "れんだいかん",
+choice2: "れんたいかん",
+choice3: "れんおかん",
+answer: 2,
+},
+
+{
+id: "A775",
+question: "(携帯)電話で母に連絡をとる。",
+choice1: "けいたい",
+choice2: "げいたい",
+choice3: "けいだい",
+answer: 1,
+},
+
+{
+id: "A776",
+question: "全体が赤みを(帯びる)。",
+choice1: "たびる",
+choice2: "おびる",
+choice3: "だびる",
+answer: 2,
+},
+
+{
+id: "A777",
+question: "魚は(冷血)動物である。",
+choice1: "めいけつ",
+choice2: "ひやけつ",
+choice3: "れいけつ",
+answer: 3,
+},
+
+{
+id: "A778",
+question: "魚をホイルに(包む)。",
+choice1: "あつむ",
+choice2: "たいむ",
+choice3: "つつむ",
+answer: 3,
+},
+
+{
+id: "A779",
+question: "彼女の顔は健康そうな(血色)をしていた。",
+choice1: "けついろ",
+choice2: "けっしょく",
+choice3: "けっしょう",
+answer: 2,
+},
+
+{
+id: "A780",
+question: "人の脚に(包帯)をする。",
+choice1: "ほうだい",
+choice2: "つつだい",
+choice3: "ほうたい",
+answer: 3,
+},
+
+{
+id: "A781",
+question: "血液中の(赤血球)数が異常に低い。",
+choice1: "せっけっきゅう",
+choice2: "あっけっきゅう",
+choice3: "あかけつきゅう",
+answer: 1,
+},
+
+{
+id: "A782",
+question: "(液体)から個体に変更する。",
+choice1: "よきたい",
+choice2: "えきたい",
+choice3: "けきたい",
+answer: 2,
+},
+
+{
+id: "A783",
+question: "私の(血液型)は AB 型です。",
+choice1: "けつけきがた",
+choice2: "けっえきかた",
+choice3: "けつえきがた",
+answer: 3,
+},
+
+{
+id: "A784",
+question: "手を(血)で汚す。",
+choice1: "ひ",
+choice2: "けつ",
+choice3: "ち",
+answer: 3,
+},
+
+{
+id: "A785",
+question: "(けっとうしょ)付きの犬をかっている。",
+choice1: "血統書",
+choice2: "皿統晝",
+choice3: "而統署",
+answer: 1,
+},
+
+{
+id: "A786",
+question: "けがをしたところを(ほうたい)でまく。",
+choice1: "泡滞",
+choice2: "包帯",
+choice3: "咆帯",
+answer: 2,
+},
+
+{
+id: "A787",
+question: "夕焼けで赤身を(おび)た空がすてきだ。",
+choice1: "帯び",
+choice2: "滞び",
+choice3: "岸び",
+answer: 1,
+},
+
+{
+id: "A788",
+question: "道でころんで、ひざから(ち)が出た。",
+choice1: "益",
+choice2: "皿",
+choice3: "血",
+answer: 3,
+},
+
+{
+id: "A789",
+question: "彼は(つつみ)の回りにテープを巻いた。",
+choice1: "泡み",
+choice2: "包み",
+choice3: "咆み",
+answer: 2,
+},
+
+{
+id: "A790",
+question: "じしんの被害は関東(いったい)におよんだ。",
+choice1: "一革",
+choice2: "一滞",
+choice3: "一帯",
+answer: 3,
+},
+
+{
+id: "A791",
+question: "(せっけっきゅう)の量を調べる。",
+choice1: "亦皿球",
+choice2: "変血救",
+choice3: "赤血球",
+answer: 3,
+},
+
+{
+id: "A792",
+question: "子供も(けいたい)電話を持つ時代。",
+choice1: "掃滞",
+choice2: "掲帯",
+choice3: "携帯",
+answer: 3,
+},
+
+{
+id: "A793",
+question: "(けっかん)がつまる病気になる。",
+choice1: "血棺",
+choice2: "皿官",
+choice3: "血管",
+answer: 3,
+},
+
+{
+id: "A794",
+question: "プレゼントをきれいに(つつんで)もらう。",
+choice1: "泡んで",
+choice2: "包んで",
+choice3: "匂んで",
+answer: 2,
+},
+
+{
+id: "A795",
+question: "(けっしょく)のいい顔。",
+choice1: "皿邑",
+choice2: "血色",
+choice3: "血芭",
+answer: 2,
+},
+
+{
+id: "A796",
+question: "着物に合わせた(おび)をしめる。",
+choice1: "帯",
+choice2: "滞",
+choice3: "帝",
+answer: 1,
+},
+
+{
+id: "A797",
+question: "瓶の中の茶色い(えきたい)。",
+choice1: "夜体",
+choice2: "液体",
+choice3: "掖体",
+answer: 2,
+},
+
+{
+id: "A798",
+question: "自分の(けつえきがた)を調べる。",
+choice1: "皿夜型",
+choice2: "血液型",
+choice3: "血夜堅",
+answer: 2,
+},
+
+{
+id: "A799",
+question: "クラスの(れんたいかん)を高める。",
+choice1: "連帯感",
+choice2: "車滞咸",
+choice3: "連帯減",
+answer: 1,
+},
+
+{
+id: "A800",
+question: "犯行の手口があまりにも(れいけつ)だ。",
+choice1: "冷血",
+choice2: "怜皿",
+choice3: "令",
+answer: 1,
+},
+
 ]
 
 let n4 = [
