@@ -18,7 +18,7 @@ A  |001-215 |N3      |Kanji Master N3  |Chương 1  |9/10/2021  |[sangcamap](htt
 A  |216-440 |N3      |Kanji Master N3  |Chương 2  |10/10/2021 |[sangcamap](https://github.com/sangcamap)
 A  |441-640 |N3      |Kanji Master N3  |Chương 3  |11/10/2021 |[sangcamap](https://github.com/sangcamap)
 A  |641-841 |N3      |Kanji Master N3  |Chương 4  |11/10/2021 |[sangcamap](https://github.com/sangcamap)
-I  |001-100 |N4      |Kanji N4 Test    |          |11/10/2021 |[chellyyyy](https://github.com/chellyyyy)
+I  |001-060 |N4      |Kanji N4 Test    |          |11/10/2021 |[chellyyyy](https://github.com/chellyyyy)
 ## :cherry_blossom:	 Báo lỗi
 :raccoon:  Nếu bạn gặp phải đáp án sai hay lỗi nào đó thì có thể phản hồi [tại đây](https://forms.gle/PJ5ib4EdRPYoewSE7) hoặc qua [Facebook](https://www.facebook.com/sangnguyen0709/) mình ! 
 
