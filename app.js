@@ -1,44 +1,73 @@
-const main = document.querySelector('#main');
-const start = document.querySelector('#start');
-const startBtn= document.querySelector('.startBtn');
-const preQuestionBoardBtn= document.querySelector('.preQuestionBoardBtn');
-const returnBtn= document.querySelector('.returnBtn');
-const preQuestionBoard__list = document.querySelector('#preQuestionBoard__list')
+const main                   = document.querySelector('#main');
+const start                  = document.querySelector('#start');
+const startBtn               = document.querySelector('.startBtn');
+const returnBtn              = document.querySelector('.returnBtn');
+const preQuestionBoardBtn    = document.querySelector('.preQuestionBoardBtn');
+const preQuestionBoard__list = document.querySelector('#preQuestionBoard__list');
+const rankBtn                = document.querySelector('#rankBtn');
+const rankBoard__list        = document.querySelector('#rankList');
+const saveScoreBtn           = document.querySelector('#saveScoreBtn');
+const finalScore             = document.querySelector("#finalScore");
+const endtext                = document.querySelector('#end-text');
+const percent                = document.querySelector('#percentCorrect');
 // Khởi tạo
-document.getElementById('main').style.display = "flex";
-document.getElementById('start').style.display = "none";
-document.getElementById('end').style.display = "none";
-document.getElementById('returnBtn').style.display = "none";
-document.getElementById('score').style.display = "none";
-document.getElementById('preQuestionBtn').style.display = "none";
+document.getElementById('main').style.display             = "flex";
+document.getElementById('start').style.display            = "none";
+document.getElementById('end').style.display              = "none";
+document.getElementById('returnBtn').style.display        = "none";
+document.getElementById('score').style.display            = "none";
+document.getElementById('preQuestionBtn').style.display   = "none";
 document.getElementById('preQuestionBoard').style.display = "none";
+document.getElementById('rankBoard').style.display        = "none";
 // Quay về
 returnBtn.addEventListener('click', ()=>{
     resetGame();
 });
 // Bắt đầu
 startBtn.addEventListener('click', ()=>{
-    document.getElementById('main').style.display = "none";
-    document.getElementById('start').style.display = "flex";
-    document.getElementById('returnBtn').style.display = "flex";
-    document.getElementById('score').style.display = "flex";
+    document.getElementById('main').style.display           = "none";
+    document.getElementById('rankBtn').style.display        = "none";
+    document.getElementById('docBtn').style.display         = "none";
+    document.getElementById('start').style.display          = "flex";
+    document.getElementById('returnBtn').style.display      = "flex";
+    document.getElementById('score').style.display          = "flex";
     document.getElementById('preQuestionBtn').style.display = "flex";
 });
 // Pre-question board
 preQuestionBoardBtn.addEventListener('click', ()=>{
-    document.getElementById('main').style.display = "none";
+    document.getElementById('main').style.display             = "none";
     document.getElementById('preQuestionBoard').style.display = "flex";
-    document.getElementById('returnBtn').style.display = "flex";
+    document.getElementById('returnBtn').style.display        = "flex";
 });
+// Ranking-Board
+rankBtn.addEventListener('click',()=>{
+    document.getElementById('main').style.display             = "none";
+    document.getElementById('rankBoard').style.display        = "flex";
+    document.getElementById('returnBtn').style.display        = "flex";
+});
+// Save scrore
+saveScoreBtn.addEventListener('click',()=>{
+    document.getElementById("gif").src= gif[getRandomInt(gif.length)];
+    const o_username = document.getElementById('username').value;
+    const o_point    = document.getElementById('score')
+    const o_question = MAX_QUESTIONS;
+    // Không biết tại sao nhưng counter = 1 ở lần 2 trở đi thì nó không dư
+    questionCounter  = 1;
+    score            = 0;
+    resetGame();
+})
 // Reset
 function resetGame(){
-    document.getElementById('main').style.display = "flex";
-    document.getElementById('start').style.display = "none";
-    document.getElementById('end').style.display = "none";
-    document.getElementById('returnBtn').style.display = "none";
-    document.getElementById('score').style.display = "none";
-    document.getElementById('preQuestionBtn').style.display = "none";
-    document.getElementById('preQuestionBoard').style.display= "none"; 
+    document.getElementById('main').style.display             = "flex";
+    document.getElementById('rankBtn').style.display          = "flex";
+    document.getElementById('docBtn').style.display           = "flex";
+    document.getElementById('start').style.display            = "none";
+    document.getElementById('end').style.display              = "none";
+    document.getElementById('returnBtn').style.display        = "none";
+    document.getElementById('score').style.display            = "none";
+    document.getElementById('preQuestionBtn').style.display   = "none";
+    document.getElementById('preQuestionBoard').style.display = "none";
+    document.getElementById('rankBoard').style.display        = "none"; 
 }
 //start
 let questions =[...n3,...n4,...n5];   // vì nó trỏ đến các mảng khác nên ưu tiên để lên đây
@@ -59,6 +88,7 @@ function getInputValue(){
     var inputVal = document.getElementById("number-box").value;
     MAX_QUESTIONS = inputVal - 1;
     document.getElementById("number-box").innerText = inputVal;
+    questionCounter = 1;
 }
 //------------------------------------------>
 // Lưu lại tổng số câu ra chỗ riêng
@@ -99,6 +129,9 @@ function changeLevel_N5(){
 //------------------------------------------>
 function startGame(){
     // Bắt đầu và gán các giá trị vào Current question
+
+    document.getElementById("gif").src= gif[getRandomInt(gif.length)];
+    endtext.innerText = comment[getRandomInt(comment.length)];
     questionCounter = 0
     score = 0
     availableQuestions = [...questions]
@@ -156,7 +189,6 @@ choices.forEach(choice => {
             incrementScore(SCORE_POINTS)
         }
         selectedChoice.classList.add(classToApply);
-        // selectedChoice.parentElement.classList.add(classToApply);
         setTimeout(() => {
             selectedChoice.classList.remove(classToApply);
             getNewQuestion()
@@ -164,25 +196,16 @@ choices.forEach(choice => {
     })
 })
 let maxScore= (MAX_QUESTIONS+1);
-const finalScore = document.querySelector("#finalScore");
-const endtext = document.querySelector('#end-text');
-const percent = document.querySelector('#percentCorrect');
 incrementScore = num => {
     score +=num
     scoreText.innerText = score
     finalScore.innerText = `${score}/${MAX_QUESTIONS+1}`
-    percent.innerText = `${Math.floor(Math.fround(score/(MAX_QUESTIONS+1))*100)}%`;
+    percent.innerText = `${Math.round(Math.fround(score/(MAX_QUESTIONS+1))*100)}%`;
 }
-startGame();
 //--------------------------------------------->
-const username = document.querySelector('#username')
-const saveScoreBtn = document.querySelector("#saveScoreBtn")
-// username.addEventListener('keyup', () => {
-//     saveScoreBtn.disabled = !username.value
-// })
-// saveScoreBtn.addEventListener('click', ()=>{
-//     resetGame();
-// })
+
+
+
 //--------------------------------------------->
 function playAudio(url) {
     new Audio(url).play();
@@ -260,3 +283,8 @@ document.querySelector('.content-box__quiz').addEventListener('click',(e)=>{
     e.target.style=qbg[qbg_count++];
 })
 
+ //--------------------
+    
+
+//---------------------
+startGame();

@@ -8,3 +8,74 @@
 @import './Components/prequestionboard';
 @import './Components/end';
 
+
+.rankBoard{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    h3{
+        font-family: 'Quicksand', sans-serif;
+        font-size: 3rem;
+        line-height: 3.1;
+        margin-bottom: 0.5rem;
+        color: $cl-f;
+        text-transform: uppercase;
+    }
+
+    &__list{
+        width: 60vw;
+        display: flex;
+        flex-direction: column; 
+        align-items: center;
+        justify-content: flex-start;
+        height: 37rem;
+        overflow-y: scroll;
+        &::-webkit-scrollbar {
+            width: 0.6rem;
+            height: auto;
+            max-height: 14rem;
+            background-color: #0000001a;
+        }
+        &::-webkit-scrollbar-thumb {
+            background-color: $cl-y;
+        } 
+        li{
+            display: block;
+            width: 90%;
+            height: 5rem;
+            background-color: white;
+            font-size: 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0.5rem 4rem;
+            margin-bottom: 1rem;
+            border-radius: 0.6rem;
+            // background-color: $cl-0;
+            .name{
+                width: 50%;
+                display: block;
+                color: $cl-0;
+            }
+            .point{
+                display: block;
+                color: $cl-f;
+                background-color: $cl-b;
+                border-radius: 0.6rem;
+                padding: 1rem 0.5rem;
+                font-weight: 500;
+            }
+            .percent{
+                border-radius: 0.6rem;
+                background-color: $cl-g;
+                padding: 1rem 0.5rem;
+                display: block;
+                font-weight: 700;
+                color: $cl-f;
+            }
+        }
+    }
+}

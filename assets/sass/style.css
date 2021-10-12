@@ -423,6 +423,70 @@ body {
   }
 }
 
+.rankBtn {
+  cursor: pointer;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  border-radius: 0.4rem;
+  font-size: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #fff;
+  background-color: #000;
+  opacity: 0.3;
+  bottom: 18rem;
+  left: 2rem;
+  font-size: 3rem;
+}
+
+@media (max-width: 1200px) {
+  .rankBtn {
+    width: 4rem;
+    height: 4rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .rankBtn {
+    width: 3rem;
+    height: 3rem;
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 1200px) {
+  .rankBtn {
+    bottom: 14rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .rankBtn {
+    display: none;
+    left: 6rem;
+    bottom: 2rem;
+  }
+}
+
+#preQuestionBoard__list::-webkit-scrollbar {
+  width: 0.6rem;
+  height: auto;
+  max-height: 14rem;
+  background-color: #0000001a;
+}
+
+#preQuestionBoard__list::-webkit-scrollbar-thumb {
+  background-color: #FDC830;
+}
+
 .main {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -470,10 +534,16 @@ body {
 }
 
 @media (max-width: 600px) {
+  .main .container-number * {
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 600px) {
   .main .container-number {
-    height: 20vw;
+    height: auto;
     margin-bottom: 2vw;
-    font-size: 1.6rem;
+    font-size: 1.2rem;
   }
 }
 
@@ -502,13 +572,23 @@ body {
 
 .main .container-number__box {
   width: 12rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   text-align: center;
+  margin: 0 0.5rem;
 }
 
 @media (max-width: 600px) {
   .main .container-number__box {
     width: 58vw;
-    margin-right: 2vw;
+    font-size: 1.4rem;
   }
 }
 
@@ -545,7 +625,7 @@ body {
 @media (max-width: 600px) {
   .main .container-number__btn {
     width: 20vw;
-    height: 20vw;
+    font-size: 1.4rem;
   }
 }
 
@@ -647,6 +727,7 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between;
   font-size: 3rem;
+  gap: 2rem;
 }
 
 @media (max-width: 900px) {
@@ -694,7 +775,6 @@ body {
   .start .content-box__options .choice-container {
     width: 100%;
     height: 5rem;
-    margin-bottom: 1rem;
     font-size: 1.6rem;
   }
   .start .content-box__options .choice-container:hover {
@@ -821,17 +901,6 @@ body {
           justify-content: center;
 }
 
-#preQuestionBoard__list::-webkit-scrollbar {
-  width: 0.6rem;
-  height: auto;
-  max-height: 14rem;
-  background-color: #0000001a;
-}
-
-#preQuestionBoard__list::-webkit-scrollbar-thumb {
-  background-color: #FDC830;
-}
-
 .end {
   width: 40rem;
   height: 50rem;
@@ -893,12 +962,13 @@ body {
 .end img {
   border-radius: 0.4rem;
   z-index: 0;
-  width: 56%;
+  width: 60%;
   height: 44%;
   -o-object-fit: cover;
      object-fit: cover;
   -o-object-position: center;
      object-position: center;
+  margin-bottom: 1rem;
 }
 
 @media (max-width: 600px) {
@@ -906,6 +976,12 @@ body {
     width: 18rem;
     height: 35%;
   }
+}
+
+.end form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 .end form * {
@@ -936,7 +1012,6 @@ body {
 .end h2 {
   font-size: 2.4rem;
   font-weight: 500;
-  margin: 1rem auto;
 }
 
 @media (max-width: 600px) {
@@ -947,7 +1022,7 @@ body {
 }
 
 .end input {
-  width: 18rem;
+  width: 20rem;
   padding: 2rem;
   height: 5rem;
   background-color: #c3c3c350;
@@ -960,7 +1035,16 @@ body {
   }
 }
 
-.end button {
+.end #saveScoreBtn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   width: 5rem;
   height: 5rem;
   background-color: #0f9b0f;
@@ -968,7 +1052,7 @@ body {
 }
 
 @media (max-width: 600px) {
-  .end button {
+  .end #saveScoreBtn {
     width: 18rem;
     height: 4rem;
   }
@@ -985,5 +1069,106 @@ body {
   position: absolute;
   right: 0.5rem;
   top: 0.5rem;
+}
+
+.rankBoard {
+  width: 100vw;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.rankBoard h3 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 3rem;
+  line-height: 3.1;
+  margin-bottom: 0.5rem;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.rankBoard__list {
+  width: 60vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  height: 37rem;
+  overflow-y: scroll;
+}
+
+.rankBoard__list::-webkit-scrollbar {
+  width: 0.6rem;
+  height: auto;
+  max-height: 14rem;
+  background-color: #0000001a;
+}
+
+.rankBoard__list::-webkit-scrollbar-thumb {
+  background-color: #FDC830;
+}
+
+.rankBoard__list li {
+  display: block;
+  width: 90%;
+  height: 5rem;
+  background-color: white;
+  font-size: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 0.5rem 4rem;
+  margin-bottom: 1rem;
+  border-radius: 0.6rem;
+}
+
+.rankBoard__list li .name {
+  width: 50%;
+  display: block;
+  color: #000;
+}
+
+.rankBoard__list li .point {
+  display: block;
+  color: #fff;
+  background-color: #009FFF;
+  border-radius: 0.6rem;
+  padding: 1rem 0.5rem;
+  font-weight: 500;
+}
+
+.rankBoard__list li .percent {
+  border-radius: 0.6rem;
+  background-color: #0f9b0f;
+  padding: 1rem 0.5rem;
+  display: block;
+  font-weight: 700;
+  color: #fff;
 }
 /*# sourceMappingURL=style.css.map */

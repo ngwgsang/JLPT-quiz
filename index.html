@@ -16,7 +16,8 @@
         <div class="scoreBtn" id="score">0</div>
         <div class="preQuestionBtn" id="preQuestionBtn"></div>
         <a href="https://forms.gle/PJ5ib4EdRPYoewSE7" target="_blank" onclick="playAudio('./assets/audio/pop.wav')"><div class="reportBtn"><i class="fas fa-exclamation"></i><p>Báo lỗi</p></div></a>
-        <a href="https://github.com/sangcamap/JLPT-quiz" target="_blank" onclick="playAudio('./assets/audio/pop.wav')"><div class="docBtn"><i class="fab fa-github-alt"></i></div></a>
+        <a href="https://github.com/sangcamap/JLPT-quiz" target="_blank" onclick="playAudio('./assets/audio/pop.wav')"><div class="docBtn" id="docBtn"><i class="fab fa-github-alt"></i></div></a>
+        <div class="rankBtn" id="rankBtn"><i class="fas fa-trophy"></i></div>
 <!---------------------------------------------MAIN------------------------------------------->
         <div class="main" id="main">
             <img src="./assets/images/Frame-1.png" alt="" id="frame">
@@ -57,11 +58,11 @@
             <h1 id="percentCorrect">0%</h1>
             <h1 id="finalScore">0</h1>
             <img src="./assets/images/gif-1.gif" alt="" id="gif">
+            <h2 id="end-text">comment</h2>
             <form class="end-form-container" onclick="playAudio('./assets/audio/pop.wav');">
-                <h2 id="end-text">comment</h2>
                 <input type="text" name="name" id="username" placeholder="Tên bạn là">
                 <!-- <button class="btn" onclick="saveHighScore(event); " id="saveScoreBtn" type="submit"  disabled>Lưu</button> -->
-                <button class="btn" id="saveScoreBtn" onclick="resetGame()" type="submit">Lưu</button>
+                <div class="btn" id="saveScoreBtn" onclick="saveScore(); resetGame();" >Lưu</div>
             </form>
         </div>
 
@@ -72,9 +73,77 @@
                     <!-- ----chèn list----- -->
                 </ul>
         </div>
+<!---------------------------------------------RANK-------------------------------------------->
+        <div class="rankBoard" id="rankBoard">
+                <h3>Bảng phong thần</h3>
+                <ul class="rankBoard__list" id="rankList">
+                    <!-- ----chèn list----- -->
+                    <li>
+                        <span class="name">Đang có bug</span>
+                        <span class="point">79/80</span>
+                        <span class="percent">98.8%</span>
+                    </li>
+                    <li>
+                        <span class="name">Không biết fix</span>
+                        <span class="point">79/80</span>
+                        <span class="percent">98.8%</span>
+                    </li>
+                </ul>
+        </div>
 </div>
 <!----------------------------------------------SCRIPT------------------------------------------>
-    <script src="./database.js"></script>
-    <script src="./app.js"></script>
+<!-- <script type="module" >
+            // CDN
+            import { initializeApp } from "https://www.gstatic.com/firebasejs/9.1.2/firebase-app.js";
+            import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.1.2/firebase-analytics.js";
+            import { getDatabase, ref, query, orderByChild,child, get} from "https://www.gstatic.com/firebasejs/9.1.2/firebase-database.js";
+            const firebaseConfig = {
+              apiKey: "AIzaSyDZRqlpePG3xa5jJmW6uT2PnRj9QSLyr98",
+              authDomain: "quiz-app-b9423.firebaseapp.com",
+              databaseURL: "https://quiz-app-b9423-default-rtdb.asia-southeast1.firebasedatabase.app",
+              projectId: "quiz-app-b9423",
+              storageBucket: "quiz-app-b9423.appspot.com",
+              messagingSenderId: "763027247251",
+              appId: "1:763027247251:web:f3e3d760d94dfe822a3d66",
+              measurementId: "G-E0Q1NG8WFE"
+            };
+          
+            // // Initialize Firebase
+            // const app       = initializeApp(firebaseConfig);
+            // const analytics = getAnalytics(app);
+            // const dbRef = ref(getDatabase(app));
+            // let index = 0
+            // const arr = [];
+            // get(child(dbRef, `users/`)).then((snapshot) => {
+            // if (snapshot.exists()) {
+            //     arr.push(snapshot.val());
+            //     console.log(snapshot.val());
+            // } else {
+            //     console.log("No data available");
+            // }
+            // }).catch((error) => {
+            //     console.error(error);
+            // });
+            // // console.log(arr.length);
+            // // Select Data
+            // // function selectdata(){
+            // //     get(child(dbRef, 'users/'))
+            // // }
+            // function saveScore(){
+            // set(ref(db,"users/", 5),{
+            //         name: username,
+            //         questions: MAX_QUESTIONS,
+            //         point: score
+            // })
+            // .then(()=>{
+            //         alert("OK")
+            //     })
+            // .catch(()=>{
+            //         alert("NOT OK")
+            //     })
+            // }
+</script> -->
+<script src="./database.js"></script>
+<script src="./app.js" defer></script>
 </body>
 </html>

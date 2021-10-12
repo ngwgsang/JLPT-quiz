@@ -3197,7 +3197,7 @@ answer: 1,
 
 {
 id: "A357",
-question: "そこには家が建つ予定でした。",
+question: "そこには家が(建つ)予定でした。",
 choice1: "おえる",
 choice2: "たつ",
 choice3: "きえる",
@@ -3206,7 +3206,7 @@ answer: 2,
 
 {
 id: "A358",
-question: "日本家は木で造る。",
+question: "日本家は木で(造る)。",
 choice1: "づくる",
 choice2: "つくる",
 choice3: "ぞうる",
@@ -3215,7 +3215,7 @@ answer: 2,
 
 {
 id: "A359",
-question: "古い建物を修復する。",
+question: "古い(建物)を修復する。",
 choice1: "たてもの",
 choice2: "たつもの",
 choice3: "けんもの",
@@ -3224,7 +3224,7 @@ answer: 1,
 
 {
 id: "A360",
-question: "子供たちと信頼関係を築く。",
+question: "子供たちと信頼関係を(築く)。",
 choice1: "ちずく",
 choice2: "ちく",
 choice3: "きずく",
@@ -3233,7 +3233,7 @@ answer: 3,
 
 {
 id: "A361",
-question: "私は自分の家を改築する。",
+question: "私は自分の家を(改築)する。",
 choice1: "かいぢく",
 choice2: "かいちく",
 choice3: "がいちく",

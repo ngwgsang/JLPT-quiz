@@ -142,3 +142,31 @@
         font-size: 0.36rem;
     }
 }
+
+.rankBtn{
+    @include btn;
+    color: $cl-f;
+    background-color: $cl-0;
+    opacity: 0.3;
+    bottom: 18rem;
+    left: 2rem;
+    font-size: 3rem;
+    @include respond(tab-land){
+        bottom: 14rem;
+    }
+    @include respond(tab){
+        display: none;
+        left: 6rem;
+        bottom: 2rem;
+    }
+}
+
+#preQuestionBoard__list::-webkit-scrollbar {
+    width: 0.6rem;
+    height: auto;
+    max-height: 14rem;
+    background-color: #0000001a;
+} 
+#preQuestionBoard__list::-webkit-scrollbar-thumb {
+    background-color: $cl-y;
+}

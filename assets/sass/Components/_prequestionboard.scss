@@ -59,12 +59,3 @@
             }
     }
 }
-#preQuestionBoard__list::-webkit-scrollbar {
-    width: 0.6rem;
-    height: auto;
-    max-height: 14rem;
-    background-color: #0000001a;
-} 
-#preQuestionBoard__list::-webkit-scrollbar-thumb {
-    background-color: $cl-y;
-}
