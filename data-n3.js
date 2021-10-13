@@ -9834,5 +9834,689 @@ choice3: "恋",
 answer: 3,
 },
 
+{
+id: "A1093",
+question: "自分自身を(信頼)なさい。",
+choice1: "しらい",
+choice2: "しんらい",
+choice3: "しんろう",
+answer: 2,
+},
+
+{
+id: "A1094",
+question: "(予想)が大当たりする。",
+choice1: "こそう",
+choice2: "よそう",
+choice3: "こよう",
+answer: 2,
+},
+
+{
+id: "A1095",
+question: "彼に(伝言)を伝えます。",
+choice1: "でんごん",
+choice2: "てんげん",
+choice3: "でんげん",
+answer: 1,
+},
+
+{
+id: "A1096",
+question: "彼に(愛想)が尽きました。",
+choice1: "あいぞう",
+choice2: "れんそう",
+choice3: "あいそう",
+answer: 3,
+},
+
+{
+id: "A1097",
+question: "(信号)が青になった。",
+choice1: "しんご",
+choice2: "しんごう",
+choice3: "しんごん",
+answer: 2,
+},
+
+{
+id: "A1098",
+question: "私の趣味は(空想)をすることです。",
+choice1: "あいそう",
+choice2: "くうそう",
+choice3: "こうそう",
+answer: 2,
+},
+
+{
+id: "A1099",
+question: " 涙がゆっくりとほおを(伝う)のを止めることができない。",
+choice1: "つだう",
+choice2: "たいう",
+choice3: "つたう",
+answer: 3,
+},
+
+{
+id: "A1100",
+question: "もっと(自信)を持ちたい。",
+choice1: "じごん",
+choice2: "じしん",
+choice3: "じげん",
+answer: 2,
+},
+
+{
+id: "A1101",
+question: "あなたにお礼を(伝える)。",
+choice1: "つだえる",
+choice2: "つづえる",
+choice3: "つたえる",
+answer: 3,
+},
+
+{
+id: "A1102",
+question: "もう誰も(信用)できない。",
+choice1: "しんよう",
+choice2: "げんよう",
+choice3: "ごんよう",
+answer: 1,
+},
+
+{
+id: "A1103",
+question: "今朝、母を手(伝う)ために早く起きました。",
+choice1: "てつたう",
+choice2: "てつだう",
+choice3: "たつだう",
+answer: 2,
+},
+
+{
+id: "A1104",
+question: "これは(伝説)上の話だ。",
+choice1: "てんぜつ",
+choice2: "げんせつ",
+choice3: "でんせつ",
+answer: 3,
+},
+
+{
+id: "A1105",
+question: "UFOを(信じる)人もいる。",
+choice1: "しんじる",
+choice2: "しじる",
+choice3: "ごんじる",
+answer: 1,
+},
+
+{
+id: "A1106",
+question: "私は自由が(欲しい)。",
+choice1: "ほっ",
+choice2: "よくしい",
+choice3: "ほしい",
+answer: 3,
+},
+
+{
+id: "A1107",
+question: "彼は私の(理想)の人だ。",
+choice1: "りぞう",
+choice2: "りそう",
+choice3: "りこう",
+answer: 2,
+},
+
+{
+id: "A1108",
+question: "これらは(伝統)的な日本料理です。",
+choice1: "げんとう",
+choice2: "てんとう",
+choice3: "でんとう",
+answer: 3,
+},
+
+{
+id: "A1109",
+question: "音は波になって(伝わる)。",
+choice1: "つたわる",
+choice2: "つだわる",
+choice3: "たつわる",
+answer: 1,
+},
+
+{
+id: "A1110",
+question: "あなたの(想像)力はすごいですね。",
+choice1: "あいぞう",
+choice2: "そうぞう",
+choice3: "ぞうそう",
+answer: 2,
+},
+
+{
+id: "A1111",
+question: "これが僕が金を(欲する)理由です。",
+choice1: "ほっする",
+choice2: "ほする",
+choice3: "よくする",
+answer: 1,
+},
+
+{
+id: "A1112",
+question: "暑くて(食欲)がありません。",
+choice1: "しょうよく",
+choice2: "しょくよく",
+choice3: "しょくよ",
+answer: 2,
+},
+
+{
+id: "A1113",
+question: "私は親から(しんらい)されている。",
+choice1: "信頼",
+choice2: "言頼",
+choice3: "這瀬",
+answer: 1,
+},
+
+{
+id: "A1114",
+question: "未来の生活を(くうそう)する。",
+choice1: "控相",
+choice2: "空想",
+choice3: "究想",
+answer: 2,
+},
+
+{
+id: "A1115",
+question: "(しんごう)をよく見て横断歩道を渡る。",
+choice1: "信号",
+choice2: "槙号",
+choice3: "信呉",
+answer: 1,
+},
+
+{
+id: "A1116",
+question: "彼女はだれに対しても(あいそう)がいい。",
+choice1: "恋想",
+choice2: "曖相",
+choice3: "愛想",
+answer: 3,
+},
+
+{
+id: "A1117",
+question: "日本の(でんとう)文化にきょうみがある。",
+choice1: "云統",
+choice2: "伝統",
+choice3: "紜統",
+answer: 2,
+},
+
+{
+id: "A1118",
+question: " 電話で要件を(つたえる)。",
+choice1: "伝る",
+choice2: "紜える",
+choice3: "伝える",
+answer: 3,
+},
+
+{
+id: "A1119",
+question: "この村には昔から(でんせつ)が多くある。",
+choice1: "伝悦",
+choice2: "紜設",
+choice3: "伝説",
+answer: 3,
+},
+
+{
+id: "A1120",
+question: "心の(ほっする)ままに行動する。",
+choice1: "慾する",
+choice2: "浴する",
+choice3: "欲する",
+answer: 3,
+},
+
+{
+id: "A1121",
+question: " 私は彼を(しんじ)ている。",
+choice1: "悚じ",
+choice2: "伸じ",
+choice3: "信じ",
+answer: 3,
+},
+
+{
+id: "A1122",
+question: "階段の手すりを(つたって)のぼる。",
+choice1: "紜って",
+choice2: "伝って",
+choice3: "云って",
+answer: 2,
+},
+
+{
+id: "A1123",
+question: "彼は(りそう)の恋人だ。",
+choice1: "裡相",
+choice2: "理想",
+choice3: "哩想",
+answer: 2,
+},
+
+{
+id: "A1124",
+question: "友達に先生への(でんごん)をたのむ。",
+choice1: "伝言",
+choice2: "伝信",
+choice3: "紜話",
+answer: 1,
+},
+
+{
+id: "A1125",
+question: "いいにおいがして(しょくよく)がわく。",
+choice1: "飯浴",
+choice2: "食欲",
+choice3: "飲慾",
+answer: 2,
+},
+
+{
+id: "A1126",
+question: "人の前で話すことに(じしん)がある。",
+choice1: "自身",
+choice2: "自信",
+choice3: "白信",
+answer: 2,
+},
+
+{
+id: "A1127",
+question: "どちらがかつか(よそう)する。",
+choice1: "予想",
+choice2: "子相",
+choice3: "子想",
+answer: 1,
+},
+
+{
+id: "A1128",
+question: "表情からかれの悲しみが(つたわった)。",
+choice1: "耘わった",
+choice2: "伝った",
+choice3: "伝わった",
+answer: 3,
+},
+
+{
+id: "A1129",
+question: "人気ブランドの洋服が(ほしい)。",
+choice1: "欲しい",
+choice2: "慾しい",
+choice3: "浴しい",
+answer: 1,
+},
+
+{
+id: "A1130",
+question: "あなたの(そうぞう)力はすごいですね。",
+choice1: "相象",
+choice2: "想像",
+choice3: "想豫",
+answer: 2,
+},
+
+{
+id: "A1131",
+question: "彼の引っ越しを(てつだう)。",
+choice1: "手云う",
+choice2: "手伝う",
+choice3: "伝手う",
+answer: 2,
+},
+
+{
+id: "A1132",
+question: "友達を(しんよう)してお金を貸した。",
+choice1: "言用",
+choice2: "伸用",
+choice3: "信",
+answer: 3,
+},
+
+{
+id: "A1133",
+question: "彼は仕事で(悩む)。",
+choice1: "やなむ",
+choice2: "なやむ",
+choice3: "まやむ",
+answer: 2,
+},
+
+{
+id: "A1134",
+question: "歯が痛くてひどく(苦しむ)。",
+choice1: "くうしむ",
+choice2: "くるしむ",
+choice3: "くわしむ",
+answer: 2,
+},
+
+{
+id: "A1135",
+question: "あなたの要求はとても(困難)です。",
+choice1: "こんなん",
+choice2: "こなん",
+choice3: "こうなん",
+answer: 1,
+},
+
+{
+id: "A1136",
+question: "あなたをいつまでも(苦しめる)こともありません。",
+choice1: "くうしめる",
+choice2: "くしめる",
+choice3: "くるしめる",
+answer: 3,
+},
+
+{
+id: "A1137",
+question: "工事は最大の(難所)にかかっている。",
+choice1: "ひんじょ",
+choice2: "なんしょ",
+choice3: "むうじょ",
+answer: 2,
+},
+
+{
+id: "A1138",
+question: "彼は(苦しい)生活に慣れている。",
+choice1: "こるしい",
+choice2: "くるしい",
+choice3: "ぐるしい",
+answer: 2,
+},
+
+{
+id: "A1139",
+question: " (貧困)の生活をする。",
+choice1: "びんこん",
+choice2: "ぴんなん",
+choice3: "ひんこん",
+answer: 3,
+},
+
+{
+id: "A1140",
+question: "東京の夏の暑さは(たえ難い)。",
+choice1: "たえかたい",
+choice2: "たえにがい",
+choice3: "たえがたい",
+answer: 3,
+},
+
+{
+id: "A1141",
+question: "このお茶は少し(苦い)。",
+choice1: "くるい",
+choice2: "にがい",
+choice3: "がたい",
+answer: 2,
+},
+
+{
+id: "A1142",
+question: "(苦情)を言う十分な理由がある。",
+choice1: "くうじょ",
+choice2: "くうじょう",
+choice3: "くじょう",
+answer: 3,
+},
+
+{
+id: "A1143",
+question: "この世には(苦労)が多い。",
+choice1: "くろう",
+choice2: "くうろう",
+choice3: "ころう",
+answer: 1,
+},
+
+{
+id: "A1144",
+question: "現代社会は多くの(難問)を抱えている。",
+choice1: "にがもん",
+choice2: "なんもん",
+choice3: "ざんもん",
+answer: 2,
+},
+
+{
+id: "A1145",
+question: "それは私が最も(苦心)していることです。",
+choice1: "くるしん",
+choice2: "くうしん",
+choice3: "くしん",
+answer: 3,
+},
+
+{
+id: "A1146",
+question: "なかなか(難しい)と思います。",
+choice1: "むずかしい",
+choice2: "むかしい",
+choice3: "にがしい",
+answer: 1,
+},
+
+{
+id: "A1147",
+question: "(苦痛)に顔をしかめた。",
+choice1: "くほう",
+choice2: "くじょう",
+choice3: "くつう",
+answer: 3,
+},
+
+{
+id: "A1148",
+question: "子供はしばしば両親を(悩ます)。",
+choice1: "やなます",
+choice2: "なやます",
+choice3: "まやます",
+answer: 2,
+},
+
+{
+id: "A1149",
+question: "あなたの(苦悩)が良く分かりました。",
+choice1: "くるやむ",
+choice2: "くとう",
+choice3: "くのう",
+answer: 3,
+},
+
+{
+id: "A1150",
+question: "彼がいなくては(困る)よ。",
+choice1: "こまる",
+choice2: "こうる",
+choice3: "かた",
+answer: 1,
+},
+
+{
+id: "A1151",
+question: "重い病気で長い間苦(くるしんで)いる。",
+choice1: "苦しんで",
+choice2: "若しんで",
+choice3: "茗しんで",
+answer: 1,
+},
+
+{
+id: "A1152",
+question: " 急に雨が降り出して(こまった)。",
+choice1: "梱った",
+choice2: "困った",
+choice3: "団った",
+answer: 2,
+},
+
+{
+id: "A1153",
+question: "(たえがたい)痛みで病院へ運ばれた。",
+choice1: "たえ難い",
+choice2: "たえ灘い",
+choice3: "たえ漢い",
+answer: 1,
+},
+
+{
+id: "A1154",
+question: "彼は(くのう)している。",
+choice1: "苦脳",
+choice2: "若脳",
+choice3: "苦悩",
+answer: 3,
+},
+
+{
+id: "A1155",
+question: "彼はどんな(こんなん)にも立ち向かう人だ。",
+choice1: "困灘",
+choice2: "困難",
+choice3: "困儺",
+answer: 2,
+},
+
+{
+id: "A1156",
+question: "頭痛に(なやまされて)いる。",
+choice1: "悩れて",
+choice2: "脳されて",
+choice3: "悩まされて",
+answer: 3,
+},
+
+{
+id: "A1157",
+question: "テレビの音がうるさくて(くじょう)を言った。",
+choice1: "苫青",
+choice2: "若情",
+choice3: "苦情",
+answer: 3,
+},
+
+{
+id: "A1158",
+question: "工事は今、最大の(なんしょ)にかかっている。",
+choice1: "雉所",
+choice2: "灘所",
+choice3: "難所",
+answer: 3,
+},
+
+{
+id: "A1159",
+question: "進学するか帰国するか、(なやんで)いる。",
+choice1: "悩で",
+choice2: "脳やんで",
+choice3: "悩んで",
+answer: 3,
+},
+
+{
+id: "A1160",
+question: "若いころ非行に走って親を(くるしめる)。",
+choice1: "若める",
+choice2: "苦しめる",
+choice3: "荅しめる",
+answer: 2,
+},
+
+{
+id: "A1161",
+question: " 問題が(むずかし)くて、答えが分からない。",
+choice1: "灘い",
+choice2: "難し",
+choice3: "儺し",
+answer: 2,
+},
+
+{
+id: "A1162",
+question: "このお茶は(にがい)。",
+choice1: "苦い",
+choice2: "苦がい",
+choice3: "苫い",
+answer: 1,
+},
+
+{
+id: "A1163",
+question: "(くつう)を和らげる薬を飲む。",
+choice1: "苫通",
+choice2: "苦痛",
+choice3: "若通",
+answer: 2,
+},
+
+{
+id: "A1164",
+question: "せきが止まらなくて(くるしい)。",
+choice1: "苫い",
+choice2: "苦しい",
+choice3: "若しい",
+answer: 2,
+},
+
+{
+id: "A1165",
+question: "数学の(なんもん)をすらすら解いた。",
+choice1: "難問",
+choice2: "灘聞",
+choice3: "難門",
+answer: 1,
+},
+
+{
+id: "A1166",
+question: "私の親は若い時(くろう)したそうだ。",
+choice1: "英労",
+choice2: "苦勞",
+choice3: "苦労",
+answer: 3,
+},
+
+{
+id: "A1167",
+question: "(ひんこん)の生活をする。",
+choice1: "貧困",
+choice2: "賓困",
+choice3: "貪困",
+answer: 1,
+},
+
+{
+id: "A1168",
+question: "レポートをまとめるのに(くしん)する。",
+choice1: "苦必",
+choice2: "苦心",
+choice3: "若",
+answer: 2,
+},
+
 ]
 
