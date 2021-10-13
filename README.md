@@ -7,7 +7,7 @@
 
 :raccoon:  Quiz này bao gồm một bộ các câu hỏi về **[KANJI]** , **[TỪ VỰNG]**.
 
-:raccoon:  Mình sẽ cập nhật các thông tin về các bộ câu hỏi saU mỗi lần push. 
+:raccoon:  Mình sẽ cập nhật các thông tin về các bộ câu hỏi sau mỗi lần push. 
 ## Sử dụng
 Các bạn truy cập tại đây [JLPT Quiz](https://sangcamap.github.io/JLPT-quiz/)
 
@@ -29,6 +29,6 @@ I  |0001-0305 |N4      |Kanji N4 Test    |    X     |13/10/2021 |[chellyyyy](htt
 
 
 ## :cherry_blossom:	 P/S
-:raccoon:  Dữ liệu public các bạn cần cứ clone về dùng thoải mái chỉ cần để credit mình là được rồi :wink: :wink:
+:raccoon:  Dữ liệu public các bạn cần cứ clone về dùng tự do chỉ cần để credit mình là được rồi :wink: :wink:
 
 :raccoon:  Để thực hiện project này mình tham khảo và làm theo [Brian Design](https://youtu.be/f4fB9Xg2JEY)  
