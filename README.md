@@ -9,7 +9,10 @@
 
 :raccoon:  Mình sẽ cập nhật các thông tin về các bộ câu hỏi sau mỗi lần push. 
 ## Sử dụng
-Các bạn truy cập tại đây [JLPT Quiz](https://sangcamap.github.io/JLPT-quiz/)
+
+:fire:	Các bạn truy cập tại đây [JLPT Quiz](https://sangcamap.github.io/JLPT-quiz/)
+
+:fire:	Ngoài ra mình có gợi ý các bạn nên sử dụng kết hợp [Extensions Nobitago](https://chrome.google.com/webstore/detail/nobitago/phkjgidaednepcinnjgofdfjmajjngji?hl=vi) để có thể đạt được hiệu quả cao trong quá trình ôn tập 
 
 ## :cherry_blossom:	 Thông tin về các bộ câu hỏi
 ID |Số        |Cấp độ  |Nội dung         |Phạm vi   |Cập nhập lần cuối  |Authors
