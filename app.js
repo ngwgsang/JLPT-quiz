@@ -10,6 +10,7 @@ const saveScoreBtn           = document.querySelector('#saveScoreBtn');
 const finalScore             = document.querySelector("#finalScore");
 const endtext                = document.querySelector('#end-text');
 const percent                = document.querySelector('#percentCorrect');
+const level                  = document.querySelector('#level');
 // Khởi tạo
 document.getElementById('main').style.display             = "flex";
 document.getElementById('start').style.display            = "none";
@@ -95,6 +96,8 @@ function getInputValue(){
 let indexQuestions= [];
 indexQuestions = questions;
 function changeLevel_All(){
+    level.innerText= "N0";
+    level.style = "background: #000;  color: #fff;"
     questions = indexQuestions;
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
@@ -104,6 +107,8 @@ function changeLevel_All(){
 
 function changeLevel_N3(){
     questions = n3;
+    level.innerText= "N3";
+    level.style = "background: #FDC830;  color: #fff;"
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
     playAudio('./assets/audio/pop.wav');
@@ -112,6 +117,8 @@ function changeLevel_N3(){
 
 function changeLevel_N4(){
     questions = n4;
+    level.innerText= "N4";
+    level.style = "background: #009FFF;  color: #fff;"
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
     playAudio('./assets/audio/pop.wav');
@@ -120,6 +127,8 @@ function changeLevel_N4(){
 
 function changeLevel_N5(){
     questions = n5;
+    level.innerText= "N4";
+    level.style = "background: #0f9b0f;  color: #fff;"
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
     playAudio('./assets/audio/pop.wav');
