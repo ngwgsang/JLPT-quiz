@@ -7,7 +7,7 @@
 
 :raccoon:  Quiz này bao gồm một bộ các câu hỏi về **[KANJI]** , **[TỪ VỰNG]**.
 
-:raccoon:  Mình sẽ cập nhật các thông tin về các bộ câu hỏi sao mỗi lần push. 
+:raccoon:  Mình sẽ cập nhật các thông tin về các bộ câu hỏi saU mỗi lần push. 
 ## Sử dụng
 Các bạn truy cập tại đây [JLPT Quiz](https://sangcamap.github.io/JLPT-quiz/)
 
