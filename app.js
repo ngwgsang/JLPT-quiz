@@ -2,6 +2,7 @@ const main                   = document.querySelector('#main');
 const start                  = document.querySelector('#start');
 const startBtn               = document.querySelector('.startBtn');
 const returnBtn              = document.querySelector('.returnBtn');
+const scoreBtn               = document.querySelector('#score');
 const preQuestionBoardBtn    = document.querySelector('.preQuestionBoardBtn');
 const preQuestionBoard__list = document.querySelector('#preQuestionBoard__list');
 const rankBtn                = document.querySelector('#rankBtn');
@@ -55,6 +56,9 @@ saveScoreBtn.addEventListener('click',()=>{
     // Không biết tại sao nhưng counter = 1 ở lần 2 trở đi thì nó không dư
     questionCounter  = 1;
     score            = 0;
+    finalScore.innerText= '0';
+    percent.innerText = '0%';
+    scoreBtn.innerText = '0';
     resetGame();
 })
 // Reset
@@ -138,7 +142,6 @@ function changeLevel_N5(){
 //------------------------------------------>
 function startGame(){
     // Bắt đầu và gán các giá trị vào Current question
-
     document.getElementById("gif").src= gif[getRandomInt(gif.length)];
     endtext.innerText = comment[getRandomInt(comment.length)];
     questionCounter = 0
