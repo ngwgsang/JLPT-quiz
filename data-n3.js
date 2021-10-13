@@ -9492,5 +9492,347 @@ choice3: "野泳部",
 answer: 1,
 },
 
+{
+id: "A1055",
+question: "(同情)からよく恋愛が生まれる。",
+choice1: "とうじょ",
+choice2: "どうじょう",
+choice3: "どじょう",
+answer: 2,
+},
+
+{
+id: "A1056",
+question: "私はあなたが(恋しい)です。",
+choice1: "あいしい",
+choice2: "こいしい",
+choice3: "こしい",
+answer: 2,
+},
+
+{
+id: "A1057",
+question: "彼は(感情的)に動かない。",
+choice1: "かんじょうてきに",
+choice2: "かんじょてきに",
+choice3: "かんしょうてきに",
+answer: 1,
+},
+
+{
+id: "A1058",
+question: "(感動)して涙を流した。",
+choice1: "かんとう",
+choice2: "がんじょ",
+choice3: "かんどう",
+answer: 3,
+},
+
+{
+id: "A1059",
+question: "僕は君に(恋)をする。",
+choice1: "あい",
+choice2: "こい",
+choice3: "れん",
+answer: 2,
+},
+
+{
+id: "A1060",
+question: "彼と一緒だと(安心感)がある。",
+choice1: "あんこころかん",
+choice2: "あんしんかん",
+choice3: "かんしんあん",
+answer: 2,
+},
+
+{
+id: "A1061",
+question: "暑すぎると(感じ)た。",
+choice1: "けんじ",
+choice2: "がんじ",
+choice3: "かんじ",
+answer: 3,
+},
+
+{
+id: "A1062",
+question: "彼が(情け)を人にかける。",
+choice1: "ほうけ",
+choice2: "じょけ",
+choice3: "なさけ",
+answer: 3,
+},
+
+{
+id: "A1063",
+question: "子どもに(愛情)を抱いている。",
+choice1: "れんじょう",
+choice2: "あいじょう",
+choice3: "こいじょう",
+answer: 2,
+},
+
+{
+id: "A1064",
+question: "彼は(失恋)のために傷心した。",
+choice1: "しっれん",
+choice2: "しつれい",
+choice3: "しつれん",
+answer: 3,
+},
+
+{
+id: "A1065",
+question: "この庭は(風情)がある。",
+choice1: "ふぜい",
+choice2: "ふうせい",
+choice3: "ふうじょう",
+answer: 1,
+},
+
+{
+id: "A1066",
+question: "彼と(彼女)は恋愛関係にある。",
+choice1: "あいれん",
+choice2: "れんあい",
+choice3: "あいじょう",
+answer: 2,
+},
+
+{
+id: "A1067",
+question: "彼は(感心)に成功した。",
+choice1: "かんじ",
+choice2: "がんしん",
+choice3: "かんしん",
+answer: 3,
+},
+
+{
+id: "A1068",
+question: "彼はいまだに古い車を(愛用)している。",
+choice1: "あいよう",
+choice2: "れいよう",
+choice3: "こいよう",
+answer: 1,
+},
+
+{
+id: "A1069",
+question: "私たちは(友情)を固く結んだ。",
+choice1: "ともじょう",
+choice2: "ゆじょう",
+choice3: "ゆうじょう",
+answer: 3,
+},
+
+{
+id: "A1070",
+question: "家族を(恋う)。",
+choice1: "あう",
+choice2: "こう",
+choice3: "いう",
+answer: 2,
+},
+
+{
+id: "A1071",
+question: "あなたの(恋人)になりたい。",
+choice1: "こいびと",
+choice2: "あいひと",
+choice3: "れんびと",
+answer: 1,
+},
+
+{
+id: "A1072",
+question: "結婚生活のご(感想)は？",
+choice1: "かんぞう",
+choice2: "かんそう",
+choice3: "かんどう",
+answer: 2,
+},
+
+{
+id: "A1073",
+question: "(愛)を込めて、彼女にメッセージを送る。",
+choice1: "あい",
+choice2: "れん",
+choice3: "こ",
+answer: 1,
+},
+
+{
+id: "A1074",
+question: "彼は(あいじょう)表現が下手だ。",
+choice1: "愛情",
+choice2: "恋情",
+choice3: "曖青",
+answer: 1,
+},
+
+{
+id: "A1075",
+question: "子供をだきしめて(あんしんかん)をあたえる。",
+choice1: "按心憾",
+choice2: "安心感",
+choice3: "安必惑",
+answer: 2,
+},
+
+{
+id: "A1076",
+question: "彼は(なさけ)深い人だ。",
+choice1: "情け",
+choice2: "青け",
+choice3: "清け",
+answer: 1,
+},
+
+{
+id: "A1077",
+question: "実話を元にした映画を見て(かんどう)した。",
+choice1: "咸動",
+choice2: "緘動",
+choice3: "感動",
+answer: 3,
+},
+
+{
+id: "A1078",
+question: "亡くなった妻を今も(こう)。",
+choice1: "愛う",
+choice2: "恋う",
+choice3: "変う",
+answer: 2,
+},
+
+{
+id: "A1079",
+question: "このあたりは古い町の(ふぜい)が残っている。",
+choice1: "虱情",
+choice2: "楓青",
+choice3: "風情",
+answer: 3,
+},
+
+{
+id: "A1080",
+question: "(かんじょうてき)に話してはいけない。",
+choice1: "憾青的",
+choice2: "惑清的",
+choice3: "感情的",
+answer: 3,
+},
+
+{
+id: "A1081",
+question: "二人はだい(れんあい)の末、結婚した。",
+choice1: "変曖",
+choice2: "愛恋",
+choice3: "恋愛",
+answer: 3,
+},
+
+{
+id: "A1082",
+question: "わずかだが、家がゆれたのを(かんじ)た。",
+choice1: "惑じ",
+choice2: "憾じ",
+choice3: "感じ",
+answer: 3,
+},
+
+{
+id: "A1083",
+question: "父にもらったパンを(あいよう)している。0",
+choice1: "曖用",
+choice2: "愛用",
+choice3: "憂用",
+answer: 2,
+},
+
+{
+id: "A1084",
+question: "本を読んだ(かんそう)を言う。1",
+choice1: "感想",
+choice2: "憾相",
+choice3: "咸想",
+answer: 1,
+},
+
+{
+id: "A1085",
+question: "母が作る料理が(こいしい)。",
+choice1: "変しい",
+choice2: "恋しい",
+choice3: "奕しい",
+answer: 2,
+},
+
+{
+id: "A1086",
+question: "病気の友達に心から(どうじょう)する。",
+choice1: "何青",
+choice2: "同情",
+choice3: "洞情",
+answer: 2,
+},
+
+{
+id: "A1087",
+question: "彼の心優しい行動に(かんしん)した。",
+choice1: "感心",
+choice2: "憾心",
+choice3: "惑必",
+answer: 1,
+},
+
+{
+id: "A1088",
+question: "ふたりの(ゆうじょう)は末長く続くだろう。",
+choice1: "在清",
+choice2: "左情",
+choice3: "友情",
+answer: 3,
+},
+
+{
+id: "A1089",
+question: "(こいびと)は今外国に留学している。",
+choice1: "恋人",
+choice2: "愛人",
+choice3: "変人",
+answer: 1,
+},
+
+{
+id: "A1090",
+question: "手紙を読んで、母の(あい)を知った。",
+choice1: "曖",
+choice2: "愛",
+choice3: "爰",
+answer: 2,
+},
+
+{
+id: "A1091",
+question: "彼は(しつれん)のために傷心した。",
+choice1: "夫変",
+choice2: "失恋",
+choice3: "矢愛",
+answer: 2,
+},
+
+{
+id: "A1092",
+question: "彼女は田中さんに(こい)をしている。",
+choice1: "蛮",
+choice2: "変",
+choice3: "恋",
+answer: 3,
+},
+
 ]
 
