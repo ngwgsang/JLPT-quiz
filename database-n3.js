@@ -553,7 +553,7 @@ question: "これを(活用)させていただきます。",
 choice1: "かつよう",
 choice2: "はつよう",
 choice3: "かっよう",
-answer: 2,
+answer: 1,
 },
 
 {
@@ -6107,7 +6107,7 @@ answer: 1,
 
 {
 id: "A0680",
-question: "会社を(くび)になる。",
+question: "会社を(くびになる)。",
 choice1: "頁になる",
 choice2: "百になる",
 choice3: "首になる",
