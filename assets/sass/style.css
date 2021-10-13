@@ -701,6 +701,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  line-height: 4rem;
 }
 
 @media (max-width: 1200px) {
@@ -1047,6 +1048,7 @@ body {
           justify-content: center;
   width: 5rem;
   height: 5rem;
+  font-weight: 700;
   background-color: #0f9b0f;
   color: #fff;
 }

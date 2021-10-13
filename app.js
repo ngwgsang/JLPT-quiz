@@ -127,7 +127,7 @@ function changeLevel_N4(){
 
 function changeLevel_N5(){
     questions = n5;
-    level.innerText= "N4";
+    level.innerText= "N5";
     level.style = "background: #0f9b0f;  color: #fff;"
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
