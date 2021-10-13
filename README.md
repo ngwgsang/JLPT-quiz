@@ -5,21 +5,18 @@
 
 :raccoon:  Repo này mình viết ra với mục đích chính chia sẻ kiến thức và tạo một môi trường nho nhỏ để luyện thi JLPT.
 
-:raccoon:  Quiz này bao gồm một bộ các câu hỏi về **[KANJI]** , **[TỪ VỰNG]**, **[NGỮ PHÁP]**.
+:raccoon:  Quiz này bao gồm một bộ các câu hỏi về **[KANJI]** , **[TỪ VỰNG]**.
 
 :raccoon:  Mình sẽ cập nhật các thông tin về các bộ câu hỏi sao mỗi lần push. 
 ## Sử dụng
 Các bạn truy cập tại đây [JLPT Quiz](https://sangcamap.github.io/JLPT-quiz/)
 
 ## :cherry_blossom:	 Thông tin về các bộ câu hỏi
-ID |Số        |Cấp độ  |Nội dung         |Phạm vi   |Cập nhập   |Authors
----|----------|--------|---------------- |----------|-----------|-----------------------------------------
-A  |0001-0215 |N3      |Kanji Master N3  |Chương 1  |9/10/2021  |[sangcamap](https://github.com/sangcamap)
-A  |0216-0440 |N3      |Kanji Master N3  |Chương 2  |10/10/2021 |[sangcamap](https://github.com/sangcamap)
-A  |0441-0640 |N3      |Kanji Master N3  |Chương 3  |11/10/2021 |[sangcamap](https://github.com/sangcamap)
-A  |0641-0841 |N3      |Kanji Master N3  |Chương 4  |11/10/2021 |[sangcamap](https://github.com/sangcamap)
-A  |0841-1054 |N3      |Kanji Master N3  |Chương 5  |12/10/2021 |[sangcamap](https://github.com/sangcamap)
-I  |0001-0060 |N4      |Kanji N4 Test    |    X     |11/10/2021 |[chellyyyy](https://github.com/chellyyyy)
+ID |Số        |Cấp độ  |Nội dung         |Phạm vi   |Cập nhập lần cuối  |Authors
+---|----------|--------|---------------- |----------|-------------------|-----------------------------------------
+A  |0001-1054 |N3      |Kanji N3 Test    |C1 -> C5  |12/10/2021 |[sangcamap](https://github.com/sangcamap)
+I  |0001-0305 |N4      |Kanji N4 Test    |    X     |13/10/2021 |[chellyyyy](https://github.com/chellyyyy), [sangcamap](https://github.com/sangcamap)
+
 ## :cherry_blossom:	 Báo lỗi
 :raccoon:  Nếu bạn gặp phải đáp án sai hay lỗi nào đó thì có thể phản hồi [tại đây](https://forms.gle/PJ5ib4EdRPYoewSE7) hoặc qua [Facebook](https://www.facebook.com/sangnguyen0709/) mình ! 
 
