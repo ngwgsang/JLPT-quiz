@@ -48,11 +48,12 @@ rankBtn.addEventListener('click',()=>{
     document.getElementById('returnBtn').style.display        = "flex";
 });
 // Save scrore
+const o_username = ''
+const o_point    = 0
+const o_question = 0
 saveScoreBtn.addEventListener('click',()=>{
     document.getElementById("gif").src= gif[getRandomInt(gif.length)];
-    const o_username = document.getElementById('username').value;
-    const o_point    = document.getElementById('score')
-    const o_question = MAX_QUESTIONS;
+    // o_question = MAX_QUESTIONS;
     // Không biết tại sao nhưng counter = 1 ở lần 2 trở đi thì nó không dư
     questionCounter  = 1;
     score            = 0;

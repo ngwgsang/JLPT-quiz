@@ -5486,7 +5486,7 @@ answer: 3,
 
 {
 id: "A0611",
-question: "彼は若いし、おまけに、(二枚)目だ。",
+question: "彼は若いし、おまけに、(二枚目)だ。",
 choice1: "ふたつまいめ",
 choice2: "にまいめ",
 choice3: "にまめ",
@@ -10515,6 +10515,2375 @@ question: "レポートをまとめるのに(くしん)する。",
 choice1: "苦必",
 choice2: "苦心",
 choice3: "若",
+answer: 2,
+},
+
+{
+id: "A1169",
+question: "彼女は(怒り)っぽいです。",
+choice1: "こおり",
+choice2: "いかり",
+choice3: "いこり",
+answer: 2,
+},
+
+{
+id: "A1170",
+question: "すべての(悲劇)は死で終わる。",
+choice1: "びけき",
+choice2: "ひげき",
+choice3: "ひげい",
+answer: 2,
+},
+
+{
+id: "A1171",
+question: "私はあなたを(怒る)理由がない。",
+choice1: "おこる",
+choice2: "のこる",
+choice3: "こおる",
+answer: 1,
+},
+
+{
+id: "A1172",
+question: "(微笑)が顔から消えた。",
+choice1: "びそう",
+choice2: "ひわら",
+choice3: "びしょう",
+answer: 3,
+},
+
+{
+id: "A1173",
+question: "隣の部屋から(爆笑)が聞こえた。",
+choice1: "はっしょく",
+choice2: "ばくしょう",
+choice3: "ばっしょう",
+answer: 2,
+},
+
+{
+id: "A1174",
+question: "(悲しみ)に染まった。",
+choice1: "ひしみ",
+choice2: "かなしみ",
+choice3: "くるしみ",
+answer: 2,
+},
+
+{
+id: "A1175",
+question: "彼は(突然激怒)した。",
+choice1: "げきご",
+choice2: "げきどう",
+choice3: "げきど",
+answer: 3,
+},
+
+{
+id: "A1176",
+question: "彼はきっととても(喜ぶ)でしょう。",
+choice1: "こよろぶ",
+choice2: "よろうぶ",
+choice3: "よろこぶ",
+answer: 3,
+},
+
+{
+id: "A1177",
+question: "彼の話に(笑い声)が起こった。",
+choice1: "えいごえ",
+choice2: "わらいごえ",
+choice3: "あらいこえ",
+answer: 2,
+},
+
+{
+id: "A1178",
+question: "(喜怒哀楽)が色に顕れない。",
+choice1: "びどあらく",
+choice2: "ぎどういらく",
+choice3: "きどあいらく",
+answer: 3,
+},
+
+{
+id: "A1179",
+question: "彼女はこの提案に(大喜)びした。",
+choice1: "だいよろこび",
+choice2: "おおよろこび",
+choice3: "だいよこび",
+answer: 2,
+},
+
+{
+id: "A1180",
+question: "これが(悲しい)現実です。",
+choice1: "なびしい",
+choice2: "かなしい",
+choice3: "さびしい",
+answer: 2,
+},
+
+{
+id: "A1181",
+question: "彼は社員を大声で(怒鳴る)。",
+choice1: "どうなる",
+choice2: "いかなる",
+choice3: "どなる",
+answer: 3,
+},
+
+{
+id: "A1182",
+question: "彼は部屋で(大笑い)をしています。",
+choice1: "おおわらい",
+choice2: "だいわらい",
+choice3: "おおえらい",
+answer: 1,
+},
+
+{
+id: "A1183",
+question: "私の母はすぐ(悲観)的になる。",
+choice1: "びがん",
+choice2: "ひれん",
+choice3: "ひかん",
+answer: 3,
+},
+
+{
+id: "A1184",
+question: "私は(悲恋)物語が好きかもしれない。",
+choice1: "かなこい",
+choice2: "ひれん",
+choice3: "びあい",
+answer: 2,
+},
+
+{
+id: "A1185",
+question: "彼は私の事を(笑う)。",
+choice1: "あらう",
+choice2: "えらう",
+choice3: "わらう",
+answer: 3,
+},
+
+{
+id: "A1186",
+question: "(喜劇)は楽しかった。",
+choice1: "きげき",
+choice2: "びげき",
+choice3: "こげき",
+answer: 1,
+},
+
+{
+id: "A1187",
+question: "あなたの(笑顔)が素敵です。",
+choice1: "えかお",
+choice2: "えいかお",
+choice3: "えがお",
+answer: 3,
+},
+
+{
+id: "A1188",
+question: "彼は不運にもほほ(笑む)ことができる。",
+choice1: "ほほえむ",
+choice2: "ほほわらむ",
+choice3: "ほほあ",
+answer: 1,
+},
+
+{
+id: "A1189",
+question: "将来をひかんしては(いけない)。",
+choice1: "悲観",
+choice2: "非観",
+choice3: "扉観",
+answer: 1,
+},
+
+{
+id: "A1190",
+question: "彼のギャグにクラス中が(ばくしょう)した。",
+choice1: "曝笙",
+choice2: "爆笑",
+choice3: "縛笶",
+answer: 2,
+},
+
+{
+id: "A1191",
+question: "相手の失礼なたいどに(げきど)する。",
+choice1: "激怒",
+choice2: "檄努",
+choice3: "劇恕",
+answer: 1,
+},
+
+{
+id: "A1192",
+question: "ジュースを差し入れして(よろこばれた)。",
+choice1: "壹ばれた",
+choice2: "貴ばれた",
+choice3: "喜ばれた",
+answer: 3,
+},
+
+{
+id: "A1193",
+question: "面白い話に声をあげて(わらった)。",
+choice1: "笶った",
+choice2: "笑った",
+choice3: "芙った",
+answer: 2,
+},
+
+{
+id: "A1194",
+question: "かわいがっていた犬が死んで(かなしい)。",
+choice1: "非しい",
+choice2: "扉しい",
+choice3: "悲しい",
+answer: 3,
+},
+
+{
+id: "A1195",
+question: "成績が下がって親に(おこられる)。",
+choice1: "恕られる",
+choice2: "努られる",
+choice3: "怒られる",
+answer: 3,
+},
+
+{
+id: "A1196",
+question: "赤ちゃんを見て、思わず(ほほえんだ)。",
+choice1: "ほほ笄んだ",
+choice2: "ほほ笶んだ",
+choice3: "ほほ笑んだ",
+answer: 3,
+},
+
+{
+id: "A1197",
+question: "彼女は(きどあいらく)がはっきりした性格だ。",
+choice1: "恕喜袁楽",
+choice2: "貴恕頼楽",
+choice3: "喜怒哀楽",
+answer: 3,
+},
+
+{
+id: "A1198",
+question: "失言により相手の(いかり)を買った。",
+choice1: "恕り",
+choice2: "怒り",
+choice3: "努り",
+answer: 2,
+},
+
+{
+id: "A1199",
+question: "彼女はいつも(えがお)をたやさない。",
+choice1: "笙顔",
+choice2: "笑顔",
+choice3: "笶頭",
+answer: 2,
+},
+
+{
+id: "A1200",
+question: "母は大学合格を(よろこんで)くれた。",
+choice1: "喜んで",
+choice2: "貴んで",
+choice3: "袁んで",
+answer: 1,
+},
+
+{
+id: "A1201",
+question: "(ひれん)の物語を読んだ。",
+choice1: "非恋",
+choice2: "悲恋",
+choice3: "緋変",
+answer: 2,
+},
+
+{
+id: "A1202",
+question: "落語を聞いて(おおわらい)する。",
+choice1: "太笑",
+choice2: "大笑い",
+choice3: "犬笶",
+answer: 2,
+},
+
+{
+id: "A1203",
+question: "財布が見つかってだい(よろこび)する。",
+choice1: "大喜び",
+choice2: "太嬉び",
+choice3: "代喜び",
+answer: 1,
+},
+
+{
+id: "A1204",
+question: "友人の死を(かなしむ)。",
+choice1: "斐しむ",
+choice2: "非しむ",
+choice3: "悲しむ",
+answer: 3,
+},
+
+{
+id: "A1205",
+question: "となりの教室から(わらいごえ)がする。",
+choice1: "笑い声",
+choice2: "笶い戸",
+choice3: "芙い声",
+answer: 1,
+},
+
+{
+id: "A1206",
+question: "二人の結婚は(ひげき)に終わった。",
+choice1: "非激",
+choice2: "悲劇",
+choice3: "緋檄",
+answer: 2,
+},
+
+{
+id: "A1207",
+question: " 大声を出して(どなる)ことができる。",
+choice1: "怒鳴る",
+choice2: "努鳥る",
+choice3: "恕鳴る",
+answer: 1,
+},
+
+{
+id: "A1208",
+question: "彼女は思わず(びしょう)をもらした。",
+choice1: "薇筅",
+choice2: "微笑",
+choice3: "微",
+answer: 2,
+},
+
+
+{
+id: "A1209",
+question: "まだ不安が(残る)。",
+choice1: "こおる",
+choice2: "のこる",
+choice3: "おこる",
+answer: 2,
+},
+
+{
+id: "A1210",
+question: "研究に(専念)する。",
+choice1: "せいねん",
+choice2: "せんねん",
+choice3: "ぜんねん",
+answer: 2,
+},
+
+{
+id: "A1211",
+question: "私は家族を日本に(残す)。",
+choice1: "のこす",
+choice2: "このす",
+choice3: "おのす",
+answer: 1,
+},
+
+{
+id: "A1212",
+question: "(残念)ながら売り切れてしまいました。",
+choice1: "のうねん",
+choice2: "ぜんねん",
+choice3: "ざんねん",
+answer: 3,
+},
+
+{
+id: "A1213",
+question: "この子は(泣き虫)で困る。",
+choice1: "がきむし",
+choice2: "なきむし",
+choice3: "あきむし",
+answer: 2,
+},
+
+{
+id: "A1214",
+question: "それは(入念)に詳しく説明された。",
+choice1: "はいねん",
+choice2: "にゅうねん",
+choice3: "にゅうざん",
+answer: 2,
+},
+
+{
+id: "A1215",
+question: "(残留)トナーの回収量を正確に検知する。",
+choice1: "ほうりゅう",
+choice2: "こうりゅう",
+choice3: "ざんりゅう",
+answer: 3,
+},
+
+{
+id: "A1216",
+question: "彼は天を仰いで(悔し泣き)に泣いた。",
+choice1: "うめしなく",
+choice2: "うましやき",
+choice3: "くやしなく",
+answer: 3,
+},
+
+{
+id: "A1217",
+question: "明日は(残業)なしの日です。",
+choice1: "さんぎょう",
+choice2: "ざんきょう",
+choice3: "ざんぎょう",
+answer: 3,
+},
+
+{
+id: "A1218",
+question: "この(理念)は私の考えとぴったりと一致する。",
+choice1: "りねん",
+choice2: "きねん",
+choice3: "しねん",
+answer: 1,
+},
+
+{
+id: "A1219",
+question: "彼女は(涙声)になった。",
+choice1: "あみごえ",
+choice2: "なみだごえ",
+choice3: "なみだこえ",
+answer: 2,
+},
+
+{
+id: "A1220",
+question: "夏が来て山の(残雪)がゆっくり溶け始めた。",
+choice1: "さんゆう",
+choice2: "ざんゆき",
+choice3: "ざんせつ",
+answer: 3,
+},
+
+{
+id: "A1221",
+question: "酒に酔って(泣く)。",
+choice1: "なく",
+choice2: "あく",
+choice3: "きく",
+answer: 1,
+},
+
+{
+id: "A1222",
+question: "今日は私の(念願)の休みです。",
+choice1: "ねんざん",
+choice2: "ねんかん",
+choice3: "ねんがん",
+answer: 3,
+},
+
+{
+id: "A1223",
+question: "初めて卒業式で(号泣)した。",
+choice1: "ごうなく",
+choice2: "ごうきゅう",
+choice3: "ごうりゅう",
+answer: 2,
+},
+
+{
+id: "A1224",
+question: "(涙腺)が詰まっていると言われました。",
+choice1: "すいせん",
+choice2: "なみだせん",
+choice3: "るいせん",
+answer: 3,
+},
+
+{
+id: "A1225",
+question: "(念のため)、確認をお願いします。",
+choice1: "ねんのため",
+choice2: "ざんのため",
+choice3: "めんのため",
+answer: 1,
+},
+
+{
+id: "A1226",
+question: "(信念)を行動に移した。",
+choice1: "せんねん",
+choice2: "しんねん",
+choice3: "ごうねん",
+answer: 2,
+},
+
+{
+id: "A1227",
+question: "(嬉し泣き)に泣きたいほど嬉しかった。",
+choice1: "うれしなき",
+choice2: "たのしなき",
+choice3: "よこびしなき",
+answer: 1,
+},
+
+{
+id: "A1228",
+question: "煙で(涙)が出た。",
+choice1: "あみだ",
+choice2: "なみだ",
+choice3: "かみ",
+answer: 2,
+},
+
+
+{
+id: "A1229",
+question: "山に(ざんせつ)があるのが見える。",
+choice1: "残雪",
+choice2: "浅雪",
+choice3: "桟雪",
+answer: 1,
+},
+
+{
+id: "A1230",
+question: "(ねんがん)のマイホームを手に入れた。",
+choice1: "捻頑",
+choice2: "念願",
+choice3: "稔願",
+answer: 2,
+},
+
+{
+id: "A1231",
+question: "映画のラストシーンに(ないた)。",
+choice1: "泣いた",
+choice2: "治いた",
+choice3: "汾いた",
+answer: 1,
+},
+
+{
+id: "A1232",
+question: "野菜に農薬が(ざんりゅう)する。",
+choice1: "桟留",
+choice2: "浅溜",
+choice3: "残留",
+answer: 3,
+},
+
+{
+id: "A1233",
+question: "そふが亡くなり、(ごうきゅう)する父を見た。",
+choice1: "呉泣",
+choice2: "号泣",
+choice3: "号立",
+answer: 2,
+},
+
+{
+id: "A1234",
+question: "(ねんのため)、連絡先を教えてもらう。",
+choice1: "捻のため",
+choice2: "年のため",
+choice3: "念のため",
+answer: 3,
+},
+
+{
+id: "A1235",
+question: " 注文した料理をの(こして)しまった。",
+choice1: "銭して",
+choice2: "賎して",
+choice3: "残して",
+answer: 3,
+},
+
+{
+id: "A1236",
+question: "アルバイトをやめて勉強に(せんねん)する。",
+choice1: "傳念",
+choice2: "專捻",
+choice3: "専念",
+answer: 3,
+},
+
+{
+id: "A1237",
+question: "話のとちゅうで突然(なみだごえ)になる。",
+choice1: "泥声",
+choice2: "戻声",
+choice3: "涙声",
+answer: 3,
+},
+
+{
+id: "A1238",
+question: "会社に遅くまで(のこって)仕事をした。",
+choice1: "浅って",
+choice2: "残って",
+choice3: "桟って",
+answer: 2,
+},
+
+{
+id: "A1239",
+question: "大学の教育(りねん)に共感する。",
+choice1: "裡捻",
+choice2: "理念",
+choice3: "哩稔",
+answer: 2,
+},
+
+{
+id: "A1240",
+question: "子供のころは(なきむし)だった。",
+choice1: "泣き虫",
+choice2: "泊き虫",
+choice3: "泣き吏し",
+answer: 1,
+},
+
+{
+id: "A1241",
+question: "(ざんねん)ながら今年も不合格だった。",
+choice1: "浅捻",
+choice2: "残念",
+choice3: "残慾",
+answer: 2,
+},
+
+{
+id: "A1242",
+question: "玉ねぎを切ったら(なみだ)が出た。",
+choice1: "戻",
+choice2: "涙",
+choice3: "泥",
+answer: 2,
+},
+
+{
+id: "A1243",
+question: "彼女は(うれしなき)をした。",
+choice1: "嬉し泣き",
+choice2: "喜し泣き",
+choice3: "遠し立き",
+answer: 1,
+},
+
+{
+id: "A1244",
+question: "忘れ物がないかに(にゅうねん)に確認する。",
+choice1: "入稔",
+choice2: "人捻",
+choice3: "入念",
+answer: 3,
+},
+
+{
+id: "A1245",
+question: "試合にまけて(くやしなき)をした。",
+choice1: "悔し泣き",
+choice2: "毎し泣き",
+choice3: "侮し泣き",
+answer: 1,
+},
+
+{
+id: "A1246",
+question: "(るいせん)がつまっていると言われました。。",
+choice1: "戻線",
+choice2: "涙腺",
+choice3: "涙線",
+answer: 2,
+},
+
+{
+id: "A1247",
+question: "明日は(ざんぎょう)なしの日です。",
+choice1: "浅業",
+choice2: "残業",
+choice3: "桟業",
+answer: 2,
+},
+
+{
+id: "A1248",
+question: "彼は(しんねん)を曲げない人だ。",
+choice1: "言稔",
+choice2: "伸捻",
+choice3: "信",
+answer: 3,
+},
+
+{
+id: "A1249",
+question: "(魚介類)を売買する市場。",
+choice1: "きょかいるい",
+choice2: "ぎょかいるい",
+choice3: "さかなかいるい",
+answer: 2,
+},
+
+{
+id: "A1250",
+question: "みんなに(自己紹介)をしてください。",
+choice1: "じこうしょかい",
+choice2: "じこしょうかい",
+choice3: "じこしょうがい",
+answer: 2,
+},
+
+{
+id: "A1251",
+question: " 髪を一つに(結わえる)。",
+choice1: "ゆわえる",
+choice2: "むわえる",
+choice3: "けわえる",
+answer: 1,
+},
+
+{
+id: "A1252",
+question: "彼は(未婚)の母から生まれた。",
+choice1: "かんとう",
+choice2: "がんじょ",
+choice3: "みこん",
+answer: 3,
+},
+
+{
+id: "A1253",
+question: "二人は(結婚)した。",
+choice1: "けつこん",
+choice2: "けっこん",
+choice3: "ゆこん",
+answer: 2,
+},
+
+{
+id: "A1254",
+question: "物語に(結末)をつける。",
+choice1: "けっまつ",
+choice2: "けつまつ",
+choice3: "けいまつ",
+answer: 2,
+},
+
+{
+id: "A1255",
+question: "(新婚)旅行に出かける。",
+choice1: "みこん",
+choice2: "しんごん",
+choice3: "しんこん",
+answer: 3,
+},
+
+{
+id: "A1256",
+question: "彼と(婚約)しました。",
+choice1: "けんやく",
+choice2: "ごんやく",
+choice3: "こんやく",
+answer: 3,
+},
+
+{
+id: "A1257",
+question: "事実から(結論)を引き出す。",
+choice1: "けっろん",
+choice2: "けつろん",
+choice3: "げつろん",
+answer: 1,
+},
+
+{
+id: "A1258",
+question: "この(結果)は意外だった。",
+choice1: "けいか",
+choice2: "けつか",
+choice3: "けっか",
+answer: 3,
+},
+
+{
+id: "A1259",
+question: "それは2人の(金婚式)だった。",
+choice1: "きんこんしき",
+choice2: "かねこんしき",
+choice3: "ぎんこんしき",
+answer: 1,
+},
+
+{
+id: "A1260",
+question: "女性が髪を(結う)。",
+choice1: "けつう",
+choice2: "ゆう",
+choice3: "むすう",
+answer: 2,
+},
+
+{
+id: "A1261",
+question: "不倒産会社に(仲介料)を払う。",
+choice1: "ちゅうがいりょう",
+choice2: "ちゅがいりょう",
+choice3: "ちゅうかいりょう",
+answer: 3,
+},
+
+{
+id: "A1262",
+question: "靴のひもを(結ぶ)。",
+choice1: "むすぶ",
+choice2: "ゆぶ",
+choice3: "けつぶ",
+answer: 1,
+},
+
+{
+id: "A1263",
+question: "(魚介)や野菜などを酢みそであえた料理が好き。",
+choice1: "ぎょうかい",
+choice2: "きょかい",
+choice3: "ぎょかい",
+answer: 3,
+},
+
+{
+id: "A1264",
+question: "自己(紹介)をして下さい。",
+choice1: "そうかい",
+choice2: "しょうかい",
+choice3: "じょうか",
+answer: 2,
+},
+
+{
+id: "A1265",
+question: "面接試験の(けっか)が出た。",
+choice1: "結果",
+choice2: "桔果",
+choice3: "絡課",
+answer: 1,
+},
+
+{
+id: "A1266",
+question: "くつのひもを(むすぶ)。",
+choice1: "絡ぶ",
+choice2: "結ぶ",
+choice3: "枯ぶ",
+answer: 2,
+},
+
+{
+id: "A1267",
+question: "(しんこん)旅行でヨーロッパへ行く。",
+choice1: "新婚",
+choice2: "親昏",
+choice3: "新昏",
+answer: 1,
+},
+
+{
+id: "A1268",
+question: "自分で毎日かみを(ゆう)。",
+choice1: "紹う",
+choice2: "桔う",
+choice3: "結う",
+answer: 3,
+},
+
+{
+id: "A1269",
+question: "(きんこんしき)のお祝いをする。",
+choice1: "欽昏式",
+choice2: "金婚式",
+choice3: "金始武",
+answer: 2,
+},
+
+{
+id: "A1270",
+question: "友人の(しょうかい)で彼に出会った。",
+choice1: "絡介",
+choice2: "結介",
+choice3: "紹介",
+answer: 3,
+},
+
+{
+id: "A1271",
+question: "来年(けっこん)することになった。",
+choice1: "桔昏",
+choice2: "紹婚",
+choice3: "結婚",
+answer: 3,
+},
+
+{
+id: "A1272",
+question: "(ぎょかいるい)の中でも特にエビが好きだ。",
+choice1: "魚界類",
+choice2: "漁介数",
+choice3: "魚介類",
+answer: 3,
+},
+
+{
+id: "A1273",
+question: "かみを一つに(ゆわえる)。",
+choice1: "紹わえる",
+choice2: "桔わえる",
+choice3: "結わえる",
+answer: 3,
+},
+
+{
+id: "A1274",
+question: "(ぎょかい)のソースを作る。",
+choice1: "漁介",
+choice2: "魚介",
+choice3: "魚界",
+answer: 2,
+},
+
+{
+id: "A1275",
+question: "不動産会社に(ちゅうかいりょう)をはらう。",
+choice1: "仲介料",
+choice2: "中介材",
+choice3: "仲界料",
+answer: 1,
+},
+
+{
+id: "A1276",
+question: "ドラマの(けつまつ)が気になる。",
+choice1: "結未",
+choice2: "結末",
+choice3: "桔末",
+answer: 2,
+},
+
+{
+id: "A1277",
+question: "(じこしょうかい)をする。",
+choice1: "白己紹芥",
+choice2: "自己紹介",
+choice3: "自子絡介",
+answer: 2,
+},
+
+{
+id: "A1278",
+question: "働く(みこん)女性がふえている。",
+choice1: "未婚",
+choice2: "末婚",
+choice3: "実昏",
+answer: 1,
+},
+
+{
+id: "A1279",
+question: "社長の娘と(こんやく)する。",
+choice1: "婚役",
+choice2: "昏葯",
+choice3: "婚約",
+answer: 3,
+},
+
+{
+id: "A1280",
+question: "(けつろん)を出す。",
+choice1: "結論",
+choice2: "桔諭",
+choice3: "給",
+answer: 1,
+},
+
+{
+id: "A1281",
+question: "魚を(刺身)に作る。",
+choice1: "しじみ",
+choice2: "さしみ",
+choice3: "ざしみ",
+answer: 2,
+},
+
+{
+id: "A1282",
+question: "彼は時々(独り言)を言う。",
+choice1: "どりごと",
+choice2: "ひとりごと",
+choice3: "どくごと",
+answer: 2,
+},
+
+{
+id: "A1283",
+question: "彼は(身長)が高いです。",
+choice1: "しんちょう",
+choice2: "みちょう",
+choice3: "しんなが",
+answer: 1,
+},
+
+{
+id: "A1284",
+question: "あなたの(身分証明書)を私に見せてください。",
+choice1: "しんぶんしょめいしょ",
+choice2: "じぶんしょめいしょ",
+choice3: "みぶんしょうめいしょ",
+answer: 3,
+},
+
+{
+id: "A1285",
+question: "よい結果を(期待)する。",
+choice1: "ぎたい",
+choice2: "きたい",
+choice3: "きまつ",
+answer: 2,
+},
+
+{
+id: "A1286",
+question: "彼らは息子達が(独り立ち)できるよう育てた。",
+choice1: "どりだち",
+choice2: "ひとりだち",
+choice3: "どくりだち",
+answer: 2,
+},
+
+{
+id: "A1287",
+question: " 彼は(身分)の高い人。",
+choice1: "じぶん",
+choice2: "しんぶん",
+choice3: "みぶん",
+answer: 3,
+},
+
+{
+id: "A1288",
+question: "私はお金を(貯金)する。",
+choice1: "ちょぎん",
+choice2: "じょきん",
+choice3: "ちょきん",
+answer: 3,
+},
+
+{
+id: "A1289",
+question: "(独身)生活をする。",
+choice1: "どうしん",
+choice2: "どくしん",
+choice3: "どくじ",
+answer: 2,
+},
+
+{
+id: "A1290",
+question: "今日から(新学期)が始まった。",
+choice1: "しんがっぎ",
+choice2: "しんがくき",
+choice3: "しんがっき",
+answer: 3,
+},
+
+{
+id: "A1291",
+question: "(独立)しようと努力する。",
+choice1: "どくりつ",
+choice2: "どくたつ",
+choice3: "どうりつ",
+answer: 1,
+},
+
+{
+id: "A1292",
+question: "彼は(独特)の髪型だ。",
+choice1: "どくべつ",
+choice2: "どくとく",
+choice3: "どうとく",
+answer: 2,
+},
+
+{
+id: "A1293",
+question: "あなたを(身近)に感じた。",
+choice1: "じぢか",
+choice2: "みきん",
+choice3: "みぢか",
+answer: 3,
+},
+
+{
+id: "A1294",
+question: "私は東京(出身)です。",
+choice1: "しゅっしん",
+choice2: "しゅつしん",
+choice3: "しゅつみ",
+answer: 1,
+},
+
+{
+id: "A1295",
+question: "ものを(貯蔵)しておく。",
+choice1: "ちょきん",
+choice2: "ちょこう",
+choice3: "ちょぞう",
+answer: 3,
+},
+
+{
+id: "A1296",
+question: "私は一週間(前期)末テストを受けた。",
+choice1: "まえき",
+choice2: "ぜんき",
+choice3: "せんぎ",
+answer: 2,
+},
+
+{
+id: "A1297",
+question: "(期末)試験を受ける。",
+choice1: "きまつ",
+choice2: "きたい",
+choice3: "ぜんき",
+answer: 1,
+},
+
+{
+id: "A1298",
+question: "パンの(中身)は何？",
+choice1: "ちゅうみ",
+choice2: "なかみ",
+choice3: "ちゅうしん",
+answer: 2,
+},
+
+{
+id: "A1299",
+question: "父の(最期)を看取った。",
+choice1: "さいご",
+choice2: "さいき",
+choice3: "さい",
+answer: 1,
+},
+
+{
+id: "A1300",
+question: "テレビを見ながら(ひとりごと)をつぶやく。",
+choice1: "独り言",
+choice2: "虫り言",
+choice3: "猿り言",
+answer: 1,
+},
+
+{
+id: "A1301",
+question: "あの選手は(しんちょう)が190センチもある。",
+choice1: "射長",
+choice2: "身長",
+choice3: "身脹",
+answer: 2,
+},
+
+{
+id: "A1302",
+question: "彼は(どくしん)そうだ。",
+choice1: "独身",
+choice2: "虫身",
+choice3: "狂身",
+answer: 1,
+},
+
+{
+id: "A1303",
+question: "食料をそうこで(ちょぞう)する。",
+choice1: "貯臓",
+choice2: "則臓",
+choice3: "貯蔵",
+answer: 3,
+},
+
+{
+id: "A1304",
+question: "(みぢか)な人に相談する。",
+choice1: "射逅",
+choice2: "身近",
+choice3: "身所",
+answer: 2,
+},
+
+{
+id: "A1305",
+question: "親の(きたい)に応えるためにがんばった。",
+choice1: "基待",
+choice2: "棋特",
+choice3: "期待",
+answer: 3,
+},
+
+{
+id: "A1306",
+question: "会社をやめて、(どくりつ)した。",
+choice1: "猿立",
+choice2: "猪泣",
+choice3: "独立",
+answer: 3,
+},
+
+{
+id: "A1307",
+question: "ボーナスから十万円を(ちょきん)する。",
+choice1: "則欽",
+choice2: "財金",
+choice3: "貯金",
+answer: 3,
+},
+
+{
+id: "A1308",
+question: "そふと(さいご)のおわかれをする。",
+choice1: "最初",
+choice2: "最後",
+choice3: "最期",
+answer: 3,
+},
+
+{
+id: "A1309",
+question: "親元をはなれ、(ひとりだち)す。",
+choice1: "猪り立ち",
+choice2: "独り立ち",
+choice3: "猿り立ち",
+answer: 2,
+},
+
+{
+id: "A1310",
+question: "(きまつ)テストの点数が悪かった。",
+choice1: "期末",
+choice2: "棋末",
+choice3: "其未",
+answer: 1,
+},
+
+{
+id: "A1311",
+question: "私と彼は(しゅっしん)大学が同じだ。",
+choice1: "出射",
+choice2: "出身",
+choice3: "拙身",
+answer: 2,
+},
+
+{
+id: "A1312",
+question: "(ぜんき)のテストを受ける。",
+choice1: "前其",
+choice2: "前期",
+choice3: "削棋",
+answer: 2,
+},
+
+{
+id: "A1313",
+question: "(なかみ)のない話。",
+choice1: "中身",
+choice2: "仲身",
+choice3: "仲見",
+answer: 1,
+},
+
+{
+id: "A1314",
+question: "(どくしん)生活を楽しむ。",
+choice1: "猪身",
+choice2: "独見",
+choice3: "独身",
+answer: 3,
+},
+
+{
+id: "A1315",
+question: "今日は(さしみ)を食べた。",
+choice1: "刺身",
+choice2: "刺射",
+choice3: "朿身",
+answer: 1,
+},
+
+{
+id: "A1316",
+question: "(みぶん)証明書を見せる。",
+choice1: "身文",
+choice2: "身分",
+choice3: "未分",
+answer: 2,
+},
+
+{
+id: "A1317",
+question: "(しんがっき)が始まる前に旅行する。",
+choice1: "親学其",
+choice2: "新学期",
+choice3: "新学棋",
+answer: 2,
+},
+
+{
+id: "A1318",
+question: " 彼は(どくとく)の髪型だ。",
+choice1: "猿持",
+choice2: "独待",
+choice3: "独",
+answer: 3,
+},
+
+{
+id: "A1319",
+question: " (束)になって掛かる。",
+choice1: "はば",
+choice2: "たば",
+choice3: "たは",
+answer: 2,
+},
+
+{
+id: "A1320",
+question: "あなたには(花束)が良く似合う。",
+choice1: "ばなたば",
+choice2: "はなたば",
+choice3: "はなそく",
+answer: 2,
+},
+
+{
+id: "A1321",
+question: "神社で(お守り)を買った。",
+choice1: "おまもり",
+choice2: "おもまり",
+choice3: "おしまり",
+answer: 1,
+},
+
+{
+id: "A1322",
+question: "この部屋を(予約)した。",
+choice1: "よそく",
+choice2: "ようやく",
+choice3: "よやく",
+answer: 3,
+},
+
+{
+id: "A1323",
+question: "明日(必ず)電話してね。",
+choice1: "からなず",
+choice2: "かならず",
+choice3: "ひつよず",
+answer: 2,
+},
+
+{
+id: "A1324",
+question: "彼の(婚約)者に会った。",
+choice1: "けんやく",
+choice2: "こんやく",
+choice3: "こんさく",
+answer: 2,
+},
+
+{
+id: "A1325",
+question: "彼はお金を貯める事に(必死)だ。",
+choice1: "みつし",
+choice2: "ひつし",
+choice3: "ひっし",
+answer: 3,
+},
+
+{
+id: "A1326",
+question: "(子守歌)を歌って子どもを寝かす。",
+choice1: "こもしうた",
+choice2: "こまりうた",
+choice3: "こもりうた",
+answer: 3,
+},
+
+{
+id: "A1327",
+question: "自由を(束縛)する。",
+choice1: "たばそく",
+choice2: "そくばく",
+choice3: " そくたば",
+answer: 2,
+},
+
+{
+id: "A1328",
+question: "私はその口座を(解約)したい。",
+choice1: "けつやく",
+choice2: "こんやく",
+choice3: " かいやく",
+answer: 3,
+},
+
+{
+id: "A1329",
+question: "彼は(守備)が上手いです。",
+choice1: "しゅび",
+choice2: "まもび",
+choice3: "もりび",
+answer: 1,
+},
+
+{
+id: "A1330",
+question: "重さは(約)50グラムである。",
+choice1: "さく",
+choice2: "やく",
+choice3: "かく",
+answer: 2,
+},
+
+{
+id: "A1331",
+question: "彼は時間を(厳守)する。",
+choice1: "げんもり",
+choice2: "げきしゅ",
+choice3: " げんしゅ",
+answer: 3,
+},
+
+{
+id: "A1332",
+question: "人に(約束)を守らせる。",
+choice1: "やくそく",
+choice2: "やくたば",
+choice3: "やくぞく",
+answer: 1,
+},
+
+{
+id: "A1333",
+question: "交通ルールを(守る)。",
+choice1: "しもる",
+choice2: "きもる",
+choice3: " まもる",
+answer: 3,
+},
+
+{
+id: "A1334",
+question: "彼らは(結束)が固い。",
+choice1: "けつそく",
+choice2: "けっそく",
+choice3: "けつたば",
+answer: 2,
+},
+
+{
+id: "A1335",
+question: "これが本当に(必要)なの。",
+choice1: "ひつよう",
+choice2: "ひっよう",
+choice3: "ひよう",
+answer: 1,
+},
+
+{
+id: "A1336",
+question: "(必勝)を願って応援した。",
+choice1: "ひっし",
+choice2: "ひっしょう",
+choice3: "ひつしょう",
+answer: 2,
+},
+
+{
+id: "A1337",
+question: "おとうさんは(留守)です。",
+choice1: "るす",
+choice2: "りゅうしゅ",
+choice3: "るいし",
+answer: 1,
+},
+
+{
+id: "A1338",
+question: "恋人に(はなたば)をプレゼントする。",
+choice1: "花束",
+choice2: "化束",
+choice3: "花東",
+answer: 1,
+},
+
+{
+id: "A1339",
+question: "父との約束を(まもる)。",
+choice1: "狩る",
+choice2: "守る",
+choice3: "宇る",
+answer: 2,
+},
+
+{
+id: "A1340",
+question: "(かならず)宿題を出さなくてはいけない。",
+choice1: "必ず",
+choice2: "心ず",
+choice3: "少ず",
+answer: 1,
+},
+
+{
+id: "A1341",
+question: "ホテルを(よやく)する。",
+choice1: "子葯",
+choice2: "予約",
+choice3: "予紡",
+answer: 2,
+},
+
+{
+id: "A1342",
+question: "彼に(こんやく)ゆびわをもらった。",
+choice1: "婚級",
+choice2: "昏約",
+choice3: "婚約",
+answer: 3,
+},
+
+{
+id: "A1343",
+question: "(ひっしょう)を願って応援した。",
+choice1: "少勝",
+choice2: "心勝",
+choice3: "必勝",
+answer: 3,
+},
+
+{
+id: "A1344",
+question: "父との(やくそく)を守る。",
+choice1: "約朿",
+choice2: "紀束",
+choice3: "約束",
+answer: 3,
+},
+
+{
+id: "A1345",
+question: "旅行で1週間家を(るす)にする。",
+choice1: "留字",
+choice2: "溜守",
+choice3: "留守",
+answer: 3,
+},
+
+{
+id: "A1346",
+question: "私には昼寝が(ひつよう)だ。",
+choice1: "心悪",
+choice2: "必要",
+choice3: "少要",
+answer: 2,
+},
+
+{
+id: "A1347",
+question: "母親が子供に(こもりうた)を聞かせた。",
+choice1: "子守歌",
+choice2: "予守哥",
+choice3: "子狩歌",
+answer: 1,
+},
+
+{
+id: "A1348",
+question: "ローンを(かいやく)する。",
+choice1: "触紡",
+choice2: "解約",
+choice3: "觧約",
+answer: 2,
+},
+
+{
+id: "A1349",
+question: "交通安全の(おまもり)を買う。",
+choice1: "お狩り",
+choice2: "お守り",
+choice3: "お宇り",
+answer: 2,
+},
+
+{
+id: "A1350",
+question: "学校まで(やく) 1 時間かかる。",
+choice1: "約",
+choice2: "紂",
+choice3: "紀",
+answer: 1,
+},
+
+{
+id: "A1351",
+question: "(そくばく)されるのはいやだ。",
+choice1: "東縛",
+choice2: "京博",
+choice3: "束縛",
+answer: 3,
+},
+
+{
+id: "A1352",
+question: "合格するために、(ひっし)でがんばる。",
+choice1: "必死",
+choice2: "心屍",
+choice3: "少死",
+answer: 1,
+},
+
+{
+id: "A1353",
+question: "時間(げんしゅ)。",
+choice1: "激守",
+choice2: "厳守",
+choice3: "巌狩",
+answer: 2,
+},
+
+{
+id: "A1354",
+question: "苦古新聞を(たば)にする。",
+choice1: "刺",
+choice2: "束",
+choice3: "東",
+answer: 2,
+},
+
+{
+id: "A1355",
+question: "(けっそく)が固いチーム。",
+choice1: "給速",
+choice2: "桔束",
+choice3: "結束",
+answer: 3,
+},
+
+{
+id: "A1356",
+question: "(酔っ払い)が階段から落ちた。",
+choice1: "よっばらい",
+choice2: "よっぱらい",
+choice3: "やっばらい",
+answer: 2,
+},
+
+{
+id: "A1357",
+question: "(結婚式)は延期された。",
+choice1: "けつこんしき",
+choice2: "けっこんしき",
+choice3: "けいこんしき",
+answer: 2,
+},
+
+{
+id: "A1358",
+question: "ひどく酒に(酔う)。",
+choice1: "よう",
+choice2: "すう",
+choice3: "やう",
+answer: 1,
+},
+
+{
+id: "A1359",
+question: " (行列)がゆっくり進む。",
+choice1: "きょうれつ",
+choice2: "ぎょれつ",
+choice3: "ぎょうれつ",
+answer: 3,
+},
+
+{
+id: "A1360",
+question: "宇宙の日を(祝う)。",
+choice1: "おわう",
+choice2: "いわう",
+choice3: "しゅう",
+answer: 2,
+},
+
+{
+id: "A1361",
+question: "いつも(泥酔)するまで飲む。",
+choice1: "るいすい",
+choice2: "でいすい",
+choice3: "どうすい",
+answer: 2,
+},
+
+{
+id: "A1362",
+question: "昨日(祝日)のため会社が休みでした。",
+choice1: "れいじつ",
+choice2: "じゅくじつ",
+choice3: "しゅくじつ",
+answer: 3,
+},
+
+{
+id: "A1363",
+question: "(二日酔い)で頭が痛む。",
+choice1: "ふつかすい",
+choice2: "ふつびよう",
+choice3: "ふつかよい",
+answer: 3,
+},
+
+{
+id: "A1364",
+question: "明日(祝賀)会に出席します。",
+choice1: "いわが",
+choice2: "れいが",
+choice3: "しゅくが",
+answer: 3,
+},
+
+{
+id: "A1365",
+question: "(株式)市場は変動する。",
+choice1: "かぶしき",
+choice2: "けつしき",
+choice3: "かふしき",
+answer: 1,
+},
+
+{
+id: "A1366",
+question: "(一列)に並んで下さい。",
+choice1: "いっれつ",
+choice2: "いちれつ",
+choice3: "いちぎょう",
+answer: 2,
+},
+
+{
+id: "A1367",
+question: "(列車)から降りる。",
+choice1: "れいしゃ",
+choice2: "れつしゃ",
+choice3: "れっしゃ",
+answer: 3,
+},
+
+{
+id: "A1368",
+question: "日本は火山(列島)だ。",
+choice1: "れっとう",
+choice2: "れっしゃ",
+choice3: "れっどう",
+answer: 1,
+},
+
+{
+id: "A1369",
+question: "学生たちは彼に(心酔)していた。",
+choice1: "しんるい",
+choice2: "しんよい",
+choice3: "しんすい",
+answer: 3,
+},
+
+{
+id: "A1370",
+question: "彼らは(正式)に離婚した。",
+choice1: "せいじき",
+choice2: "せいしき",
+choice3: "ぜいきし",
+answer: 2,
+},
+
+{
+id: "A1371",
+question: "結婚のお(祝い)を贈る。",
+choice1: "いらい",
+choice2: "いるい",
+choice3: "いわい",
+answer: 3,
+},
+
+{
+id: "A1372",
+question: "用具を(一式貸)してください。",
+choice1: "いっしき",
+choice2: "いちしき",
+choice3: "いちじき",
+answer: 1,
+},
+
+{
+id: "A1373",
+question: "新年の(祝儀)を述べる。",
+choice1: "しゅぎ",
+choice2: "しゅうぎ",
+choice3: "いわぎ",
+answer: 2,
+},
+
+{
+id: "A1374",
+question: "私は(車酔い)するので、タクシーより電車に乗るほうがいい。",
+choice1: "くるまよい",
+choice2: "しゃよい",
+choice3: "くるますい",
+answer: 1,
+},
+
+{
+id: "A1375",
+question: "この文書の(書式)は自由です。",
+choice1: "しょじき",
+choice2: "しょしき",
+choice3: "しょうじ",
+answer: 2,
+},
+
+{
+id: "A1376",
+question: "(しょしき)にしたがって願書を書く。",
+choice1: "書式",
+choice2: "書成",
+choice3: "書拭",
+answer: 1,
+},
+
+{
+id: "A1377",
+question: "自転車で日本(れっしゃ)を旅する。",
+choice1: "例卓",
+choice2: "列車",
+choice3: "烈車",
+answer: 2,
+},
+
+{
+id: "A1378",
+question: "電車で(よっぱらい)がさわいでいた。",
+choice1: "酔っ払い",
+choice2: "配っ払い",
+choice3: "酘っ払い",
+answer: 1,
+},
+
+{
+id: "A1379",
+question: " 友達の(けっこんしき)に出席する。",
+choice1: "結昏成",
+choice2: "紹婚成",
+choice3: "結婚式",
+answer: 3,
+},
+
+{
+id: "A1380",
+question: "結婚を(せいしき)に発表する。",
+choice1: "証式",
+choice2: "正式",
+choice3: "止或",
+answer: 2,
+},
+
+{
+id: "A1381",
+question: "優勝(しゅく)がパーティーにさんかした。",
+choice1: "祐貸",
+choice2: "況賀",
+choice3: "祝賀",
+answer: 3,
+},
+
+{
+id: "A1382",
+question: "そぼのたんじょうびを家族で(いわう)。",
+choice1: "況う",
+choice2: "神う",
+choice3: "祝う",
+answer: 3,
+},
+
+{
+id: "A1383",
+question: "(ふつかよい)で気持ちが悪い。",
+choice1: "二日酷い",
+choice2: "二白配い",
+choice3: "二日酔い",
+answer: 3,
+},
+
+{
+id: "A1384",
+question: "お茶の道具(いっしき)をそろえる。",
+choice1: "一或",
+choice2: "一成",
+choice3: "一式",
+answer: 3,
+},
+
+{
+id: "A1385",
+question: "受付でご(しゅうぎ)をわたす。",
+choice1: "祝議",
+choice2: "祝儀",
+choice3: "況義",
+answer: 2,
+},
+
+{
+id: "A1386",
+question: "ここはいつも(ぎょうれつ)ができる人気店だ。",
+choice1: "行例",
+choice2: "行列",
+choice3: "何烈",
+answer: 2,
+},
+
+{
+id: "A1387",
+question: "(でいすい)まで飲む。",
+choice1: "泥酔",
+choice2: "尼配",
+choice3: "泥酪",
+answer: 1,
+},
+
+{
+id: "A1388",
+question: "(いちれつ)にならんでまつ。",
+choice1: "一例",
+choice2: "一列",
+choice3: "一冽",
+answer: 2,
+},
+
+{
+id: "A1389",
+question: " 入学(いわい)にとけいをあげる。",
+choice1: "就い",
+choice2: "祝い",
+choice3: "況い",
+answer: 2,
+},
+
+{
+id: "A1390",
+question: "(かぶしき)会社を設立した。",
+choice1: "株式",
+choice2: "侏成",
+choice3: "秣戊",
+answer: 1,
+},
+
+{
+id: "A1391",
+question: " 私はこどものころから車に(よいやすい)。",
+choice1: "酷い",
+choice2: "酵い",
+choice3: "酔い",
+answer: 3,
+},
+
+{
+id: "A1392",
+question: "5月5日こどもの日は(しゅくじつ)だ。",
+choice1: "祝日",
+choice2: "礼日",
+choice3: "況日",
+answer: 1,
+},
+
+{
+id: "A1393",
+question: "くるま(よいしやすい)です。",
+choice1: "車酢い",
+choice2: "車酔い",
+choice3: "車酣い",
+answer: 2,
+},
+
+{
+id: "A1394",
+question: "日本の文物に(しんすい)する西洋人がある。",
+choice1: "必酷",
+choice2: "心酔",
+choice3: "心酪",
+answer: 2,
+},
+
+{
+id: "A1395",
+question: " 日本は火山の多い(れっとう)だ。",
+choice1: "烈嶌",
+choice2: "例鳥",
+choice3: "列",
+answer: 3,
+},
+
+{
+id: "A1396",
+question: "私は世界平和を(願う)。",
+choice1: "かがう",
+choice2: "ねがう",
+choice3: "れがう",
+answer: 2,
+},
+
+{
+id: "A1397",
+question: " (永い)時間をかけて変化する。",
+choice1: "すがい",
+choice2: "ながい",
+choice3: "しがい",
+answer: 2,
+},
+
+{
+id: "A1398",
+question: "私の(願い)が叶う。",
+choice1: "ねがい",
+choice2: "おがい",
+choice3: "いがい",
+answer: 1,
+},
+
+{
+id: "A1399",
+question: "あなたには(結婚願望)がありますか。",
+choice1: "がんしょう",
+choice2: "がんしょ",
+choice3: "がんぼう",
+answer: 3,
+},
+
+{
+id: "A1400",
+question: "彼は(会社福祉士)だ。",
+choice1: "がいしゃふくじし",
+choice2: "かいしゃふくしし",
+choice3: "かいしゃふうしし",
+answer: 2,
+},
+
+{
+id: "A1401",
+question: "金で(幸福)は買えない。",
+choice1: "しゅうふく",
+choice2: "こうふく",
+choice3: "んふく",
+answer: 2,
+},
+
+{
+id: "A1402",
+question: "ご(幸運)をお祈りします。",
+choice1: "こうふく",
+choice2: "ふくうん",
+choice3: "こううん",
+answer: 3,
+},
+
+{
+id: "A1403",
+question: "(願書)は3月10日から受け付ける。",
+choice1: "ねんしょ",
+choice2: "かんぼう",
+choice3: "がんしょ",
+answer: 3,
+},
+
+{
+id: "A1404",
+question: "それは(永遠)に終わらない。",
+choice1: "えんえい",
+choice2: "えいきゅう",
+choice3: "えいえん",
+answer: 3,
+},
+
+{
+id: "A1405",
+question: "(幸い)天気は良かった。",
+choice1: "さいわい",
+choice2: "しあわい",
+choice3: "しいわい",
+answer: 1,
+},
+
+{
+id: "A1406",
+question: "東京に(永住)するつもりだ。",
+choice1: "えんじゅう",
+choice2: "えいじゅう",
+choice3: "えいしゅう",
+answer: 2,
+},
+
+{
+id: "A1407",
+question: "一緒に(幸せ)に暮らす。",
+choice1: "さいわせ",
+choice2: "さちせ",
+choice3: "しあわせ",
+answer: 3,
+},
+
+{
+id: "A1408",
+question: "(永久)には続かない。",
+choice1: "えいきゅう",
+choice2: "えんきゅう",
+choice3: "えいぎゅう",
+answer: 1,
+},
+
+{
+id: "A1409",
+question: "(出願)日を登録する。",
+choice1: "でがん",
+choice2: "しゅっがん",
+choice3: "しゅつがん",
+answer: 3,
+},
+
+{
+id: "A1410",
+question: "海の(幸)を味わう。",
+choice1: "さら",
+choice2: "さち",
+choice3: "さわ",
+answer: 2,
+},
+
+{
+id: "A1411",
+question: "みんなが私たちを(祝福)してくれた。",
+choice1: "しゅうふく",
+choice2: "じゅくふう",
+choice3: "しゅくふく",
+answer: 3,
+},
+
+{
+id: "A1412",
+question: "彼は(不幸)な目にあった。",
+choice1: "ふこう",
+choice2: "ふうん",
+choice3: "ふふく",
+answer: 1,
+},
+
+{
+id: "A1413",
+question: "(福)の神が舞い込んだ。",
+choice1: "ふう",
+choice2: "ふく",
+choice3: "ぼく",
+answer: 2,
+},
+
+{
+id: "A1414",
+question: "親が子のぶじを(ねがう)。",
+choice1: "願う",
+choice2: "頑う",
+choice3: "顛う",
+answer: 1,
+},
+
+{
+id: "A1415",
+question: "(さいわい)なことに、けがはなかった。",
+choice1: "辛い",
+choice2: "幸い",
+choice3: "辜い",
+answer: 2,
+},
+
+{
+id: "A1416",
+question: "笑う門には(ふく)来たる。",
+choice1: "福",
+choice2: "副",
+choice3: "複",
+answer: 1,
+},
+
+{
+id: "A1417",
+question: "外国に(えいじゅう)する。",
+choice1: "水主",
+choice2: "氷住",
+choice3: "永住",
+answer: 3,
+},
+
+{
+id: "A1418",
+question: "家族で(しあわせ)にくらす。",
+choice1: "辛せ",
+choice2: "幸せ",
+choice3: "宰せ",
+answer: 2,
+},
+
+{
+id: "A1419",
+question: " 結婚式で((えいえん)の愛をちかう。",
+choice1: "永速",
+choice2: "氷袁",
+choice3: "永遠",
+answer: 3,
+},
+
+{
+id: "A1420",
+question: "(しゅつがん)手続きをする。",
+choice1: "出癲",
+choice2: "出頑",
+choice3: "出願",
+answer: 3,
+},
+
+{
+id: "A1421",
+question: "(えいきゅう)には続かない。",
+choice1: "水久",
+choice2: "氷九",
+choice3: "永久",
+answer: 3,
+},
+
+{
+id: "A1422",
+question: "(しゃかいふくしし)のしけんをうける。",
+choice1: "社絵複祉士",
+choice2: "社会副師士",
+choice3: "社会福祉士",
+answer: 3,
+},
+
+{
+id: "A1423",
+question: "(がんしょ)の書き方が違う。",
+choice1: "頑書",
+choice2: "願書",
+choice3: "瀬聿",
+answer: 2,
+},
+
+{
+id: "A1424",
+question: "(こううん)にめぐまれる。",
+choice1: "辛車",
+choice2: "幸運",
+choice3: "幸連",
+answer: 2,
+},
+
+{
+id: "A1425",
+question: "新婚のふたりに(さち)多かれと願う。",
+choice1: "幸",
+choice2: "辛",
+choice3: "倖",
+answer: 1,
+},
+
+{
+id: "A1426",
+question: "(こうふく)な人生を送る。",
+choice1: "宰副",
+choice2: "幸福",
+choice3: "辛副",
+answer: 2,
+},
+
+{
+id: "A1427",
+question: "末(ながく)お幸せに。",
+choice1: "氷く",
+choice2: "永く",
+choice3: "水く",
+answer: 2,
+},
+
+{
+id: "A1428",
+question: "(ねがい)ごとがかなう。",
+choice1: "願い",
+choice2: "頑い",
+choice3: "頼い",
+answer: 1,
+},
+
+{
+id: "A1429",
+question: "私は結婚(がんぼう)がない。",
+choice1: "願塑",
+choice2: "頑妄",
+choice3: "願望",
+answer: 3,
+},
+
+{
+id: "A1430",
+question: "友達の結婚を(しゅくふく)する。",
+choice1: "祝福",
+choice2: "礼副",
+choice3: "況福",
+answer: 1,
+},
+
+{
+id: "A1431",
+question: "(ふこう)中の幸い。",
+choice1: "不辛",
+choice2: "不幸",
+choice3: "不逹",
 answer: 2,
 },
 
