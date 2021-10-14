@@ -926,7 +926,7 @@ answer: 2,
 
 {
 id: "A0104",
-question: "足袋はやはり白を用いる。",
+question: "(足袋)はやはり白を用いる。",
 choice1: "だび",
 choice2: "あしぶくろ",
 choice3: "たび",
@@ -1446,7 +1446,7 @@ answer: 3,
 
 {
 id: "A0162",
-question: "むすこはいっ(さくねん)の12月に結婚しました。",
+question: "むすこは(いっさくねん)の12月に結婚しました。",
 choice1: "一昨年",
 choice2: "昨年",
 choice3: "去年",
@@ -1459,7 +1459,7 @@ question: "家賃は(よくげつ)の1日に払わないといけない。",
 choice1: "浴月",
 choice2: "翌日",
 choice3: "翌月",
-answer: 1,
+answer: 3,
 },
 
 {
@@ -3300,7 +3300,7 @@ question: "(建立)時期については前述のとおりである。",
 choice1: "こんりつ",
 choice2: "けんりつ",
 choice3: "こんりゅう",
-answer: 3,
+answer: 2,
 },
 
 {
@@ -5579,7 +5579,7 @@ id: "A0621",
 question: "(計量)する前にすりきりしなさい。",
 choice1: "けいはかる",
 choice2: "けいりょ",
-choice3: "けいりょ",
+choice3: "けいりょう",
 answer: 3,
 },
 
@@ -6468,7 +6468,7 @@ answer: 2,
 
 {
 id: "A0720",
-question: "出欠を取るために学生の(名前をよぶ)。",
+question: "出欠を取るために学生の(なまえをよぶ)。",
 choice1: "名前を呼ぶ",
 choice2: "右前を乎ぶ",
 choice3: "召前を呼ぶ",
@@ -6594,7 +6594,7 @@ answer: 2,
 
 {
 id: "A0734",
-question: "食品の安(全性)を検証する。",
+question: "食品の安全性を(検証)する。",
 choice1: "たんしょ",
 choice2: " かんしょう",
 choice3: "けんしょう",
@@ -6801,7 +6801,7 @@ answer: 2,
 
 {
 id: "A0757",
-question: "近所のしか(医院)に通う。",
+question: "近所の(しか)医院に通う。",
 choice1: "歯科",
 choice2: "歯将",
 choice3: "菌料",
@@ -7228,7 +7228,7 @@ question: "この手紙は私の友人が(亡くなる)前に書いたようだ�
 choice1: "ないくなる",
 choice2: "しくなる",
 choice3: "なくなる",
-answer: 1,
+answer: 3,
 },
 
 {
@@ -7647,7 +7647,7 @@ answer: 3,
 
 {
 id: "A0851",
-question: "どうしても(決勝戦)で勝ちたい。",
+question: "どうしても(決勝)戦で勝ちたい。",
 choice1: "けっそう",
 choice2: "けつしょう",
 choice3: "けっしょう",
@@ -7840,7 +7840,7 @@ question: "(まけいくさ)でも投げ出さずにがんばる。",
 choice1: "角け蝉",
 choice2: "負け単",
 choice3: "負け戦",
-answer: 1,
+answer: 3,
 },
 
 {
@@ -8142,7 +8142,7 @@ answer: 1,
 
 {
 id: "A0906",
-question: "第(一回)の会。",
+question: "(第一回)の会。",
 choice1: "しいっかい",
 choice2: "だいいっかい",
 choice3: "だいいちかい",
@@ -8794,7 +8794,7 @@ question: " (時差)ぼけで眠れません。",
 choice1: "しさ",
 choice2: "じさ",
 choice3: "じざ",
-answer: 3,
+answer: 1,
 },
 
 {
@@ -9513,9 +9513,9 @@ answer: 2,
 {
 id: "A1057",
 question: "彼は(感情的)に動かない。",
-choice1: "かんじょうてきに",
-choice2: "かんじょてきに",
-choice3: "かんしょうてきに",
+choice1: "かんじょうてき",
+choice2: "かんじょてき",
+choice3: "かんしょうてき",
 answer: 1,
 },
 
@@ -9593,7 +9593,7 @@ answer: 1,
 
 {
 id: "A1066",
-question: "彼と(彼女)は恋愛関係にある。",
+question: "彼と彼女は(恋愛)関係にある。",
 choice1: "あいれん",
 choice2: "れんあい",
 choice3: "あいじょう",
@@ -10574,7 +10574,7 @@ answer: 2,
 
 {
 id: "A1175",
-question: "彼は(突然激怒)した。",
+question: "彼は突然(激怒)した。",
 choice1: "げきご",
 choice2: "げきどう",
 choice3: "げきど",
@@ -10700,7 +10700,7 @@ answer: 1,
 
 {
 id: "A1189",
-question: "将来をひかんしては(いけない)。",
+question: "将来を(ひかん)してはいけない。",
 choice1: "悲観",
 choice2: "非観",
 choice3: "扉観",
@@ -11116,7 +11116,7 @@ answer: 3,
 
 {
 id: "A1235",
-question: " 注文した料理をの(こして)しまった。",
+question: " 注文した料理を(のこして)しまった。",
 choice1: "銭して",
 choice2: "賎して",
 choice3: "残して",
@@ -11236,7 +11236,7 @@ id: "A1248",
 question: "彼は(しんねん)を曲げない人だ。",
 choice1: "言稔",
 choice2: "伸捻",
-choice3: "信",
+choice3: "信念",
 answer: 3,
 },
 
@@ -11866,7 +11866,7 @@ id: "A1318",
 question: " 彼は(どくとく)の髪型だ。",
 choice1: "猿持",
 choice2: "独待",
-choice3: "独",
+choice3: "独得",
 answer: 3,
 },
 
@@ -12349,7 +12349,7 @@ answer: 3,
 
 {
 id: "A1372",
-question: "用具を(一式貸)してください。",
+question: "用具を(一式)貸してください。",
 choice1: "いっしき",
 choice2: "いちしき",
 choice3: "いちじき",
@@ -12538,7 +12538,7 @@ answer: 1,
 
 {
 id: "A1393",
-question: "くるま(よいしやすい)です。",
+question: "(くるまよい)しやすいです。",
 choice1: "車酢い",
 choice2: "車酔い",
 choice3: "車酣い",
@@ -12559,7 +12559,7 @@ id: "A1395",
 question: " 日本は火山の多い(れっとう)だ。",
 choice1: "烈嶌",
 choice2: "例鳥",
-choice3: "列",
+choice3: "列島",
 answer: 3,
 },
 
@@ -12592,7 +12592,7 @@ answer: 1,
 
 {
 id: "A1399",
-question: "あなたには(結婚願望)がありますか。",
+question: "あなたには結婚(願望)がありますか。",
 choice1: "がんしょう",
 choice2: "がんしょ",
 choice3: "がんぼう",
@@ -12772,7 +12772,7 @@ answer: 2,
 
 {
 id: "A1419",
-question: " 結婚式で((えいえん)の愛をちかう。",
+question: " 結婚式で(えいえん)の愛をちかう。",
 choice1: "永速",
 choice2: "氷袁",
 choice3: "永遠",
@@ -12943,7 +12943,7 @@ answer: 1,
 
 {
 id: "A1438",
-question: "彼は人(間関)係がうまくいかない。",
+question: "彼は(人間関係)がうまくいかない。",
 choice1: "にんげんかんけい",
 choice2: "じんせいかんけい",
 choice3: "じんげんせきけい",
@@ -13114,7 +13114,7 @@ answer: 1,
 
 {
 id: "A1457",
-question: "会社のにん(げんかんけい)に悩まされる。",
+question: "会社の(にんげんかんけい)に悩まされる。",
 choice1: "人関間系",
 choice2: "人間関係",
 choice3: "入間開係",
