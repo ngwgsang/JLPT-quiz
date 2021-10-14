@@ -13,6 +13,7 @@
         justify-content: center;
         flex-direction: column;
         &__quiz{
+            position: relative;
             background: $cl-f;
             width: 80vw;
             height: 35vh;
@@ -95,4 +96,24 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+#timer{
+    background-color: #fff;
+    width: 10rem;
+    height: 4rem;
+    font-size: 2rem;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+#count{
+    background-color: #fff;
+    width: auto;
+    height: 4rem;
+    font-size: 2rem;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    padding: 0 1rem;
+    border-radius: 0.4rem;
 }

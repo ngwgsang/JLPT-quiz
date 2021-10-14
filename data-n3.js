@@ -12887,5 +12887,436 @@ choice3: "不逹",
 answer: 2,
 },
 
-]
+{
+id: "A1432",
+question: "それは生死に(関わる)問題だ。",
+choice1: "かけわる",
+choice2: "かかわる",
+choice3: "かんわる",
+answer: 2,
+},
 
+{
+id: "A1433",
+question: "クレームに(係る)発明を認定する。",
+choice1: "かりる",
+choice2: "かかる",
+choice3: "けいる",
+answer: 2,
+},
+
+{
+id: "A1434",
+question: "各地に(関所)が設けられていた。",
+choice1: "せきしょ",
+choice2: "かんしょ",
+choice3: "かかしょ",
+answer: 1,
+},
+
+{
+id: "A1435",
+question: "あなたは(係員)の指示に従ってください。",
+choice1: "かかるいん",
+choice2: "けいいん",
+choice3: "かかりいん",
+answer: 3,
+},
+
+{
+id: "A1436",
+question: "木で風の力が(和らぐ)。",
+choice1: "わらぐ",
+choice2: "やわらぐ",
+choice3: "わやらぐ",
+answer: 2,
+},
+
+{
+id: "A1437",
+question: "(玄関)のチャイムが鳴った。",
+choice1: "けいかん",
+choice2: "げんかん",
+choice3: "けんかん",
+answer: 1,
+},
+
+{
+id: "A1438",
+question: "彼は人(間関)係がうまくいかない。",
+choice1: "にんげんかんけい",
+choice2: "じんせいかんけい",
+choice3: "じんげんせきけい",
+answer: 2,
+},
+
+{
+id: "A1439",
+question: "地形に(関係)する。",
+choice1: "せきしょ",
+choice2: "かんけい",
+choice3: "げんけい",
+answer: 2,
+},
+
+{
+id: "A1440",
+question: "それは私の不安を(和らげる)。",
+choice1: "わらげる",
+choice2: "はやらげる",
+choice3: "やわらげる",
+answer: 3,
+},
+
+{
+id: "A1441",
+question: "私はそれを必ず(身に付ける)。",
+choice1: "しにつける",
+choice2: "みにつける",
+choice3: "みにづける",
+answer: 2,
+},
+
+{
+id: "A1442",
+question: "台風が(関東地方)に上陸した。",
+choice1: "かんとうちほ",
+choice2: "かんとちほう",
+choice3: "かんとうちほう",
+answer: 3,
+},
+
+{
+id: "A1443",
+question: "(無関係)の人を殺るな。",
+choice1: "むかんけい",
+choice2: "ながんけい",
+choice3: "むせきけい",
+answer: 1,
+},
+
+{
+id: "A1444",
+question: "気持ちが(和む)ようにさせる。",
+choice1: "やわむ",
+choice2: "なごむ",
+choice3: "わごむ",
+answer: 2,
+},
+
+{
+id: "A1445",
+question: "彼らはその会社に(関心)を持った。",
+choice1: "かんしん",
+choice2: "かんろう",
+choice3: "かんしょ",
+answer: 1,
+},
+
+{
+id: "A1446",
+question: "あなたはもう(和食)に慣れましたか。",
+choice1: "へいしょく",
+choice2: "わしょう",
+choice3: "わしょく",
+answer: 3,
+},
+
+{
+id: "A1447",
+question: "いつか部屋を(片付ける)でしょう。",
+choice1: "かたつける",
+choice2: "がたづける",
+choice3: "かたづける",
+answer: 3,
+},
+
+{
+id: "A1448",
+question: "私は世界(平和)を願う。",
+choice1: "へいわ",
+choice2: "せいわ",
+choice3: "へいしょ",
+answer: 1,
+},
+
+{
+id: "A1449",
+question: "彼と(付き合う)のはやめなさい。",
+choice1: "ふきあう",
+choice2: "つきあう",
+choice3: "つきごう",
+answer: 2,
+},
+
+{
+id: "A1450",
+question: "1976年に新しい(共和国)が生まれた。",
+choice1: "きょうわこく",
+choice2: "ぎょうわくに",
+choice3: "きょうへいこく",
+answer: 1,
+},
+
+{
+id: "A1451",
+question: "彼らは(和やか)な雰囲気の中で話し合った。",
+choice1: "やわやか",
+choice2: "わやか",
+choice3: "なごやか",
+answer: 3,
+},
+
+{
+id: "A1452",
+question: "私の家はその(付近)です。",
+choice1: "つうきん",
+choice2: "ふうきん",
+choice3: "ふきん",
+answer: 3,
+},
+
+{
+id: "A1453",
+question: " 商品を通じて(寄付)をする。",
+choice1: "きふう",
+choice2: "ぎふ",
+choice3: "きふ",
+answer: 3,
+},
+
+{
+id: "A1454",
+question: " 彼の髪にガムが(付く)。",
+choice1: "あく",
+choice2: "ふく",
+choice3: "つく",
+answer: 3,
+},
+
+{
+id: "A1455",
+question: "これを(受付)にお出しください",
+choice1: "うけつけ",
+choice2: "じゅつけ",
+choice3: "うけつ",
+answer: 1,
+},
+
+{
+id: "A1456",
+question: "箱根の(せきしょ)は有名な観光地だ。",
+choice1: "関所",
+choice2: "間所",
+choice3: "閑所",
+answer: 1,
+},
+
+{
+id: "A1457",
+question: "会社のにん(げんかんけい)に悩まされる。",
+choice1: "人関間系",
+choice2: "人間関係",
+choice3: "入間開係",
+answer: 2,
+},
+
+{
+id: "A1458",
+question: "(げんかん)でくつをぬいでそろえる。",
+choice1: "玄関",
+choice2: "弦間",
+choice3: "絃関",
+answer: 1,
+},
+
+{
+id: "A1459",
+question: "この音楽をきくと心が(なごむ)。",
+choice1: "禾む",
+choice2: "知む",
+choice3: "和む",
+answer: 3,
+},
+
+{
+id: "A1460",
+question: "リーダーとしてプロジェクトに(かかわる)。",
+choice1: "間わる",
+choice2: "関わる",
+choice3: "癇わる",
+answer: 2,
+},
+
+{
+id: "A1461",
+question: "そでにインクが(つく)。",
+choice1: "什く",
+choice2: "村く",
+choice3: "付く",
+answer: 3,
+},
+
+{
+id: "A1462",
+question: "駅の(かかりいん)に注意された。",
+choice1: "係韻",
+choice2: "系貝",
+choice3: "係員",
+answer: 3,
+},
+
+{
+id: "A1463",
+question: " 料理の中でも(わしょく)が一番すきだ。",
+choice1: "和飲",
+choice2: "知飯",
+choice3: "和食",
+answer: 3,
+},
+
+{
+id: "A1464",
+question: "寒さが(やわらぎ)春のおとずれを感じる。",
+choice1: "知らぎ",
+choice2: "和ぐ",
+choice3: "和らぎ",
+answer: 3,
+},
+
+{
+id: "A1465",
+question: "この(ふきん)には、くまが出るらしい。",
+choice1: "府近",
+choice2: "付近",
+choice3: "符所",
+answer: 2,
+},
+
+{
+id: "A1466",
+question: "政治に(かんしん)がある。",
+choice1: "間必",
+choice2: "関心",
+choice3: "閑少",
+answer: 2,
+},
+
+{
+id: "A1467",
+question: "(かんとうちほう)に台風が近づく。",
+choice1: "関東地方",
+choice2: "間棟弛方",
+choice3: "関凍他方",
+answer: 1,
+},
+
+{
+id: "A1468",
+question: " 休みに部屋を(かたづけ)る。",
+choice1: "方府ける",
+choice2: "片付ける",
+choice3: "片附ける",
+answer: 2,
+},
+
+{
+id: "A1469",
+question: "貿易に(かかわる)仕事がしたい。",
+choice1: "関わる",
+choice2: "関る",
+choice3: "閉わる",
+answer: 1,
+},
+
+{
+id: "A1470",
+question: "痛みを(やわらげる)薬。",
+choice1: "利げる",
+choice2: "知げる",
+choice3: "和らげる",
+answer: 3,
+},
+
+{
+id: "A1471",
+question: "ビジネスマナーを(みにつける)。",
+choice1: "身に付ける",
+choice2: "身に符ける",
+choice3: "身に府ける",
+answer: 1,
+},
+
+{
+id: "A1472",
+question: "パーティーは(なごやか)に行われた。",
+choice1: "知やか",
+choice2: "和か",
+choice3: "和やか",
+answer: 3,
+},
+
+{
+id: "A1473",
+question: "(かんけい)者以外、立ち入り禁止。",
+choice1: "関系",
+choice2: "関係",
+choice3: "燗係",
+answer: 2,
+},
+
+{
+id: "A1474",
+question: "彼は大金を(きふした)。",
+choice1: "寄付",
+choice2: "奇府",
+choice3: "希符",
+answer: 1,
+},
+
+{
+id: "A1475",
+question: "彼と(つきあう)のはやめなさい。",
+choice1: "腑き合う",
+choice2: "府き会う",
+choice3: "付き合う",
+answer: 3,
+},
+
+{
+id: "A1476",
+question: "これはそれとは(むかんけい)です。",
+choice1: "無関係",
+choice2: "無閑係",
+choice3: "無感系",
+answer: 1,
+},
+
+{
+id: "A1477",
+question: "私は世界(へいわ)を願う。",
+choice1: "坪和",
+choice2: "平和",
+choice3: "平知",
+answer: 2,
+},
+
+{
+id: "A1478",
+question: "ベトナムは社会主義(きょうわこく)です。",
+choice1: "供和玉",
+choice2: "共和国",
+choice3: "共知宝",
+answer: 2,
+},
+
+{
+id: "A1479",
+question: "私の仕事は病院の(うけつけ)です。",
+choice1: "授付",
+choice2: "受付",
+choice3: "綬府",
+answer: 2,
+},
+
+]

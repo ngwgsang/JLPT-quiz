@@ -1,3 +1,4 @@
+const wrapper                = document.querySelector('#wrapper');
 const main                   = document.querySelector('#main');
 const start                  = document.querySelector('#start');
 const startBtn               = document.querySelector('.startBtn');
@@ -95,6 +96,7 @@ function getInputValue(){
     MAX_QUESTIONS = inputVal - 1;
     document.getElementById("number-box").innerText = inputVal;
     questionCounter = 1;
+    document.getElementById('count').innerText = `${questionCounter}/${MAX_QUESTIONS+1}`
 }
 //------------------------------------------>
 // Lưu lại tổng số câu ra chỗ riêng
@@ -143,6 +145,7 @@ function changeLevel_N5(){
 //------------------------------------------>
 function startGame(){
     // Bắt đầu và gán các giá trị vào Current question
+    totalSeconds = 0;
     document.getElementById("gif").src= gif[getRandomInt(gif.length)];
     endtext.innerText = comment[getRandomInt(comment.length)];
     questionCounter = 0
@@ -150,12 +153,12 @@ function startGame(){
     availableQuestions = [...questions]
     getNewQuestion()
 }
-
 function endGame(){
     document.getElementById('start').style.display = "none";
     document.getElementById('end').style.display = "flex";
     document.getElementById('returnBtn').style.display = "none";
     document.getElementById('score').style.display="none";
+    document.getElementById('preQuestionBtn').style.display="none";
 }
 const preQuestionBtn = document.getElementById("preQuestionBtn");
 let   preQuestion =[];
@@ -167,6 +170,8 @@ getNewQuestion = () => {
         endGame();
     }
     questionCounter++;
+    //
+    
     const questionsIndex = Math.floor(Math.random() * availableQuestions.length);
     currentQuestion = availableQuestions[questionsIndex];
     // Đẩy câu hỏi từ database vào question
@@ -189,6 +194,7 @@ getNewQuestion = () => {
     //-------
     availableQuestions.splice(questionsIndex, 1);
     acceptingAnswers = true;
+    document.getElementById('count').innerText = `${questionCounter}/${MAX_QUESTIONS+1}`
 }
 
 choices.forEach(choice => {
@@ -208,7 +214,7 @@ choices.forEach(choice => {
         }, 1000)
     })
 })
-let maxScore= (MAX_QUESTIONS+1);
+let maxScore= MAX_QUESTIONS+1;
 incrementScore = num => {
     score +=num
     scoreText.innerText = score
@@ -261,12 +267,8 @@ frame=[
 var bg_count= 0;
 bg = [
     'background: linear-gradient(to right,#0f0c29,#302b63,#24243e) !important',
-    'background: linear-gradient(to right,#0F2027,#203A43,#2C5364) !important',
-    'background: linear-gradient(to right,#2c3e50,#2c3e50) !important',
-    'background: linear-gradient(to right,#093028,#093028) !important',
-    'background: linear-gradient(to right,#000428,#004e92) !important',
-    'background: linear-gradient(to right,#434343,#004e92) !important',
     'background: linear-gradient(to right,#232526,#414345) !important',
+    'background: linear-gradient(to right,#093028,#093028) !important',
 ];
 
 var qbg_count= 0;
@@ -296,8 +298,36 @@ document.querySelector('.content-box__quiz').addEventListener('click',(e)=>{
     e.target.style=qbg[qbg_count++];
 })
 
- //--------------------
-    
+//--------------------
+class kappa
+{
+    on(){
+        frame.push('./assets/images/Frame-4.png','./assets/images/Frame-5.png','./assets/images/Frame-6.png');
+    };
+
+}
+let  rule = new kappa();
+
+// Đếm giờ
+var minutesLabel = document.getElementById("minutes");
+var secondsLabel = document.getElementById("seconds");
+var hoursLabel = document.getElementById("hours");
+var totalSeconds =0;
+setInterval(setTime, 1000);
+function setTime() {
+  ++totalSeconds;
+  secondsLabel.innerHTML = pad(totalSeconds % 60);
+  minutesLabel.innerHTML = pad(parseInt(totalSeconds / 60)%60);
+  hoursLabel.innerHTML   = pad(parseInt(totalSeconds / 3600));
+}
+function pad(val) {
+  var valString = val + "";
+  if (valString.length < 2) {
+    return "0" + valString;
+  } else {
+    return valString;
+  }
+}
 
 //---------------------
 startGame();

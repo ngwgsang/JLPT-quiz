@@ -522,6 +522,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin-top: 0.2rem;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
@@ -685,6 +686,7 @@ body {
 }
 
 .start .content-box__quiz {
+  position: relative;
   background: #fff;
   width: 80vw;
   height: 35vh;
@@ -807,6 +809,28 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+}
+
+#timer {
+  background-color: #fff;
+  width: 10rem;
+  height: 4rem;
+  font-size: 2rem;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+#count {
+  background-color: #fff;
+  width: auto;
+  height: 4rem;
+  font-size: 2rem;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  padding: 0 1rem;
+  border-radius: 0.4rem;
 }
 
 .preQuestionBoard {
