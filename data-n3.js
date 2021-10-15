@@ -15425,4 +15425,1030 @@ choice3: "悲営口",
 answer: 2,
 },
 
+{
+id: "A1714",
+question: "乳母が乳を(乳児)に与える。",
+choice1: "ようじ",
+choice2: "にゅうじ",
+choice3: "きゅうじ",
+answer: 2,
+},
+
+{
+id: "A1715",
+question: "彼女は(育児)休業中です。",
+choice1: "そだじ",
+choice2: "いくじ",
+choice3: "うだじ",
+answer: 2,
+},
+
+{
+id: "A1716",
+question: "彼は(幼い)頃母と離別した。",
+choice1: "およない",
+choice2: "おやない",
+choice3: "おさない",
+answer: 3,
+},
+
+{
+id: "A1717",
+question: "私は(小児科)外来で看護師として働いています。",
+choice1: "こじか",
+choice2: "しょうにか",
+choice3: "しょうじか",
+answer: 2,
+},
+
+{
+id: "A1718",
+question: "(生徒数)は増加しつつある。",
+choice1: "せいとうすい",
+choice2: "せいとすう",
+choice3: "せいとずう",
+answer: 2,
+},
+
+{
+id: "A1719",
+question: "(児童)の知能を育てる。",
+choice1: "じどう",
+choice2: "にどう",
+choice3: "じとう",
+answer: 1,
+},
+
+{
+id: "A1720",
+question: "久しぶり(幼友達)にあった。",
+choice1: "よさなともだち",
+choice2: "おさなともだち",
+choice3: "よじともだち",
+answer: 2,
+},
+
+{
+id: "A1721",
+question: "私は(童話)を語ることができます。",
+choice1: "とうわ",
+choice2: "どんわ",
+choice3: "どうわ",
+answer: 3,
+},
+
+{
+id: "A1722",
+question: "良い(生徒)になりなさい。",
+choice1: "ぜいと",
+choice2: "せいと",
+choice3: "せどう",
+answer: 2,
+},
+
+{
+id: "A1723",
+question: "父は私に(童歌)を歌ってくれた。",
+choice1: "どうわ",
+choice2: "どうか",
+choice3: "わらべうた",
+answer: 3,
+},
+
+{
+id: "A1724",
+question: "(童心)に帰って学校の運動会を楽しんだ。",
+choice1: "どうしん",
+choice2: "どんしん",
+choice3: "わらべしん",
+answer: 1,
+},
+
+{
+id: "A1725",
+question: "私の娘は(幼稚園)に通っている。",
+choice1: "ようじえん",
+choice2: "ようちえん",
+choice3: "ようこうえん",
+answer: 2,
+},
+
+{
+id: "A1726",
+question: "彼らはキリスト(教徒)です。",
+choice1: "きょうと",
+choice2: "せいと",
+choice3: "きょうかい",
+answer: 1,
+},
+
+{
+id: "A1727",
+question: "私は(幼少期)からよく海で泳ぎます。",
+choice1: "ようそうき",
+choice2: "ようこき",
+choice3: "ようしょうき",
+answer: 3,
+},
+
+{
+id: "A1728",
+question: "その小川は(徒歩)で渡れる。",
+choice1: "せいと",
+choice2: "せいほ",
+choice3: "とほ",
+answer: 3,
+},
+
+{
+id: "A1729",
+question: "(幼児)は100まで数えることができた。",
+choice1: "ようじ",
+choice2: "こうじ",
+choice3: "よさ",
+answer: 1,
+},
+
+{
+id: "A1730",
+question: "子どもを(ようちえん)へ通わせる。",
+choice1: "幼稚園",
+choice2: "拗地園",
+choice3: "窈薙園",
+answer: 1,
+},
+
+{
+id: "A1731",
+question: "母がよく(わらべうた)を歌ってくれた。",
+choice1: "童歌",
+choice2: "憧歌",
+choice3: "撞歌",
+answer: 1,
+},
+
+{
+id: "A1732",
+question: "(ようしょうき)から歌手にあこがれていた。",
+choice1: "幼必棋",
+choice2: "拗心期",
+choice3: "幼少期",
+answer: 3,
+},
+
+{
+id: "A1733",
+question: "彼は考え方が(おさない)。",
+choice1: "窈い",
+choice2: "幼い",
+choice3: "拗ない",
+answer: 2,
+},
+
+{
+id: "A1734",
+question: "森さんは毎日(いくじ)でいそがしい。",
+choice1: "育兒",
+choice2: "侑児",
+choice3: "育児",
+answer: 3,
+},
+
+{
+id: "A1735",
+question: "おさな(ともだち)と久しぶりに会った。",
+choice1: "幼右達",
+choice2: "拗有達",
+choice3: "幼友達",
+answer: 3,
+},
+
+{
+id: "A1736",
+question: " アラビア半島にはイスラム(きょうと)が多い。",
+choice1: "敦性",
+choice2: "考徒",
+choice3: "教徒",
+answer: 3,
+},
+
+{
+id: "A1737",
+question: "「ももたろう」は有名な(どうわ)である。",
+choice1: "垂語",
+choice2: "重話",
+choice3: "童話",
+answer: 3,
+},
+
+{
+id: "A1738",
+question: "この学校の(せいとすう)は650人です。",
+choice1: "性征数",
+choice2: "生徒数",
+choice3: "牲走数",
+answer: 2,
+},
+
+{
+id: "A1739",
+question: "(しょうにか)の医者になりたい。",
+choice1: "少児料",
+choice2: "小児科",
+choice3: "小見科",
+answer: 2,
+},
+
+{
+id: "A1740",
+question: "(せいと)から人気がある先生。",
+choice1: "生徒",
+choice2: "性徒",
+choice3: "牲塔",
+answer: 1,
+},
+
+{
+id: "A1741",
+question: "(じどう)会長に選べた。",
+choice1: "俔憧",
+choice2: "児童",
+choice3: "児撞",
+answer: 2,
+},
+
+{
+id: "A1742",
+question: "ようじ(教育)がとてもさかんだ。",
+choice1: "幼兒",
+choice2: "幼時",
+choice3: "幼児",
+answer: 3,
+},
+
+{
+id: "A1743",
+question: "ゆうえんちへ行くと(どうしん)にかえる。",
+choice1: "童心",
+choice2: "憧必",
+choice3: "童少",
+answer: 1,
+},
+
+{
+id: "A1744",
+question: "いっさい未満の(にゅうじ)。",
+choice1: "孚児",
+choice2: "浮児",
+choice3: "乳児",
+answer: 3,
+},
+
+{
+id: "A1745",
+question: "学校まで(とほ)で通う。",
+choice1: "走歩",
+choice2: "徒歩",
+choice3: "徒",
+answer: 2,
+},
+
+{
+id: "A1746",
+question: "荷物を肩の前後に分けて(担ぐ)。",
+choice1: "たんぐ",
+choice2: "かつぐ",
+choice3: "かたぐ",
+answer: 2,
+},
+
+{
+id: "A1747",
+question: "人々の好みに(任す)。",
+choice1: "たかす",
+choice2: "まかす",
+choice3: "かます",
+answer: 2,
+},
+
+{
+id: "A1748",
+question: "責任や役割を(担う)ことができる。",
+choice1: "になう",
+choice2: "かつう",
+choice3: "たなう",
+answer: 1,
+},
+
+{
+id: "A1749",
+question: "私はそれを(君に任せる)。",
+choice1: "かつせる",
+choice2: "になせる",
+choice3: "まかせる",
+answer: 3,
+},
+
+{
+id: "A1750",
+question: "私は営業を(担当)しています。",
+choice1: "だんとう",
+choice2: "たんとう",
+choice3: "だんそう",
+answer: 2,
+},
+
+{
+id: "A1751",
+question: "彼は両手の指を(組み合わせ)た。",
+choice1: "すみあわせ",
+choice2: "くみあわせ",
+choice3: "ぐみおわせ",
+answer: 2,
+},
+
+{
+id: "A1752",
+question: "総理(大臣)が辞任した。",
+choice1: "じにん",
+choice2: "しにん",
+choice3: "じませ",
+answer: 1,
+},
+
+{
+id: "A1753",
+question: "私はあなたに(負担)をかけたくない。",
+choice1: "ふうだん",
+choice2: "ふたん",
+choice3: "ふかつ",
+answer: 2,
+},
+
+{
+id: "A1754",
+question: "彼は私の(担任)の先生だった。",
+choice1: "たんじん",
+choice2: "だんにん",
+choice3: "たんにん",
+answer: 3,
+},
+
+{
+id: "A1755",
+question: "私のクラスは1年3(組)です。",
+choice1: "と",
+choice2: "だみ",
+choice3: "くみ",
+answer: 3,
+},
+
+{
+id: "A1756",
+question: "(責任)者はだれですか。",
+choice1: "せきにん",
+choice2: "せいにん",
+choice3: "さくにん",
+answer: 1,
+},
+
+{
+id: "A1757",
+question: "私は(恩師)と会う約束がある。",
+choice1: "おんきょう",
+choice2: "おんし",
+choice3: "おきょう",
+answer: 2,
+},
+
+{
+id: "A1758",
+question: "彼は有能な(技師)です。",
+choice1: "ぎし",
+choice2: "きし",
+choice3: "ぎきょう",
+answer: 1,
+},
+
+{
+id: "A1759",
+question: "自動車を(組み立て)る。",
+choice1: "とみだて",
+choice2: "ぐみだて",
+choice3: "くみたて",
+answer: 3,
+},
+
+{
+id: "A1760",
+question: "私は英語の(教師)です。",
+choice1: "ぎょうじ",
+choice2: "こうし",
+choice3: "きょうし",
+answer: 3,
+},
+
+{
+id: "A1761",
+question: "足や(腕を組む)ことができる。",
+choice1: "うでをくむ",
+choice2: "うでをとむ",
+choice3: "うでをたてむ",
+answer: 1,
+},
+
+{
+id: "A1762",
+question: "彼は何科の(医師)ですか。",
+choice1: "いじ",
+choice2: "いし",
+choice3: "いきょう",
+answer: 2,
+},
+
+{
+id: "A1763",
+question: "(組織図)に関する情報を記憶する。",
+choice1: "そしきず",
+choice2: "くみしきず",
+choice3: "そうしきず",
+answer: 1,
+},
+
+{
+id: "A1764",
+question: "私は(教師)ではなく講師です。",
+choice1: "きょうし",
+choice2: "ごうし",
+choice3: "こうし",
+answer: 3,
+},
+
+{
+id: "A1765",
+question: "この(番組)は再放送だ。",
+choice1: "ばんそ",
+choice2: "ばんくみ",
+choice3: "ばんぐみ",
+answer: 3,
+},
+
+{
+id: "A1766",
+question: "私の仕事は(調理師)です。",
+choice1: "ちょうみし",
+choice2: "ちょうみりょう",
+choice3: "ちょうりし",
+answer: 3,
+},
+
+{
+id: "A1767",
+question: "1959年、京都外国語大学に(改組)された。",
+choice1: "かいくみ",
+choice2: "かいと",
+choice3: "かいそ",
+answer: 3,
+},
+
+{
+id: "A1768",
+question: "東京イリアを(たんとう)している。",
+choice1: "担当",
+choice2: "坦当",
+choice3: "但当",
+answer: 1,
+},
+
+{
+id: "A1769",
+question: "田中氏が社長を(じにん)した。",
+choice1: "辞妊",
+choice2: "辞任",
+choice3: "梓任",
+answer: 2,
+},
+
+{
+id: "A1770",
+question: "(おんし)にてがみをかく。",
+choice1: "恩師",
+choice2: "忠師",
+choice3: "恩怖",
+answer: 1,
+},
+
+{
+id: "A1771",
+question: " 思い荷物を(かつぐ)。",
+choice1: "但ぐ",
+choice2: "坦ぐ",
+choice3: "担ぐ",
+answer: 3,
+},
+
+{
+id: "A1772",
+question: "会社の(そしきず)をつくる。",
+choice1: "祖識図",
+choice2: "組織図",
+choice3: "租職図",
+answer: 2,
+},
+
+{
+id: "A1773",
+question: "同じ(くみ)の友達とあそぶ。",
+choice1: "祖",
+choice2: "租",
+choice3: "組",
+answer: 3,
+},
+
+{
+id: "A1774",
+question: " 内科の(いし)に相談する。",
+choice1: "医怖",
+choice2: "医死",
+choice3: "医師",
+answer: 3,
+},
+
+{
+id: "A1775",
+question: "次世代を(になう)若い選手を育てる。",
+choice1: "疸う",
+choice2: "但う",
+choice3: "担う",
+answer: 3,
+},
+
+{
+id: "A1776",
+question: "部下に安心して仕事を(まかせる)。",
+choice1: "任る",
+choice2: "妊せる",
+choice3: "任せる",
+answer: 3,
+},
+
+{
+id: "A1777",
+question: "プラモデルを(くみたてる)。",
+choice1: "租み立てる",
+choice2: "組み立てる",
+choice3: "粗み立てる",
+answer: 2,
+},
+
+{
+id: "A1778",
+question: "親に(ふたん)をかけたくない。",
+choice1: "不坦",
+choice2: "負担",
+choice3: "負但",
+answer: 2,
+},
+
+{
+id: "A1779",
+question: "(ちょうりしとし)て病院で働く。",
+choice1: "調理師",
+choice2: "脹哩師",
+choice3: "凋裡師",
+answer: 1,
+},
+
+{
+id: "A1780",
+question: "試合の(くみあわせ)が決まった。",
+choice1: "粗み合せ",
+choice2: "組み合わせ",
+choice3: "祖み合わせ",
+answer: 2,
+},
+
+{
+id: "A1781",
+question: "高校(きょうし)になりたい。",
+choice1: "教師",
+choice2: "考師",
+choice3: "敦帥",
+answer: 1,
+},
+
+{
+id: "A1782",
+question: "(たんにん)の先生にほめられる。",
+choice1: "担壬",
+choice2: "坦任",
+choice3: "担任",
+answer: 3,
+},
+
+{
+id: "A1783",
+question: "大事な仕事を部長に(まかされる)。",
+choice1: "任される",
+choice2: "壬される",
+choice3: "任れる",
+answer: 1,
+},
+
+{
+id: "A1784",
+question: "私はロンドン大学の歴史の(こうし)だ。",
+choice1: "請帥",
+choice2: "購師",
+choice3: "講師",
+answer: 3,
+},
+
+{
+id: "A1785",
+question: "テレビ(ばんぐみ)を録画する。",
+choice1: "蕃粗",
+choice2: "番組",
+choice3: "番祖",
+answer: 2,
+},
+
+{
+id: "A1786",
+question: "(うでをくんで)じっくり考える。",
+choice1: "臓を租んで",
+choice2: "腕を組んで",
+choice3: "肺を粗んで",
+answer: 2,
+},
+
+{
+id: "A1787",
+question: "1956年、福岡大学に(かいそ)された。",
+choice1: "改組",
+choice2: "改粗",
+choice3: "己組",
+answer: 1,
+},
+
+{
+id: "A1788",
+question: "私は(ぎし)になりたい。",
+choice1: "技師",
+choice2: "妓師",
+choice3: "伎師",
+answer: 1,
+},
+
+{
+id: "A1789",
+question: "(せきにん)を誰かに負わせる。",
+choice1: "績任",
+choice2: "責任",
+choice3: "積",
+answer: 2,
+},
+
+{
+id: "A1790",
+question: "私はあなたに(正座)の美しさを知ってほしい。",
+choice1: "せいせき",
+choice2: "せいざ",
+choice3: "しょうざ",
+answer: 2,
+},
+
+{
+id: "A1791",
+question: "(机)の上を片付けます。",
+choice1: "づくえ",
+choice2: "つくえ",
+choice3: "つぐえ",
+answer: 2,
+},
+
+{
+id: "A1792",
+question: "彼は私の前に(座る)。",
+choice1: "すわる",
+choice2: "せいる",
+choice3: "わせる",
+answer: 1,
+},
+
+{
+id: "A1793",
+question: "(学習机)の上を片付ける。",
+choice1: "がっしゅうつくえ",
+choice2: "がくせいづくえ",
+choice3: "がくしゅうづくえ",
+answer: 3,
+},
+
+{
+id: "A1794",
+question: "(鉛筆)を下に置きなさい。",
+choice1: "ふうで",
+choice2: "えんぴつ",
+choice3: "えんふで",
+answer: 2,
+},
+
+{
+id: "A1795",
+question: "(机上)の説には用が無い。",
+choice1: "きうえ",
+choice2: "きじょう",
+choice3: "つくえじょう",
+answer: 2,
+},
+
+{
+id: "A1796",
+question: "木の(板)で本棚を作った。",
+choice1: "いた",
+choice2: "ばん",
+choice3: "はん",
+answer: 1,
+},
+
+{
+id: "A1797",
+question: "私は(星座)について詳しくない。",
+choice1: "ほうざ",
+choice2: "せいざ",
+choice3: "ほしざ",
+answer: 2,
+},
+
+{
+id: "A1798",
+question: "彼女は(黒板)の前に立っている。",
+choice1: "こくいた",
+choice2: "くろばん",
+choice3: "こくばん",
+answer: 3,
+},
+
+{
+id: "A1799",
+question: "この(看板)に写真は要りません。",
+choice1: "はんばん",
+choice2: "かんばん",
+choice3: "かんたん",
+answer: 2,
+},
+
+{
+id: "A1800",
+question: "(万年筆)で手紙を書いた。",
+choice1: "まんとうひつ",
+choice2: "まんえんぴつ",
+choice3: "まんねんひつ",
+answer: 3,
+},
+
+{
+id: "A1801",
+question: "(筆記試験)では一般的に女子の方が男子より得点が高い。",
+choice1: "ひっきしけん",
+choice2: "ぴつきしけん",
+choice3: "ひつきしけん",
+answer: 1,
+},
+
+{
+id: "A1802",
+question: "(版木)屋を営む。",
+choice1: "ばんき",
+choice2: "はんぎ",
+choice3: "いたもく",
+answer: 2,
+},
+
+{
+id: "A1803",
+question: "彼の(口座)を登録した。",
+choice1: "こうざ",
+choice2: "くちざ",
+choice3: "くうざ",
+answer: 1,
+},
+
+{
+id: "A1804",
+question: "私の仕事は日本料理店の(板前)です。",
+choice1: "はんぜん",
+choice2: "ばんまえ",
+choice3: "いたまえ",
+answer: 3,
+},
+
+{
+id: "A1805",
+question: "(座席)を予約しました。",
+choice1: "さぜき",
+choice2: "こせき",
+choice3: "ざせき",
+answer: 3,
+},
+
+{
+id: "A1806",
+question: "(板書)の内容をノートに書いた。",
+choice1: "ばんしょ",
+choice2: "はんしょ",
+choice3: "はんじょ",
+answer: 1,
+},
+
+{
+id: "A1807",
+question: "(筆)で漢字を書く。",
+choice1: "ぴつ",
+choice2: "ふで",
+choice3: "ひつ",
+answer: 2,
+},
+
+{
+id: "A1808",
+question: "この記事の(筆者)は有名な批評家だ。",
+choice1: "ひっしゃ",
+choice2: "ひつさ",
+choice3: "ひつし",
+answer: 1,
+},
+
+{
+id: "A1809",
+question: "ソファに(すわって)テレビを見る。",
+choice1: "座って",
+choice2: "坐って",
+choice3: "挫って",
+answer: 1,
+},
+
+{
+id: "A1810",
+question: "木の(いた)を買って、犬小屋を作った。",
+choice1: "反",
+choice2: "板",
+choice3: "阪",
+answer: 2,
+},
+
+{
+id: "A1811",
+question: "父に(がくしゅうづくえ)を買ってもらった。",
+choice1: "学習机",
+choice2: "学習肌",
+choice3: "学摺几",
+answer: 1,
+},
+
+{
+id: "A1812",
+question: "(えんぴつ)をかしてください。",
+choice1: "鉛箒",
+choice2: "船聿",
+choice3: "鉛筆",
+answer: 3,
+},
+
+{
+id: "A1813",
+question: "(つくえ)をきれいに並べる。",
+choice1: "飢",
+choice2: "机",
+choice3: "肌",
+answer: 2,
+},
+
+{
+id: "A1814",
+question: "一人前の(いたまえ)になりたい。",
+choice1: "坂前",
+choice2: "版前",
+choice3: "板前",
+answer: 3,
+},
+
+{
+id: "A1815",
+question: "(せいざ)占いをしんじる。",
+choice1: "皇坐",
+choice2: "惺座",
+choice3: "星座",
+answer: 3,
+},
+
+{
+id: "A1816",
+question: "書道で使う(ふで)を買う。",
+choice1: "箏",
+choice2: "筝",
+choice3: "筆",
+answer: 3,
+},
+
+{
+id: "A1817",
+question: "(こくばん)に字を大きく書く。",
+choice1: "烏坂",
+choice2: "黒版",
+choice3: "黒板",
+answer: 3,
+},
+
+{
+id: "A1818",
+question: "(まんねんひつ)をプレゼントする。",
+choice1: "方年筝",
+choice2: "万年筆",
+choice3: "万牛筆",
+answer: 2,
+},
+
+{
+id: "A1819",
+question: "(ばんしょ)の内容をノートに写す。",
+choice1: "坂書",
+choice2: "板書",
+choice3: "阪事",
+answer: 2,
+},
+
+{
+id: "A1820",
+question: "(ひっきしけん)をうける。",
+choice1: "筆記試験",
+choice2: "津記式験",
+choice3: "聿紀試験",
+answer: 1,
+},
+
+{
+id: "A1821",
+question: "君の言っていることは(きじょう)の空論にすぎないよ。",
+choice1: "肌上",
+choice2: "机上",
+choice3: "几上",
+answer: 2,
+},
+
+{
+id: "A1822",
+question: "その(かんばん)は中国語で書かれています。",
+choice1: "看板",
+choice2: "春阪",
+choice3: "盾坂",
+answer: 1,
+},
+
+{
+id: "A1823",
+question: "たたみの部屋で(せいざ)をする。",
+choice1: "正坐",
+choice2: "星座",
+choice3: "正座",
+answer: 3,
+},
+
+{
+id: "A1824",
+question: "(ひっしゃ)の意見に賛成だ。",
+choice1: "筆者",
+choice2: "筝者",
+choice3: "津者",
+answer: 1,
+},
+
+{
+id: "A1825",
+question: "社長には約600枚の(はんぎ)がある。",
+choice1: "板休",
+choice2: "坂木",
+choice3: "板木",
+answer: 3,
+},
+
+{
+id: "A1826",
+question: "(ざせき)を予約する。",
+choice1: "挫度",
+choice2: "座席",
+choice3: "坐席",
+answer: 2,
+},
+
+{
+id: "A1827",
+question: "彼の(こうざ)を登録した。",
+choice1: "口席",
+choice2: "口座",
+choice3: "口坐",
+answer: 2,
+},
+
 ]
