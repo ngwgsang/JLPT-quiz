@@ -35,6 +35,8 @@ startBtn.addEventListener('click', ()=>{
     document.getElementById('returnBtn').style.display      = "flex";
     document.getElementById('score').style.display          = "flex";
     document.getElementById('preQuestionBtn').style.display = "flex";
+    startBtn.style = 'color: #fff; background: #009FFF';
+    startBtn.innerHTML = '<p>Tiếp tục</p>'
 });
 // Pre-question board
 preQuestionBoardBtn.addEventListener('click', ()=>{
@@ -56,11 +58,14 @@ saveScoreBtn.addEventListener('click',()=>{
     document.getElementById("gif").src= gif[getRandomInt(gif.length)];
     // o_question = MAX_QUESTIONS;
     // Không biết tại sao nhưng counter = 1 ở lần 2 trở đi thì nó không dư
-    questionCounter  = 1;
-    score            = 0;
-    finalScore.innerText= '0';
-    percent.innerText = '0%';
-    scoreBtn.innerText = '0';
+    questionCounter      = 1;
+    score                = 0;
+    totalSeconds         = 0;
+    finalScore.innerText = '0';
+    percent.innerText    = '0%';
+    scoreBtn.innerText   = '0';
+    startBtn.innerHTML   = '<i class="fas fa-play"></i>';
+    startBtn.style       = 'background: #fff';
     resetGame();
 })
 // Reset
@@ -96,7 +101,10 @@ function getInputValue(){
     MAX_QUESTIONS = inputVal - 1;
     document.getElementById("number-box").innerText = inputVal;
     questionCounter = 1;
+    totalSeconds    = 0;
     document.getElementById('count').innerText = `${questionCounter}/${MAX_QUESTIONS+1}`
+    startBtn.innerHTML   = '<i class="fas fa-play"></i>';
+    startBtn.style       = 'background: #fff';
 }
 //------------------------------------------>
 // Lưu lại tổng số câu ra chỗ riêng
@@ -145,7 +153,6 @@ function changeLevel_N5(){
 //------------------------------------------>
 function startGame(){
     // Bắt đầu và gán các giá trị vào Current question
-    totalSeconds = 0;
     document.getElementById("gif").src= gif[getRandomInt(gif.length)];
     endtext.innerText = comment[getRandomInt(comment.length)];
     questionCounter = 0
@@ -154,11 +161,13 @@ function startGame(){
     getNewQuestion()
 }
 function endGame(){
+    totalSeconds = 0;
     document.getElementById('start').style.display = "none";
     document.getElementById('end').style.display = "flex";
     document.getElementById('returnBtn').style.display = "none";
     document.getElementById('score').style.display="none";
     document.getElementById('preQuestionBtn').style.display="none";
+    questionCounter = 0;
 }
 const preQuestionBtn = document.getElementById("preQuestionBtn");
 let   preQuestion =[];
