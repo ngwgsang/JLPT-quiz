@@ -3418,5 +3418,1814 @@ choice3: "大紙",
 answer: 1,
 },
 
+{
+id: "I0381",
+question: "(妹)も姉も病気ではありません。",
+choice1: "あぬ",
+choice2: "いもと",
+choice3: "いもうと",
+answer: 3,
+},
+
+{
+id: "I0382",
+question: "妹も(姉)も病気ではありません。",
+choice1: "あね",
+choice2: "あぬ",
+choice3: "いもと",
+answer: 1,
+},
+
+{
+id: "I0383",
+question: "妹も姉も(病気)ではありません。",
+choice1: "びょうき",
+choice2: "びょうきい",
+choice3: "びょき",
+answer: 1,
+},
+
+{
+id: "I0384",
+question: "(去年)あの兄弟が近くにひっこしてきました。",
+choice1: "きょうねん",
+choice2: "きょねん",
+choice3: "きょっねん",
+answer: 2,
+},
+
+{
+id: "I0385",
+question: "去年あの(兄弟)が近くにひっこしてきました。",
+choice1: "きょうだい",
+choice2: "しまい",
+choice3: "きょだい",
+answer: 1,
+},
+
+{
+id: "I0386",
+question: "去年あの兄弟が(近く)にひっこしてきました。",
+choice1: "とおく",
+choice2: "とおいく",
+choice3: "ちかく",
+answer: 3,
+},
+
+{
+id: "I0387",
+question: "(はしる)ところびますよ。あるいて行きましょう。",
+choice1: "歩る",
+choice2: "徒る",
+choice3: "走る",
+answer: 3,
+},
+
+{
+id: "I0388",
+question: "はしると(ころびます)よ。あるいて行きましょう。",
+choice1: "伝びます",
+choice2: "送びます",
+choice3: "転びます",
+answer: 3,
+},
+
+{
+id: "I0389",
+question: "はしるところびますよ。(あるいて)行きましょう。",
+choice1: "走いて",
+choice2: "渉いて",
+choice3: "歩いて",
+answer: 3,
+},
+
+{
+id: "I0390",
+question: "車の (うんてん)にしゅうちゅうしていたので、うたは聞こえませんでした。",
+choice1: "運動",
+choice2: "運転",
+choice3: "連動",
+answer: 2,
+},
+
+{
+id: "I0391",
+question: "車の うんてんに(しゅうちゅう)していたので、うたは聞こえませんでした。",
+choice1: "薬中",
+choice2: "楽中",
+choice3: "集中",
+answer: 3,
+},
+
+{
+id: "I0392",
+question: "車の うんてんにしゅうちゅうしていたので、(うた)は聞こえませんでした。",
+choice1: "歌",
+choice2: "次",
+choice3: "飲",
+answer: 1,
+},
+
+{
+id: "I0393",
+question: "(なに)かおくられて来ましたよ。あけてみましょう。",
+choice1: "向",
+choice2: "同",
+choice3: "何",
+answer: 3,
+},
+
+{
+id: "I0394",
+question: "なにか(おくられて)来ましたよ。あけてみましょう。",
+choice1: "連られて",
+choice2: "送られて",
+choice3: "運られて",
+answer: 2,
+},
+
+{
+id: "I0395",
+question: "なにかおくられて来ましたよ。(あけて)みましょう。",
+choice1: "閑けて",
+choice2: "関けて",
+choice3: "開けて",
+answer: 3,
+},
+
+{
+id: "I0396",
+question: "(待ち合わせ)は今朝の９時でしたが、中止になりました。",
+choice1: "もちあわせ",
+choice2: "もちごうせ",
+choice3: "まちあわせ",
+answer: 3,
+},
+
+{
+id: "I0397",
+question: "病院に行くのでこの服を(貸して)下さい。",
+choice1: "かして",
+choice2: "かりして",
+choice3: "かえして",
+answer: 1,
+},
+
+{
+id: "I0398",
+question: "「(建物)」という漢字はきのう習いました 。",
+choice1: "たてもの",
+choice2: "けんぶつ",
+choice3: "たちもの",
+answer: 1,
+},
+
+{
+id: "I0399",
+question: "「建物」という(漢字)はきのう習いました 。",
+choice1: "かじ",
+choice2: "かんじ",
+choice3: "かんじん",
+answer: 2,
+},
+
+{
+id: "I0400",
+question: "「建物」という漢字はきのう(習いました) 。",
+choice1: "つかいました",
+choice2: "いいました",
+choice3: "ならいました",
+answer: 3,
+},
+
+{
+id: "I0401",
+question: "(しけん)がありますから、５じかんもべんきょうしました。",
+choice1: "詞験",
+choice2: "試険",
+choice3: "試験",
+answer: 3,
+},
+
+{
+id: "I0402",
+question: "しけんがありますから、５(じかん)もべんきょうしました。",
+choice1: "待間",
+choice2: "待問",
+choice3: "時間",
+answer: 3,
+},
+
+{
+id: "I0403",
+question: "しけんがありますから、５じかんも(べんきょう)しました。",
+choice1: "娩強",
+choice2: "勉強",
+choice3: "娩弱",
+answer: 2,
+},
+
+{
+id: "I0404",
+question: "私が(かりて)いるけんきゅうしつはひろくていいですよ。",
+choice1: "借りて",
+choice2: "貸りて",
+choice3: "昔りて",
+answer: 1,
+},
+
+{
+id: "I0405",
+question: "私がかりている(けんきゅうしつ)はひろくていいですよ。",
+choice1: "研究室",
+choice2: "究研室",
+choice3: "研勉室",
+answer: 1,
+},
+
+{
+id: "I0406",
+question: "私がかりているけんきゅうしつは(ひろく)ていいですよ。",
+choice1: "尻く",
+choice2: "尼く",
+choice3: "広く",
+answer: 3,
+},
+
+{
+id: "I0407",
+question: "(しゃしん)をうつすときはよくかんがえたほうがいいですよ。",
+choice1: "冗真",
+choice2: "写真",
+choice3: "冗直",
+answer: 2,
+},
+
+{
+id: "I0408",
+question: "しゃしんを(うつす)ときはよくかんがえたほうがいいですよ。",
+choice1: "真す",
+choice2: "写す",
+choice3: "冗す",
+answer: 2,
+},
+
+{
+id: "I0409",
+question: "しゃしんをうつすときはよく(かんがえた)ほうがいいですよ。",
+choice1: "教えた",
+choice2: "孝えた",
+choice3: "考えた",
+answer: 3,
+},
+
+{
+id: "I0410",
+question: "このオレンジは(水分)がおおいから切る時に気をつけてください。",
+choice1: "みずぶん",
+choice2: "みずふん",
+choice3: "すいぶん",
+answer: 3,
+},
+
+{
+id: "I0411",
+question: "このオレンジは水分がおおいから(切る時)に気をつけてください。",
+choice1: "きりるとき",
+choice2: "きるとき",
+choice3: "たべるとき",
+answer: 2,
+},
+
+{
+id: "I0412",
+question: "このオレンジは水分がおおいから切る時に(気)をつけてください。",
+choice1: "き",
+choice2: "さ",
+choice3: "ち",
+answer: 1,
+},
+
+{
+id: "I0413",
+question: "ケーキを(山田)さんと二人で分けました 。",
+choice1: "やまだ",
+choice2: "やまひ",
+choice3: "かわだ",
+answer: 1,
+},
+
+{
+id: "I0414",
+question: "ケーキを山田さんと(二人)で分けました 。",
+choice1: "にひと",
+choice2: "ふったり",
+choice3: "ふたり",
+answer: 3,
+},
+
+{
+id: "I0415",
+question: "ケーキを山田さんと二人で(分けました) 。",
+choice1: "あけました",
+choice2: "ふんけました",
+choice3: "わけました",
+answer: 3,
+},
+
+{
+id: "I0416",
+question: "(どにち)はあめだったのでいちにちじゅううちにいました。",
+choice1: "五日",
+choice2: "止日",
+choice3: "土日",
+answer: 3,
+},
+
+{
+id: "I0417",
+question: "どにちは(あめ)だったのでいちにちじゅううちにいました。",
+choice1: "雨",
+choice2: "雪",
+choice3: "雲",
+answer: 1,
+},
+
+{
+id: "I0418",
+question: "どにちはあめだったので(いちにちじゅう)うちにいました。",
+choice1: "一時中",
+choice2: "一日中",
+choice3: "一時十",
+answer: 2,
+},
+
+{
+id: "I0419",
+question: "この(ほん)はにまんさんぜんえんでした。",
+choice1: "木",
+choice2: "休",
+choice3: "本",
+answer: 3,
+},
+
+{
+id: "I0420",
+question: "このほんは(にまん)さんぜんえんでした。",
+choice1: "二千",
+choice2: "二土",
+choice3: "二万",
+answer: 3,
+},
+
+{
+id: "I0421",
+question: "このほんはにまん(さんぜんえん)でした。",
+choice1: "三千円",
+choice2: "三万円",
+choice3: "三先円",
+answer: 1,
+},
+
+{
+id: "I0422",
+question: "(じかん)があればきんようびにかわでバーベキューをします。",
+choice1: "待関",
+choice2: "待間",
+choice3: "時間",
+answer: 3,
+},
+
+{
+id: "I0423",
+question: "じかんがあれば(きんようび)にかわでバーベキューをします。",
+choice1: "金濯日",
+choice2: "金曜日",
+choice3: "発濯日",
+answer: 2,
+},
+
+{
+id: "I0424",
+question: "じかんがあればきんようびに(かわ)でバーベキューをします。",
+choice1: "三",
+choice2: "川",
+choice3: "州",
+answer: 2,
+},
+
+{
+id: "I0425",
+question: "(明日)は雨がふりますが、風はないでしょう。",
+choice1: "きょう",
+choice2: "あさって",
+choice3: "あした",
+answer: 3,
+},
+
+{
+id: "I0426",
+question: "明日は(雨)がふりますが、風はないでしょう。",
+choice1: "あめ",
+choice2: "おめ",
+choice3: "ゆき",
+answer: 1,
+},
+
+{
+id: "I0427",
+question: "明日は雨がふりますが、(風)はないでしょう。",
+choice1: "かせ",
+choice2: "くもり",
+choice3: "かぜ",
+answer: 3,
+},
+
+{
+id: "I0428",
+question: "(土曜日)に川で八時間もつりをしました。",
+choice1: "どうよびい",
+choice2: "どおようび",
+choice3: "どようび",
+answer: 3,
+},
+
+{
+id: "I0429",
+question: "土曜日に(川)で八時間もつりをしました。",
+choice1: "うみ",
+choice2: "かれ",
+choice3: "かわ",
+answer: 3,
+},
+
+{
+id: "I0430",
+question: "土曜日に川で(八時間)もつりをしました。",
+choice1: "はちじかん",
+choice2: "ろくじかん",
+choice3: "くじかん",
+answer: 1,
+},
+
+{
+id: "I0431",
+question: "この(きん)のブレスレットはきゅうまんななせんえんでした。",
+choice1: "金",
+choice2: "全",
+choice3: "完",
+answer: 1,
+},
+
+{
+id: "I0432",
+question: "このきんのブレスレットは(きゅうまん)ななせんえんでした。",
+choice1: "丸方",
+choice2: "九万",
+choice3: "丸万",
+answer: 3,
+},
+
+{
+id: "I0433",
+question: "このきんのブレスレットはきゅうまん(ななせんえん)でした。",
+choice1: "也千円",
+choice2: "也禾円",
+choice3: "七千円",
+answer: 3,
+},
+
+{
+id: "I0434",
+question: "あの(たいせつ)なほんがどこにあるかわかりますか。",
+choice1: "犬切",
+choice2: "大切",
+choice3: "大釛",
+answer: 2,
+},
+
+{
+id: "I0435",
+question: "あのたいせつな(ほん)がどこにあるかわかりますか。",
+choice1: "木",
+choice2: "本",
+choice3: "未",
+answer: 2,
+},
+
+{
+id: "I0436",
+question: "あのたいせつなほんがどこにあるか(わかります)か。",
+choice1: "全かります",
+choice2: "完かります",
+choice3: "分かります",
+answer: 3,
+},
+
+{
+id: "I0437",
+question: "(にほんえん)があがったりさがったりしています。",
+choice1: "日本円",
+choice2: "目本円",
+choice3: "日木円",
+answer: 1,
+},
+
+{
+id: "I0438",
+question: "にほんえんが(あがったり)さがったりしています。",
+choice1: "土がったり",
+choice2: "上がったり",
+choice3: "下がったり",
+answer: 2,
+},
+
+{
+id: "I0439",
+question: "にほんえんがあがったり(さがったり)しています。",
+choice1: "下がったり",
+choice2: "上がったり",
+choice3: "万がったり",
+answer: 1,
+},
+
+{
+id: "I0440",
+question: "待ち合わせは(今朝)の９時でしたが、中止になりました。",
+choice1: "いまあさ",
+choice2: "けさ",
+choice3: "けっさ",
+answer: 2,
+},
+
+{
+id: "I0441",
+question: "待ち合わせは今朝の９時でしたが、(中止)になりました。",
+choice1: "なかし",
+choice2: "ちゅうし",
+choice3: "ちゅうち",
+answer: 2,
+},
+
+{
+id: "I0442",
+question: "仕事を(始める)前に食堂で昼食にしましょう。",
+choice1: "やめる",
+choice2: "ほじめる",
+choice3: "はじめる",
+answer: 3,
+},
+
+{
+id: "I0443",
+question: "仕事を始める前に(食堂)で昼食にしましょう。",
+choice1: "しょくどう",
+choice2: "しょうどう",
+choice3: "しょくど",
+answer: 1,
+},
+
+{
+id: "I0444",
+question: "仕事を始める前に食堂で(昼食)にしましょう。",
+choice1: "ちゅうしょく",
+choice2: "ちょうしょく",
+choice3: "ゆうしょく",
+answer: 1,
+},
+
+{
+id: "I0445",
+question: "(なつ)までは車をにだいもっていました。",
+choice1: "春",
+choice2: "真",
+choice3: "夏",
+answer: ,
+},
+
+{
+id: "I0446",
+question: "なつまでは車を(にだい)もっていました。",
+choice1: "二回",
+choice2: "二台",
+choice3: "二又",
+answer: 2,
+},
+
+{
+id: "I0447",
+question: "なつまでは車をにだい(もって)いました。",
+choice1: "持って",
+choice2: "待って",
+choice3: "侍って",
+answer: 1,
+},
+
+{
+id: "I0448",
+question: "この道は(よる)８時からあさ６時までつうこうどめです。",
+choice1: "夜",
+choice2: "液",
+choice3: "板",
+answer: 1,
+},
+
+{
+id: "I0449",
+question: "この道はよる８時から(あさ)６時までつうこうどめです。",
+choice1: "明",
+choice2: "朝",
+choice3: "潮",
+answer: 2,
+},
+
+{
+id: "I0450",
+question: "この道はよる８時からあさ６時まで(つうこうどめ)です。",
+choice1: "運行止め",
+choice2: "運行正め",
+choice3: "通行止め",
+answer: 3,
+},
+
+{
+id: "I0451",
+question: "(ふゆ)がおわってはるになりました。",
+choice1: "冬",
+choice2: "寒",
+choice3: "秋",
+answer: 1,
+},
+
+{
+id: "I0452",
+question: "ふゆが(おわって)はるになりました。",
+choice1: "冬わって",
+choice2: "結わって",
+choice3: "終わって",
+answer: 3,
+},
+
+{
+id: "I0453",
+question: "ふゆがおわって(はる)になりました。",
+choice1: "青",
+choice2: "着",
+choice3: "春",
+answer: 3,
+},
+
+{
+id: "I0454",
+question: "(病院)に行くのでこの服を貸して下さい。",
+choice1: "びよいん",
+choice2: "びょいん",
+choice3: "びょういん",
+answer: 3,
+},
+
+{
+id: "I0455",
+question: "病院に行くのでこの(服)を貸して下さい。",
+choice1: "ふくう",
+choice2: "ふく",
+choice3: "ふっく",
+answer: 2,
+},
+
+{
+id: "I0456",
+question: "(先月)は二週間の休みをとりました。",
+choice1: "せいつき",
+choice2: "せんつき",
+choice3: "せんげつ",
+answer: 3,
+},
+
+{
+id: "I0457",
+question: "先月は(二週間)の休みをとりました。",
+choice1: "にしゅっかん",
+choice2: "にしゅうかん",
+choice3: "にっしゅうかん",
+answer: 2,
+},
+
+{
+id: "I0458",
+question: "先月は二週間の(休み)をとりました。",
+choice1: "やすみ",
+choice2: "からだみ",
+choice3: "よみ",
+answer: 1,
+},
+
+{
+id: "I0459",
+question: "「 (出口) 」はフランス語でなんて言うんですか。",
+choice1: "いりぐち",
+choice2: "でぐち",
+choice3: "いりぐちい",
+answer: 2,
+},
+
+{
+id: "I0460",
+question: "「 出口 」はフランス(語)でなんて言うんですか。",
+choice1: "じん",
+choice2: "にん",
+choice3: "ご",
+answer: 3,
+},
+
+{
+id: "I0461",
+question: "「 出口 」はフランス語でなんて(言う)んですか。",
+choice1: "かう",
+choice2: "すう",
+choice3: "いう",
+answer: 3,
+},
+
+{
+id: "I0462",
+question: "(ゆうがた)がいしゅつしますが、ろくじはんにもどります。",
+choice1: "月方",
+choice2: "夕方",
+choice3: "月万",
+answer: 2,
+},
+
+{
+id: "I0463",
+question: "ゆうがた(がいしゅつ)しますが、ろくじはんにもどります。",
+choice1: "外出",
+choice2: "夜出",
+choice3: "外土",
+answer: 1,
+},
+
+{
+id: "I0464",
+question: "ゆうがたがいしゅつしますが、(ろくじはん)にもどります。",
+choice1: "六時半",
+choice2: "八待半",
+choice3: "八時平",
+answer: 1,
+},
+
+{
+id: "I0465",
+question: "(ほんとう)にひがしヨーロッパにいきたいとおもっています。",
+choice1: "本十",
+choice2: "本日",
+choice3: "本当",
+answer: 3,
+},
+
+{
+id: "I0466",
+question: "ほんとうに(ひがし)ヨーロッパにいきたいとおもっています。",
+choice1: "京",
+choice2: "束",
+choice3: "東",
+answer: 3,
+},
+
+{
+id: "I0467",
+question: "ほんとうにひがしヨーロッパに(いきたい)とおもっています。",
+choice1: "来たい",
+choice2: "来い",
+choice3: "行きたい",
+answer: 3,
+},
+
+{
+id: "I0468",
+question: "(らいしゅう)だいじなミーティングがおこなわれます。",
+choice1: "来道",
+choice2: "来週",
+choice3: "来周",
+answer: 2,
+},
+
+{
+id: "I0469",
+question: "らいしゅう(だいじ)なミーティングがおこなわれます。",
+choice1: "木事",
+choice2: "大事",
+choice3: "木書",
+answer: 2,
+},
+
+{
+id: "I0470",
+question: "らいしゅうだいじなミーティングが(おこなわれます)。",
+choice1: "明われます",
+choice2: "行われます",
+choice3: "来われます",
+answer: 2,
+},
+
+{
+id: "I0471",
+question: "(部長)は三週間ヨーロッパに行っています。",
+choice1: "しゃちょう  ",
+choice2: "しゃっちょう ",
+choice3: "ぶちょう   ",
+answer: 3,
+},
+
+{
+id: "I0472",
+question: "部長は(三週間)ヨーロッパに行っています。",
+choice1: "さんしゅかん ",
+choice2: "さんしゅうかん",
+choice3: "さんしゅうはん",
+answer: 2,
+},
+
+{
+id: "I0473",
+question: "部長は三週間ヨーロッパに(行って)います。",
+choice1: "いって",
+choice2: "しって",
+choice3: "きって",
+answer: 1,
+},
+
+{
+id: "I0474",
+question: "(以前)東南アジアでそのショーを見ました 。",
+choice1: "いじょう",
+choice2: "このまえ",
+choice3: "いぜん",
+answer: 3,
+},
+
+{
+id: "I0475",
+question: "以前(東南)アジアでそのショーを見ました 。",
+choice1: "みなみひがし",
+choice2: "なんとう",
+choice3: "とうなん",
+answer: 3,
+},
+
+{
+id: "I0476",
+question: "以前東南アジアでそのショーを(見ました) 。",
+choice1: "あいました",
+choice2: "みました",
+choice3: "ききました",
+answer: 2,
+},
+
+{
+id: "I0477",
+question: "(いりぐち)はこのさきのみぎですよ。",
+choice1: "人口",
+choice2: "入口",
+choice3: "出口",
+answer: 2,
+},
+
+{
+id: "I0478",
+question: "いりぐちはこの(さき)のみぎですよ。",
+choice1: "先",
+choice2: "生",
+choice3: "告",
+answer: 1,
+},
+
+{
+id: "I0479",
+question: "いりぐちはこのさきの(みぎ)ですよ。",
+choice1: "石",
+choice2: "左",
+choice3: "右",
+answer: 3,
+},
+
+{
+id: "I0480",
+question: "(にねん)ではふじゅうぶんです。それではたりませんよ。",
+choice1: "二生",
+choice2: "二先",
+choice3: "二年",
+answer: 3,
+},
+
+{
+id: "I0481",
+question: "にねんでは(ふじゅうぶん)です。それではたりませんよ。",
+choice1: "禾千分",
+choice2: "禾十分",
+choice3: "不十分",
+answer: 3,
+},
+
+{
+id: "I0482",
+question: "にねんではふじゅうぶんです。それでは(たりません)よ。",
+choice1: "手りません",
+choice2: "兄りません",
+choice3: "足りません",
+answer: 3,
+},
+
+{
+id: "I0483",
+question: "(なまえ)とせいねんがっぴとしんちょうをおしえてください。",
+choice1: "各前",
+choice2: "名前",
+choice3: "多煎",
+answer: 2,
+},
+
+{
+id: "I0484",
+question: "なまえと(せいねんがっぴ)としんちょうをおしえてください。",
+choice1: "年生月日",
+choice2: "生年日月",
+choice3: "生年月日",
+answer: 3,
+},
+
+{
+id: "I0485",
+question: "なまえとせいねんがっぴと(しんちょう)をおしえてください。",
+choice1: "自長",
+choice2: "身畏",
+choice3: "身長",
+answer: 3,
+},
+
+{
+id: "I0486",
+question: "(工場)まで電車で通っています。",
+choice1: "こじょう",
+choice2: "こうじょう",
+choice3: "こうじょ",
+answer: 2,
+},
+
+{
+id: "I0487",
+question: "工場まで(電車)で通っています。",
+choice1: "でんさ",
+choice2: "でっしゅ",
+choice3: "でんしゃ",
+answer: 3,
+},
+
+{
+id: "I0488",
+question: "工場まで電車で(通って)います。",
+choice1: "つかって",
+choice2: "つうって",
+choice3: "かよって",
+answer: 3,
+},
+
+{
+id: "I0489",
+question: "(学校)で毎日文を書かされます 。",
+choice1: "がくこう",
+choice2: "がっこう",
+choice3: "がこう",
+answer: 2,
+},
+
+{
+id: "I0490",
+question: "学校で毎日(文)を書かされます 。",
+choice1: "ぶん",
+choice2: "ぶうん",
+choice3: "ふん",
+answer: 1,
+},
+
+{
+id: "I0491",
+question: "学校で毎日文を(書かされます) 。",
+choice1: "かかされます",
+choice2: "いかされます",
+choice3: "しょかされます",
+answer: 1,
+},
+
+{
+id: "I0492",
+question: "あの(え)はいがいにやすかったです。",
+choice1: "絵",
+choice2: "図",
+choice3: "映",
+answer: 1,
+},
+
+{
+id: "I0493",
+question: "あのえは(いがいに)やすかったです。",
+choice1: "意外に",
+choice2: "意上に",
+choice3: "思外に",
+answer: 1,
+},
+
+{
+id: "I0494",
+question: "あのえはいがいに(やすかった)です。",
+choice1: "安すかった",
+choice2: "安かった",
+choice3: "安った",
+answer: 2,
+},
+
+{
+id: "I0495",
+question: "それを(はつめい)した人はこうがくぶのがくせいです。",
+choice1: "発名",
+choice2: "発朋",
+choice3: "発明",
+answer: 3,
+},
+
+{
+id: "I0496",
+question: "それをはつめいした人は(こうがくぶ)のがくせいです。",
+choice1: "校学部",
+choice2: "工学部",
+choice3: "行校倍",
+answer: 2,
+},
+
+{
+id: "I0497",
+question: "それをはつめいした人はこうがくぶの(がくせい)です。",
+choice1: "学校",
+choice2: "校生",
+choice3: "学生",
+answer: 3,
+},
+
+{
+id: "I0498",
+question: "(そと)でパーティーをするのはてんきがわるいからむりだとおもいます 。",
+choice1: "邦",
+choice2: "外",
+choice3: "夜",
+answer: 2,
+},
+
+{
+id: "I0499",
+question: "そとでパーティーをするのは(てんき)がわるいからむりだとおもいます 。",
+choice1: "矢気",
+choice2: "太気",
+choice3: "天気",
+answer: 3,
+},
+
+{
+id: "I0500",
+question: "そとでパーティーをするのはてんきがわるいからむりだと(おもいます) 。",
+choice1: "息います",
+choice2: "志います",
+choice3: "思います",
+answer: 3,
+},
+
+{
+id: "I0501",
+question: "(海)に行く用意をしてください。",
+choice1: "かわ    ",
+choice2: "やま    ",
+choice3: "うみ    ",
+answer: 3,
+},
+
+{
+id: "I0502",
+question: "海に(行く)用意をしてください。",
+choice1: "とく    ",
+choice2: "おく    ",
+choice3: "いく    ",
+answer: 3,
+},
+
+{
+id: "I0503",
+question: "海に行く(用意)をしてください。",
+choice1: "ようい   ",
+choice2: "よおい   ",
+choice3: "よい    ",
+answer: 1,
+},
+
+{
+id: "I0504",
+question: "(大学)で主にエンジニアリングを学びました 。",
+choice1: "ちゅうがく ",
+choice2: "がっこう  ",
+choice3: "だいがく  ",
+answer: 3,
+},
+
+{
+id: "I0505",
+question: "大学で(主に)エンジニアリングを学びました 。",
+choice1: "しゅに   ",
+choice2: "おもに   ",
+choice3: "たまに   ",
+answer: 2,
+},
+
+{
+id: "I0506",
+question: "大学で主にエンジニアリングを(学びました) 。",
+choice1: "がくびました",
+choice2: "まなびました",
+choice3: "あそびました",
+answer: 2,
+},
+
+{
+id: "I0507",
+question: "もう(すこし)ででんしゃがはっしゃします。",
+choice1: "少し",
+choice2: "小し",
+choice3: "水し",
+answer: 1,
+},
+
+{
+id: "I0508",
+question: "もうすこしで(でんしゃ)がはっしゃします。",
+choice1: "雲車",
+choice2: "雪車",
+choice3: "電車",
+answer: 3,
+},
+
+{
+id: "I0509",
+question: "もうすこしででんしゃが(はっしゃ)します。",
+choice1: "発車",
+choice2: "癸車",
+choice3: "登車",
+answer: 1,
+},
+
+{
+id: "I0510",
+question: "この(とおり)はおもったよりくるまがおおいですね。",
+choice1: "通り",
+choice2: "道り",
+choice3: "連り",
+answer: 1,
+},
+
+{
+id: "I0511",
+question: "このとおりは(おもった)よりくるまがおおいですね。",
+choice1: "思った",
+choice2: "急った",
+choice3: "息った",
+answer: 1,
+},
+
+{
+id: "I0512",
+question: "このとおりはおもったより(くるま)がおおいですね。",
+choice1: "事",
+choice2: "車",
+choice3: "用",
+answer: 2,
+},
+
+{
+id: "I0513",
+question: "(ちち)もははもげんきです。",
+choice1: "交",
+choice2: "父",
+choice3: "火",
+answer: 2,
+},
+
+{
+id: "I0514",
+question: "ちちも(はは)もげんきです。",
+choice1: "母",
+choice2: "月",
+choice3: "丹",
+answer: 1,
+},
+
+{
+id: "I0515",
+question: "ちちもははも(げんき)です。",
+choice1: "之気",
+choice2: "元気",
+choice3: "之气",
+answer: 2,
+},
+
+{
+id: "I0516",
+question: "(医学)の分野のことはよく知りません 。",
+choice1: "いいがく  ",
+choice2: "いがくう  ",
+choice3: "いがく   ",
+answer: 3,
+},
+
+{
+id: "I0517",
+question: "医学の(分野)のことはよく知りません 。",
+choice1: "ぶんの   ",
+choice2: "ぶんや   ",
+choice3: "ふんの   ",
+answer: 2,
+},
+
+{
+id: "I0518",
+question: "医学の分野のことはよく(知りません) 。",
+choice1: "わかりません",
+choice2: "しりません ",
+choice3: "とりません ",
+answer: 2,
+},
+
+{
+id: "I0519",
+question: "(東京)ではお世話になりました。また、いろいろ教えて下さい。",
+choice1: "ときょう",
+choice2: "とうきょ",
+choice3: "とうきょう",
+answer: 3,
+},
+
+{
+id: "I0520",
+question: "東京ではお(世話)になりました。また、いろいろ教えて下さい。",
+choice1: "せわ",
+choice2: "せいわ",
+choice3: "せいわい",
+answer: 1,
+},
+
+{
+id: "I0521",
+question: "東京ではお世話になりました。また、いろいろ(教えて)下さい。",
+choice1: "きょうえて",
+choice2: "つたえて",
+choice3: "おしえて",
+answer: 3,
+},
+
+{
+id: "I0522",
+question: "(かぞく)とでんわでりょこうのことについてそうだんしました。",
+choice1: "火木",
+choice2: "果足",
+choice3: "家族",
+answer: 3,
+},
+
+{
+id: "I0523",
+question: "かぞくと(でんわ)でりょこうのことについてそうだんしました。",
+choice1: "電話",
+choice2: "雲話",
+choice3: "雪話",
+answer: 1,
+},
+
+{
+id: "I0524",
+question: "かぞくとでんわで(りょこう)のことについてそうだんしました。",
+choice1: "旅待",
+choice2: "旅行",
+choice3: "遊待",
+answer: 2,
+},
+
+{
+id: "I0525",
+question: "(おや)のかわりにはなしをききました。",
+choice1: "親",
+choice2: "大家",
+choice3: "大屋",
+answer: 1,
+},
+
+{
+id: "I0526",
+question: "おやの(かわりに)はなしをききました。",
+choice1: "化わりに",
+choice2: "体わりに",
+choice3: "代わりに",
+answer: 3,
+},
+
+{
+id: "I0527",
+question: "おやのかわりに(はなし)をききました。",
+choice1: "語",
+choice2: "読",
+choice3: "話",
+answer: 3,
+},
+
+{
+id: "I0528",
+question: "(ふるい)しんぶんはそのへやに入れておいて下さい。",
+choice1: "舌い",
+choice2: "古い",
+choice3: "苦い",
+answer: 2,
+},
+
+{
+id: "I0529",
+question: "ふるい(しんぶん)はそのへやに入れておいて下さい。",
+choice1: "新聞",
+choice2: "親聞",
+choice3: "新開",
+answer: 1,
+},
+
+{
+id: "I0530",
+question: "ふるいしんぶんはその(へや)に入れておいて下さい。",
+choice1: "部屋",
+choice2: "室",
+choice3: "室屋",
+answer: 1,
+},
+
+{
+id: "I0531",
+question: "(旅行)の前に青いスーツケースを買いました。",
+choice1: "りょこう",
+choice2: "しごと",
+choice3: "りょうり",
+answer: 1,
+},
+
+{
+id: "I0532",
+question: "旅行の前に(青い)スーツケースを買いました。",
+choice1: "しろい",
+choice2: "くろい",
+choice3: "あおい",
+answer: 3,
+},
+
+{
+id: "I0533",
+question: "旅行の前に青いスーツケースを(買いました)。",
+choice1: "つかいました",
+choice2: "あいました",
+choice3: "かいました",
+answer: 3,
+},
+
+{
+id: "I0534",
+question: "わたしの(親)は動物の世話がすきです。",
+choice1: "ちち",
+choice2: "はは",
+choice3: "おや",
+answer: 3,
+},
+
+{
+id: "I0535",
+question: "わたしの親は(動物)の世話がすきです。",
+choice1: "しょくぶつ",
+choice2: "どうぶつ",
+choice3: "どうもの",
+answer: 2,
+},
+
+{
+id: "I0536",
+question: "わたしの親は動物の(世話)がすきです。",
+choice1: "せわ",
+choice2: "せいわ",
+choice3: "せかい",
+answer: 1,
+},
+
+{
+id: "I0537",
+question: "(しんぶん)でそのはなしについてよみました。",
+choice1: "親間",
+choice2: "新間",
+choice3: "新聞",
+answer: 3,
+},
+
+{
+id: "I0538",
+question: "しんぶんでその(はなし)についてよみました。",
+choice1: "語",
+choice2: "話",
+choice3: "計",
+answer: 2,
+},
+
+{
+id: "I0539",
+question: "しんぶんでそのはなしについて(よみました)。",
+choice1: "読みました",
+choice2: "訟みました",
+choice3: "誌みました",
+answer: 1,
+},
+
+{
+id: "I0540",
+question: "(おおやさん)はとてもしんせつなひとでいろいろおしえてくれました。",
+choice1: "親さん",
+choice2: "大親さん",
+choice3: "大家さん",
+answer: 3,
+},
+
+{
+id: "I0541",
+question: "おおやさんはとても(しんせつ)なひとでいろいろおしえてくれました。",
+choice1: "新切",
+choice2: "新母",
+choice3: "親切",
+answer: 3,
+},
+
+{
+id: "I0542",
+question: "おおやさんはとてもしんせつなひとでいろいろ(おしえて)くれました。",
+choice1: "老えて",
+choice2: "欽えて",
+choice3: "教えて",
+answer: 3,
+},
+
+{
+id: "I0543",
+question: "この(にく)はたかいからかわりにこっちにしましょう。",
+choice1: "円",
+choice2: "月",
+choice3: "肉",
+answer: 3,
+},
+
+{
+id: "I0544",
+question: "このにくは(たかい)からかわりにこっちにしましょう。",
+choice1: "咼い",
+choice2: "音い",
+choice3: "高い",
+answer: 3,
+},
+
+{
+id: "I0545",
+question: "このにくはたかいから(かわりに)こっちにしましょう。",
+choice1: "代わりに",
+choice2: "化わりに",
+choice3: "仏わりに",
+answer: 1,
+},
+
+{
+id: "I0546",
+question: "(友人)が大使館の地図を書いてくれました。",
+choice1: "ゆうじん",
+choice2: "ともだち",
+choice3: "ゆじん",
+answer: 1,
+},
+
+{
+id: "I0547",
+question: "友人が(大使館)の地図を書いてくれました。",
+choice1: "としょかん",
+choice2: "だいがくかん",
+choice3: "たいしかん",
+answer: 3,
+},
+
+{
+id: "I0548",
+question: "友人が大使館の(地図)を書いてくれました。",
+choice1: "ちいず",
+choice2: "ちず",
+choice3: "ちっず",
+answer: 2,
+},
+
+{
+id: "I0549",
+question: "それは(別の)会社の計画です。",
+choice1: "ほかの",
+choice2: "この",
+choice3: "べつの",
+answer: 3,
+},
+
+{
+id: "I0550",
+question: "それは別の(会社)の計画です。",
+choice1: "かいしゃ",
+choice2: "かいぎ",
+choice3: "かっしゃ",
+answer: 1,
+},
+
+{
+id: "I0551",
+question: "それは別の会社の(計画)です。",
+choice1: "けいかく",
+choice2: "けいが",
+choice3: "えいが",
+answer: 1,
+},
+
+{
+id: "I0552",
+question: "(いそいで)さかなりょうりをつくりました 。",
+choice1: "無いで",
+choice2: "思いで",
+choice3: "急いで",
+answer: 3,
+},
+
+{
+id: "I0553",
+question: "いそいで(さかな)りょうりをつくりました 。",
+choice1: "鳥",
+choice2: "魚",
+choice3: "島",
+answer: 2,
+},
+
+{
+id: "I0554",
+question: "いそいでさかなりょうりを(つくりました) 。",
+choice1: "使りました",
+choice2: "侍りました",
+choice3: "作りました",
+answer: 3,
+},
+
+{
+id: "I0555",
+question: "この(ことば)はただしくつかうのがむずかしいですね。",
+choice1: "語葉",
+choice2: "語楽",
+choice3: "言葉",
+answer: 3,
+},
+
+{
+id: "I0556",
+question: "このことばは(ただしく)つかうのがむずかしいですね。",
+choice1: "正しく",
+choice2: "止しく",
+choice3: "上しく",
+answer: 1,
+},
+
+{
+id: "I0557",
+question: "このことばはただしく(つかう)のがむずかしいですね。",
+choice1: "使う",
+choice2: "作う",
+choice3: "便う",
+answer: 1,
+},
+
+{
+id: "I0558",
+question: "(おんがく)を聞くことや、えいがを見ることやおさけをのむことがすきです。",
+choice1: "音薬",
+choice2: "意楽",
+choice3: "音楽",
+answer: 3,
+},
+
+{
+id: "I0559",
+question: "おんがくを聞くことや、(えいが)を見ることやおさけをのむことがすきです。",
+choice1: "英図",
+choice2: "映図",
+choice3: "映画",
+answer: 3,
+},
+
+{
+id: "I0560",
+question: "おんがくを聞くことや、えいがを見ることやおさけを(のむ)ことがすきです。",
+choice1: "飯む",
+choice2: "次む",
+choice3: "飲む",
+answer: 3,
+},
+
+{
+id: "I0561",
+question: "(今度)は楽しい映画を見たいですね。",
+choice1: "こんや",
+choice2: "こんど",
+choice3: "いまから",
+answer: 2,
+},
+
+{
+id: "I0562",
+question: "今度は(楽しい)映画を見たいですね。",
+choice1: "やさしい",
+choice2: "たのしい",
+choice3: "むずかしい",
+answer: 2,
+},
+
+{
+id: "I0563",
+question: "今度は楽しい(映画)を見たいですね。",
+choice1: "まんが",
+choice2: "ちず",
+choice3: "えいが",
+answer: 3,
+},
+
+{
+id: "I0564",
+question: "(友人)と食事をしてから銀行に行きました。",
+choice1: "とまだち",
+choice2: "ともだち",
+choice3: "ゆうじん",
+answer: 3,
+},
+
+{
+id: "I0565",
+question: "友人と(食事)をしてから銀行に行きました。",
+choice1: "しょくご",
+choice2: "たべもの",
+choice3: "しごと",
+answer: 3,
+},
+
+{
+id: "I0566",
+question: "友人と食事をしてから(銀行)に行きました。",
+choice1: "ぎんざ",
+choice2: "ぎんこう",
+choice3: "きゅうこう",
+answer: 2,
+},
+
+{
+id: "I0567",
+question: "この(けいかく)ならとくにもんだいはないと思います。",
+choice1: "計図",
+choice2: "訂画",
+choice3: "訂図",
+answer: 3,
+},
+
+{
+id: "I0568",
+question: "このけいかくなら(とくに)もんだいはないと思います。",
+choice1: "待に",
+choice2: "特に",
+choice3: "犠に",
+answer: 2,
+},
+
+{
+id: "I0569",
+question: "このけいかくならとくに(もんだい)はないと思います。",
+choice1: "問題",
+choice2: "間題",
+choice3: "問顆",
+answer: 1,
+},
+
+{
+id: "I0570",
+question: "ここの(りょうり)のあじはわるくないですよ。",
+choice1: "料理   ",
+choice2: "理料   ",
+choice3: "粋理   ",
+answer: 1,
+},
+
+{
+id: "I0571",
+question: "ここのりょうりの(あじ)はわるくないですよ。",
+choice1: "抹    ",
+choice2: "妹    ",
+choice3: "味    ",
+answer: 3,
+},
+
+{
+id: "I0572",
+question: "ここのりょうりのあじは(わるく)ないですよ。",
+choice1: "思く",
+choice2: "無く",
+choice3: "悪く",
+answer: 3,
+},
+
+{
+id: "I0573",
+question: "(いそいで)かいしゃにかえりました 。",
+choice1: "思いで",
+choice2: "急いで",
+choice3: "念いで",
+answer: 2,
+},
+
+{
+id: "I0574",
+question: "いそいで(かいしゃ)にかえりました 。",
+choice1: "合社",
+choice2: "会社",
+choice3: "合祉",
+answer: 2,
+},
+
+{
+id: "I0575",
+question: "いそいでかいしゃに(かえりました) 。",
+choice1: "限りました",
+choice2: "促りました",
+choice3: "帰りました",
+answer: 3,
+},
+
+{
+id: "I0576",
+question: "(弟)が病気なのでたんじょうびのパーティーは中止になりました。",
+choice1: "おとうと",
+choice2: "いもうと",
+choice3: "あに",
+answer: 1,
+},
+
+{
+id: "I0577",
+question: "弟が(病気)なのでたんじょうびのパーティーは中止になりました。",
+choice1: "びょういん ",
+choice2: "びょうき",
+choice3: "げんき",
+answer: 2,
+},
+
+{
+id: "I0578",
+question: "弟が病気なのでたんじょうびのパーティーは(中止)になりました。",
+choice1: "ちゅし",
+choice2: "ちゅうしい",
+choice3: "ちゅうし",
+answer: 3,
+},
+
+{
+id: "I0579",
+question: "(去年)漢字を習い始めました 。",
+choice1: "きょとし",
+choice2: "ことし",
+choice3: "きょねん",
+answer: 3,
+},
+
+{
+id: "I0580",
+question: "去年漢字を(習い)始めました 。",
+choice1: "つかい",
+choice2: "いい",
+choice3: "ならい",
+answer: 3,
+},
+
+{
+id: "I0581",
+question: "去年漢字を習い(始めました) 。",
+choice1: "とめました",
+choice2: "はじめました",
+choice3: "やめました",
+answer: 2,
+},
+
 
 ]
