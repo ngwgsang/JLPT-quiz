@@ -819,6 +819,7 @@ body {
   position: absolute;
   top: 1rem;
   right: 1rem;
+  border-radius: 0.4rem;
 }
 
 #count {

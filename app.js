@@ -83,16 +83,19 @@ function resetGame(){
 }
 //start
 let questions =[...n3,...n4,...n5];   // vì nó trỏ đến các mảng khác nên ưu tiên để lên đây
-const question = document.querySelector('#question');
-const choices = Array.from(document.querySelectorAll('.choice-text'));
+const question  = document.querySelector('#question');
+const choices   = Array.from(document.querySelectorAll('.choice-text'));
 const scoreText = document.querySelector('#score');
-let currentQuestion = {}
-let acceptingAnswers = true
-let score = 0
-let questionCounter = 0
+const preQuestionBtn = document.getElementById("preQuestionBtn");
+const SCORE_POINTS     = 1;
+let currentQuestion    = {}
+let acceptingAnswers   = true
+let score              = 0
+let questionCounter    = 0
 let availableQuestions = []
-const SCORE_POINTS = 1;
-
+let   preQuestion =[];
+let   preAnswer   =[];
+let   preId       =[];
 let MAX_QUESTIONS = questions.length;
 // document.getElementById("number-box").value = 1; 
 document.getElementById("number-box").value = questions.length;
@@ -169,10 +172,7 @@ function endGame(){
     document.getElementById('preQuestionBtn').style.display="none";
     questionCounter = 0;
 }
-const preQuestionBtn = document.getElementById("preQuestionBtn");
-let   preQuestion =[];
-let   preAnswer   =[];
-let   preId       =[];
+
 getNewQuestion = () => {
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         // localStorage.setItem('mostRecentScore', score);
@@ -195,7 +195,7 @@ getNewQuestion = () => {
     preId.push(currentQuestion.id);
     preQuestion.push(currentQuestion.question);
     preAnswer.push(currentQuestion['choice'+currentQuestion.answer]);
-    preQuestionBtn.innerText = preQuestion[preQuestion.length-2];
+    preQuestionBtn.innerText = preId[preQuestion.length-2]+' '+preQuestion[preQuestion.length-2];
     // Cho vào preQuestionBoard
     if (preQuestion.length-2>-1)
     preQuestionBoard__list.innerHTML += 
