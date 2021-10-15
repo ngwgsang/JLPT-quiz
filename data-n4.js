@@ -4000,7 +4000,7 @@ question: "(なつ)までは車をにだいもっていました。",
 choice1: "春",
 choice2: "真",
 choice3: "夏",
-answer: ,
+answer: 3,
 },
 
 {
