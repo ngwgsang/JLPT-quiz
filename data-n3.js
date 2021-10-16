@@ -17162,4 +17162,1804 @@ choice3: "箱棒",
 answer: 2,
 },
 
+{
+id: "A1907",
+question: "私は退職を(希望)する。",
+choice1: "ひぼう",
+choice2: "きぼう",
+choice3: "ぎほう",
+answer: 2,
+},
+
+{
+id: "A1908",
+question: "ぼくは君に(夢中)だ。",
+choice1: "めちゅう",
+choice2: "むちゅう",
+choice3: "きちゅう",
+answer: 2,
+},
+
+{
+id: "A1909",
+question: "(望遠)レンズで撮った写真。",
+choice1: "ぼうえん",
+choice2: " ほうけん",
+choice3: "ほうえん",
+answer: 1,
+},
+
+{
+id: "A1910",
+question: "よく(悪夢)を見ます。",
+choice1: "あくちゅう",
+choice2: "あくめ",
+choice3: "あくむ",
+answer: 3,
+},
+
+{
+id: "A1911",
+question: "(具体的)な説明に役立つ。",
+choice1: "くたいてきな",
+choice2: "ぐたいてきな",
+choice3: "ぐたいできな",
+answer: 2,
+},
+
+{
+id: "A1912",
+question: "(目的)地に到着する。",
+choice1: "もくそき",
+choice2: "もくてき",
+choice3: "めくでき",
+answer: 2,
+},
+
+{
+id: "A1913",
+question: "彼女は将来を(夢見る)ことにふけっていた。",
+choice1: "ゆめみる",
+choice2: "むみる",
+choice3: "めみる",
+answer: 1,
+},
+
+{
+id: "A1914",
+question: "(的)を狙って撃つ。",
+choice1: "そと",
+choice2: "まと",
+choice3: "てき",
+answer: 2,
+},
+
+{
+id: "A1915",
+question: "これは生産量が少なく(希少)品です。",
+choice1: "ぎしょう",
+choice2: "ふしょう",
+choice3: "きしょう",
+answer: 3,
+},
+
+{
+id: "A1916",
+question: "皆の幸せを(望む)。",
+choice1: "ほぞむ",
+choice2: "のぞむ",
+choice3: "たのむ",
+answer: 2,
+},
+
+{
+id: "A1917",
+question: "それは(全国的)に有名です。",
+choice1: "ぜんこうでき",
+choice2: "かんこくてき",
+choice3: "ぜんこくてき",
+answer: 3,
+},
+
+{
+id: "A1918",
+question: "(望遠鏡)で星を見る。",
+choice1: "ぼうえんきょう",
+choice2: "ほうえんぎょう",
+choice3: "のぞえんきょう",
+answer: 1,
+},
+
+{
+id: "A1919",
+question: "彼は恐ろしく(失望)した。",
+choice1: "しっぼう",
+choice2: "しつぼう",
+choice3: "しつぽう",
+answer: 2,
+},
+
+{
+id: "A1920",
+question: "あなたには結婚(願望)がありますか。",
+choice1: "がんもう",
+choice2: "がんぼう",
+choice3: "ねんぼう",
+answer: 1,
+},
+
+{
+id: "A1921",
+question: "私の想像が(的中)した。",
+choice1: "まとちゅう",
+choice2: "てっきちゅう",
+choice3: "てきちゅう",
+answer: 3,
+},
+
+{
+id: "A1922",
+question: "不安な(夢)を見る。",
+choice1: "むめ",
+choice2: "あめ",
+choice3: "ゆ",
+answer: 3,
+},
+
+{
+id: "A1923",
+question: "(ぼうえんきょう)で星をみる。",
+choice1: "望遠鏡",
+choice2: "塑袁鏡",
+choice3: "望速境",
+answer: 1,
+},
+
+{
+id: "A1924",
+question: "(きしょう)動物をほごする。",
+choice1: "奇少",
+choice2: "希少",
+choice3: "希抄",
+answer: 2,
+},
+
+{
+id: "A1925",
+question: "(ゆめ)に好きな人が出てきた。",
+choice1: "夢",
+choice2: "儚",
+choice3: "蔓",
+answer: 1,
+},
+
+{
+id: "A1926",
+question: "ことしは(ぜんこくてき)に暑かった。",
+choice1: "企国的",
+choice2: "全国釣",
+choice3: "全国的",
+answer: 3,
+},
+
+{
+id: "A1927",
+question: "平和な世の中をの(ぞんでいる)。",
+choice1: "堅んでいる",
+choice2: "望んでいる",
+choice3: "堕んでいる",
+answer: 2,
+},
+
+{
+id: "A1928",
+question: "テレビゲームに(むちゅう)になる。",
+choice1: "夢仲",
+choice2: "夛中",
+choice3: "夢中",
+answer: 3,
+},
+
+{
+id: "A1929",
+question: "第一(きぼう)の大学に合格した。",
+choice1: "布望",
+choice2: "奇望",
+choice3: "希望",
+answer: 3,
+},
+
+{
+id: "A1930",
+question: "オリンピック選手を(ゆめみる)。",
+choice1: "夢硯る",
+choice2: "蔓見る",
+choice3: "夢見る",
+answer: 3,
+},
+
+{
+id: "A1931",
+question: "日本に来た(もくてき)を聞かれた。",
+choice1: "木的",
+choice2: "日的",
+choice3: "目的",
+answer: 3,
+},
+
+{
+id: "A1932",
+question: "彼の言動に(しつぼう)する。",
+choice1: "朱堕",
+choice2: "失望",
+choice3: "夫望",
+answer: 2,
+},
+
+{
+id: "A1933",
+question: "(ぐたいてきな)例をあげて説明する。",
+choice1: "倶体的な",
+choice2: "具体的な",
+choice3: "俱本的な",
+answer: 2,
+},
+
+{
+id: "A1934",
+question: "彼女のファッションに注目の(まと)だ。",
+choice1: "的",
+choice2: "約",
+choice3: "拘",
+answer: 1,
+},
+
+{
+id: "A1935",
+question: "カメラに(ぼうえん)レンズをつける。",
+choice1: "望袁",
+choice2: "望遠",
+choice3: "望速",
+answer: 2,
+},
+
+{
+id: "A1936",
+question: "(あくむ)のような事件が起きる。",
+choice1: "悪夢",
+choice2: "惡夢",
+choice3: "黒夢",
+answer: 1,
+},
+
+{
+id: "A1937",
+question: "私は結婚(がんもう)が無い。",
+choice1: "願忘",
+choice2: "頑望",
+choice3: "願望",
+answer: 3,
+},
+
+{
+id: "A1938",
+question: "テストで予想が(てきちゅう)した。",
+choice1: "的中",
+choice2: "約仲",
+choice3: "的",
+answer: 1,
+},
+
+{
+id: "A1939",
+question: "いつでもご(利用可能)です。",
+choice1: "うのう",
+choice2: "かのう",
+choice3: "かぬう",
+answer: 2,
+},
+
+{
+id: "A1940",
+question: "彼は絵の(才能)がある。",
+choice1: "ざいのう",
+choice2: "さいのう",
+choice3: "さいこう",
+answer: 2,
+},
+
+{
+id: "A1941",
+question: "この(可能性)を否定できない。",
+choice1: "かのうせい",
+choice2: "がのうせい",
+choice3: "かきょうせい",
+answer: 1,
+},
+
+{
+id: "A1942",
+question: "彼について(調べる)。",
+choice1: "しざべる",
+choice2: "しがべる",
+choice3: "しらべる",
+answer: 3,
+},
+
+{
+id: "A1943",
+question: "コンピュータの(性能)が向上する。",
+choice1: "じょうのう",
+choice2: "せいのう",
+choice3: "ぜいのう",
+answer: 2,
+},
+
+{
+id: "A1944",
+question: "味を(調える)。",
+choice1: "そそのえる",
+choice2: "ととのえる",
+choice3: "そとのえる",
+answer: 2,
+},
+
+{
+id: "A1945",
+question: "(不可能)な事を試みる。",
+choice1: "ふかのう",
+choice2: "ふせいのう",
+choice3: "ふさいのう",
+answer: 1,
+},
+
+{
+id: "A1946",
+question: "リストから(選択)する。",
+choice1: "ぜんたく",
+choice2: "せんたく",
+choice3: "せんさく",
+answer: 2,
+},
+
+{
+id: "A1947",
+question: "事件を(調査)する。",
+choice1: "ちょさ",
+choice2: "しらべさ",
+choice3: "ちょうさ",
+answer: 3,
+},
+
+{
+id: "A1948",
+question: "その事を彼らが(許可)してくれた。",
+choice1: "きょが",
+choice2: "きょか",
+choice3: "きょうか",
+answer: 2,
+},
+
+{
+id: "A1949",
+question: "この食事が(調う)までの多くの人々の働きに思いをいたします。",
+choice1: "しらう",
+choice2: "ちょう",
+choice3: "ととのう",
+answer: 3,
+},
+
+{
+id: "A1950",
+question: "彼はその(選挙)で負ける。",
+choice1: "せんきょ",
+choice2: "せんしゅ",
+choice3: "せんたく",
+answer: 1,
+},
+
+{
+id: "A1951",
+question: "彼の顔は(可愛い)です。",
+choice1: "かあい",
+choice2: "かわいい",
+choice3: "かわい",
+answer: 2,
+},
+
+{
+id: "A1952",
+question: "彼は野球の(選手)です。",
+choice1: "せんしゅ",
+choice2: "せんじょ",
+choice3: "せんきょ",
+answer: 1,
+},
+
+{
+id: "A1953",
+question: "今日は(体調)が悪い。",
+choice1: "こうちょう",
+choice2: "だいちょう",
+choice3: "たいちょう",
+answer: 3,
+},
+
+{
+id: "A1954",
+question: "私たちは十分に(能力)がある。",
+choice1: "せいりょく",
+choice2: "のうりょう",
+choice3: "のうりょく",
+answer: 3,
+},
+
+{
+id: "A1955",
+question: "胃の(調子)が悪いです。",
+choice1: "ちょうし",
+choice2: "ちょうこ",
+choice3: "じょうし",
+answer: 1,
+},
+
+{
+id: "A1956",
+question: "韓国で11月17日,大学修学(能力試験)(CSAT)が行われた。",
+choice1: "こうりょくしけん",
+choice2: "のうりょくしけん",
+choice3: "のうりょうしけん",
+answer: 2,
+},
+
+{
+id: "A1957",
+question: "私はどっちを(選ぶ)か決められない。",
+choice1: "えらぶ",
+choice2: "せんぶ",
+choice3: "ぜんぶ",
+answer: 1,
+},
+
+{
+id: "A1958",
+question: "彼の仕事は(順調)です。",
+choice1: "じゅんせい",
+choice2: "じゅんちょう",
+choice3: "じゅんち",
+answer: 2,
+},
+
+{
+id: "A1959",
+question: "(かのう)なかぎりがんばりたい。",
+choice1: "可能",
+choice2: "何能",
+choice3: "司態",
+answer: 1,
+},
+
+{
+id: "A1960",
+question: "辞書で言葉の意味を(しらべる)。",
+choice1: "凋べる",
+choice2: "調べる",
+choice3: "彫べる",
+answer: 2,
+},
+
+{
+id: "A1961",
+question: "結婚式の準備が(ととのった)。",
+choice1: "調った",
+choice2: "凋った",
+choice3: "調た",
+answer: 1,
+},
+
+{
+id: "A1962",
+question: "新しい市長を決める(せんきょ)がある。",
+choice1: "巽挙",
+choice2: "撰挙",
+choice3: "選挙",
+answer: 3,
+},
+
+{
+id: "A1963",
+question: "彼はすばらしい(さいのう)を持っている。",
+choice1: "財能",
+choice2: "才能",
+choice3: "才熊",
+answer: 2,
+},
+
+{
+id: "A1964",
+question: "雨が降る(かのうせい)がある。",
+choice1: "可熊牲",
+choice2: "可態生",
+choice3: "可能性",
+answer: 3,
+},
+
+{
+id: "A1965",
+question: "日本での生活は(じゅんちょう)だ。",
+choice1: "順凋",
+choice2: "馴調",
+choice3: "順調",
+answer: 3,
+},
+
+{
+id: "A1966",
+question: "アンケート(ちょうさ)を行った。",
+choice1: "調香",
+choice2: "凋杳",
+choice3: "調査",
+answer: 3,
+},
+
+{
+id: "A1967",
+question: "日本語(のうりょくしけん)を受ける。",
+choice1: "能方式験",
+choice2: "態力試検",
+choice3: "能力試験",
+answer: 3,
+},
+
+{
+id: "A1968",
+question: "家から近い学校を(えらぶ)。",
+choice1: "巽ぶ",
+choice2: "選ぶ",
+choice3: "撰ぶ",
+answer: 2,
+},
+
+{
+id: "A1969",
+question: "(せいのう)が良い自動車。",
+choice1: "生能",
+choice2: "性能",
+choice3: "牲態",
+answer: 2,
+},
+
+{
+id: "A1970",
+question: "体の(ちょうし)が悪い。",
+choice1: "調子",
+choice2: "凋予",
+choice3: "周子",
+answer: 1,
+},
+
+{
+id: "A1971",
+question: "この世に(ふかのう)なことはない。",
+choice1: "不何能",
+choice2: "不可能",
+choice3: "不司熊",
+answer: 2,
+},
+
+{
+id: "A1972",
+question: "私の姉はテニス(せんしゅ)だ。",
+choice1: "選手",
+choice2: "撰手",
+choice3: "巽守",
+answer: 1,
+},
+
+{
+id: "A1973",
+question: "塩をいれてあじを(ととのえる)。",
+choice1: "彫える",
+choice2: "調る",
+choice3: "調える",
+answer: 3,
+},
+
+{
+id: "A1974",
+question: "最近(たいちょう)があまりよくない。",
+choice1: "体調",
+choice2: "休彫",
+choice3: "本調",
+answer: 1,
+},
+
+{
+id: "A1975",
+question: "(のうりょく)をしごとにいかす。",
+choice1: "態力",
+choice2: "熊力",
+choice3: "能力",
+answer: 3,
+},
+
+{
+id: "A1976",
+question: "この(せんたく)は正しい。",
+choice1: "撰訳",
+choice2: "選択",
+choice3: "巽沢",
+answer: 2,
+},
+
+{
+id: "A1977",
+question: "政府の(きょか)が必要です。",
+choice1: "訐河",
+choice2: "訐司",
+choice3: "許可",
+answer: 3,
+},
+
+{
+id: "A1978",
+question: "君は(かわいい)ね。",
+choice1: "司曖い",
+choice2: "可愛い",
+choice3: "珂愛い",
+answer: 2,
+},
+
+{
+id: "A1979",
+question: "彼は(面白い)人ですね。",
+choice1: "おもしらい",
+choice2: "おもしろい",
+choice3: "めんしろい",
+answer: 2,
+},
+
+{
+id: "A1980",
+question: "こわれた茶碗を(接ぐ)。",
+choice1: "せつぐ",
+choice2: "つぐ",
+choice3: "せぐ",
+answer: 2,
+},
+
+{
+id: "A1981",
+question: "彼は青い目の(面長)な男だ。",
+choice1: "おもなが",
+choice2: "めんなが",
+choice3: "めんちょう",
+answer: 1,
+},
+
+{
+id: "A1982",
+question: "彼は子供に優しく(接する)。",
+choice1: "せする",
+choice2: "せつする",
+choice3: "せっする",
+answer: 3,
+},
+
+{
+id: "A1983",
+question: "友人の信頼を(受ける)。",
+choice1: "あける",
+choice2: "うける",
+choice3: "じゅける",
+answer: 2,
+},
+
+{
+id: "A1984",
+question: "ローラ(面)は斜面部分を有する。",
+choice1: "ぜん",
+choice2: "めん",
+choice3: "せん",
+answer: 2,
+},
+
+{
+id: "A1985",
+question: "失敗に力を(落とす)な。",
+choice1: "おとす",
+choice2: "うとす",
+choice3: "ととす",
+answer: 1,
+},
+
+{
+id: "A1986",
+question: "まだメールを(受信)できませんか？",
+choice1: "うけしん",
+choice2: "じゅしん",
+choice3: "しゅじん",
+answer: 2,
+},
+
+{
+id: "A1987",
+question: "彼は、(前に面した)。",
+choice1: "ぜんした",
+choice2: "おもした",
+choice3: "めんした",
+answer: 3,
+},
+
+{
+id: "A1988",
+question: "彼らはあなたに(直接連絡)します。",
+choice1: "ちょうせつ",
+choice2: "ちょくせつ",
+choice3: "そくせつ",
+answer: 2,
+},
+
+{
+id: "A1989",
+question: "(面)にタクシーを待たせてある。",
+choice1: "おも",
+choice2: "めん",
+choice3: "おもて",
+answer: 3,
+},
+
+{
+id: "A1990",
+question: "私は彼と一緒にいると(落ち着く)。",
+choice1: "おちつく",
+choice2: "うちつく",
+choice3: "とちつく",
+answer: 1,
+},
+
+{
+id: "A1991",
+question: "恥じて(赤面)した。",
+choice1: "あかめん",
+choice2: "あかつら",
+choice3: "あかおも",
+answer: 2,
+},
+
+{
+id: "A1992",
+question: "(受話器)をはずして耳に当てる。",
+choice1: "じゅわき",
+choice2: "しゅわき",
+choice3: "じゅうわき",
+answer: 1,
+},
+
+{
+id: "A1993",
+question: "私は(面接)を受けました。",
+choice1: "おもせつ",
+choice2: "めんぜつ",
+choice3: "めんせつ",
+answer: 3,
+},
+
+{
+id: "A1994",
+question: "ここに(落書き)するな。",
+choice1: "らっがきする",
+choice2: "らくかきする",
+choice3: "らくがきする",
+answer: 3,
+},
+
+{
+id: "A1995",
+question: "彼女は私の(顔面)をたたいた。",
+choice1: "がんめん",
+choice2: "がいめん",
+choice3: "かおめん",
+answer: 1,
+},
+
+{
+id: "A1996",
+question: "(外面)は美しいが、内面は醜い。",
+choice1: "がんめん",
+choice2: "がいめん",
+choice3: "そとめん",
+answer: 2,
+},
+
+{
+id: "A1997",
+question: "椅子から(落ちる)。",
+choice1: "おちる",
+choice2: "つちる",
+choice3: "とちる",
+answer: 1,
+},
+
+{
+id: "A1998",
+question: "彼らは(真面目)に見えない。",
+choice1: "じめんめ",
+choice2: "まじめ",
+choice3: "まじめん",
+answer: 2,
+},
+
+{
+id: "A1999",
+question: "その場所は(接近)しがたい。",
+choice1: "せっきん",
+choice2: "せつきん",
+choice3: "ぜっきん",
+answer: 1,
+},
+
+{
+id: "A2000",
+question: "今度は試験を(受かる)つもりだ。",
+choice1: "じゅかる",
+choice2: "うかる",
+choice3: "あかる",
+answer: 2,
+},
+
+{
+id: "A2001",
+question: "(受験)したが失敗するだけだった。",
+choice1: "じゅけんした",
+choice2: "じゅうけんした",
+choice3: "しゅけんした",
+answer: 1,
+},
+
+{
+id: "A2002",
+question: "フリーで活動する(落語)家もいる。",
+choice1: "きくご",
+choice2: "らくご",
+choice3: "はく",
+answer: 2,
+},
+
+{
+id: "A2003",
+question: "バラの若木を(つぐ)。",
+choice1: "接ぐ",
+choice2: "按ぐ",
+choice3: "椄ぐ",
+answer: 1,
+},
+
+{
+id: "A2004",
+question: "彼は(がいめん)だけはいい。",
+choice1: "外緬",
+choice2: "外面",
+choice3: "外麺",
+answer: 2,
+},
+
+{
+id: "A2005",
+question: "二次の(めんせつ)しけんにも合格した。",
+choice1: "面接",
+choice2: "面椄",
+choice3: "緬而",
+answer: 1,
+},
+
+{
+id: "A2006",
+question: "その本は(おもしろい)と思います。",
+choice1: "緬百い",
+choice2: "面自い",
+choice3: "面白い",
+answer: 3,
+},
+
+{
+id: "A2007",
+question: "彼女は(おもなが)美人だ。",
+choice1: "面脹",
+choice2: "面長",
+choice3: "而長",
+answer: 2,
+},
+
+{
+id: "A2008",
+question: "私の家は大通りに(めんして)いる。",
+choice1: "緬して",
+choice2: "而して",
+choice3: "面して",
+answer: 3,
+},
+
+{
+id: "A2009",
+question: "台風が(せっきん)している。",
+choice1: "授近",
+choice2: "接近",
+choice3: "捨芹",
+answer: 2,
+},
+
+{
+id: "A2010",
+question: "投手のボールを(うける)。",
+choice1: "受ける",
+choice2: "授ける",
+choice3: "綬ける",
+answer: 1,
+},
+
+{
+id: "A2011",
+question: "大学を(じゅけん)する。",
+choice1: "綬験",
+choice2: "授検",
+choice3: "受験",
+answer: 3,
+},
+
+{
+id: "A2012",
+question: "近所にかみなりが(おちた)。",
+choice1: "楽ちた",
+choice2: "落ちた",
+choice3: "落た",
+answer: 2,
+},
+
+{
+id: "A2013",
+question: "ボールが(がんめん)に当たった。",
+choice1: "頭緬",
+choice2: "顔面",
+choice3: "願面",
+answer: 2,
+},
+
+{
+id: "A2014",
+question: "電話が鳴ったので(じゅわき)を取った。",
+choice1: "受話器",
+choice2: "授語器",
+choice3: "綬話品",
+answer: 1,
+},
+
+{
+id: "A2015",
+question: "人と(せっする)仕事がしたい。",
+choice1: "捨する",
+choice2: "接する",
+choice3: "椄する",
+answer: 2,
+},
+
+{
+id: "A2016",
+question: "子どもが、かべに(らくがき)する。",
+choice1: "落書き",
+choice2: "洛書き",
+choice3: "絡書き",
+answer: 1,
+},
+
+{
+id: "A2017",
+question: "大学の試験に(うかった)。",
+choice1: "授かった",
+choice2: "綬った",
+choice3: "受かった",
+answer: 3,
+},
+
+{
+id: "A2018",
+question: "湖の(おもて)に太陽が映る。",
+choice1: "面",
+choice2: "画",
+choice3: "而",
+answer: 1,
+},
+
+{
+id: "A2019",
+question: "パソコンの電源を(おとす)。",
+choice1: "洛す",
+choice2: "落す",
+choice3: "落とす",
+answer: 3,
+},
+
+{
+id: "A2020",
+question: "(らくご)を見に行く。",
+choice1: "洛話",
+choice2: "落語",
+choice3: "絡語",
+answer: 2,
+},
+
+{
+id: "A2021",
+question: "あなたはとても(まじめ)です。",
+choice1: "真画日",
+choice2: "槙面目",
+choice3: "真面目",
+answer: 3,
+},
+
+{
+id: "A2022",
+question: "恥じて(あかつら)した。",
+choice1: "変緬",
+choice2: "赤面",
+choice3: "赤麺",
+answer: 2,
+},
+
+{
+id: "A2023",
+question: "私は彼と一緒にいると(おちつく)。",
+choice1: "洛ち著く",
+choice2: "落ち着く",
+choice3: "茖ち着く",
+answer: 2,
+},
+
+{
+id: "A2024",
+question: "(めんせつ)に合格する。",
+choice1: "面接",
+choice2: "而接",
+choice3: "面妄",
+answer: 1,
+},
+
+{
+id: "A2025",
+question: "彼は(ちょくせつ)会社に行きます。",
+choice1: "埴接",
+choice2: "植按",
+choice3: "直接",
+answer: 3,
+},
+
+{
+id: "A2026",
+question: "まだメールを(じゅしん)できませんか。",
+choice1: "授信",
+choice2: "受信",
+choice3: "授言",
+answer: 2,
+},
+
+{
+id: "A2027",
+question: "それは(効率)が良い。",
+choice1: "うす",
+choice2: "こうりつ",
+choice3: "がす",
+answer: 2,
+},
+
+{
+id: "A2028",
+question: "鉄を打って(平ら)にする。",
+choice1: "へいら",
+choice2: "たいら",
+choice3: "ひいら",
+answer: 2,
+},
+
+{
+id: "A2029",
+question: "物価がほぼ(二倍)になる。",
+choice1: "にばい",
+choice2: "にはい",
+choice3: "はいばい",
+answer: 1,
+},
+
+{
+id: "A2030",
+question: "彼はドラムを(手の平)でたたいた。",
+choice1: "てのうら",
+choice2: "てのへら",
+choice3: "てのひら",
+answer: 3,
+},
+
+{
+id: "A2031",
+question: "私は世界(平和)を願う。",
+choice1: "ひらわ",
+choice2: "へいわ",
+choice3: "ひいら",
+answer: 2,
+},
+
+{
+id: "A2032",
+question: "この生産能力は(三倍)になる。",
+choice1: "さんはい",
+choice2: "さんばい",
+choice3: "ざんばい",
+answer: 2,
+},
+
+{
+id: "A2033",
+question: "今年は(平成)何年ですか。",
+choice1: "へいせい",
+choice2: "ひらせい",
+choice3: "へいせ",
+answer: 1,
+},
+
+{
+id: "A2034",
+question: "最大(倍率)は 200 % です。",
+choice1: "はいりつ",
+choice2: "ばいりつ",
+choice3: "ぱいりつ",
+answer: 2,
+},
+
+{
+id: "A2035",
+question: "人は誰でも(平等)である。",
+choice1: "ひらどう",
+choice2: "へいどう",
+choice3: "びょうどう",
+answer: 3,
+},
+
+{
+id: "A2036",
+question: "レギュラーになるなら、(人一倍)頑張らなくっちゃ。",
+choice1: "ひといっばい",
+choice2: "ひといちばい",
+choice3: "にんいちばい",
+answer: 2,
+},
+
+{
+id: "A2037",
+question: "私は(平日)が仕事です。",
+choice1: "ひらにち",
+choice2: "へいにち",
+choice3: "へいじつ",
+answer: 3,
+},
+
+{
+id: "A2038",
+question: "この問題の発生(確率)は低い。",
+choice1: "かくりつ",
+choice2: "せいりつ",
+choice3: "がくりつ",
+answer: 1,
+},
+
+{
+id: "A2039",
+question: "彼は(平社員)に降格になった。",
+choice1: "へいしゃいん",
+choice2: "ひらしゃいん",
+choice3: "へいじゃいん",
+answer: 2,
+},
+
+{
+id: "A2040",
+question: "お宅の割(引率)はどのくらいですか。",
+choice1: "いんそつ",
+choice2: "いんりつ",
+choice3: "こうりつ",
+answer: 1,
+},
+
+{
+id: "A2041",
+question: "私は(平均)的な人間です。",
+choice1: "へんきん",
+choice2: "ひらきん",
+choice3: "へいきん",
+answer: 3,
+},
+
+{
+id: "A2042",
+question: "彼が楽団を(率いる)歌手だ。",
+choice1: "りくいる",
+choice2: "そついる",
+choice3: "ひきいる",
+answer: 3,
+},
+
+{
+id: "A2043",
+question: "2つの(均等)な部分に分ける。",
+choice1: "きんとう",
+choice2: "びょうとう",
+choice3: "へいとう",
+answer: 1,
+},
+
+{
+id: "A2044",
+question: "商品は(全部百円均一)だ。",
+choice1: "びゃくえんやくいつ",
+choice2: "ひゃくえんきんいつ",
+choice3: "まんえんきんい",
+answer: 2,
+},
+
+{
+id: "A2045",
+question: "カメラの(ばいりつ)をかえる。",
+choice1: "倍率",
+choice2: "培率",
+choice3: "陪率",
+answer: 1,
+},
+
+{
+id: "A2046",
+question: "雨が降る(かくりつ)は10％だ。",
+choice1: "推卒",
+choice2: "確率",
+choice3: "碓率",
+answer: 2,
+},
+
+{
+id: "A2047",
+question: "彼は入社以来ずっと(ひらしゃいん)のままだ。",
+choice1: "平社員",
+choice2: "坪社員",
+choice3: "平杜員",
+answer: 1,
+},
+
+{
+id: "A2048",
+question: "前回のテストの(へいきん)は80点だった。",
+choice1: "平拘",
+choice2: "坪鈞",
+choice3: "平均",
+answer: 3,
+},
+
+{
+id: "A2049",
+question: "野菜の値段が例年の(にばい)になった。",
+choice1: "二陪",
+choice2: "二倍",
+choice3: "二培",
+answer: 2,
+},
+
+{
+id: "A2050",
+question: "学生を(ひきいて)、遠足へ行く。",
+choice1: "牽いて",
+choice2: "卒いて",
+choice3: "率いて",
+answer: 3,
+},
+
+{
+id: "A2051",
+question: "荷物が入ったダンボールを(たいら)に持つ。",
+choice1: "乎ら",
+choice2: "坪ら",
+choice3: "平ら",
+answer: 3,
+},
+
+{
+id: "A2052",
+question: "(へいじつ)の夕方はアルバイトをしている。",
+choice1: "乎目",
+choice2: "坪日",
+choice3: "平日",
+answer: 3,
+},
+
+{
+id: "A2053",
+question: "彼はひと(いちばい)元気だ。",
+choice1: "人一培",
+choice2: "入一陪",
+choice3: "人一倍",
+answer: 3,
+},
+
+{
+id: "A2054",
+question: "この店の商品は全て(ひゃくえんきんいつ)だ。",
+choice1: "万円約一",
+choice2: "百円均一",
+choice3: "白袁鈞一",
+answer: 2,
+},
+
+{
+id: "A2055",
+question: "売り上げでは去年の(さんばい)だ。",
+choice1: "三音",
+choice2: "三倍",
+choice3: "三賠",
+answer: 2,
+},
+
+{
+id: "A2056",
+question: "(こうりつ)良く仕事をする。",
+choice1: "効率",
+choice2: "校率",
+choice3: "功率",
+answer: 1,
+},
+
+{
+id: "A2057",
+question: "(てのひら)を広げて手相を見てもらう。",
+choice1: "手の坪",
+choice2: "手の平",
+choice3: "手の呼",
+answer: 2,
+},
+
+{
+id: "A2058",
+question: "私は(へいせい)元年生まれだ。",
+choice1: "平成",
+choice2: "坪戉",
+choice3: "乎咸",
+answer: 1,
+},
+
+{
+id: "A2059",
+question: "先生が生徒を(いんそつ)する。",
+choice1: "引座",
+choice2: "強卒",
+choice3: "引率",
+answer: 3,
+},
+
+{
+id: "A2060",
+question: "2つの(きんとう)な部分に分ける。",
+choice1: "均等",
+choice2: "鈞寺",
+choice3: "約等",
+answer: 1,
+},
+
+{
+id: "A2061",
+question: "チャンスは(びょうどう)にあたえられた。",
+choice1: "平筝",
+choice2: "坪等",
+choice3: "平等",
+answer: 3,
+},
+
+{
+id: "A2062",
+question: "(へいわ)な世の中を望んでいる。",
+choice1: "乎知",
+choice2: "平和",
+choice3: "坪和",
+answer: 2,
+},
+
+{
+id: "A2063",
+question: "この部品は出荷(実績)がありません。",
+choice1: "じつせき",
+choice2: "じっせき",
+choice3: "じっかん",
+answer: 2,
+},
+
+{
+id: "A2064",
+question: "一事成れば万事(成る)。",
+choice1: "せる",
+choice2: "なる",
+choice3: "かる",
+answer: 2,
+},
+
+{
+id: "A2065",
+question: "私の家族の(関係)は良好です。",
+choice1: "りょうこう",
+choice2: "ようこう",
+choice3: "よいこう",
+answer: 1,
+},
+
+{
+id: "A2066",
+question: "会社の(業績)を回復させる。",
+choice1: "ぎょうぜき",
+choice2: "きょうせき",
+choice3: "ぎょうせき",
+answer: 3,
+},
+
+{
+id: "A2067",
+question: "目的を(成就)する。",
+choice1: "せいじゅ",
+choice2: "じょうじゅ",
+choice3: "かんじゅ",
+answer: 2,
+},
+
+{
+id: "A2068",
+question: "ロ彼の(功績)は認められた。",
+choice1: "せいせき",
+choice2: "こうせき",
+choice3: "かんせき",
+answer: 2,
+},
+
+{
+id: "A2069",
+question: "自力で富を(成す)。",
+choice1: "なす",
+choice2: "うす",
+choice3: "せす",
+answer: 1,
+},
+
+{
+id: "A2070",
+question: "他人の(悪口)を言う。",
+choice1: "あくぐち",
+choice2: "わるぐち",
+choice3: "わるくち",
+answer: 2,
+},
+
+{
+id: "A2071",
+question: "彼の(成績)は下がった。",
+choice1: "かんせき",
+choice2: "こうせき",
+choice3: "せいせき",
+answer: 3,
+},
+
+{
+id: "A2072",
+question: "子供の(成長)は早い。",
+choice1: "かんちょう",
+choice2: "せいちょう",
+choice3: "こうちょう",
+answer: 2,
+},
+
+{
+id: "A2073",
+question: "あなたが(良心的)な価格を提示してくれると嬉しいです。",
+choice1: "ようこうてき",
+choice2: "よいしんてき",
+choice3: "りょうしんてき",
+answer: 3,
+},
+
+{
+id: "A2074",
+question: "私は目が(悪い)。",
+choice1: "わるい",
+choice2: "あくい",
+choice3: "わくい",
+answer: 1,
+},
+
+{
+id: "A2075",
+question: "彼の手術が(成功)した。",
+choice1: "こうせい",
+choice2: "せいこう",
+choice3: "かんこう",
+answer: 2,
+},
+
+{
+id: "A2076",
+question: "彼にはまったく(悪意)をもっていない。",
+choice1: "あくい",
+choice2: "わるい",
+choice3: "あっい",
+answer: 1,
+},
+
+{
+id: "A2077",
+question: "彼は目的を(達成)した。",
+choice1: "たつぜい",
+choice2: "だつせい",
+choice3: "たっせい",
+answer: 3,
+},
+
+{
+id: "A2078",
+question: "この商品は(不良品)なので、交換してもらえますか？",
+choice1: "ふかひん",
+choice2: "ふよひん",
+choice3: "ふりょうひん",
+answer: 3,
+},
+
+{
+id: "A2079",
+question: "彼の容体が(悪化)した。",
+choice1: "あっか",
+choice2: "おっか",
+choice3: "あくか",
+answer: 1,
+},
+
+{
+id: "A2080",
+question: "病気で仕事が(完成)できなかった。",
+choice1: "さんせい",
+choice2: "かんせい",
+choice3: "かんこう",
+answer: 2,
+},
+
+{
+id: "A2081",
+question: "私の肌の状態は(最悪)だ。",
+choice1: "さいあく",
+choice2: "さいわる",
+choice3: "さいおん",
+answer: 1,
+},
+
+{
+id: "A2082",
+question: "私たちは(成人式)で再会した。",
+choice1: "せいにんしき",
+choice2: "せいじんしき",
+choice3: "こうじんしき",
+answer: 2,
+},
+
+{
+id: "A2083",
+question: "彼は頭が(良い)。",
+choice1: "よい",
+choice2: "いい",
+choice3: "おい",
+answer: 2,
+},
+
+{
+id: "A2084",
+question: "(悪寒)がやってくるのを感じる。",
+choice1: "あっかん",
+choice2: "おかん",
+choice3: "おんさ",
+answer: 2,
+},
+
+{
+id: "A2085",
+question: "(せいせき)が上がってうれしかった。",
+choice1: "成績",
+choice2: "式積",
+choice3: "成積",
+answer: 1,
+},
+
+{
+id: "A2086",
+question: "気分が(よくない)ので、早退した。",
+choice1: "艮くない",
+choice2: "良くない",
+choice3: "很くない",
+answer: 2,
+},
+
+{
+id: "A2087",
+question: "あの店の商品は(りょうしん)てきな値段だ。",
+choice1: "良心的",
+choice2: "艮必的",
+choice3: "垠心的",
+answer: 1,
+},
+
+{
+id: "A2088",
+question: "熱もあるし、(おかん)もする。",
+choice1: "悪塞",
+choice2: "黒寒",
+choice3: "悪寒",
+answer: 3,
+},
+
+{
+id: "A2089",
+question: "この映画は全編と後編から(なる)。",
+choice1: "戊る",
+choice2: "成る",
+choice3: "戌る",
+answer: 2,
+},
+
+{
+id: "A2090",
+question: "ロケットの打ち上げに(せいこう)する。",
+choice1: "坂功",
+choice2: "反功",
+choice3: "成功",
+answer: 3,
+},
+
+{
+id: "A2091",
+question: "あの会社は最近(ぎょうせき)が伸びている。",
+choice1: "業籍",
+choice2: "業積",
+choice3: "業績",
+answer: 3,
+},
+
+{
+id: "A2092",
+question: "検査の結果は(りょうこう)だった。",
+choice1: "民好",
+choice2: "艮奸",
+choice3: "良好",
+answer: 3,
+},
+
+{
+id: "A2093",
+question: "明日は天気が(わるくなる)そうだ。",
+choice1: "恵くなる",
+choice2: "惠くなる",
+choice3: "悪くなる",
+answer: 3,
+},
+
+{
+id: "A2094",
+question: "(あくい)に満ちた目でにらむ。",
+choice1: "恵意",
+choice2: "悪意",
+choice3: "悪竟",
+answer: 2,
+},
+
+{
+id: "A2095",
+question: "会社の新しいビルが(かんせい)した。",
+choice1: "浣成",
+choice2: "完成",
+choice3: "莞戊",
+answer: 2,
+},
+
+{
+id: "A2096",
+question: "世界記録を(たっせい)する。",
+choice1: "達成",
+choice2: "遠成",
+choice3: "逹成",
+answer: 1,
+},
+
+{
+id: "A2097",
+question: "人(じっせき)が認められた。",
+choice1: "実積",
+choice2: "実績",
+choice3: "実責",
+answer: 2,
+},
+
+{
+id: "A2098",
+question: "友達に(わるぐち)を言われた。",
+choice1: "悪口",
+choice2: "惠口",
+choice3: "恵口",
+answer: 1,
+},
+
+{
+id: "A2099",
+question: "子どもの(せいちょう)を楽しみにする。",
+choice1: "反辰",
+choice2: "返長",
+choice3: "成長",
+answer: 3,
+},
+
+{
+id: "A2100",
+question: "(せいじんてき)に和服を着る。",
+choice1: "成人的",
+choice2: "式人的",
+choice3: "返入的",
+answer: 1,
+},
+
+{
+id: "A2101",
+question: "(ふりょうひん)を返品する。",
+choice1: "不退品",
+choice2: "不浪品",
+choice3: "不良品",
+answer: 3,
+},
+
+{
+id: "A2102",
+question: "寒い中外出したら、かぜが(あっかした)。",
+choice1: "悪花した",
+choice2: "悪化した",
+choice3: "栗化した",
+answer: 2,
+},
+
+{
+id: "A2103",
+question: "長年の願いがついに(じょうじゅ)した。",
+choice1: "成就",
+choice2: "反樹",
+choice3: "咸就",
+answer: 1,
+},
+
+{
+id: "A2104",
+question: "自分の計画を(なす)。",
+choice1: "反す",
+choice2: "成す",
+choice3: "坂す",
+answer: 2,
+},
+
+{
+id: "A2105",
+question: "彼の(こうせき)は認められた。",
+choice1: "効積",
+choice2: "切績",
+choice3: "功績",
+answer: 3,
+},
+
+{
+id: "A2106",
+question: "(さいあく)の事態が生じた。",
+choice1: "再悪",
+choice2: "最悪",
+choice3: "最惡",
+answer: 2,
+},
+
 ]
