@@ -16451,4 +16451,715 @@ choice3: "口坐",
 answer: 2,
 },
 
+{
+id: "A1828",
+question: "私は彼に私の道具を(貸す)。",
+choice1: "うす",
+choice2: "かす",
+choice3: "がす",
+answer: 2,
+},
+
+{
+id: "A1829",
+question: "銀行から金を(借りる)。",
+choice1: "かえりる",
+choice2: "かりる",
+choice3: "しりる",
+answer: 2,
+},
+
+{
+id: "A1830",
+question: "この(小冊子)は無料だ。",
+choice1: "しょうさっし",
+choice2: "こさっし",
+choice3: "こうざっし",
+answer: 1,
+},
+
+{
+id: "A1831",
+question: "彼は決して物の(貸し借り)はしない。",
+choice1: "うしかり",
+choice2: "かしがり",
+choice3: "かしかり",
+answer: 3,
+},
+
+{
+id: "A1832",
+question: "解式は(別冊)になっている。",
+choice1: "べつさつ",
+choice2: "べっさつ",
+choice3: "ぺつざつ",
+answer: 2,
+},
+
+{
+id: "A1833",
+question: "過去を(振り返る)な。",
+choice1: "ふえりかる",
+choice2: "ふりかえる",
+choice3: "ふりかしる",
+answer: 2,
+},
+
+{
+id: "A1834",
+question: "(貸し切り)バスを一台都合して欲しいんですが。",
+choice1: "かしきり",
+choice2: "がしぎり",
+choice3: "うしかり",
+answer: 1,
+},
+
+{
+id: "A1835",
+question: "(借地)契約を書き替える。",
+choice1: "かち",
+choice2: "しゃくち",
+choice3: "じゃくち",
+answer: 2,
+},
+
+{
+id: "A1836",
+question: "私はこの本を(三冊)買いたい。",
+choice1: "みつざつ",
+choice2: "みっさつ",
+choice3: "さんさつ",
+answer: 3,
+},
+
+{
+id: "A1837",
+question: "私に(返信)してください。",
+choice1: "へんじん",
+choice2: "へんしん",
+choice3: "へんし",
+answer: 2,
+},
+
+{
+id: "A1838",
+question: "(寝返り)ができるようになった。",
+choice1: "ねふえり",
+choice2: "ねふかり",
+choice3: "ねがえり",
+answer: 3,
+},
+
+{
+id: "A1839",
+question: "(賃貸)料はいくらですか？",
+choice1: "ちんたい",
+choice2: "たいしゃく",
+choice3: "やたい",
+answer: 1,
+},
+
+{
+id: "A1840",
+question: "(返品)を受け付けました。",
+choice1: "けんぴん",
+choice2: "へんぴん",
+choice3: "べんひん",
+answer: 2,
+},
+
+{
+id: "A1841",
+question: "私は彼と(貸借)関係はない。",
+choice1: "たいしゃく",
+choice2: "かしゃく",
+choice3: "ちちゃく",
+answer: 1,
+},
+
+{
+id: "A1842",
+question: "早い(返事)をありがとう。",
+choice1: "へんこと",
+choice2: "はんじ",
+choice3: "へんじ",
+answer: 3,
+},
+
+{
+id: "A1843",
+question: "彼らは(借家)に住んでいる。",
+choice1: "しゃくち",
+choice2: "しゃくか",
+choice3: "しゃくや",
+answer: 3,
+},
+
+{
+id: "A1844",
+question: "年をとるとこどもに(返る)。",
+choice1: "かえる",
+choice2: "ふえる",
+choice3: "かる",
+answer: 1,
+},
+
+{
+id: "A1845",
+question: "これを君に(返す)よ。",
+choice1: "ふえす",
+choice2: "かえす",
+choice3: "へんす",
+answer: 2,
+},
+
+{
+id: "A1846",
+question: " 働いて(借金)を返す。",
+choice1: "しゃっきん",
+choice2: "しゃくきん",
+choice3: "かりかね",
+answer: 1,
+},
+
+{
+id: "A1847",
+question: "彼らは移動を(繰り返す)。",
+choice1: "ふりかえす",
+choice2: "くりかえす",
+choice3: "うりがえす",
+answer: 2,
+},
+
+{
+id: "A1848",
+question: "日本人は(短冊)に願い事を書く。",
+choice1: "たんざく",
+choice2: "たんさつ",
+choice3: "たんざ",
+answer: 1,
+},
+
+{
+id: "A1849",
+question: "(たいしゃく)について法律で定められている。",
+choice1: "貸借",
+choice2: "貰昔",
+choice3: "貸供",
+answer: 1,
+},
+
+{
+id: "A1850",
+question: "多くの(しゃっきん)をかかえる。",
+choice1: "貸金",
+choice2: "借金",
+choice3: "昔金",
+answer: 2,
+},
+
+{
+id: "A1851",
+question: "友達に本を(かした)。",
+choice1: "貸した",
+choice2: "貨した",
+choice3: "賃した",
+answer: 1,
+},
+
+{
+id: "A1852",
+question: "1か月に本を(さんさつ)読んだ。",
+choice1: "三柵",
+choice2: "三册",
+choice3: "三冊",
+answer: 3,
+},
+
+{
+id: "A1853",
+question: "日本人は(たんざく)に願い事を書く。",
+choice1: "逗冊",
+choice2: "短冊",
+choice3: "豆柵",
+answer: 2,
+},
+
+{
+id: "A1854",
+question: "友達にノートを(かえす)。",
+choice1: "坂す",
+choice2: "反す",
+choice3: "返す",
+answer: 3,
+},
+
+{
+id: "A1855",
+question: "後ろを(ふりかえる)。",
+choice1: "帳り反る",
+choice2: "繰り返る",
+choice3: "振り返る",
+answer: 3,
+},
+
+{
+id: "A1856",
+question: "メールにすぐに(へんしん)をした。",
+choice1: "板信",
+choice2: "坂信",
+choice3: "返信",
+answer: 3,
+},
+
+{
+id: "A1857",
+question: "4月号は(べっさつ)付録がついている。",
+choice1: "別而",
+choice2: "捌冊",
+choice3: "別冊",
+answer: 3,
+},
+
+{
+id: "A1858",
+question: "(しゃくち)に家を建てた。",
+choice1: "貸弛",
+choice2: "借地",
+choice3: "惜地",
+answer: 2,
+},
+
+{
+id: "A1859",
+question: "お金の(かしかり)はやめなさい。",
+choice1: "貸し惜り",
+choice2: "貸し借り",
+choice3: "貨し惜り",
+answer: 2,
+},
+
+{
+id: "A1860",
+question: "(ねがえり)をうつ。",
+choice1: "寝返り",
+choice2: "浸返り",
+choice3: "寝反り",
+answer: 1,
+},
+
+{
+id: "A1861",
+question: "バスを(かしきって)遠足へ行った。",
+choice1: "賈切って",
+choice2: "貸し切って",
+choice3: "貨し刃って",
+answer: 2,
+},
+
+{
+id: "A1862",
+question: "服を(へんぴん)したい。",
+choice1: "返品",
+choice2: "阪品",
+choice3: "坂品",
+answer: 1,
+},
+
+{
+id: "A1863",
+question: "おなじ失敗を(くりかえす)。",
+choice1: "繰り反す",
+choice2: "振り返す",
+choice3: "繰り返す",
+answer: 3,
+},
+
+{
+id: "A1864",
+question: "去年から(ちんたい)のアパートにすんでいる。",
+choice1: "賃貸",
+choice2: "貸借",
+choice3: "賃借",
+answer: 1,
+},
+
+{
+id: "A1865",
+question: "図書館で本を(かりる)。",
+choice1: "貨りる",
+choice2: "貸りる",
+choice3: "借りる",
+answer: 3,
+},
+
+{
+id: "A1866",
+question: "(しょうさっし)をくばる。",
+choice1: "少冊予",
+choice2: "小冊子",
+choice3: "抄冊字",
+answer: 2,
+},
+
+{
+id: "A1867",
+question: "大きい声で(へんじ)をする。",
+choice1: "反書",
+choice2: "返事",
+choice3: "版事",
+answer: 2,
+},
+
+{
+id: "A1868",
+question: "年をとるとこどもに(かえる)。",
+choice1: "反る",
+choice2: "返る",
+choice3: "坂え",
+answer: 2,
+},
+
+{
+id: "A1869",
+question: "(ゴミ箱)をきれいにする。",
+choice1: "ゴミはこ",
+choice2: "ゴミばこ",
+choice3: "ゴミあこ",
+answer: 2,
+},
+
+{
+id: "A1870",
+question: "多くの(道具)がある。",
+choice1: "どっく",
+choice2: "どうぐ",
+choice3: "とうぐ",
+answer: 2,
+},
+
+{
+id: "A1871",
+question: "昨日、(文具店)に行った。",
+choice1: "ぶんぐてん",
+choice2: "ふんぐや",
+choice3: "ぶんぐうや",
+answer: 1,
+},
+
+{
+id: "A1872",
+question: "部屋には(家具)がない。",
+choice1: "いえぐ",
+choice2: "かいぐ",
+choice3: "かぐ",
+answer: 3,
+},
+
+{
+id: "A1873",
+question: "彼は(鉄棒)で 9.80 の得点をあげた。",
+choice1: "てっぼう",
+choice2: "てつぼう",
+choice3: "せつぼう",
+answer: 2,
+},
+
+{
+id: "A1874",
+question: "(遊具)は2006年３月に設置された。",
+choice1: "ゆびぐ",
+choice2: "ゆうぐ",
+choice3: "ゆぐう",
+answer: 2,
+},
+
+{
+id: "A1875",
+question: "救いの手を(伸べる)。",
+choice1: "のべる",
+choice2: "うべる",
+choice3: "しべる",
+answer: 1,
+},
+
+{
+id: "A1876",
+question: "あなたはこれからも私の(相棒)でいてください。",
+choice1: "そうぼう",
+choice2: "あいぼう",
+choice3: "あいぽう",
+answer: 2,
+},
+
+{
+id: "A1877",
+question: "手紙に(追伸)を書き加える。",
+choice1: "かしん",
+choice2: "つうしん",
+choice3: "ついしん",
+answer: 3,
+},
+
+{
+id: "A1878",
+question: "(具体的)に話して欲しい。",
+choice1: "ぐうたいてき",
+choice2: "ぐたいてき",
+choice3: "くたいてき",
+answer: 2,
+},
+
+{
+id: "A1879",
+question: "この木はよく(伸びる)。",
+choice1: "しんびる",
+choice2: "あびる",
+choice3: "のびる",
+answer: 3,
+},
+
+{
+id: "A1880",
+question: "(本箱)には本がぎっしり詰まっていた。",
+choice1: "ほんばこ",
+choice2: "ほんはこ",
+choice3: "もとはこ",
+answer: 1,
+},
+
+{
+id: "A1881",
+question: "足が(棒)になるまで歩いた。",
+choice1: "ぽう",
+choice2: "ぼう",
+choice3: "ほう",
+answer: 2,
+},
+
+{
+id: "A1882",
+question: "木が枝を(伸ばす)。",
+choice1: "のばす",
+choice2: "うばす",
+choice3: "しばす",
+answer: 1,
+},
+
+{
+id: "A1883",
+question: "あの(箱)はこの(箱)ほど小さくない。",
+choice1: "ばこ",
+choice2: "はっこ",
+choice3: "はこ",
+answer: 3,
+},
+
+{
+id: "A1884",
+question: "私は背が(伸び)なかった。",
+choice1: "ほび",
+choice2: "おび",
+choice3: "のび",
+answer: 3,
+},
+
+{
+id: "A1885",
+question: "(空き箱)にゴミを捨てる。",
+choice1: "あきばこ",
+choice2: "あきはこ",
+choice3: "くきばこ",
+answer: 1,
+},
+
+{
+id: "A1886",
+question: "自由に(屈伸)ができる。",
+choice1: "くつしん",
+choice2: "くっしん",
+choice3: "くうしん",
+answer: 2,
+},
+
+{
+id: "A1887",
+question: "(泥棒)が逃げた。",
+choice1: "どろぼう",
+choice2: "どうぼう",
+choice3: "ころぼ",
+answer: 1,
+},
+
+{
+id: "A1888",
+question: "(ぐたい)例を出して説明した。",
+choice1: "具体",
+choice2: "貝体",
+choice3: "俱休",
+answer: 1,
+},
+
+{
+id: "A1889",
+question: "調理(どうぐ)をそろえる。",
+choice1: "導具",
+choice2: "道具",
+choice3: "首俱",
+answer: 2,
+},
+
+{
+id: "A1890",
+question: "(あきばこ)におもちゃをしまう。",
+choice1: "空き箱",
+choice2: "空き相",
+choice3: "究き節",
+answer: 1,
+},
+
+{
+id: "A1891",
+question: "商品を(はこ)につめる。",
+choice1: "箝",
+choice2: "籍",
+choice3: "箱",
+answer: 3,
+},
+
+{
+id: "A1892",
+question: " (ぶんぐてん)でノートを買う。",
+choice1: "文俱店",
+choice2: "文具店",
+choice3: "丈倶店",
+answer: 2,
+},
+
+{
+id: "A1893",
+question: "救いの手を(のべる)。",
+choice1: "神べる",
+choice2: "紳べる",
+choice3: "伸べる",
+answer: 3,
+},
+
+{
+id: "A1894",
+question: "(どろぼう)が逃げた。",
+choice1: "泯俸",
+choice2: "尼俸",
+choice3: "泥棒",
+answer: 3,
+},
+
+{
+id: "A1895",
+question: "運動の前に(くっしん)をする。",
+choice1: "掘紳",
+choice2: "出神",
+choice3: "屈伸",
+answer: 3,
+},
+
+{
+id: "A1896",
+question: "新しい(かぐ)を買う。",
+choice1: "嫁俱",
+choice2: "稼具",
+choice3: "家具",
+answer: 3,
+},
+
+{
+id: "A1897",
+question: "1年で身長が5センチ(のびた)。",
+choice1: "紳びた",
+choice2: "伸びた",
+choice3: "神た",
+answer: 2,
+},
+
+{
+id: "A1898",
+question: "出世のチャンスを(ぼう)にふる。",
+choice1: "俸",
+choice2: "棒",
+choice3: "鉾",
+answer: 2,
+},
+
+{
+id: "A1899",
+question: "読んだまんがを(ほんばこ)にしまう。",
+choice1: "本箱",
+choice2: "木箱",
+choice3: "体箝",
+answer: 1,
+},
+
+{
+id: "A1900",
+question: "学校の(てつぼう)であそんだ。",
+choice1: "針俸",
+choice2: "鉄棒",
+choice3: "銭棒",
+answer: 2,
+},
+
+{
+id: "A1901",
+question: "学力をもっと(のばしたい)。",
+choice1: "伸ばしたい",
+choice2: "伸したい",
+choice3: "神たい",
+answer: 1,
+},
+
+{
+id: "A1902",
+question: "部屋のすみに(ゴミばこ)を置く。",
+choice1: "ゴミ籍",
+choice2: "ゴミ相",
+choice3: "ゴミ箱",
+answer: 3,
+},
+
+{
+id: "A1903",
+question: "公園の(ゆうぐ)であそぶ。",
+choice1: "遊具",
+choice2: "游具",
+choice3: "避倶",
+answer: 1,
+},
+
+{
+id: "A1904",
+question: "朝起きて(のび)をする。",
+choice1: "押び",
+choice2: "神び",
+choice3: "伸び",
+answer: 3,
+},
+
+{
+id: "A1905",
+question: "手紙に(ついしん)を書き加える。",
+choice1: "官神",
+choice2: "追伸",
+choice3: "槌伸",
+answer: 2,
+},
+
+{
+id: "A1906",
+question: "あの二人は好い(あいぼう)だ。",
+choice1: "想棒",
+choice2: "相棒",
+choice3: "箱棒",
+answer: 2,
+},
+
 ]
