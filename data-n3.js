@@ -18962,4 +18962,1120 @@ choice3: "最惡",
 answer: 2,
 },
 
+{
+id: "A2107",
+question: "私は(初級)の英語の教科書を買いました。",
+choice1: "しょうきゅう",
+choice2: "しょきゅう",
+choice3: "じょきゅう",
+answer: 2,
+},
+
+{
+id: "A2108",
+question: "それはとても(高級)なお菓子です。",
+choice1: "ほうきゅう",
+choice2: "こうきゅう",
+choice3: "じょうきゅう",
+answer: 2,
+},
+
+{
+id: "A2109",
+question: "私は彼との間に子供を(授かる)。",
+choice1: "さずかる",
+choice2: "うかる",
+choice3: "じゅかる",
+answer: 1,
+},
+
+{
+id: "A2110",
+question: "水泳の(進級)テストに合格した。",
+choice1: "じんきゅう",
+choice2: "しんこう",
+choice3: "しんきゅう",
+answer: 3,
+},
+
+{
+id: "A2111",
+question: "口で述べて教えを(授ける)。",
+choice1: "うける",
+choice2: "さずける",
+choice3: "じゅける",
+answer: 2,
+},
+
+{
+id: "A2112",
+question: "彼は(授業)を休んだ。",
+choice1: "じゅうぎょう",
+choice2: "じゅぎょう",
+choice3: "さずぎょう",
+answer: 2,
+},
+
+{
+id: "A2113",
+question: "それは(一級)のダイアモンドです。",
+choice1: "いっきゅう",
+choice2: "いちきゅう",
+choice3: "こうきゅう",
+answer: 1,
+},
+
+{
+id: "A2114",
+question: "私は(教授)になると決めた。",
+choice1: "きょうきゅう",
+choice2: "きょうじゅ",
+choice3: "ぎょうじゅ",
+answer: 2,
+},
+
+{
+id: "A2115",
+question: "初めて(卒業式)で泣いた。",
+choice1: "そうぎょうしき",
+choice2: "そっぎょうしき",
+choice3: "そつぎょうしき",
+answer: 3,
+},
+
+{
+id: "A2116",
+question: "彼の助かったのは全く(神業)だ。",
+choice1: "かみぎょう",
+choice2: "かみわざ",
+choice3: "かみざわ",
+answer: 2,
+},
+
+{
+id: "A2117",
+question: "私は(残業)をたくさんしています。",
+choice1: "ざんきょう",
+choice2: "さんきょう",
+choice3: "ざんぎょう",
+answer: 3,
+},
+
+{
+id: "A2118",
+question: "彼は大学(新卒)である。",
+choice1: "しんそつ",
+choice2: "じんそつ",
+choice3: "しんろん",
+answer: 1,
+},
+
+{
+id: "A2119",
+question: "そのお店は(休業)日でした。",
+choice1: "きゅうぎょう",
+choice2: "やすきゅう",
+choice3: "ぎゅうきょう",
+answer: 1,
+},
+
+{
+id: "A2120",
+question: "(業)をにやす。",
+choice1: "わざ",
+choice2: "ぎょう",
+choice3: "ごう",
+answer: 3,
+},
+
+{
+id: "A2121",
+question: "(卒論)のテーマは決めましたか。",
+choice1: "こうろん",
+choice2: "そうろん",
+choice3: "そつろん",
+answer: 3,
+},
+
+{
+id: "A2122",
+question: "君も私も大学の(卒業生)だ。",
+choice1: "そつぎょうせい",
+choice2: "そっぎょうせい",
+choice3: "そつきょうぜい",
+answer: 1,
+},
+
+{
+id: "A2123",
+question: "(中級)コースに申し込む。",
+choice1: "なかきゅう",
+choice2: "ちゅうきゅう",
+choice3: "しゅうきゅう",
+answer: 2,
+},
+
+{
+id: "A2124",
+question: "(上級)の学校に進む。",
+choice1: "こうきゅう",
+choice2: "じょうきゅう",
+choice3: "しょきゅう",
+answer: 2,
+},
+
+{
+id: "A2125",
+question: "彼女と私は、(同級生)です。",
+choice1: "どうきゅうせい",
+choice2: "どうかいせい",
+choice3: "どうぎゅうせい",
+answer: 1,
+},
+
+{
+id: "A2126",
+question: "彼はやっと(卒業)した。",
+choice1: "そっぎょう",
+choice2: "そつぎょう",
+choice3: "しょつぎょう",
+answer: 2,
+},
+
+{
+id: "A2127",
+question: "脳の阻血は(脳卒中)の原因となる。",
+choice1: "のうそっちゅう",
+choice2: "のうそつきゅう",
+choice3: "のうそつちゅ",
+answer: 1,
+},
+
+{
+id: "A2128",
+question: "彼は大学(しんそつ)である。",
+choice1: "親卒",
+choice2: "新卒",
+choice3: "紳卒",
+answer: 2,
+},
+
+{
+id: "A2129",
+question: "君も私も大学の(そつぎょうせい)だ。",
+choice1: "卒業生",
+choice2: "夾業性",
+choice3: "竿業生",
+answer: 1,
+},
+
+{
+id: "A2130",
+question: "今日は大学の(そつぎょうしき)です。",
+choice1: "卒業代",
+choice2: "夾業成",
+choice3: "卒業式",
+answer: 3,
+},
+
+{
+id: "A2131",
+question: "それは(いっきゅう)のダイアモンドです。",
+choice1: "一球",
+choice2: "一級",
+choice3: "一救",
+answer: 2,
+},
+
+{
+id: "A2132",
+question: "(じょうきゅう)の学校に進む。",
+choice1: "初級",
+choice2: "高級",
+choice3: "上級",
+answer: 3,
+},
+
+{
+id: "A2133",
+question: "「(ごう)をにやす」という言葉をしっているの？",
+choice1: "級",
+choice2: "業",
+choice3: "卒",
+answer: 2,
+},
+
+{
+id: "A2134",
+question: "(そつろん)のしめきりは明日だ。",
+choice1: "卒論",
+choice2: "卆諭",
+choice3: "卒諭",
+answer: 1,
+},
+
+{
+id: "A2135",
+question: "テストに合格して2年生に(しんきゅう)した。",
+choice1: "進汲",
+choice2: "准級",
+choice3: "進級",
+answer: 3,
+},
+
+{
+id: "A2136",
+question: "きのう大学の(きょうじゅ)に会った。",
+choice1: "教受",
+choice2: "教授",
+choice3: "敦受",
+answer: 2,
+},
+
+{
+id: "A2137",
+question: "彼女は(ちゅうきゅう)クラスの学生だ。",
+choice1: "中級",
+choice2: "冲救",
+choice3: "仲級",
+answer: 1,
+},
+
+{
+id: "A2138",
+question: "しばらく店を(きゅうぎょう)する。",
+choice1: "級業",
+choice2: "休業",
+choice3: "木業",
+answer: 2,
+},
+
+{
+id: "A2139",
+question: "大学を(そつぎょう)したら、日本で働きたい。",
+choice1: "卒業",
+choice2: "座業",
+choice3: "卒堂",
+answer: 1,
+},
+
+{
+id: "A2140",
+question: "高校時代の(どうきゅうせい)に会った。",
+choice1: "洞級姓",
+choice2: "何級性",
+choice3: "同級生",
+answer: 3,
+},
+
+{
+id: "A2141",
+question: "(しょきゅう)のクラスで勉強する。",
+choice1: "初級",
+choice2: "処救",
+choice3: "始級",
+answer: 1,
+},
+
+{
+id: "A2142",
+question: "日本語の(じゅぎょう)を受けている。",
+choice1: "綬業",
+choice2: "受業",
+choice3: "授業",
+answer: 3,
+},
+
+{
+id: "A2143",
+question: "市長はチームに優勝カップを(さずけた)。",
+choice1: "受けた",
+choice2: "授けた",
+choice3: "綬けた",
+answer: 2,
+},
+
+{
+id: "A2144",
+question: "父が(のうそっちゅう)で倒れてしまった。",
+choice1: "腦卒沖",
+choice2: "悩卒仲",
+choice3: "脳卒中",
+answer: 3,
+},
+
+{
+id: "A2145",
+question: "(こうきゅうな)レストランで食事をした。",
+choice1: "上級な",
+choice2: "高級な",
+choice3: "初級な",
+answer: 2,
+},
+
+{
+id: "A2146",
+question: "仕事が忙しくて2時間も(ざんぎょう)した。",
+choice1: "浅業",
+choice2: "残業",
+choice3: "残堂",
+answer: 2,
+},
+
+{
+id: "A2147",
+question: "あのシュートが入るなんてまさに(かみわざ)だ。",
+choice1: "神業",
+choice2: "禅業",
+choice3: "裡業",
+answer: 1,
+},
+
+{
+id: "A2148",
+question: "子どもを(さずかる)。",
+choice1: "受る",
+choice2: "綬かる",
+choice3: "授か",
+answer: 3,
+},
+
+{
+id: "A2149",
+question: "彼は経験に(欠ける)。",
+choice1: "うける",
+choice2: "かける",
+choice3: "きける",
+answer: 2,
+},
+
+{
+id: "A2150",
+question: "(客席)は全く提供されていない。",
+choice1: "かくせき",
+choice2: "きゃくせき",
+choice3: "ぎゃくせき",
+answer: 2,
+},
+
+{
+id: "A2151",
+question: "(座席)を予約する。",
+choice1: "ざせき",
+choice2: "さぜき",
+choice3: "すわせき",
+answer: 1,
+},
+
+{
+id: "A2152",
+question: "彼は決断力を(欠く)。",
+choice1: "うく",
+choice2: "きく",
+choice3: "かく",
+answer: 3,
+},
+
+{
+id: "A2153",
+question: "ご(自由)に飲んで下さい。",
+choice1: "じよう",
+choice2: "じゆう",
+choice3: "しよう",
+answer: 2,
+},
+
+{
+id: "A2154",
+question: "彼は本日(欠席)です。",
+choice1: "けつせき",
+choice2: "けっせき",
+choice3: "かせき",
+answer: 2,
+},
+
+{
+id: "A2155",
+question: "(言い訳)をしてはいけない。",
+choice1: "いいわけ",
+choice2: "いいけん",
+choice3: "いいけわ",
+answer: 1,
+},
+
+{
+id: "A2156",
+question: "遅くなってしまい(申し訳)ありません",
+choice1: "もしわけ",
+choice2: "もうしわけ",
+choice3: "もうしけん",
+answer: 2,
+},
+
+{
+id: "A2157",
+question: "英語を日本語に(訳す)。",
+choice1: "ほんす",
+choice2: "やす",
+choice3: "やくす",
+answer: 3,
+},
+
+{
+id: "A2158",
+question: "(欠点)のない人はない。",
+choice1: "かてん",
+choice2: "けってん",
+choice3: "かってん",
+answer: 2,
+},
+
+{
+id: "A2159",
+question: "心配する(理由)はない。",
+choice1: "きゆう",
+choice2: "しゆう",
+choice3: "りゆう",
+answer: 3,
+},
+
+{
+id: "A2160",
+question: "小説を(翻訳)で読む。",
+choice1: "ほんやく",
+choice2: "ぼんさく",
+choice3: "つうやく",
+answer: 1,
+},
+
+{
+id: "A2161",
+question: "これは(由緒)ある品だ。",
+choice1: "ゆいしゃ",
+choice2: "ゆいしょ",
+choice3: "ゆらい",
+answer: 2,
+},
+
+{
+id: "A2162",
+question: "この作業は(不可欠)です。",
+choice1: "ふかけつ",
+choice2: "ふかてん",
+choice3: "ふのうけつ",
+answer: 1,
+},
+
+{
+id: "A2163",
+question: "(席)を取っておく。",
+choice1: "ざせき",
+choice2: "ざ",
+choice3: "せき",
+answer: 3,
+},
+
+{
+id: "A2164",
+question: "人が直面しているトラブルについては知る(由)もない。",
+choice1: "ゆう",
+choice2: "よい",
+choice3: "よし",
+answer: 3,
+},
+
+{
+id: "A2165",
+question: "その(訳)は間違っている。",
+choice1: "わけ",
+choice2: "けん",
+choice3: "りゆう",
+answer: 1,
+},
+
+{
+id: "A2166",
+question: "このバスは何処を(経由)しますか。",
+choice1: "けいゆい",
+choice2: "けいゆ",
+choice3: "けいゆう",
+answer: 2,
+},
+
+{
+id: "A2167",
+question: "この映画の(指定席)はありますか。",
+choice1: "していせき",
+choice2: "してせき",
+choice3: "していざ",
+answer: 1,
+},
+
+{
+id: "A2168",
+question: "(訳者)に関しては、様々な説がある。",
+choice1: "つうしゃ",
+choice2: "やくしゃ",
+choice3: "ほんしゃ",
+answer: 2,
+},
+
+{
+id: "A2169",
+question: "この言葉の(由来)は分からない。",
+choice1: "ゆらい",
+choice2: "ゆしょ",
+choice3: "りゆう",
+answer: 1,
+},
+
+{
+id: "A2170",
+question: "私は彼女に(通訳)を頼む。",
+choice1: "ほんやく",
+choice2: "つうやく",
+choice3: "ほうやく",
+answer: 2,
+},
+
+{
+id: "A2171",
+question: "(きゃくせき)からかんせいがあがった。",
+choice1: "客席",
+choice2: "各席",
+choice3: "客度",
+answer: 1,
+},
+
+{
+id: "A2172",
+question: "モスクワを(けいゆ)してパリへ行った。",
+choice1: "径油",
+choice2: "経由",
+choice3: "型由",
+answer: 2,
+},
+
+{
+id: "A2173",
+question: "きっと何か(わけ)があるのだろう。",
+choice1: "訳",
+choice2: "設",
+choice3: "訝",
+answer: 1,
+},
+
+{
+id: "A2174",
+question: "病気で授業を(けっせき)する。",
+choice1: "欠度",
+choice2: "決席",
+choice3: "欠席",
+answer: 3,
+},
+
+{
+id: "A2175",
+question: "茶わんのふちが(かけて)しまった。",
+choice1: "火けて",
+choice2: "欠けて",
+choice3: "炊けて",
+answer: 2,
+},
+
+{
+id: "A2176",
+question: "注意を(かいて)、大きなミスをした。",
+choice1: "吹いて",
+choice2: "決いて",
+choice3: "欠いて",
+answer: 3,
+},
+
+{
+id: "A2177",
+question: "自分の(せき)に着く。",
+choice1: "渡",
+choice2: "席",
+choice3: "度",
+answer: 2,
+},
+
+{
+id: "A2178",
+question: "彼の安否は知る(よし)もない。",
+choice1: "由",
+choice2: "油",
+choice3: "柚",
+answer: 1,
+},
+
+{
+id: "A2179",
+question: "遅れた(りゆう)は何ですか。",
+choice1: "哩由",
+choice2: "裡油",
+choice3: "理由",
+answer: 3,
+},
+
+{
+id: "A2180",
+question: "この分を英語に(やくして)ください。",
+choice1: "訣して",
+choice2: "訳して",
+choice3: "討して",
+answer: 2,
+},
+
+{
+id: "A2181",
+question: "ここは(ゆいしょ)ある寺だ。",
+choice1: "油緒",
+choice2: "由緒",
+choice3: "由諸",
+answer: 2,
+},
+
+{
+id: "A2182",
+question: "名前の(ゆらい)を調べた。",
+choice1: "由来",
+choice2: "油来",
+choice3: "柚莱",
+answer: 1,
+},
+
+{
+id: "A2183",
+question: "彼の(けってん)は短気なところだ。",
+choice1: "欠店",
+choice2: "欠点",
+choice3: "炊点",
+answer: 2,
+},
+
+{
+id: "A2184",
+question: "会場で自分の(ざせき)をさがす。",
+choice1: "座席",
+choice2: "坐席",
+choice3: "挫度",
+answer: 1,
+},
+
+{
+id: "A2185",
+question: "新幹線の(していせき)を予約した。",
+choice1: "脂定席",
+choice2: "旨定度",
+choice3: "指定席",
+answer: 3,
+},
+
+{
+id: "A2186",
+question: "常識に(かける)行動はしないでください。",
+choice1: "欠ける",
+choice2: "火ける",
+choice3: "次ける",
+answer: 1,
+},
+
+{
+id: "A2187",
+question: "(じゆうに)話し合ってください。",
+choice1: "自柚",
+choice2: "白油",
+choice3: "自由",
+answer: 3,
+},
+
+{
+id: "A2188",
+question: "彼女は(いいわけ)ばかりする。",
+choice1: "話い訳",
+choice2: "言い訳",
+choice3: "言い択",
+answer: 2,
+},
+
+{
+id: "A2189",
+question: "私は将来(やくしゃ)になりたい。",
+choice1: "訳諸",
+choice2: "尺署",
+choice3: "訳者",
+answer: 3,
+},
+
+{
+id: "A2190",
+question: "英語に(ほんやく)する。",
+choice1: "羽訳",
+choice2: "翻訳",
+choice3: "翻択",
+answer: 2,
+},
+
+{
+id: "A2191",
+question: "日本語に(つうやく)してくれてありがとう。",
+choice1: "涌択",
+choice2: "通訳",
+choice3: "甬沢",
+answer: 2,
+},
+
+{
+id: "A2192",
+question: "遅くなってしまい(もうしわけ)ありません。",
+choice1: "申し訳",
+choice2: "由し沢",
+choice3: "申し",
+answer: 1,
+},
+
+{
+id: "A2193",
+question: "彼は不思議な生物、(例えば)ヘビのような生物が好きです。",
+choice1: "れいえば",
+choice2: "たとえば",
+choice3: "ふたえば",
+answer: 2,
+},
+
+{
+id: "A2194",
+question: "(貿易)を自由化する。",
+choice1: "ぼうえき",
+choice2: "ほうえき",
+choice3: "もうえき",
+answer: 1,
+},
+
+{
+id: "A2195",
+question: "この問題を(解く)のは難しかった。",
+choice1: "きく",
+choice2: "かく",
+choice3: "とく",
+answer: 3,
+},
+
+{
+id: "A2196",
+question: "全く(理解)できない。",
+choice1: "ちょうかい",
+choice2: "りかい",
+choice3: "しかい",
+answer: 2,
+},
+
+{
+id: "A2197",
+question: "彼は(例)を引いてその説を例えた。",
+choice1: "せい",
+choice2: "れい",
+choice3: "けい",
+answer: 2,
+},
+
+{
+id: "A2198",
+question: "何の必要を(説く)。",
+choice1: "とく",
+choice2: "おく",
+choice3: "かく",
+answer: 1,
+},
+
+{
+id: "A2199",
+question: "彼は多くの(実例)を挙げた。",
+choice1: "じっれい",
+choice2: "じつれい",
+choice3: "しつれい",
+answer: 2,
+},
+
+{
+id: "A2200",
+question: "その(仮説)は正しかった。",
+choice1: "かぜつ",
+choice2: "はんせつ",
+choice3: "かせつ",
+answer: 3,
+},
+
+{
+id: "A2201",
+question: "(例外)的な場合もある。",
+choice1: "れいこう",
+choice2: "れいがい",
+choice3: "たとがい",
+answer: 2,
+},
+
+{
+id: "A2202",
+question: "あなたの(解説)は私にとってとても理解しやすい。",
+choice1: "かせつ",
+choice2: "かいとう",
+choice3: "かいせつ",
+answer: 3,
+},
+
+{
+id: "A2203",
+question: "当日は(例年通り)運動会を催す。",
+choice1: "れいねんどおり",
+choice2: "けいねんとおり",
+choice3: "れいとしどおり",
+answer: 1,
+},
+
+{
+id: "A2204",
+question: "この質問はすごく(易しい)ですね。",
+choice1: "あんしい",
+choice2: "やさしい",
+choice3: "なやしい",
+answer: 2,
+},
+
+{
+id: "A2205",
+question: "あなたが(解熱剤)を欲しい時は言ってください。",
+choice1: "げねつざい",
+choice2: "かいねつざい",
+choice3: "とねつざい",
+answer: 1,
+},
+
+{
+id: "A2206",
+question: "この問題はそのような(安易)な解決を許さない。",
+choice1: "かんい",
+choice2: "やさい",
+choice3: "あんい",
+answer: 3,
+},
+
+{
+id: "A2207",
+question: "この(説明)は十分です。",
+choice1: "とくめい",
+choice2: "とうめい",
+choice3: "せつめい",
+answer: 3,
+},
+
+{
+id: "A2208",
+question: "そのおかげで誤解が(解ける)。",
+choice1: "とける",
+choice2: "かける",
+choice3: "あける",
+answer: 1,
+},
+
+{
+id: "A2209",
+question: "彼の考えは(説得)力があります。",
+choice1: "せつとく",
+choice2: "せっとく",
+choice3: "せっとい",
+answer: 2,
+},
+
+{
+id: "A2210",
+question: "髪の毛を(解かす)。",
+choice1: "とかす",
+choice2: "かかす",
+choice3: "けかす",
+answer: 1,
+},
+
+{
+id: "A2211",
+question: "彼は今各地方へ(遊説)に行っている。",
+choice1: "あぶぜい",
+choice2: "ゆうぜい",
+choice3: "ゆうせつ",
+answer: 2,
+},
+
+{
+id: "A2212",
+question: "(やさしい)ことばで話す。",
+choice1: "易しい",
+choice2: "昜しい",
+choice3: "湯しい",
+answer: 1,
+},
+
+{
+id: "A2213",
+question: "筆者の考えがやっと(りかい)できた。",
+choice1: "哩解",
+choice2: "理解",
+choice3: "裡触",
+answer: 2,
+},
+
+{
+id: "A2214",
+question: "社長は社員に会社の理念を(といた)。",
+choice1: "説いた",
+choice2: "解いた",
+choice3: "税いた",
+answer: 1,
+},
+
+{
+id: "A2215",
+question: "運動会は(れいねん)どおり行われる。",
+choice1: "洌年",
+choice2: "列年",
+choice3: "例年",
+answer: 3,
+},
+
+{
+id: "A2216",
+question: "(ぼうえき)に関係がある仕事がしたい。",
+choice1: "留易",
+choice2: "貿易",
+choice3: "貿昜",
+answer: 2,
+},
+
+{
+id: "A2217",
+question: "都会に住みたい。(たとえば)東京。",
+choice1: "例ば",
+choice2: "列えば",
+choice3: "例えば",
+answer: 3,
+},
+
+{
+id: "A2218",
+question: "(あんい)な考えかたをしてはいけない。",
+choice1: "按易",
+choice2: "安易",
+choice3: "案易",
+answer: 2,
+},
+
+{
+id: "A2219",
+question: "パソコンの使い方を(せつめい)した。",
+choice1: "説明",
+choice2: "税明",
+choice3: "悦明",
+answer: 1,
+},
+
+{
+id: "A2220",
+question: "(じつれい)をあげてはなす。",
+choice1: "美例",
+choice2: "実列",
+choice3: "実例",
+answer: 3,
+},
+
+{
+id: "A2221",
+question: "難しい問題が(とけ)て、うれしい。",
+choice1: "觧け",
+choice2: "解け",
+choice3: "斛け",
+answer: 2,
+},
+
+{
+id: "A2222",
+question: "(れい)を見て答えてください。",
+choice1: "列",
+choice2: "例",
+choice3: "死",
+answer: 2,
+},
+
+{
+id: "A2223",
+question: "(げねつざい)を飲んだら、熱がさがった。",
+choice1: "解熱剤",
+choice2: "斛熱財",
+choice3: "斛熱剤",
+answer: 1,
+},
+
+{
+id: "A2224",
+question: "その問題を(とく)のは簡単だ。",
+choice1: "斛く",
+choice2: "解く",
+choice3: "触く",
+answer: 2,
+},
+
+{
+id: "A2225",
+question: "各地方を(ゆうぜい)する。",
+choice1: "遊説",
+choice2: "游税",
+choice3: "遊税",
+answer: 1,
+},
+
+{
+id: "A2226",
+question: "(れいがい)を認めない。",
+choice1: "死外",
+choice2: "列夘",
+choice3: "例外",
+answer: 3,
+},
+
+{
+id: "A2227",
+question: "数学の問題を(といて)みる。",
+choice1: "解いて",
+choice2: "触いて",
+choice3: "斛いて",
+answer: 1,
+},
+
+{
+id: "A2228",
+question: "問題集の(かいせつ)を読む。",
+choice1: "斛設",
+choice2: "説解",
+choice3: "解説",
+answer: 3,
+},
+
+{
+id: "A2229",
+question: "その(かせつ)は正しかった。",
+choice1: "坂説",
+choice2: "反税",
+choice3: "仮説",
+answer: 3,
+},
+
+{
+id: "A2230",
+question: "彼が母を(せっとく_する。",
+choice1: "設碍",
+choice2: "説得",
+choice3: "悦得",
+answer: 2,
+},
+
 ]
