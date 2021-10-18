@@ -21,7 +21,6 @@
     @include respond (tab){
         width: 3rem;
         height: 3rem;
-        font-size: 1.4rem;
     }
 }
 .reportBtn{
@@ -48,7 +47,6 @@
         }
     }
     p{
-        font-size: 1.6rem;
         width: 0;
         overflow: hidden;
         display: block;
@@ -86,8 +84,6 @@
     top: 2rem;
     right: 2rem;
     background-color: $cl-y;
-    font-weight: 700;
-    font-family: 'Quicksand',sans-serif;
 }
 
 .docBtn{
@@ -97,8 +93,6 @@
     opacity: 0.3;
     bottom: 10rem;
     left: 2rem;
-    font-size: 3rem;
-
     @include respond(tab-land){
         bottom: 8rem;
     }
@@ -119,8 +113,6 @@
     color: $cl-f;
     background-color: $cl-0;
     opacity: 0.3;
-    font-size: 1rem;
-    line-height: 1.1rem;
     transition: 0.1s linear;
     padding: 0.2rem;
     overflow: hidden;
@@ -128,18 +120,13 @@
     width: auto;
     padding: 0 2rem;
     }
-    @include respond(tab-land){
-        font-size: 0.7rem;
-    }
     @include respond(tab){
-        font-size: 0.5rem;
         width: 50vw;
     }
     @include respond(phone)
     {
         width: 40vw;
         padding: 0 0.5rem;
-        font-size: 0.36rem;
     }
 }
 
@@ -150,7 +137,6 @@
     opacity: 0.3;
     bottom: 18rem;
     left: 2rem;
-    font-size: 3rem;
     @include respond(tab-land){
         bottom: 14rem;
     }

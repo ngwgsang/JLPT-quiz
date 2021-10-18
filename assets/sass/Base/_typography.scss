@@ -1,4 +1,196 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Quicksand:wght@500;600;700&display=swap');
 // font-family: 'Noto Sans JP', sans-serif;
 // font-family: 'Quicksand', sans-serif;
+body{
+	font-size: 62.5%;
+	@include respond(tab-land){
+		font-size: 50%;
+	}
+	@include respond(tab){
+		font-size: 40%;
+	}
+	@include respond(phone){
+		font-size: 30%;
+	}
+}
 
+//-----------------------> BUTTON
+.returnBtn{
+    @include respond (tab){
+        font-size: 1.4rem;
+    }
+}
+.reportBtn{
+    p{
+        font-size: 1.6rem;
+    }
+}
+.scoreBtn{
+    font-weight: 700;
+    font-family: 'Quicksand',sans-serif;
+}
+.docBtn{
+    font-size: 3rem;
+}
+.preQuestionBtn{
+    font-size: 1rem;
+    line-height: 1.1rem;
+    @include respond(tab-land){
+    font-size: 0.7rem;
+    }
+    @include respond(tab){
+    font-size: 0.5rem;
+    }
+    @include respond(phone){
+    font-size: 0.36rem;
+    }
+}
+.rankBtn{
+    font-size: 3rem;
+}
+//-----------------------> MAIN
+.main{
+    .container-number{
+        *{
+            font-size: 2.2rem;
+            @include respond(phone){
+            font-size: 1.4rem;
+            }
+        }
+        @include respond(phone){
+            font-size: 1.2rem;
+        }
+        &__select{
+            font-size: 2rem;
+            option{
+                font-size: 1.6rem;
+                @include respond(phone){
+                font-size: 1.2rem;
+                }
+            }
+        }
+        &__box{
+            @include respond(phone){
+            font-size: 1.4rem;
+            }
+        }
+        &__btn{
+            font-weight: 700;
+            font-family: 'Quicksand',sans-serif;
+            @include respond(phone){
+            font-size: 1.4rem;
+            }
+        }
+    }
+    .btn{
+        font-family: 'Quicksand', sans-serif;
+        font-size: 2rem;
+        font-weight: 700;
+    }
+}
+//-----------------------> START
+.start{
+    .content-box{
+        font-family: 'Noto Sans JP', sans-serif;
+        font-weight: 500;
+        &__quiz{
+            font-size: 3rem;
+            line-height: 4rem;
+            @include respond(tab-land){
+                font-size: 2.4rem;
+                line-height: 2.6rem;
+            }
+            @include respond(tab){
+                font-size: 1.8rem;
+            }
+        }
+        &__options{
+            font-size: 3rem;
+            .choice-container {
+                @include respond(tab-land){
+                    font-size: 2rem;
+                }
+                @include respond(tab){
+                    font-size: 1.6rem;
+                }
+            }
+        }
+    }
+}
+#timer{
+    font-size: 2rem;
+}
+#count{
+    font-size: 2rem;
+}
+//-----------------------> END
+.end{
+    form{
+        *{  
+            font-size: 2rem;
+        }
+    }
+    h1{
+        font-size: 2rem;
+        font-weight: 500;
+        @include respond(phone){   
+        font-size: 4.4rem;
+        }
+    }
+    h2{
+        font-size: 2.4rem;
+        font-weight: 500;
+        @include respond(phone){
+        font-size: 2.2rem;
+        }
+    }
+    #saveScoreBtn{
+        font-weight: 700;
+    }
+}
+#percentCorrect{
+    font-size: 5rem;
+    font-weight: 700;
+}
+#level{
+    font-size: 2rem;
+    font-weight: 700;
+}
+//-----------------------> LIB
+.preQuestionBoard{
+    h3{
+        font-family: 'Quicksand', sans-serif;
+        font-size: 3rem;
+        line-height: 3.1;
+        text-transform: uppercase;
+    }
+    &__list{
+            li{
+                font-family: 'Noto Sans JP', sans-serif;
+                font-weight: 500;
+                font-size: 2rem;
+                line-height: 2.1rem;
+            }
+    }
+}
+//-----------------------> RANK
+.rankBoard{
+    h3{
+        font-family: 'Quicksand', sans-serif;
+        font-size: 3rem;
+        line-height: 3.1;
+        text-transform: uppercase;
+    }
+
+    &__list{
+        li{
+            font-size: 2rem;
+            .point{
+                font-weight: 500;
+            }
+            .percent{
+                font-weight: 700;
+            }
+        }
+    }
+}

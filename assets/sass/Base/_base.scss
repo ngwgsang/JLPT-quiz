@@ -47,17 +47,7 @@ body{
     padding: 0;
 	width: 100vw;
 	height: 100vh;
-	font-size: 62.5%;
 	overflow: hidden;
-	@include respond(tab-land){
-		font-size: 50%;
-	}
-	@include respond(tab){
-		font-size: 40%;
-	}
-	@include respond(phone){
-		font-size: 30%;
-	}
 }
 *,
 *::before,

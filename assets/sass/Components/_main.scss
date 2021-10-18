@@ -19,20 +19,12 @@
         justify-content: space-between;
         margin-bottom: 0.6rem;
         height: auto;
-        *{
-            font-size: 2.2rem;
-            @include respond(phone){
-                font-size: 1.4rem;
-            }
-        }
         @include respond(phone){
             height: auto;
             margin-bottom: 2vw;
-            font-size: 1.2rem;
         }
         &__select{
             width: 8rem;
-            font-size: 2rem;
             position: relative;
             option{
                 width: 8rem;
@@ -41,9 +33,7 @@
                     background-color: red;
                 }
                 margin: 0.1rem 0rem;
-                font-size: 1.6rem;
                 @include respond(phone){
-                    font-size: 1.2rem;
                 }
             }
         }
@@ -56,7 +46,6 @@
             margin: 0 0.5rem;
             @include respond(phone){
                 width: 58vw;
-                font-size: 1.4rem;
             }
             &:valid{
                 background-color: $cl-g;
@@ -75,7 +64,6 @@
             font-family: 'Quicksand',sans-serif;
             @include respond(phone){
                 width: 20vw;
-                font-size: 1.4rem;
             }
         }
     }
@@ -83,9 +71,6 @@
         cursor: pointer;
         margin-bottom: 0.6rem;
         color: #000;
-        font-family: 'Quicksand', sans-serif;
-        font-size: 2rem;
-        font-weight: 700;
         background-color: $cl-f;
         position: relative;
         width: 26rem;

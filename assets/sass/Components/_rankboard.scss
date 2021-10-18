@@ -6,12 +6,8 @@
     justify-content: center;
     flex-direction: column;
     h3{
-        font-family: 'Quicksand', sans-serif;
-        font-size: 3rem;
-        line-height: 3.1;
         margin-bottom: 0.5rem;
         color: $cl-f;
-        text-transform: uppercase;
     }
 
     &__list{
@@ -36,14 +32,12 @@
             width: 90%;
             height: 5rem;
             background-color: white;
-            font-size: 2rem;
             display: flex;
             align-items: center;
             justify-content: space-between;
             padding: 0.5rem 4rem;
             margin-bottom: 1rem;
             border-radius: 0.6rem;
-            // background-color: $cl-0;
             .name{
                 width: 50%;
                 display: block;
@@ -55,14 +49,12 @@
                 background-color: $cl-b;
                 border-radius: 0.6rem;
                 padding: 1rem 0.5rem;
-                font-weight: 500;
             }
             .percent{
                 border-radius: 0.6rem;
                 background-color: $cl-g;
                 padding: 1rem 0.5rem;
                 display: block;
-                font-weight: 700;
                 color: $cl-f;
             }
         }

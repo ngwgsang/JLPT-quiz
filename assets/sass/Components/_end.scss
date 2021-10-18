@@ -28,9 +28,8 @@
     }
     *{
         margin: 1rem;
-        @include respond(phone)
-        {
-            margin: 0rem;
+        @include respond(phone){
+        margin: 0rem;
         }
     }
     img{
@@ -41,8 +40,7 @@
         object-fit: cover;
         object-position: center;
         margin-bottom: 1rem;
-        @include respond(phone)
-        {
+        @include respond(phone){
             width: 18rem;
             height: 35%;
         }
@@ -50,31 +48,22 @@
     form{
         display: flex;
         *{  
-            font-size: 2rem;
             z-index: 3;
             margin: 2rem 0;
-            @include respond(phone)
-            {
-                margin: 0.4rem;
+            @include respond(phone){
+            margin: 0.4rem;
             }
         }
     }
     h1{
         margin: 0.5rem;
-        font-size: 2rem;
-        font-weight: 500;
-        @include respond(phone)
-        {   font-size: 4.4rem;
-            margin-bottom: 1rem;
+        @include respond(phone){   
+        margin-bottom: 1rem;
         }
     }
     h2{
-        font-size: 2.4rem;
-        font-weight: 500;
-        @include respond(phone)
-        {
-            margin-bottom: 0.4rem;
-            font-size: 2.2rem;
+        @include respond(phone){
+        margin-bottom: 0.4rem;
         }
     }
     input{
@@ -83,9 +72,8 @@
         height: 5rem;
         background-color: #c3c3c350;
         color: #c3c3c3;
-        @include respond(phone)
-        {
-            height: 4rem;
+        @include respond(phone){
+        height: 4rem;
         }
     }
     #saveScoreBtn{
@@ -94,20 +82,16 @@
         justify-content: center;
         width: 5rem;
         height: 5rem;
-        font-weight: 700;
         background-color: $cl-g;
         color:  $cl-f;
-        @include respond(phone)
-        {
-            width: 18rem;
-            height: 4rem;
+        @include respond(phone){
+        width: 18rem;
+        height: 4rem;
         }
     }
 }
 #percentCorrect{
     color: $cl-y;
-    font-size: 5rem;
-    font-weight: 700;
     margin: 1rem 0 0.5rem 1rem;
 }
 #finalScore{
@@ -127,6 +111,4 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 2rem;
-    font-weight: 700;
 }
