@@ -18,6 +18,7 @@
         <a href="https://forms.gle/PJ5ib4EdRPYoewSE7" target="_blank" onclick="playAudio('./assets/audio/pop.wav')"><div class="reportBtn"><i class="fas fa-exclamation"></i><p>Báo lỗi</p></div></a>
         <a href="https://github.com/sangcamap/JLPT-quiz" target="_blank" onclick="playAudio('./assets/audio/pop.wav')"><div class="docBtn" id="docBtn"><i class="fab fa-github-alt"></i></div></a>
         <div class="rankBtn" id="rankBtn"><i class="fas fa-trophy"></i></div>
+        <div class="analyticBtn" id="analyticBtn">Phân tích</div>
 <!---------------------------------------------MAIN------------------------------------------->
         <div class="main" id="main">
             <img src="./assets/images/Frame-1.png" alt="" id="frame">
@@ -57,7 +58,7 @@
         </div>
 <!---------------------------------------------END-------------------------------------------->
         <div class="end" id ="end">
-            <h1 id="level">N0</h1>
+            <h1 id="level">All</h1>
             <h1 id="percentCorrect">0%</h1>
             <h1 id="finalScore">0</h1>
             <img src="./assets/images/gif-1.gif" alt="" id="gif">
@@ -93,12 +94,34 @@
                     </li>
                 </ul>
         </div>
+<!-----------------------------------------CERTIFICATE------------------------------------------>
+        <div class="certificate" id ="certificate">
+            <div class="heading">
+                <div class="level-box">All</div>
+                <div class="name-box"><p>Tên</p><div class="o_name">USERNAME</div></div>
+                <div class="time-box"><p>Thời gian hoàn thành</p><div class="o_time">00h00m00s</div></div>
+                <div class="score-box"><p>Điểm</p><div class="o_score">133/188</div></div>
+            </div>
+            <div class="row">
+                <div class="col-l">
+                    <canvas id="chart"></canvas>
+                </div>
+                <div class="col-r">
+                    <ul class="o_list">
+                        <!--chèn list -->
+                    </ul>
+                </div>
+            </div>
+
+        </div>        
+
+        
 </div>
 <!----------------------------------------------SCRIPT------------------------------------------>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="./data-n3.js"></script>
 <script src="./data-n4.js"></script>
 <script src="./data-n5.js"></script>
 <script src="./app.js" defer></script>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 </body>
 </html>

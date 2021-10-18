@@ -13,6 +13,13 @@ const finalScore             = document.querySelector("#finalScore");
 const endtext                = document.querySelector('#end-text');
 const percent                = document.querySelector('#percentCorrect');
 const level                  = document.querySelector('#level');
+const analyticBtn            = document.querySelector('#analyticBtn');
+const certificate            = document.querySelector('#certificate');
+analyticBtn.addEventListener('click', ()=>{
+    main.style.display = "none";
+    certificate.style.display = "flex";
+    returnBtn.style.display= "flex";
+})
 // Khởi tạo
 document.getElementById('main').style.display             = "flex";
 document.getElementById('start').style.display            = "none";
@@ -22,6 +29,7 @@ document.getElementById('score').style.display            = "none";
 document.getElementById('preQuestionBtn').style.display   = "none";
 document.getElementById('preQuestionBoard').style.display = "none";
 document.getElementById('rankBoard').style.display        = "none";
+document.getElementById('certificate').style.display      = "none";
 // Quay về
 returnBtn.addEventListener('click', ()=>{
     resetGame();
@@ -31,6 +39,7 @@ startBtn.addEventListener('click', ()=>{
     document.getElementById('main').style.display           = "none";
     document.getElementById('rankBtn').style.display        = "none";
     document.getElementById('docBtn').style.display         = "none";
+    document.getElementById('analyticBtn').style.display      = "none";
     document.getElementById('start').style.display          = "flex";
     document.getElementById('returnBtn').style.display      = "flex";
     document.getElementById('score').style.display          = "flex";
@@ -43,20 +52,26 @@ preQuestionBoardBtn.addEventListener('click', ()=>{
     document.getElementById('main').style.display             = "none";
     document.getElementById('preQuestionBoard').style.display = "flex";
     document.getElementById('returnBtn').style.display        = "flex";
+    document.getElementById('analyticBtn').style.display      = "none";
 });
 // Ranking-Board
 rankBtn.addEventListener('click',()=>{
     document.getElementById('main').style.display             = "none";
     document.getElementById('rankBoard').style.display        = "flex";
     document.getElementById('returnBtn').style.display        = "flex";
+    document.getElementById('analyticBtn').style.display      = "none";
 });
 // Save scrore
-const o_username = ''
-const o_point    = 0
-const o_question = 0
+let o_name = ''
+let o_point    = 0
+let o_question = 0
+
 saveScoreBtn.addEventListener('click',()=>{
     document.getElementById("gif").src= gif[getRandomInt(gif.length)];
-    // o_question = MAX_QUESTIONS;
+    o_question = MAX_QUESTIONS;
+    o_name     = document.getElementById('username').value
+    document.querySelector('.o_name').innerText= o_name;
+    
     // Không biết tại sao nhưng counter = 1 ở lần 2 trở đi thì nó không dư
     questionCounter      = 1;
     score                = 0;
@@ -73,6 +88,8 @@ function resetGame(){
     document.getElementById('main').style.display             = "flex";
     document.getElementById('rankBtn').style.display          = "flex";
     document.getElementById('docBtn').style.display           = "flex";
+    document.getElementById('analyticBtn').style.display      = "flex";
+    document.getElementById('certificate').style.display      = "none";
     document.getElementById('start').style.display            = "none";
     document.getElementById('end').style.display              = "none";
     document.getElementById('returnBtn').style.display        = "none";
@@ -106,6 +123,7 @@ function getInputValue(){
     questionCounter = 1;
     totalSeconds    = 0;
     document.getElementById('count').innerText = `${questionCounter}/${MAX_QUESTIONS+1}`
+    document.querySelector('.o_list').innerHTML = '';
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
     startBtn.style       = 'background: #fff';
 }
@@ -114,8 +132,12 @@ function getInputValue(){
 let indexQuestions= [];
 indexQuestions = questions;
 function changeLevel_All(){
-    level.innerText= "N0";
+    level.innerText= "All";
+    score= 0;
+    document.querySelector('.level-box').innerText = "All";
     level.style = "background: #000;  color: #fff;"
+    startBtn.style       = 'background: #fff';
+    document.querySelector('.o_list').innerHTML = '';
     questions = indexQuestions;
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
@@ -126,7 +148,11 @@ function changeLevel_All(){
 function changeLevel_N3(){
     questions = n3;
     level.innerText= "N3";
+    score= 0;
+    document.querySelector('.level-box').innerText = "N3";
     level.style = "background: #FDC830;  color: #fff;"
+    startBtn.style       = 'background: #fff';
+    document.querySelector('.o_list').innerHTML = '';
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
     playAudio('./assets/audio/pop.wav');
@@ -136,6 +162,10 @@ function changeLevel_N3(){
 function changeLevel_N4(){
     questions = n4;
     level.innerText= "N4";
+    score= 0;
+    document.querySelector('.level-box').innerText = "N4";
+    startBtn.style       = 'background: #fff';
+    document.querySelector('.o_list').innerHTML = '';
     level.style = "background: #009FFF;  color: #fff;"
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
@@ -146,6 +176,10 @@ function changeLevel_N4(){
 function changeLevel_N5(){
     questions = n5;
     level.innerText= "N5";
+    score= 0;
+    document.querySelector('.level-box').innerText = "N5";
+    startBtn.style       = 'background: #fff';
+    document.querySelector('.o_list').innerHTML = '';
     level.style = "background: #0f9b0f;  color: #fff;"
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
@@ -156,6 +190,8 @@ function changeLevel_N5(){
 //------------------------------------------>
 function startGame(){
     // Bắt đầu và gán các giá trị vào Current question
+    document.querySelector('.o_list').innerHTML = '';
+    document.querySelector('.o_score').innerText= 0+'/'+questions.length;
     document.getElementById("gif").src= gif[getRandomInt(gif.length)];
     endtext.innerText = comment[getRandomInt(comment.length)];
     questionCounter = 0
@@ -164,6 +200,7 @@ function startGame(){
     getNewQuestion()
 }
 function endGame(){
+    document.querySelector('.o_time').innerText = `${pad(parseInt(totalSeconds / 3600))}:${pad(parseInt(totalSeconds / 60)%60)}:${pad(totalSeconds % 60)}`;
     totalSeconds = 0;
     document.getElementById('start').style.display = "none";
     document.getElementById('end').style.display = "flex";
@@ -214,7 +251,16 @@ choices.forEach(choice => {
         const selectedAnswer = selectedChoice.dataset['number']
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
         if(classToApply === 'correct') {
-            incrementScore(SCORE_POINTS)
+            incrementScore(SCORE_POINTS);
+            document.querySelector('.o_list').innerHTML += `<li class = "true">${currentQuestion.id}</li>`
+        }
+        else{
+            steak = 1;
+            labels.push(currentQuestion.id);
+            data.datasets[0].data.push(plus);
+            data.datasets[1].data.push(steak);
+            chart.update();
+            document.querySelector('.o_list').innerHTML += `<li class = "false">${currentQuestion.id}</li>`
         }
         selectedChoice.classList.add(classToApply);
         setTimeout(() => {
@@ -228,7 +274,12 @@ incrementScore = num => {
     score +=num
     scoreText.innerText = score
     finalScore.innerText = `${score}/${MAX_QUESTIONS+1}`
+    document.querySelector('.o_score').innerText = `${score}/${MAX_QUESTIONS+1}`
     percent.innerText = `${Math.round(Math.fround(score/(MAX_QUESTIONS+1))*100)}%`;
+    labels.push(currentQuestion.id);
+    data.datasets[0].data.push(++plus);
+    data.datasets[1].data.push(++steak);
+    chart.update();
 }
 //--------------------------------------------->
 
@@ -337,6 +388,18 @@ function pad(val) {
     return valString;
   }
 }
-
+//---------------------> CHART
+let plus = 1;
+let steak = 1;
+const labels = [];
+const data = {
+labels: labels,
+datasets: [
+{label: 'Đúng', backgroundColor: '#0f9b0f', borderColor: '#0f9b0f', data: []},
+{label: 'Steak', backgroundColor: '#FDC830', borderColor: '#FDC830', data: []},
+]};
+const config = { type: 'line', data: data, options: {}};
+// Tạo chart
+var chart = new Chart(document.getElementById('chart'),config);
 //---------------------
 startGame();

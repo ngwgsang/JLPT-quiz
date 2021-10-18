@@ -452,6 +452,67 @@ body {
   background-color: #FDC830;
 }
 
+.analyticBtn {
+  cursor: pointer;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  border-radius: 0.4rem;
+  font-size: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  bottom: 2rem;
+  right: 2rem;
+  color: #fff;
+  background-color: #000;
+  opacity: 0.3;
+  -webkit-transition: 0.1s linear;
+  transition: 0.1s linear;
+  padding: 0.2rem;
+  overflow: hidden;
+}
+
+@media (max-width: 1200px) {
+  .analyticBtn {
+    width: 4rem;
+    height: 4rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .analyticBtn {
+    width: 3rem;
+    height: 3rem;
+    font-size: 1.4rem;
+  }
+}
+
+.analyticBtn:hover {
+  color: #000;
+  opacity: 1;
+  background-color: #FDC830;
+}
+
+@media (max-width: 900px) {
+  .analyticBtn {
+    width: 50vw;
+  }
+}
+
+@media (max-width: 600px) {
+  .analyticBtn {
+    width: 40vw;
+    padding: 0 0.5rem;
+  }
+}
+
 .main {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1115,6 +1176,136 @@ body {
   color: #fff;
 }
 
+.certificate {
+  width: 70vw;
+  height: 70vh;
+  background-color: white;
+  border-radius: 0.6rem;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.certificate .heading {
+  width: 100%;
+  padding: 4vh 4vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.certificate .heading p {
+  margin-bottom: 1rem;
+}
+
+.certificate .heading .level-box {
+  width: 7rem;
+  height: 7rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: #5105E0;
+  color: #fff;
+  border-radius: 0.6rem;
+}
+
+.certificate .heading .name-box .o_name {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 4rem;
+  width: 20rem;
+  background-color: #FDC830;
+  border-radius: 0.6rem;
+}
+
+.certificate .row {
+  padding: 4vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  gap: 2rem;
+  width: 100%;
+}
+
+.certificate .row .col-l {
+  height: 40vh;
+  width: 40vw;
+}
+
+.certificate .row .col-r {
+  margin-top: 2rem;
+  width: 30vw;
+  height: 34vh;
+  overflow-y: scroll;
+}
+
+.certificate .row .col-r ul {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto auto auto auto;
+      grid-template-columns: auto auto auto auto;
+  gap: 1rem 1rem;
+}
+
+.certificate .row .col-r ul li {
+  width: 6rem;
+  height: 2.8rem;
+  border-radius: 0.6rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.certificate .row .col-r ul .true {
+  background-color: #0f9b0f;
+}
+
+.certificate .row .col-r ul .false {
+  background-color: #ED213A;
+}
+
 body {
   font-size: 62.5%;
 }
@@ -1175,6 +1366,30 @@ body {
 
 @media (max-width: 600px) {
   .preQuestionBtn {
+    font-size: 0.36rem;
+  }
+}
+
+.analyticBtn {
+  font-size: 1rem;
+  line-height: 1.1rem;
+  font-weight: 500;
+}
+
+@media (max-width: 1200px) {
+  .analyticBtn {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .analyticBtn {
+    font-size: 0.5rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .analyticBtn {
     font-size: 0.36rem;
   }
 }
@@ -1354,5 +1569,27 @@ body {
 
 .rankBoard__list li .percent {
   font-weight: 700;
+}
+
+.certificate .heading {
+  font-size: 3.4rem;
+}
+
+.certificate .heading p {
+  font-size: 2rem;
+}
+
+.certificate .heading .level-box {
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+.certificate .heading .name-box .o_name {
+  font-size: 1.4rem;
+}
+
+.certificate .row .col-r ul li {
+  font-size: 1.2rem;
+  font-weight: 500;
 }
 /*# sourceMappingURL=style.css.map */

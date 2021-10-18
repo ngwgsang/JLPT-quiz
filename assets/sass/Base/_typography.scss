@@ -45,6 +45,20 @@ body{
     font-size: 0.36rem;
     }
 }
+.analyticBtn{
+    font-size: 1rem;
+    line-height: 1.1rem;
+    font-weight: 500;
+    @include respond(tab-land){
+    font-size: 0.7rem;
+    }
+    @include respond(tab){
+    font-size: 0.5rem;
+    }
+    @include respond(phone){
+    font-size: 0.36rem;
+    }
+}
 .rankBtn{
     font-size: 3rem;
 }
@@ -190,6 +204,34 @@ body{
             }
             .percent{
                 font-weight: 700;
+            }
+        }
+    }
+}
+//----------------------->CERTIFICATE
+.certificate{
+    .heading{
+        font-size: 3.4rem;
+        p{
+            font-size: 2rem;
+        }
+        .level-box{
+            font-size: 3rem;
+            font-weight: 500;
+        }
+        .name-box{
+            .o_name{
+                font-size: 1.4rem;
+            }
+        }
+    }
+    .row{
+        .col-r{
+            ul{
+                li{
+                    font-size: 1.2rem;
+                    font-weight: 500;
+                }
             }
         }
     }
