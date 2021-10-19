@@ -190,6 +190,16 @@ function changeLevel_N5(){
 //------------------------------------------>
 function startGame(){
     // Bắt đầu và gán các giá trị vào Current question
+    // for (let i=0 ; i< data.datasets.length; i++)
+    // {
+    // data.datasets[0].data.slice(0,data.datasets[0].data.length);
+    // data.datasets[1].data.slice(0,data.datasets[1].data.length);
+    // labels.slice(0,labels.length);
+    // trời ơi bug
+    // }
+    steak = 1;
+    plus  = 1;
+    chart.update();
     document.querySelector('.o_list').innerHTML = '';
     document.querySelector('.o_score').innerText= 0+'/'+questions.length;
     document.getElementById("gif").src= gif[getRandomInt(gif.length)];

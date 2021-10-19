@@ -688,7 +688,7 @@ question: "あたらしい(せんたくき)を買った。",
 choice1: "先濯機",
 choice2: "洗濯機",
 choice3: "洗濯議",
-answer: 1,
+answer: 2,
 },
 
 {
@@ -3368,7 +3368,7 @@ answer: 3,
 
 {
 id: "A0376",
-question: "(造船業)は好況とは言えない。",
+question: "(造船)業は好況とは言えない。",
 choice1: "ぞうせん",
 choice2: "こうせん",
 choice3: "ぞうふね",
@@ -8748,7 +8748,7 @@ id: "A0973",
 question: "今回の大会で世界新(きろく)が出た。",
 choice1: "記禄",
 choice2: "起禄",
-choice3: "記",
+choice3: "記録",
 answer: 3,
 },
 
@@ -15881,7 +15881,7 @@ question: "私は(教師)ではなく講師です。",
 choice1: "きょうし",
 choice2: "ごうし",
 choice3: "こうし",
-answer: 3,
+answer: 1,
 },
 
 {
@@ -20071,11 +20071,713 @@ answer: 3,
 
 {
 id: "A2230",
-question: "彼が母を(せっとく_する。",
+question: "彼が母を(せっとく)する。",
 choice1: "設碍",
 choice2: "説得",
 choice3: "悦得",
 answer: 2,
+},
+
+{
+id: "A2231",
+question: "(忘年会)は活気があってにぎやかだった。",
+choice1: "ほうねんかい",
+choice2: "ぼうねんかい",
+choice3: "おうねんかい",
+answer: 2,
+},
+
+{
+id: "A2232",
+question: "あなたの(感覚)は正しいです。",
+choice1: "かんざく",
+choice2: "かんかく",
+choice3: "がんかく",
+answer: 2,
+},
+
+{
+id: "A2233",
+question: "私の人生は(続く)。",
+choice1: "つづく",
+choice2: "ついく",
+choice3: "とどく",
+answer: 1,
+},
+
+{
+id: "A2234",
+question: "この単語を(覚える)のは簡単です。",
+choice1: "さえる",
+choice2: "さかえる",
+choice3: "おぼえる",
+answer: 3,
+},
+
+{
+id: "A2235",
+question: "君は(努力)が足りない。",
+choice1: "どうりょく",
+choice2: "どりょく",
+choice3: "のうりょく",
+answer: 2,
+},
+
+{
+id: "A2236",
+question: "音楽活動を(続ける)。",
+choice1: "つける",
+choice2: "つづける",
+choice3: "たづける",
+answer: 2,
+},
+
+{
+id: "A2237",
+question: "君の約束を(忘れる)なよ。",
+choice1: "わすれる",
+choice2: "われる",
+choice3: "ぼうれる",
+answer: 1,
+},
+
+{
+id: "A2238",
+question: "(味覚)をより甘くする",
+choice1: "いかく",
+choice2: "みかく",
+choice3: "みがく",
+answer: 2,
+},
+
+{
+id: "A2239",
+question: "その(連続)ドラマはとびとびにしか見ていない。",
+choice1: "れんろう",
+choice2: "れんそく",
+choice3: "れんぞく",
+answer: 3,
+},
+
+{
+id: "A2240",
+question: "彼は天才なだけではなく、(努力家)です。",
+choice1: "のりょくか",
+choice2: "どりょくか",
+choice3: "どりょうか",
+answer: 2,
+},
+
+{
+id: "A2241",
+question: "体を揺すって目を(覚ます)。",
+choice1: "かます",
+choice2: "ざます",
+choice3: "さます",
+answer: 3,
+},
+
+{
+id: "A2242",
+question: "齢60をすぎて(健忘)症になった。",
+choice1: "けんぼう",
+choice2: "けんほう",
+choice3: "けんれい",
+answer: 1,
+},
+
+{
+id: "A2243",
+question: "私はそれを楽しむように(努める)。",
+choice1: "とめる",
+choice2: "つとめる",
+choice3: "いとめる",
+answer: 2,
+},
+
+{
+id: "A2244",
+question: "明日も雨が(降り続く)でしょう。",
+choice1: "ふりつづく",
+choice2: "ふうりつく",
+choice3: "おりつづく",
+answer: 1,
+},
+
+{
+id: "A2245",
+question: "ときどき夜に目が(覚める)。",
+choice1: "かめる",
+choice2: "ざめる",
+choice3: "さめる",
+answer: 3,
+},
+
+{
+id: "A2246",
+question: "(視覚)的印象を強める。",
+choice1: "みかく",
+choice2: "じかく",
+choice3: "しかく",
+answer: 3,
+},
+
+{
+id: "A2247",
+question: "私は何か(忘れ物)をした。",
+choice1: "わすれもの",
+choice2: "ぼれもの",
+choice3: "すわれもの",
+answer: 1,
+},
+
+{
+id: "A2248",
+question: "(継続)した支援に感謝します。",
+choice1: "けいつづ",
+choice2: "けいぞく",
+choice3: "ぞくけい",
+answer: 2,
+},
+
+{
+id: "A2249",
+question: "私は(覚悟)ができています。",
+choice1: "かくご",
+choice2: "みかく",
+choice3: "がくご",
+answer: 1,
+},
+
+{
+id: "A2250",
+question: "町の中心部に新しいビルが(続々)と建った。",
+choice1: "そくぞくと",
+choice2: "ぞくぞくと",
+choice3: "そつぞくと",
+answer: 2,
+},
+
+{
+id: "A2251",
+question: "動物の(しかく)について調べる。",
+choice1: "視覚",
+choice2: "視見",
+choice3: "俔覚",
+answer: 1,
+},
+
+{
+id: "A2252",
+question: "家に(わすれもの)を取りに帰る。",
+choice1: "志れ物",
+choice2: "忘れ物",
+choice3: "充れ物",
+answer: 2,
+},
+
+{
+id: "A2253",
+question: "漢字を350字(おぼえる)。",
+choice1: "覚える",
+choice2: "党える",
+choice3: "賞える",
+answer: 1,
+},
+
+{
+id: "A2254",
+question: "早寝早起きに(つとめる)。",
+choice1: "妨める",
+choice2: "協める",
+choice3: "努める",
+answer: 3,
+},
+
+{
+id: "A2255",
+question: "鳥の声で目を(さます)。",
+choice1: "見ます",
+choice2: "覚ます",
+choice3: "筧ます",
+answer: 2,
+},
+
+{
+id: "A2256",
+question: "仕事を辞める(かくご)を決めた。",
+choice1: "覚吾",
+choice2: "筧語",
+choice3: "覚悟",
+answer: 3,
+},
+
+{
+id: "A2257",
+question: "漢字の勉強を毎日(つづける)。",
+choice1: "紡ける",
+choice2: "続ける",
+choice3: "絖ける",
+answer: 2,
+},
+
+{
+id: "A2258",
+question: "林さんは(どりょく)かだ。",
+choice1: "努力家",
+choice2: "力努豕",
+choice3: "協力蒙",
+answer: 1,
+},
+
+{
+id: "A2259",
+question: "(れんぞく)ドラマを毎週見ている。",
+choice1: "蓮絖",
+choice2: "錬続",
+choice3: "連続",
+answer: 3,
+},
+
+{
+id: "A2260",
+question: "大人になると(みかく)が変わる。",
+choice1: "沫負",
+choice2: "味覚",
+choice3: "昧覚",
+answer: 2,
+},
+
+{
+id: "A2261",
+question: "あさ5時に目が(さめた)。",
+choice1: "筧めた",
+choice2: "覚めた",
+choice3: "願面",
+answer: 2,
+},
+
+{
+id: "A2262",
+question: "(ぼうねんかい)の予約をする。",
+choice1: "忘年会",
+choice2: "志年合",
+choice3: "亡年会",
+answer: 1,
+},
+
+{
+id: "A2263",
+question: "雨が3日間(ふりつづいて)いる。",
+choice1: "降り絖いて",
+choice2: "降り続いて",
+choice3: "隆り結いて",
+answer: 2,
+},
+
+{
+id: "A2264",
+question: "宿題を(わすれて)先生に怒られる。",
+choice1: "忘れて",
+choice2: "志れて",
+choice3: "応れて",
+answer: 1,
+},
+
+{
+id: "A2265",
+question: "(けいぞく)は力なり。",
+choice1: "継絖",
+choice2: "経続",
+choice3: "継続",
+answer: 3,
+},
+
+{
+id: "A2266",
+question: "60歳 を(すぎてけんぼう)症になった。",
+choice1: "健忘",
+choice2: "建忘",
+choice3: "腱忘",
+answer: 1,
+},
+
+{
+id: "A2267",
+question: "(どりょく)を重ねることは大切だ。",
+choice1: "努協",
+choice2: "協力",
+choice3: "努力",
+answer: 3,
+},
+
+{
+id: "A2268",
+question: "注文が(ぞくぞく)きた。",
+choice1: "々続",
+choice2: "続々",
+choice3: "絡々",
+answer: 2,
+},
+
+{
+id: "A2269",
+question: "寒さで手の(かんかく)がなくなる。",
+choice1: "咸覚",
+choice2: "憾覚",
+choice3: "感覚",
+answer: 3,
+},
+
+{
+id: "A2270",
+question: "この頃は天気が(つづく)。",
+choice1: "結く",
+choice2: "続く",
+choice3: "経く",
+answer: 2,
+},
+
+{
+id: "A2271",
+question: "私は医師に(要注意)といわれた。",
+choice1: "こうちゅうい",
+choice2: "ようちゅうい",
+choice3: "ようしゅうい",
+answer: 2,
+},
+
+{
+id: "A2272",
+question: "どれくらいお金が(要る)のですか。",
+choice1: "よる",
+choice2: "いる",
+choice3: "ようる",
+answer: 2,
+},
+
+{
+id: "A2273",
+question: "しっかりと(復習)をしなさい。",
+choice1: "ふくしゅう",
+choice2: "おうしゅう",
+choice3: "ふうしゅう",
+answer: 1,
+},
+
+{
+id: "A2274",
+question: "彼は私を(補う)。",
+choice1: "おやなう",
+choice2: "やがなう",
+choice3: "おぎなう",
+answer: 3,
+},
+
+{
+id: "A2275",
+question: "扇の(要)を狙って矢は放たれたが, 当たらなかった。",
+choice1: "よう",
+choice2: "かなめ",
+choice3: "さなめ",
+answer: 2,
+},
+
+{
+id: "A2276",
+question: "火に燃料を(補給)する。",
+choice1: "ぼきゅう",
+choice2: "ほきゅう",
+choice3: "ぼうきゅう",
+answer: 2,
+},
+
+{
+id: "A2277",
+question: "治療がたしかに(必要)だ。",
+choice1: "ひつよう",
+choice2: "ひっよう",
+choice3: "しんよう",
+answer: 1,
+},
+
+{
+id: "A2278",
+question: "薬の(効き目)がなくなってきた",
+choice1: "あきめ",
+choice2: "ききめ",
+choice3: "かきめ",
+answer: 2,
+},
+
+{
+id: "A2279",
+question: "あなたはこの文を(要約)して下さい。",
+choice1: "こうやく",
+choice2: "よやく",
+choice3: "ようやく",
+answer: 3,
+},
+
+{
+id: "A2280",
+question: "彼女の(立候補)は認められなかった。",
+choice1: "りつこうぼ",
+choice2: "りっこうほ",
+choice3: "りっこうぼ",
+answer: 2,
+},
+
+{
+id: "A2281",
+question: "(有効)な許可書を送って下さい。",
+choice1: "むこう",
+choice2: "ゆこう",
+choice3: "ゆうこう",
+answer: 3,
+},
+
+{
+id: "A2282",
+question: "この設定は(無効)です。",
+choice1: "むこう",
+choice2: "うこう",
+choice3: "なこう",
+answer: 1,
+},
+
+{
+id: "A2283",
+question: "(補習)授業を受けた。",
+choice1: "こしゅう",
+choice2: "ほしゅう",
+choice3: "ぼしゅう",
+answer: 2,
+},
+
+{
+id: "A2284",
+question: "それが彼らの(主要)紙だ。",
+choice1: "しゅよう",
+choice2: "おうよう",
+choice3: "じゅよう",
+answer: 1,
+},
+
+{
+id: "A2285",
+question: "彼女の怪我は(回復)した。",
+choice1: "かいふう",
+choice2: "こうふく",
+choice3: "かいふく",
+answer: 3,
+},
+
+{
+id: "A2286",
+question: "この薬は胃に(効く)。",
+choice1: "あく",
+choice2: "かく",
+choice3: "きく",
+answer: 3,
+},
+
+{
+id: "A2287",
+question: "私たちは(往復)で300キロ運転した。",
+choice1: "おうふく",
+choice2: "しゅふく",
+choice3: "じゅふく",
+answer: 1,
+},
+
+{
+id: "A2288",
+question: "早く仕事に(復帰)したいです。",
+choice1: "ふくき",
+choice2: "ふっき",
+choice3: "ふつき",
+answer: 2,
+},
+
+{
+id: "A2289",
+question: "努力しても(効果)がない。",
+choice1: "こうか",
+choice2: "きくか",
+choice3: "ほうか",
+answer: 1,
+},
+
+{
+id: "A2290",
+question: "旅行に(ひつような)費用を計算する。",
+choice1: "必要な",
+choice2: "心腰な",
+choice3: "必堙な",
+answer: 1,
+},
+
+{
+id: "A2291",
+question: "学校と家を(おうふく)する。",
+choice1: "主複",
+choice2: "往復",
+choice3: "往複",
+answer: 2,
+},
+
+{
+id: "A2292",
+question: "この薬は(ききめ)が早い。",
+choice1: "効き目",
+choice2: "効き日",
+choice3: "效き目",
+answer: 1,
+},
+
+{
+id: "A2293",
+question: "文章を(ようやく)して、自分の意見を書く。",
+choice1: "要釣",
+choice2: "腰約",
+choice3: "要約",
+answer: 3,
+},
+
+{
+id: "A2294",
+question: "これはかなり根気が(いる)仕事だ。",
+choice1: "悪る",
+choice2: "要る",
+choice3: "腰る",
+answer: 2,
+},
+
+{
+id: "A2295",
+question: "サプリメントでビタミンを(おぎなって)いる。",
+choice1: "捕って",
+choice2: "甫って",
+choice3: "補って",
+answer: 3,
+},
+
+{
+id: "A2296",
+question: "山下選手はチームの(かなめ)だ。",
+choice1: "腰",
+choice2: "要",
+choice3: "票",
+answer: 2,
+},
+
+{
+id: "A2297",
+question: "来月から仕事に(ふっき)する。",
+choice1: "復帰",
+choice2: "複帰",
+choice3: "福帰",
+answer: 1,
+},
+
+{
+id: "A2298",
+question: "がんばって練習した(こうか)が表れる。",
+choice1: "交課",
+choice2: "校果",
+choice3: "効果",
+answer: 3,
+},
+
+{
+id: "A2299",
+question: "(しゅような)メンバーで会議をする。",
+choice1: "往要な",
+choice2: "主要な",
+choice3: "玉腰な",
+answer: 2,
+},
+
+{
+id: "A2300",
+question: "水分を(ほきゅう)する。",
+choice1: "捕級",
+choice2: "補給",
+choice3: "甫給",
+answer: 2,
+},
+
+{
+id: "A2301",
+question: "テストの点が悪くて、(ほしゅう)を受けた。",
+choice1: "補習",
+choice2: "甫摺",
+choice3: "捕習",
+answer: 1,
+},
+
+{
+id: "A2302",
+question: "母の病気が(かいふく)した。",
+choice1: "廻複",
+choice2: "回復",
+choice3: "何復",
+answer: 2,
+},
+
+{
+id: "A2303",
+question: "彼は(ようちゅうい)人物だ。",
+choice1: "要注意",
+choice2: "腰主意",
+choice3: "要往意",
+answer: 1,
+},
+
+{
+id: "A2304",
+question: "チケットが(むこう)になる。",
+choice1: "無郊",
+choice2: "無效",
+choice3: "無効",
+answer: 3,
+},
+
+{
+id: "A2305",
+question: "この薬はかぜに(きく)。",
+choice1: "効く",
+choice2: "效く",
+choice3: "郊く",
+answer: 1,
+},
+
+{
+id: "A2306",
+question: "お金を(ゆうこう)に使う。",
+choice1: "侑郊",
+choice2: "宥効",
+choice3: "有効",
+answer: 3,
+},
+
+{
+id: "A2307",
+question: "市長に(りっこうほ)する。",
+choice1: "立侯捕",
+choice2: "立候補",
+choice3: "立候甫",
+answer: 2,
+},
+
+{
+id: "A2308",
+question: "授業の(ふくしゅう)はとても大切だ。",
+choice1: "福摺",
+choice2: "複習",
+choice3: "復習",
+answer: 3,
 },
 
 ]
