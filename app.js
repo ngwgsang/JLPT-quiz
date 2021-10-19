@@ -60,6 +60,7 @@ rankBtn.addEventListener('click',()=>{
     document.getElementById('rankBoard').style.display        = "flex";
     document.getElementById('returnBtn').style.display        = "flex";
     document.getElementById('analyticBtn').style.display      = "none";
+    document.getElementById('certificate').style.display      = "none";
 });
 // Save scrore
 let o_name = ''
