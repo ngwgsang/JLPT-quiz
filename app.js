@@ -190,17 +190,14 @@ function changeLevel_N5(){
 
 //------------------------------------------>
 function startGame(){
-    // Bắt đầu và gán các giá trị vào Current question
-    // for (let i=0 ; i< data.datasets.length; i++)
-    // {
-    // data.datasets[0].data.slice(0,data.datasets[0].data.length);
-    // data.datasets[1].data.slice(0,data.datasets[1].data.length);
-    // labels.slice(0,labels.length);
-    // trời ơi bug
-    // }
+    //Reset chart
+    labels.splice(0,labels.length);
+    data.datasets[0].data.splice(0,data.datasets[0].data.length);
+    data.datasets[1].data.splice(0,data.datasets[1].data.length);
     steak = 1;
     plus  = 1;
     chart.update();
+    // Bắt đầu và gán các giá trị vào Current question
     document.querySelector('.o_list').innerHTML = '';
     document.querySelector('.o_score').innerText= 0+'/'+questions.length;
     document.getElementById("gif").src= gif[getRandomInt(gif.length)];
@@ -412,5 +409,6 @@ datasets: [
 const config = { type: 'line', data: data, options: {}};
 // Tạo chart
 var chart = new Chart(document.getElementById('chart'),config);
+
 //---------------------
 startGame();

@@ -6125,7 +6125,7 @@ answer: 1,
 
 {
 id: "A0682",
-question: "大人か(おまけ)の知識がある。",
+question: "大人(かおまけ)の知識がある。",
 choice1: "顏負け",
 choice2: "顔負け",
 choice3: "顔貝け",
@@ -19684,7 +19684,7 @@ answer: 1,
 
 {
 id: "A2187",
-question: "(じゆうに)話し合ってください。",
+question: "(じゆう)に話し合ってください。",
 choice1: "自柚",
 choice2: "白油",
 choice3: "自由",
