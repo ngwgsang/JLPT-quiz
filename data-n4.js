@@ -5226,6 +5226,1435 @@ choice2: "はじめました",
 choice3: "やめました",
 answer: 2,
 },
-
+{
+    id: "I0582",
+    question: "(しけん)の前にけんきゅうしつでべんきょうしました。",
+    choice1: "試験",
+    choice2: "式験",
+    choice3: "試険",
+    answer: 1,
+    },
+    
+    {
+    id: "I0583",
+    question: "しけんの前に(けんきゅうしつ)でべんきょうしました。",
+    choice1: "究研室",
+    choice2: "研究室",
+    choice3: "究研屋",
+    answer: 2,
+    },
+    
+    {
+    id: "I0584",
+    question: "しけんの前にけんきゅうしつで(べんきょう)しました。",
+    choice1: "勉強",
+    choice2: "強勉",
+    choice3: "免強",
+    answer: 1,
+    },
+    
+    {
+    id: "I0585",
+    question: "(はる)はあるくよりじてんしゃのほうがきもちがいいですね。",
+    choice1: "青",
+    choice2: "秋",
+    choice3: "春",
+    answer: 3,
+    },
+    
+    {
+    id: "I0586",
+    question: "はるは(あるく)よりじてんしゃのほうがきもちがいいですね。",
+    choice1: "走く",
+    choice2: "少く",
+    choice3: "歩く",
+    answer: 3,
+    },
+    
+    {
+    id: "I0587",
+    question: "はるはあるくより(じてんしゃ)のほうがきもちがいいですね。",
+    choice1: "自動車",
+    choice2: "自電車",
+    choice3: "自転車",
+    answer: 3,
+    },
+    
+    {
+    id: "I0588",
+    question: "(あした)のおひるまでこの本をかりてもいいですか。",
+    choice1: "朝日",
+    choice2: "明日",
+    choice3: "月日",
+    answer: 2,
+    },
+    
+    {
+    id: "I0589",
+    question: "あしたの(おひる)までこの本をかりてもいいですか。",
+    choice1: "お昼",
+    choice2: "お夕",
+    choice3: "お夜",
+    answer: 1,
+    },
+    
+    {
+    id: "I0590",
+    question: "あしたのおひるまでこの本を(かりて)もいいですか。",
+    choice1: "借りて",
+    choice2: "貸りて",
+    choice3: "昔りて",
+    answer: 1,
+    },
+    
+    {
+    id: "I0591",
+    question: "「 (しゅんかしゅうとう) 」というのはどういういみですか。",
+    choice1: "夏春秋冬",
+    choice2: "秋冬春夏",
+    choice3: "春夏秋冬",
+    answer: 3,
+    },
+    
+    {
+    id: "I0592",
+    question: "「 しゅんかしゅうとう 」というのはどういう(いみ)ですか。",
+    choice1: "意味",
+    choice2: "音味",
+    choice3: "意未",
+    answer: 1,
+    },
+    
+    {
+    id: "I0593",
+    question: "(きょうだい)はあねが一人と、おとうと が一人と、いもうと が二人です。",
+    choice1: "弟兄",
+    choice2: "兄弟",
+    choice3: "克弟",
+    answer: 2,
+    },
+    
+    {
+    id: "I0594",
+    question: "きょうだいは(あね)が一人と、おとうと が一人と、いもうと が二人です。",
+    choice1: "姉",
+    choice2: "妹",
+    choice3: "妙",
+    answer: 1,
+    },
+    
+    {
+    id: "I0595",
+    question: "きょうだいはあねが一人と、(おとうと) が一人と、いもうと が二人です。",
+    choice1: "兄",
+    choice2: "第",
+    choice3: "弟",
+    answer: 3,
+    },
+    
+    {
+    id: "I0596",
+    question: "きょうだいはあねが一人と、おとうと が一人と、(いもうと) が二人です。",
+    choice1: "妙",
+    choice2: "奸",
+    choice3: "妹",
+    answer: 3,
+    },
+    
+    {
+    id: "I0597",
+    question: "外がうるさくて(漢字)の試験に集中できませんでした。",
+    choice1: "えいご",
+    choice2: "よみかた",
+    choice3: "かんじ",
+    answer: 3,
+    },
+    
+    {
+    id: "I0598",
+    question: "外がうるさくて漢字の(試験)に集中できませんでした。",
+    choice1: "れんしゅう",
+    choice2: "しけん",
+    choice3: "しんけん",
+    answer: 2,
+    },
+    
+    {
+    id: "I0599",
+    question: "外がうるさくて漢字の試験に(集中)できませんでした。",
+    choice1: "しゅちょう",
+    choice2: "しゅうちゅう",
+    choice3: "しゅうちょう",
+    answer: 2,
+    },
+    
+    {
+    id: "I0600",
+    question: "(病院)にはこの服を着て行くつもりです。",
+    choice1: "びょうき",
+    choice2: "びょういん",
+    choice3: "がっこう",
+    answer: 2,
+    },
+    
+    {
+    id: "I0601",
+    question: "病院にはこの(服)を着て行くつもりです。",
+    choice1: "ふく",
+    choice2: "くつ",
+    choice3: "くすり",
+    answer: 1,
+    },
+    
+    {
+    id: "I0602",
+    question: "病院にはこの服を(着て)行くつもりです。",
+    choice1: "きいて",
+    choice2: "かいて",
+    choice3: "きて",
+    answer: 3,
+    },
+    
+    {
+    id: "I0603",
+    question: "きのうこちらから(送った)写真はもう着きましたか。",
+    choice1: "つくった",
+    choice2: "まった",
+    choice3: "おくった",
+    answer: 3,
+    },
+    
+    {
+    id: "I0604",
+    question: "きのうこちらから送った(写真)はもう着きましたか。",
+    choice1: "さしん",
+    choice2: "しゃしん",
+    choice3: "しゃっしん",
+    answer: 2,
+    },
+    
+    {
+    id: "I0605",
+    question: "きのうこちらから送った写真はもう(着きました)か。",
+    choice1: "つきました",
+    choice2: "いきました",
+    choice3: "おきました",
+    answer: 1,
+    },
+    
+    {
+    id: "I0606",
+    question: "(一生)にいちどでいいから、中国に行ってみたいです。",
+    choice1: "いっしょ",
+    choice2: "いちしょ",
+    choice3: "いっしょう",
+    answer: 3,
+    },
+    
+    {
+    id: "I0607",
+    question: "一生にいちどでいいから、(中国)に行ってみたいです。",
+    choice1: "ちゅうごく",
+    choice2: "ちゅうこく",
+    choice3: "なかくに",
+    answer: 1,
+    },
+    
+    {
+    id: "I0608",
+    question: "一生にいちどでいいから、中国に(行って)みたいです。",
+    choice1: "いきって",
+    choice2: "きって",
+    choice3: "いって",
+    answer: 3,
+    },
+    
+    {
+    id: "I0609",
+    question: "９０年に(東北)から出て来て以来、いなかにかえっていません。",
+    choice1: "ひがしきた",
+    choice2: "とうほく",
+    choice3: "せいほく",
+    answer: 2,
+    },
+    
+    {
+    id: "I0610",
+    question: "９０年に東北から(出て来て)以来、いなかにかえっていません。",
+    choice1: "だしてきて",
+    choice2: "でってきて",
+    choice3: "でてきて",
+    answer: 3,
+    },
+    
+    {
+    id: "I0611",
+    question: "９０年に東北から出て来て(以来)、いなかにかえっていません。",
+    choice1: "いらい",
+    choice2: "いく",
+    choice3: "いうらい",
+    answer: 1,
+    },
+    
+    {
+    id: "I0612",
+    question: "(いちじかん)でだいたいはんぶんおわるはずです。",
+    choice1: "一待半",
+    choice2: "一待間",
+    choice3: "一時間",
+    answer: 3,
+    },
+    
+    {
+    id: "I0613",
+    question: "いちじかんで(だいたい)はんぶんおわるはずです。",
+    choice1: "大木",
+    choice2: "大休",
+    choice3: "大体",
+    answer: 3,
+    },
+    
+    {
+    id: "I0614",
+    question: "いちじかんでだいたい(はんぶん)おわるはずです。",
+    choice1: "平介",
+    choice2: "半分",
+    choice3: "半介",
+    answer: 2,
+    },
+    
+    {
+    id: "I0615",
+    question: "これはその(おんなのこ)にとってとてもだいじなものです。",
+    choice1: "女の人",
+    choice2: "男の人",
+    choice3: "女の子",
+    answer: 3,
+    },
+    
+    {
+    id: "I0616",
+    question: "これはそのおんなのこにとってとても(だいじな)ものです。",
+    choice1: "大事な",
+    choice2: "天事な",
+    choice3: "大書な",
+    answer: 1,
+    },
+    
+    {
+    id: "I0617",
+    question: "これはそのおんなのこにとってとてもだいじな(もの)です。",
+    choice1: "豚",
+    choice2: "家",
+    choice3: "物",
+    answer: 3,
+    },
+    
+    {
+    id: "I0618",
+    question: "じゃ、また、(こんしゅう)のすいようびのごご２時に。",
+    choice1: "来週",
+    choice2: "今週",
+    choice3: "会周",
+    answer: 2,
+    },
+    
+    {
+    id: "I0619",
+    question: "じゃ、また、こんしゅうの(すいようび)のごご２時に。",
+    choice1: "木",
+    choice2: "火",
+    choice3: "水",
+    answer: 3,
+    },
+    
+    {
+    id: "I0620",
+    question: "じゃ、また、こんしゅうのすいようびの(ごご)２時に。",
+    choice1: "五語",
+    choice2: "午後",
+    choice3: "語後",
+    answer: 2,
+    },
+    
+    {
+    id: "I0621",
+    question: "(夕方)来ると言っていました。",
+    choice1: "たほう",
+    choice2: "たがた",
+    choice3: "ゆうがた",
+    answer: 3,
+    },
+    
+    {
+    id: "I0622",
+    question: "夕方(来る)と言っていました。",
+    choice1: "かえる",
+    choice2: "くる",
+    choice3: "みる",
+    answer: 2,
+    },
+    
+    {
+    id: "I0623",
+    question: "夕方来ると(言って)いました。",
+    choice1: "もって",
+    choice2: "まって",
+    choice3: "いって",
+    answer: 3,
+    },
+    
+    {
+    id: "I0624",
+    question: "(先月)の二十日に先生にあいました。",
+    choice1: "せんじつ",
+    choice2: "せんげつ",
+    choice3: "せんしゅう",
+    answer: 2,
+    },
+    
+    {
+    id: "I0625",
+    question: "先月の(二十日)に先生にあいました。",
+    choice1: "はつか",
+    choice2: "はたち",
+    choice3: "はっか",
+    answer: 1,
+    },
+    
+    {
+    id: "I0626",
+    question: "先月の二十日に(先生)にあいました。",
+    choice1: "せんせい",
+    choice2: "せいと",
+    choice3: "せんじつ",
+    answer: 1,
+    },
+    
+    {
+    id: "I0627",
+    question: "(こんしゅう)はみっかやすみました 。",
+    choice1: "今週",
+    choice2: "来週",
+    choice3: "会通",
+    answer: 1,
+    },
+    
+    {
+    id: "I0628",
+    question: "こんしゅうは(みっか)やすみました 。",
+    choice1: "二月",
+    choice2: "三月",
+    choice3: "三日",
+    answer: 3,
+    },
+    
+    {
+    id: "I0629",
+    question: "こんしゅうはみっか(やすみました) 。",
+    choice1: "体みました",
+    choice2: "木みました",
+    choice3: "休みました",
+    answer: 3,
+    },
+    
+    {
+    id: "I0630",
+    question: "(ごぜんちゅう)そとはすごいあめでした。",
+    choice1: "牛前中",
+    choice2: "午前中",
+    choice3: "牛例中",
+    answer: 2,
+    },
+    
+    {
+    id: "I0631",
+    question: "ごぜんちゅう(そと)はすごいあめでした。",
+    choice1: "外",
+    choice2: "忖",
+    choice3: "列",
+    answer: 1,
+    },
+    
+    {
+    id: "I0632",
+    question: "ごぜんちゅうそとはすごい(あめ)でした。",
+    choice1: "電",
+    choice2: "両",
+    choice3: "雨",
+    answer: 3,
+    },
+    
+    {
+    id: "I0633",
+    question: "(だいたい)ですが、さんまんえんいじょうするとおもいます。",
+    choice1: "弟体",
+    choice2: "弟休",
+    choice3: "大体",
+    answer: 3,
+    },
+    
+    {
+    id: "I0634",
+    question: "だいたいですが、(さんまんえん)いじょうするとおもいます。",
+    choice1: "三方円",
+    choice2: "三万円",
+    choice3: "三千円",
+    answer: 2,
+    },
+    
+    {
+    id: "I0635",
+    question: "だいたいですが、さんまんえん(いじょう)するとおもいます。",
+    choice1: "以上",
+    choice2: "似上",
+    choice3: "以下",
+    answer: 1,
+    },
+    
+    {
+    id: "I0636",
+    question: "この(赤い紙)は高いけど品質がいいですね。",
+    choice1: "あかいかみ",
+    choice2: "あおいえ",
+    choice3: "しろいかみ",
+    answer: 1,
+    },
+    
+    {
+    id: "I0637",
+    question: "この赤い紙は(高い)けど品質がいいですね。",
+    choice1: "たっかい",
+    choice2: "たかい",
+    choice3: "たうかい",
+    answer: 2,
+    },
+    
+    {
+    id: "I0638",
+    question: "この赤い紙は高いけど(品質)がいいですね。",
+    choice1: "しなひつ",
+    choice2: "しなしつ",
+    choice3: "ひんしつ",
+    answer: 3,
+    },
+    
+    {
+    id: "I0639",
+    question: "(教室)では日本語で話してください。",
+    choice1: "きょうしつ",
+    choice2: "きょうや",
+    choice3: "きゃうしつ",
+    answer: 1,
+    },
+    
+    {
+    id: "I0640",
+    question: "教室では(日本語)で話してください。",
+    choice1: "にほんわ",
+    choice2: "にほんはなし",
+    choice3: "にほんご",
+    answer: 3,
+    },
+    
+    {
+    id: "I0641",
+    question: "教室では日本語で(話して)ください。",
+    choice1: "わして",
+    choice2: "ごして",
+    choice3: "はなして",
+    answer: 3,
+    },
+    
+    {
+    id: "I0642",
+    question: "その(あたらしい)みせはにくやのとなりです。",
+    choice1: "親しい",
+    choice2: "近しい",
+    choice3: "新しい",
+    answer: 3,
+    },
+    
+    {
+    id: "I0643",
+    question: "そのあたらしい(みせ)はにくやのとなりです。",
+    choice1: "店",
+    choice2: "屋",
+    choice3: "室",
+    answer: 1,
+    },
+    
+    {
+    id: "I0644",
+    question: "そのあたらしいみせは(にくや)のとなりです。",
+    choice1: "内屋",
+    choice2: "内店",
+    choice3: "肉屋",
+    answer: 3,
+    },
+    
+    {
+    id: "I0645",
+    question: "わたしの(かぞく)にはいしゃがおおいです。",
+    choice1: "家旅",
+    choice2: "稼施",
+    choice3: "家族",
+    answer: 3,
+    },
+    
+    {
+    id: "I0646",
+    question: "わたしのかぞくには(いしゃ)がおおいです。",
+    choice1: "区車",
+    choice2: "医者",
+    choice3: "匠車",
+    answer: 2,
+    },
+    
+    {
+    id: "I0647",
+    question: "わたしのかぞくにはいしゃが(おおい)です。",
+    choice1: "大い",
+    choice2: "少い",
+    choice3: "多い",
+    answer: 3,
+    },
+    
+    {
+    id: "I0648",
+    question: "この(はな)はどこでうっていたんですか。わたしもかいたいです。",
+    choice1: "草",
+    choice2: "若",
+    choice3: "花",
+    answer: 3,
+    },
+    
+    {
+    id: "I0649",
+    question: "このはなはどこで(うって)いたんですか。わたしもかいたいです。",
+    choice1: "売って",
+    choice2: "穴って",
+    choice3: "壱って",
+    answer: 1,
+    },
+    
+    {
+    id: "I0650",
+    question: "このはなはどこでうっていたんですか。わたしも(かいたい)です。",
+    choice1: "買いたい",
+    choice2: "売いたい",
+    choice3: "賣いたい",
+    answer: 1,
+    },
+    
+    {
+    id: "I0651",
+    question: "(体重)は多少ふえました。",
+    choice1: "たいじゅう",
+    choice2: "たいちょう",
+    choice3: "からだじゅう",
+    answer: 1,
+    },
+    
+    {
+    id: "I0652",
+    question: "体重は(多少)ふえました。",
+    choice1: "たくさん",
+    choice2: "しょうしょう",
+    choice3: "たしょう",
+    answer: 3,
+    },
+    
+    {
+    id: "I0653",
+    question: "(高校時代)に京都の古いお寺をまわりました。",
+    choice1: "こうとうがっこう",
+    choice2: "こうこうじだい",
+    choice3: "こうこうじかん",
+    answer: 2,
+    },
+    
+    {
+    id: "I0654",
+    question: "高校時代に(京都)の古いお寺をまわりました。",
+    choice1: "とうきょう",
+    choice2: "きょと",
+    choice3: "きょうと",
+    answer: 3,
+    },
+    
+    {
+    id: "I0655",
+    question: "高校時代に京都の(古い)お寺をまわりました。",
+    choice1: "ふるい",
+    choice2: "おもい",
+    choice3: "たかい",
+    answer: 1,
+    },
+    
+    {
+    id: "I0656",
+    question: "高校時代に京都の古い(お寺)をまわりました。",
+    choice1: "おしろ",
+    choice2: "おまち",
+    choice3: "おてら",
+    answer: 3,
+    },
+    
+    {
+    id: "I0657",
+    question: "ふつうの(かいわ)はだいじょうぶですが、よみかきはむずかしいです。",
+    choice1: "合話",
+    choice2: "会話",
+    choice3: "合語",
+    answer: 2,
+    },
+    
+    {
+    id: "I0658",
+    question: "ふつうのかいわはだいじょうぶですが、(よみ)かきはむずかしいです。",
+    choice1: "誌み",
+    choice2: "語み",
+    choice3: "読み",
+    answer: 3,
+    },
+    
+    {
+    id: "I0659",
+    question: "ふつうのかいわはだいじょうぶですが、よみ(かき)はむずかしいです。",
+    choice1: "事き",
+    choice2: "書き",
+    choice3: "青き",
+    answer: 2,
+    },
+    
+    {
+    id: "I0660",
+    question: "この(とち)はこうじょうようにかいました。",
+    choice1: "上地",
+    choice2: "上池",
+    choice3: "土地",
+    answer: 3,
+    },
+    
+    {
+    id: "I0661",
+    question: "このとちは(こうじょう)ようにかいました。",
+    choice1: "工所用",
+    choice2: "工場用",
+    choice3: "土場用",
+    answer: 2,
+    },
+    
+    {
+    id: "I0662",
+    question: "このとちはこうじょうように(かいました)。",
+    choice1: "買いました",
+    choice2: "具いました",
+    choice3: "負いました",
+    answer: 1,
+    },
+    
+    {
+    id: "I0663",
+    question: "(どくしょ)とさどうとりょこうがすきです。",
+    choice1: "売書",
+    choice2: "読書",
+    choice3: "売事",
+    answer: 2,
+    },
+    
+    {
+    id: "I0664",
+    question: "どくしょと(さどう)とりょこうがすきです。",
+    choice1: "左通",
+    choice2: "茶通",
+    choice3: "茶道",
+    answer: 3,
+    },
+    
+    {
+    id: "I0665",
+    question: "どくしょとさどうと(りょこう)がすきです。",
+    choice1: "旅行",
+    choice2: "族銀",
+    choice3: "族工",
+    answer: 1,
+    },
+    
+    {
+    id: "I0666",
+    question: "このベートーベンが(作った)音楽は有名です。",
+    choice1: "とった",
+    choice2: "つくった",
+    choice3: "つかった",
+    answer: 2,
+    },
+    
+    {
+    id: "I0667",
+    question: "このベートーベンが作った(音楽)は有名です。",
+    choice1: "おんがく",
+    choice2: "おんらく",
+    choice3: "おんがっく",
+    answer: 1,
+    },
+    
+    {
+    id: "I0668",
+    question: "このベートーベンが作った音楽は(有名)です。",
+    choice1: "ゆうめい",
+    choice2: "ゆめい",
+    choice3: "うめい",
+    answer: 1,
+    },
+    
+    {
+    id: "I0669",
+    question: "(帰国)して大学院で勉強します。",
+    choice1: "きこくう",
+    choice2: "きっこく",
+    choice3: "きこく",
+    answer: 3,
+    },
+    
+    {
+    id: "I0670",
+    question: "帰国して(大学院)で勉強します。",
+    choice1: "おおがくいん",
+    choice2: "おおびょういん",
+    choice3: "だいがくいん",
+    answer: 3,
+    },
+    
+    {
+    id: "I0671",
+    question: "帰国して大学院で(勉強)します。",
+    choice1: "しごと",
+    choice2: "べんきょ",
+    choice3: "べんきょう",
+    answer: 3,
+    },
+    
+    {
+    id: "I0672",
+    question: "(りょうり)をつくるのはたのしいですね。",
+    choice1: "料由",
+    choice2: "料理",
+    choice3: "科理",
+    answer: 2,
+    },
+    
+    {
+    id: "I0673",
+    question: "りょうりを(つくる)のはたのしいですね。",
+    choice1: "使る",
+    choice2: "作る",
+    choice3: "行る",
+    answer: 2,
+    },
+    
+    {
+    id: "I0674",
+    question: "りょうりをつくるのは(たのしい)ですね。",
+    choice1: "音しい",
+    choice2: "早しい",
+    choice3: "楽しい",
+    answer: 3,
+    },
+    
+    {
+    id: "I0675",
+    question: "(あに)はふゆのオリンピックでぎんメダルをとりました。",
+    choice1: "克",
+    choice2: "兌",
+    choice3: "兄",
+    answer: 3,
+    },
+    
+    {
+    id: "I0676",
+    question: "あには(ふゆ)のオリンピックでぎんメダルをとりました。",
+    choice1: "冬",
+    choice2: "尽",
+    choice3: "谷",
+    answer: 1,
+    },
+    
+    {
+    id: "I0677",
+    question: "あにはふゆのオリンピックで(ぎんメダル)をとりました。",
+    choice1: "録メダル",
+    choice2: "銀メダル",
+    choice3: "銭メダル",
+    answer: 2,
+    },
+    
+    {
+    id: "I0678",
+    question: "(しごと)がおわったらかいぎ室にあつまってください。",
+    choice1: "任事",
+    choice2: "化車",
+    choice3: "仕事",
+    answer: 3,
+    },
+    
+    {
+    id: "I0679",
+    question: "しごとが(おわった)らかいぎ室にあつまってください。",
+    choice1: "絡わった",
+    choice2: "終わった",
+    choice3: "細わった",
+    answer: 1,
+    },
+    
+    {
+    id: "I0680",
+    question: "しごとがおわったらかいぎ室に(あつまって)ください。",
+    choice1: "焦まって",
+    choice2: "隻まって",
+    choice3: "集まって",
+    answer: 2,
+    },
+    
+    {
+    id: "I0681",
+    question: "朝(早く)起きて犬とジョギングをしました。",
+    choice1: "おそく",
+    choice2: "はやく",
+    choice3: "とおく",
+    answer: 2,
+    },
+    
+    {
+    id: "I0682",
+    question: "朝早く(起きて)犬とジョギングをしました。",
+    choice1: "あきて",
+    choice2: "おきて",
+    choice3: "つきて",
+    answer: 2,
+    },
+    
+    {
+    id: "I0683",
+    question: "朝早く起きて(犬)とジョギングをしました。",
+    choice1: "いめ",
+    choice2: "いね",
+    choice3: "いぬ",
+    answer: 3,
+    },
+    
+    {
+    id: "I0684",
+    question: "「 (発音)に注意しなさい」と社長に言われました。",
+    choice1: "でんしゃ",
+    choice2: "はつでん",
+    choice3: "はつおん",
+    answer: 3,
+    },
+    
+    {
+    id: "I0685",
+    question: "「 発音に(注意)しなさい」と社長に言われました。",
+    choice1: "ようい",
+    choice2: "じゅんび",
+    choice3: "ちゅうい",
+    answer: 3,
+    },
+    
+    {
+    id: "I0686",
+    question: "「 発音に注意しなさい」と(社長)に言われました。",
+    choice1: "しゃちょう",
+    choice2: "ぶちょう",
+    choice3: "かちょう",
+    answer: 1,
+    },
+    
+    {
+    id: "I0687",
+    question: "(こんや)いもうととかいてんずしを食べに行くことになっています。",
+    choice1: "今夜",
+    choice2: "今前",
+    choice3: "会夜",
+    answer: 1,
+    },
+    
+    {
+    id: "I0688",
+    question: "こんや(いもうと)とかいてんずしを食べに行くことになっています。",
+    choice1: "始",
+    choice2: "好",
+    choice3: "妹",
+    answer: 3,
+    },
+    
+    {
+    id: "I0689",
+    question: "こんやいもうとと(かいてん)ずしを食べに行くことになっています。",
+    choice1: "回転",
+    choice2: "回天",
+    choice3: "開店",
+    answer: 1,
+    },
+    
+    {
+    id: "I0690",
+    question: "(たいふう)がちかづいているので、キャンプはちゅうしになりました。",
+    choice1: "大風",
+    choice2: "大凪",
+    choice3: "台風",
+    answer: 3,
+    },
+    
+    {
+    id: "I0691",
+    question: "たいふうが(ちかづいて)いるので、キャンプはちゅうしになりました。",
+    choice1: "込づいて",
+    choice2: "近づいて",
+    choice3: "辺づいて",
+    answer: 2,
+    },
+    
+    {
+    id: "I0692",
+    question: "たいふうがちかづいているので、キャンプは(ちゅうし)になりました。",
+    choice1: "中止",
+    choice2: "中上",
+    choice3: "中正",
+    answer: 1,
+    },
+    
+    {
+    id: "I0693",
+    question: "きゅうこうはそのえきにはとまりません。",
+    choice1: "急行",
+    choice2: "休校",
+    choice3: "急体",
+    answer: 1,
+    },
+    
+    {
+    id: "I0694",
+    question: "きゅうこうはそのえきにはとまりません。",
+    choice1: "馭",
+    choice2: "駅",
+    choice3: "駒",
+    answer: 2,
+    },
+    
+    {
+    id: "I0695",
+    question: "きゅうこうはそのえきにはとまりません。",
+    choice1: "上まりません",
+    choice2: "正まりません",
+    choice3: "止まりません",
+    answer: 3,
+    },
+    
+    {
+    id: "I0696",
+    question: "(朝食)は肉よりも魚のほうがいいです。",
+    choice1: "しゅうしょうく",
+    choice2: "ちょうしょうく",
+    choice3: "ちょうしょく",
+    answer: 3,
+    },
+    
+    {
+    id: "I0697",
+    question: "朝食は(肉)よりも魚のほうがいいです。",
+    choice1: "にっく",
+    choice2: "にく",
+    choice3: "にっき",
+    answer: 2,
+    },
+    
+    {
+    id: "I0698",
+    question: "朝食は肉よりも(魚)のほうがいいです。",
+    choice1: "さなか",
+    choice2: "さかなあ",
+    choice3: "さかな",
+    answer: 3,
+    },
+    
+    {
+    id: "I0699",
+    question: "(社長)は新しい服を注文しました。",
+    choice1: "さちょ",
+    choice2: "さちょう",
+    choice3: "しゃちょう",
+    answer: 3,
+    },
+    
+    {
+    id: "I0700",
+    question: "社長は新しい(服)を注文しました。",
+    choice1: "ふうく",
+    choice2: "ふく",
+    choice3: "ふくう",
+    answer: 2,
+    },
+    
+    {
+    id: "I0701",
+    question: "社長は新しい服を(注文)しました。",
+    choice1: "ちゅうもん",
+    choice2: "ちゅうい",
+    choice3: "ちょうぶん",
+    answer: 1,
+    },
+    
+    {
+    id: "I0702",
+    question: "(びょういん)までこのはなをもっていってください。",
+    choice1: "痛隕",
+    choice2: "院床",
+    choice3: "病院",
+    answer: 3,
+    },
+    
+    {
+    id: "I0703",
+    question: "びょういんまでこの(はな)をもっていってください。",
+    choice1: "花",
+    choice2: "草",
+    choice3: "化",
+    answer: 1,
+    },
+    
+    {
+    id: "I0704",
+    question: "びょういんまでこのはなを(もっていって)ください。",
+    choice1: "特って行って",
+    choice2: "侍って行って",
+    choice3: "持って行って",
+    answer: 3,
+    },
+    
+    {
+    id: "I0705",
+    question: "(しゅっぱつ)のよういができたらすぐにでましょう。",
+    choice1: "出発",
+    choice2: "室発",
+    choice3: "行発",
+    answer: 1,
+    },
+    
+    {
+    id: "I0706",
+    question: "しゅっぱつの(ようい)ができたらすぐにでましょう。",
+    choice1: "用意",
+    choice2: "意用",
+    choice3: "用章",
+    answer: 1,
+    },
+    
+    {
+    id: "I0707",
+    question: "しゅっぱつのよういができたらすぐに(でましょう)。",
+    choice1: "出ましょう",
+    choice2: "生ましょう",
+    choice3: "土ましょう",
+    answer: 1,
+    },
+    
+    {
+    id: "I0708",
+    question: "もういちどあの(えいが)をみたいとおもいます。",
+    choice1: "英語",
+    choice2: "英図",
+    choice3: "映画",
+    answer: 3,
+    },
+    
+    {
+    id: "I0709",
+    question: "もういちどあのえいがを(みたい)とおもいます。",
+    choice1: "目たい",
+    choice2: "見たい",
+    choice3: "買たい",
+    answer: 2,
+    },
+    
+    {
+    id: "I0710",
+    question: "もういちどあのえいがをみたいと(おもいます)。",
+    choice1: "思います",
+    choice2: "志います",
+    choice3: "用います",
+    answer: 1,
+    },
+    
+    {
+    id: "I0711",
+    question: "この(通り)は歩行者が多いですね。",
+    choice1: "とおり",
+    choice2: "あたり",
+    choice3: "つくり",
+    answer: 1,
+    },
+    
+    {
+    id: "I0712",
+    question: "この通りは(歩行者)が多いですね。",
+    choice1: "ほこうしゃ",
+    choice2: "あるこうしゃ",
+    choice3: "あるくこうしゃ",
+    answer: 1,
+    },
+    
+    {
+    id: "I0713",
+    question: "この通りは歩行者が(多い)ですね。",
+    choice1: "すくない",
+    choice2: "おおい",
+    choice3: "わるい",
+    answer: 2,
+    },
+    
+    {
+    id: "I0714",
+    question: "(近所)でレストランを始めようかと考えています。",
+    choice1: "こうじょう",
+    choice2: "こんじょう",
+    choice3: "きんじょ",
+    answer: 3,
+    },
+    
+    {
+    id: "I0715",
+    question: "近所でレストランを(始めよう)かと考えています。",
+    choice1: "あきらめよう",
+    choice2: "とめよう",
+    choice3: "はじめよう",
+    answer: 3,
+    },
+    
+    {
+    id: "I0716",
+    question: "近所でレストランを始めようかと(考えて)います。",
+    choice1: "かえて",
+    choice2: "まちがえて",
+    choice3: "かんがえて",
+    answer: 3,
+    },
+    
+    {
+    id: "I0717",
+    question: "(おにいさん)はじこで3ヶ月いじょうもにゅういんしたそうです。",
+    choice1: "お兄さん",
+    choice2: "お悦さん",
+    choice3: "お兌さん",
+    answer: 1,
+    },
+    
+    {
+    id: "I0718",
+    question: "おにいさんはじこで3ヶ月(いじょう)もにゅういんしたそうです。",
+    choice1: "似下",
+    choice2: "以下",
+    choice3: "以上",
+    answer: 3,
+    },
+    
+    {
+    id: "I0719",
+    question: "おにいさんはじこで3ヶ月いじょうも(にゅういん)したそうです。",
+    choice1: "入院",
+    choice2: "人院",
+    choice3: "入病",
+    answer: 1,
+    },
+    
+    {
+    id: "I0720",
+    question: "この(とち)にはたかいビルがたつそうです。",
+    choice1: "土池",
+    choice2: "土地",
+    choice3: "十地",
+    answer: 2,
+    },
+    
+    {
+    id: "I0721",
+    question: "このとちには(たかい)ビルがたつそうです。",
+    choice1: "京い",
+    choice2: "亨い",
+    choice3: "高い",
+    answer: 3,
+    },
+    
+    {
+    id: "I0722",
+    question: "このとちにはたかいビルが(たつ)そうです。",
+    choice1: "健つ",
+    choice2: "建つ",
+    choice3: "違つ",
+    answer: 2,
+    },
+    
+    {
+    id: "I0723",
+    question: "これをとなりの(きょうしつ)にはこびたいのでちょっとてをかしてくれませんか。",
+    choice1: "今日室",
+    choice2: "急屋",
+    choice3: "教室",
+    answer: 3,
+    },
+    
+    {
+    id: "I0724",
+    question: "これをとなりのきょうしつに(はこびたい)のでちょっとてをかしてくれませんか。",
+    choice1: "運びたい",
+    choice2: "連びたい",
+    choice3: "達びたい",
+    answer: 1,
+    },
+    
+    {
+    id: "I0725",
+    question: "これをとなりのきょうしつにはこびたいのでちょっと(てをかし)てくれませんか。",
+    choice1: "手を買し",
+    choice2: "手を貝し",
+    choice3: "手を貸し",
+    answer: 3,
+    },
+    
+    {
+    id: "I0726",
+    question: "あの人は(楽天家)で親切でとても明るい人です。",
+    choice1: "がくてんか",
+    choice2: "らくてんいえ",
+    choice3: "らくてんか",
+    answer: 3,
+    },
+    
+    {
+    id: "I0727",
+    question: "あの人は楽天家で(親切)でとても明るい人です。",
+    choice1: "たいせつ",
+    choice2: "しんせつ",
+    choice3: "りょうしん",
+    answer: 2,
+    },
+    
+    {
+    id: "I0728",
+    question: "あの人は楽天家で親切でとても(明るい)人です。",
+    choice1: "あかるい",
+    choice2: "かるい",
+    choice3: "かあるい",
+    answer: 1,
+    },
+    
+    {
+    id: "I0729",
+    question: "(駅)の売店でこんなものを売っていました。",
+    choice1: "みち",
+    choice2: "えき",
+    choice3: "まち",
+    answer: 2,
+    },
+    
+    {
+    id: "I0730",
+    question: "駅の(売店)でこんなものを売っていました。",
+    choice1: "ばいみせ",
+    choice2: "うりみせ",
+    choice3: "ばいてん",
+    answer: 3
+    },
+    
+    {
+    id: "I0731",
+    question: "駅の売店でこんなものを(売って)いました。",
+    choice1: "かって",
+    choice2: "まって",
+    choice3: "うって",
+    answer: 3,
+    },
+    
+    {
+    id: "I0732",
+    question: "(しゃちょう)のだいりとしてきょねんヨーロッパにしゅっちょうしました。",
+    choice1: "仕長",
+    choice2: "社長",
+    choice3: "杜長",
+    answer: 2,
+    },
+    
+    {
+    id: "I0733",
+    question: "しゃちょうの(だいり)としてきょねんヨーロッパにしゅっちょうしました。",
+    choice1: "大理",
+    choice2: "大利",
+    choice3: "代理",
+    answer: 3,
+    },
+    
+    {
+    id: "I0734",
+    question: "しゃちょうのだいりとして(きょねん)ヨーロッパにしゅっちょうしました。",
+    choice1: "告年",
+    choice2: "号年",
+    choice3: "去年",
+    answer: 3,
+    },
+    
+    {
+    id: "I0735",
+    question: "この(しゃしん)とちずを２－３にちかりてもいいですか。",
+    choice1: "写慎",
+    choice2: "社慎",
+    choice3: "写真",
+    answer: 3,
+    },
+    
+    {
+    id: "I0736",
+    question: "このしゃしんと(ちず)を２－３にちかりてもいいですか。",
+    choice1: "池回",
+    choice2: "池画",
+    choice3: "地図",
+    answer: 3,
+    },
+    
+    {
+    id: "I0737",
+    question: "このしゃしんとちずを２－３にち(かりて)もいいですか。",
+    choice1: "借りて",
+    choice2: "債りて",
+    choice3: "倡りて",
+    answer: 1,
+    },
+    
+    {
+    id: "I0738",
+    question: "(うんどうぶそく)にならないようにじてんしゃを使わないであるくようにしています。",
+    choice1: "運働不足",
+    choice2: "運動未足",
+    choice3: "運動不足",
+    answer: 3,
+    },
+    
+    {
+    id: "I0739",
+    question: "うんどうぶそくにならないように(じてんしゃ)を使わないであるくようにしています。",
+    choice1: "自転車",
+    choice2: "自働車",
+    choice3: "目転車",
+    answer: 1,
+    },
+    
+    {
+    id: "I0740",
+    question: "うんどうぶそくにならないようにじてんしゃを使わないで(あるく)ようにしています。",
+    choice1: "歩く",
+    choice2: "走く",
+    choice3: "定く",
+    answer: 1,
+    },
 
 ]
