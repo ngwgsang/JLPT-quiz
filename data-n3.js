@@ -20780,4 +20780,1750 @@ choice3: "復習",
 answer: 3,
 },
 
+{
+id: "A2309",
+question: "彼は種まき機械に(種)を入れた。",
+choice1: "ふね",
+choice2: "たね",
+choice3: "かね",
+answer: 2,
+},
+
+{
+id: "A2310",
+question: "ここは(現在)３２度です。",
+choice1: "けんざい",
+choice2: "げんざい",
+choice3: "かんざい",
+answer: 2,
+},
+
+{
+id: "A2311",
+question: "三つの(類)まれな技芸。",
+choice1: "たぐい",
+choice2: "るい",
+choice3: "だくい",
+answer: 1,
+},
+
+{
+id: "A2312",
+question: "3(種類)のカメラを使う。",
+choice1: "じゅるい",
+choice2: "しゅかず",
+choice3: "しゅるい",
+answer: 3,
+},
+
+{
+id: "A2313",
+question: "彼の(生存)の可能性は薄い。",
+choice1: "しょうぞん",
+choice2: "せいぞん",
+choice3: "せいざい",
+answer: 2,
+},
+
+{
+id: "A2314",
+question: "(人類)の平和を願います。",
+choice1: "にんるい",
+choice2: "じんるい",
+choice3: "じんしゅ",
+answer: 2,
+},
+
+{
+id: "A2315",
+question: "ある(品種)はペットに向かない。",
+choice1: "ひんしゅ",
+choice2: "ものしゅ",
+choice3: "まなしゅ",
+answer: 1,
+},
+
+{
+id: "A2316",
+question: "彼はご(在宅)ですか。",
+choice1: "さいだく",
+choice2: "ざいたく",
+choice3: "ざいがく",
+answer: 2,
+},
+
+{
+id: "A2317",
+question: "この音楽はロックと(分類)される。",
+choice1: "ぶんすい",
+choice2: "ふんしゅ",
+choice3: "ぶんるい",
+answer: 3,
+},
+
+{
+id: "A2318",
+question: "お互いの(人種)を尊重する。",
+choice1: "じんるい",
+choice2: "じんしゅ",
+choice3: "にんすい",
+answer: 2,
+},
+
+{
+id: "A2319",
+question: "(書類)をクリップで留める。",
+choice1: "そうすい",
+choice2: "しょしゅ",
+choice3: "しょるい",
+answer: 3,
+},
+
+{
+id: "A2320",
+question: "その事実は(存在)しない。",
+choice1: "そんざい",
+choice2: "ぞんざい",
+choice3: "こうざい",
+answer: 1,
+},
+
+{
+id: "A2321",
+question: "この手術は肺の一部を(温存)したい場合に行われる。",
+choice1: "おんぞん",
+choice2: "おんざい",
+choice3: "かんさい",
+answer: 1,
+},
+
+{
+id: "A2322",
+question: "彼は大学に(在学)している。",
+choice1: "さいかく",
+choice2: "ぞんがく",
+choice3: "ざいがく",
+answer: 3,
+},
+
+{
+id: "A2323",
+question: "歴史における女性の(在り方)について研究した。",
+choice1: "ありかた",
+choice2: "ざりかた",
+choice3: "ありがた",
+answer: 1,
+},
+
+{
+id: "A2324",
+question: "買ったリンゴの半分を(保存)する。",
+choice1: "ほざい",
+choice2: "ほぞん",
+choice3: "ほうさい",
+answer: 2,
+},
+
+{
+id: "A2325",
+question: "天は上に(在る)。",
+choice1: "ざる",
+choice2: "ある",
+choice3: "こる",
+answer: 2,
+},
+
+{
+id: "A2326",
+question: "エルビスの伝説は(存続)している。",
+choice1: "そんぞく",
+choice2: "そんづく",
+choice3: "ざいぞく",
+answer: 1,
+},
+
+{
+id: "A2327",
+question: "いろいろな(しゅるい)の花を売っている。",
+choice1: "腫類",
+choice2: "種類",
+choice3: "種数",
+answer: 2,
+},
+
+{
+id: "A2328",
+question: "米は低温で(ほぞん)したほうがいい。",
+choice1: "保存",
+choice2: "保在",
+choice3: "果荐",
+answer: 1,
+},
+
+{
+id: "A2329",
+question: "これは新しい(ひんしゅ)のりんごだ。",
+choice1: "品重",
+choice2: "品腫",
+choice3: "品種",
+answer: 3,
+},
+
+{
+id: "A2330",
+question: "(しょるい)をコピーする。",
+choice1: "暑類",
+choice2: "書類",
+choice3: "書数",
+answer: 2,
+},
+
+{
+id: "A2331",
+question: "教育の(ありかた)を考える。",
+choice1: "左り方",
+choice2: "存り万",
+choice3: "在り方",
+answer: 3,
+},
+
+{
+id: "A2332",
+question: "彼は(たぐい)まれな才能をもっている。",
+choice1: "数",
+choice2: "類",
+choice3: "煩",
+answer: 2,
+},
+
+{
+id: "A2333",
+question: "UFOの(そんざい)を信じますか。",
+choice1: "存在",
+choice2: "在存",
+choice3: "存左",
+answer: 1,
+},
+
+{
+id: "A2334",
+question: "畑にかぼちゃの(たね)をまいた。",
+choice1: "撞",
+choice2: "腫",
+choice3: "種",
+answer: 3,
+},
+
+{
+id: "A2335",
+question: "会社を(そんぞく)させるためにどりょくする。",
+choice1: "存々",
+choice2: "存続",
+choice3: "存族",
+answer: 2,
+},
+
+{
+id: "A2336",
+question: "(せいぞん)者をさがす。",
+choice1: "生存",
+choice2: "性存",
+choice3: "牲在",
+answer: 1,
+},
+
+{
+id: "A2337",
+question: "(じんしゅ)によって目の色がちがう。",
+choice1: "人種",
+choice2: "入腫",
+choice3: "人重",
+answer: 1,
+},
+
+{
+id: "A2338",
+question: "体力を(おんぞん)する。",
+choice1: "湯存",
+choice2: "昌在",
+choice3: "温存",
+answer: 3,
+},
+
+{
+id: "A2339",
+question: "3種類に(ぶんるい)される。",
+choice1: "分類",
+choice2: "粉類",
+choice3: "扮数",
+answer: 1,
+},
+
+{
+id: "A2340",
+question: "(ざいたく)で仕事をしている。",
+choice1: "佐宅",
+choice2: "在它",
+choice3: "在宅",
+answer: 3,
+},
+
+{
+id: "A2341",
+question: "その家は郊外に(ある)。",
+choice1: "存る",
+choice2: "在る",
+choice3: "佐る",
+answer: 2,
+},
+
+{
+id: "A2342",
+question: "ここは(げんざい)32度です。",
+choice1: "現存",
+choice2: "源佐",
+choice3: "現在",
+answer: 3,
+},
+
+{
+id: "A2343",
+question: "彼は東京大学に(ざいがく)している。",
+choice1: "佐字",
+choice2: "在学",
+choice3: "左学",
+answer: 2,
+},
+
+{
+id: "A2344",
+question: "(じんるい)のたんじょう。",
+choice1: "入種",
+choice2: "人類",
+choice3: "人",
+answer: 2,
+},
+
+{
+id: "A2345",
+question: "熱は(氷)を溶かす。",
+choice1: "おこり",
+choice2: "こおり",
+choice3: "ほこり",
+answer: 2,
+},
+
+{
+id: "A2346",
+question: "川は(河口)で広くなっている。",
+choice1: "ひょうか",
+choice2: "かこう",
+choice3: "がぐち",
+answer: 2,
+},
+
+{
+id: "A2347",
+question: "(太陽)は東から昇る。",
+choice1: "たいよう",
+choice2: "ふとよう",
+choice3: "ほうよう",
+answer: 1,
+},
+
+{
+id: "A2348",
+question: "(氷河)はのろのろと動く。",
+choice1: "こおか",
+choice2: "ひょうか",
+choice3: "ひょうが",
+answer: 3,
+},
+
+{
+id: "A2349",
+question: "(巨額)の費用が発生する。",
+choice1: "きょるい",
+choice2: "きょがく",
+choice3: "きょだい",
+answer: 2,
+},
+
+{
+id: "A2350",
+question: "ソーラーカーは(太陽)光を利用する。",
+choice1: "たいこう",
+choice2: "ようこう",
+choice3: "ようせい",
+answer: 2,
+},
+
+{
+id: "A2351",
+question: "(陽性)の反応を呈す。",
+choice1: "ようせい",
+choice2: "ようこう",
+choice3: "たいせい",
+answer: 1,
+},
+
+{
+id: "A2352",
+question: "温度計は、(氷点下)13度を指した。",
+choice1: "きょうてんか",
+choice2: "ひょうてんか",
+choice3: "びょうでんか",
+answer: 2,
+},
+
+{
+id: "A2353",
+question: "それは城の様に(巨大)だった。",
+choice1: "きょじん",
+choice2: "きょせい",
+choice3: "きょだい",
+answer: 3,
+},
+
+{
+id: "A2354",
+question: "彼は(陽気な)気質だ。",
+choice1: "よいせな",
+choice2: "ようきな",
+choice3: "こうきな",
+answer: 2,
+},
+
+{
+id: "A2355",
+question: "(氷雨)を伴う暴風によって停電が起こった。",
+choice1: "ひうめ",
+choice2: "こざめ",
+choice3: "ひさめ",
+answer: 3,
+},
+
+{
+id: "A2356",
+question: "雨で(河川)が水かさを増した。",
+choice1: "かせん",
+choice2: "かがわ",
+choice3: "かぜん",
+answer: 1,
+},
+
+{
+id: "A2357",
+question: "(巨人)には頭がなかった。",
+choice1: "きょじん",
+choice2: "きょだい",
+choice3: "きょにん",
+answer: 1,
+},
+
+{
+id: "A2358",
+question: "(氷山)と氷河は分離する。",
+choice1: "ひょうやま",
+choice2: "ぎょうさん",
+choice3: "ひょうざん",
+answer: 3,
+},
+
+{
+id: "A2359",
+question: "(運河)に沿ってジョギングする。",
+choice1: "ふんか",
+choice2: "てんが",
+choice3: "うんが",
+answer: 3,
+},
+
+{
+id: "A2360",
+question: "初めにお母さんと(かき氷)を食べた。",
+choice1: "かきごおり",
+choice2: "かきほおり",
+choice3: "かきどおり",
+answer: 1,
+},
+
+{
+id: "A2361",
+question: "(河)が岸を洗う。",
+choice1: "なかきゅう",
+choice2: "かわ",
+choice3: "しゅうきゅう",
+answer: 2,
+},
+
+{
+id: "A2362",
+question: "田中さんは(ようき)な人だ。",
+choice1: "楊気",
+choice2: "陽気",
+choice3: "昜気",
+answer: 2,
+},
+
+{
+id: "A2363",
+question: "池の表面に(こおり)がはった。",
+choice1: "氷",
+choice2: "水",
+choice3: "永",
+answer: 1,
+},
+
+{
+id: "A2364",
+question: "中国の(かわ)は日本の川と比べて大きい。",
+choice1: "洲",
+choice2: "州",
+choice3: "川",
+answer: 3,
+},
+
+{
+id: "A2365",
+question: "(たいよう)は東からのぼって西にしずむ。",
+choice1: "汰昜",
+choice2: "太陽",
+choice3: "大楊",
+answer: 2,
+},
+
+{
+id: "A2366",
+question: "(ようこう)がさんさんとふり注ぐ。",
+choice1: "昜恍",
+choice2: "楊港",
+choice3: "陽光",
+answer: 3,
+},
+
+{
+id: "A2367",
+question: "気温が(ひょうてんか)になる。",
+choice1: "水点不",
+choice2: "氷点下",
+choice3: "永店下",
+answer: 2,
+},
+
+{
+id: "A2368",
+question: "船で(うんが)をわたる。",
+choice1: "運河",
+choice2: "運可",
+choice3: "運何",
+answer: 1,
+},
+
+{
+id: "A2369",
+question: "(きょだい)なドームを建設している。",
+choice1: "拒太",
+choice2: "距大",
+choice3: "巨大",
+answer: 3,
+},
+
+{
+id: "A2370",
+question: "台風で(かせん)がはんらんした。",
+choice1: "可州",
+choice2: "河川",
+choice3: "珂川",
+answer: 2,
+},
+
+{
+id: "A2371",
+question: "(ひょうが)がとけてきている。",
+choice1: "氷河",
+choice2: "水河",
+choice3: "水何",
+answer: 1,
+},
+
+{
+id: "A2372",
+question: "今回の事件は(ひょうざん)の一角だ。",
+choice1: "永山",
+choice2: "氷山",
+choice3: "水山",
+answer: 2,
+},
+
+{
+id: "A2373",
+question: "検査の結果は(ようせい)だった。",
+choice1: "陽性",
+choice2: "昜牲",
+choice3: "楊生",
+answer: 1,
+},
+
+{
+id: "A2374",
+question: "(きょがく)の費用を投じる。",
+choice1: "苣額",
+choice2: "拒格",
+choice3: "巨額",
+answer: 3,
+},
+
+{
+id: "A2375",
+question: "正解の(きょじん)。",
+choice1: "巨人",
+choice2: "距人",
+choice3: "炬入",
+answer: 1,
+},
+
+{
+id: "A2376",
+question: "(かきごおり)にシロップをかける。",
+choice1: "かき泳",
+choice2: "かき水",
+choice3: "かき氷",
+answer: 3,
+},
+
+{
+id: "A2377",
+question: "川の(かこう)でつりをする。",
+choice1: "可口",
+choice2: "河口",
+choice3: "苛口",
+answer: 2,
+},
+
+{
+id: "A2378",
+question: "(ひさめ)を伴う暴風によって停電が起こった。",
+choice1: "永雨",
+choice2: "水雨",
+choice3: "氷雨",
+answer: 3,
+},
+
+{
+id: "A2379",
+question: "陽気が(暖か)になった。",
+choice1: "かたたか",
+choice2: "あたたか",
+choice3: "さたたか",
+answer: 2,
+},
+
+{
+id: "A2380",
+question: "彼は(冬季)スポーツで名をあげた。",
+choice1: "ようき",
+choice2: "とうき",
+choice3: "ふゆう",
+answer: 2,
+},
+
+{
+id: "A2381",
+question: "(暖まる)までエンジンをかけて置きなさい。",
+choice1: "あたたまる",
+choice2: "あたたかまる",
+choice3: "かんまる",
+answer: 1,
+},
+
+{
+id: "A2382",
+question: "春の(季節)が来る。",
+choice1: "きぜつ",
+choice2: "ふせつ",
+choice3: "きせつ",
+answer: 3,
+},
+
+{
+id: "A2383",
+question: "我々は(候補者)を 3 人に絞った。",
+choice1: "こうぼじゃ",
+choice2: "こうほしゃ",
+choice3: "きほうしゃ",
+answer: 2,
+},
+
+{
+id: "A2384",
+question: "今年の冬は(暖かい)。",
+choice1: "あかたかい",
+choice2: "あたたかい",
+choice3: "たあたかい",
+answer: 2,
+},
+
+{
+id: "A2385",
+question: "日本には(四季)がある。",
+choice1: "しき",
+choice2: "ゆき",
+choice3: "うき",
+answer: 1,
+},
+
+{
+id: "A2386",
+question: "(温暖化)が進んでいる。",
+choice1: "おんたいか",
+choice2: "おんだんか",
+choice3: "おんがんか",
+answer: 2,
+},
+
+{
+id: "A2387",
+question: "傷から血が(流れる)。",
+choice1: "かすれる",
+choice2: "なすれる",
+choice3: "ながれる",
+answer: 3,
+},
+
+{
+id: "A2388",
+question: "いつ(雨季)は終わりますか？",
+choice1: "ゆき",
+choice2: "うき",
+choice3: "しき",
+answer: 2,
+},
+
+{
+id: "A2389",
+question: "(気候)がとても悪かった。",
+choice1: "きほう",
+choice2: "きてん",
+choice3: "きこう",
+answer: 3,
+},
+
+{
+id: "A2390",
+question: "あなたは先週の(交流会)に参加しましたか。",
+choice1: "こうりゅうかい",
+choice2: "がいこうかい",
+choice3: "こうしゅうかい",
+answer: 1,
+},
+
+{
+id: "A2391",
+question: "私はすぐ涙を(流す)。",
+choice1: "ながす",
+choice2: "なれす",
+choice3: "りゅうす",
+answer: 1,
+},
+
+{
+id: "A2392",
+question: "(天候)が暖かくなった。",
+choice1: "てこう",
+choice2: "きこう",
+choice3: "てんこう",
+answer: 3,
+},
+
+{
+id: "A2393",
+question: "私は(流氷)を見るために北海道に行った。",
+choice1: "ひょうりゅう",
+choice2: "こうひょう",
+choice3: "りゅうひょう",
+answer: 3,
+},
+
+{
+id: "A2394",
+question: "今年の冬は(暖冬)の見込みである。",
+choice1: "だんとう",
+choice2: "かんとう",
+choice3: "だんふゆ",
+answer: 1,
+},
+
+{
+id: "A2395",
+question: "(候文)は日本語のうち中世から近代にかけて用いられた文語の文体の一つである。",
+choice1: "ろうろうぶん",
+choice2: "そうろうぶん",
+choice3: "ろうそうぶん",
+answer: 2,
+},
+
+{
+id: "A2396",
+question: "この手袋が彼女の手を(暖める)。",
+choice1: "あたかめる",
+choice2: "あたためる",
+choice3: "かたまめる",
+answer: 2,
+},
+
+{
+id: "A2397",
+question: "(流行)歌を歌う。",
+choice1: "りゅうこう",
+choice2: "すいこう",
+choice3: "りゅうこ",
+answer: 1,
+},
+
+{
+id: "A2398",
+question: "(暖房)が故障しています。",
+choice1: "れいぼう",
+choice2: "だんぼう",
+choice3: "かんぼう",
+answer: 2,
+},
+
+{
+id: "A2399",
+question: "(流星)は光りの尾を引く。",
+choice1: "りゅうせい",
+choice2: "しゅうせい",
+choice3: "きゅうせい",
+answer: 1,
+},
+
+{
+id: "A2400",
+question: "日本の(きこう)について調べる。",
+choice1: "気侯",
+choice2: "気候",
+choice3: "汽候",
+answer: 2,
+},
+
+{
+id: "A2401",
+question: "(あたたかな)春の日差しを浴びる。",
+choice1: "暖かな",
+choice2: "曖かな",
+choice3: "曝かな",
+answer: 1,
+},
+
+{
+id: "A2402",
+question: "涙を(ながし)ながらあやまった。",
+choice1: "硫し",
+choice2: "琉し",
+choice3: "流し",
+answer: 3,
+},
+
+{
+id: "A2403",
+question: "日本には(しき)がある。",
+choice1: "冏悸",
+choice2: "四季",
+choice3: "四寄",
+answer: 2,
+},
+
+{
+id: "A2404",
+question: "地球(おんだんか)が進んでいる。",
+choice1: "暖温化",
+choice2: "温曖花",
+choice3: "温暖化",
+answer: 3,
+},
+
+{
+id: "A2405",
+question: "(きせつ)が変わる。",
+choice1: "悸節",
+choice2: "季節",
+choice3: "季範",
+answer: 2,
+},
+
+{
+id: "A2406",
+question: "(てんこう)不順の日が続いている。",
+choice1: "天候",
+choice2: "天篌",
+choice3: "天侯",
+answer: 1,
+},
+
+{
+id: "A2407",
+question: "インフルエンザが(りゅうこう)している。",
+choice1: "硫行",
+choice2: "琉行",
+choice3: "流行",
+answer: 3,
+},
+
+{
+id: "A2408",
+question: "(うき)にはたくさん雨が降る。",
+choice1: "兩季",
+choice2: "雨季",
+choice3: "両悸",
+answer: 2,
+},
+
+{
+id: "A2409",
+question: "(こうほしゃ)の中から市長を選ぶ。",
+choice1: "候補者",
+choice2: "侯甫者",
+choice3: "候捕者",
+answer: 1,
+},
+
+{
+id: "A2410",
+question: "部屋が(あたたまる)。",
+choice1: "暘まる",
+choice2: "暖まる",
+choice3: "曖まる",
+answer: 2,
+},
+
+{
+id: "A2411",
+question: "川が市内を(ながれて)いる。",
+choice1: "流れて",
+choice2: "琉れて",
+choice3: "硫れて",
+answer: 1,
+},
+
+{
+id: "A2412",
+question: "(あたたかい)日が続く。",
+choice1: "曖い",
+choice2: "愛かい",
+choice3: "暖かい",
+answer: 3,
+},
+
+{
+id: "A2413",
+question: "(とうき)オリンピックをテレビで見る。",
+choice1: "冬季",
+choice2: "終季",
+choice3: "尽悸",
+answer: 1,
+},
+
+{
+id: "A2414",
+question: "起きたらすぐ部屋を(あたためる)。",
+choice1: "暖る",
+choice2: "温める",
+choice3: "暖める",
+answer: 3,
+},
+
+{
+id: "A2415",
+question: "エラーで試合の(ながれ)が変わった。",
+choice1: "硫れ",
+choice2: "流れ",
+choice3: "統れ",
+answer: 2,
+},
+
+{
+id: "A2416",
+question: "今年は(だんとう)で、雪が少ない。",
+choice1: "曖冬",
+choice2: "暖尽",
+choice3: "暖冬",
+answer: 3,
+},
+
+{
+id: "A2417",
+question: "手紙における(そうろうぶん)という文体。",
+choice1: "侯文",
+choice2: "候文",
+choice3: "篌文",
+answer: 2,
+},
+
+{
+id: "A2418",
+question: "(りゅうひょう)が岸に流れついた。",
+choice1: "琉水",
+choice2: "流氷",
+choice3: "流永",
+answer: 2,
+},
+
+{
+id: "A2419",
+question: "(りゅうせい)を観察する。",
+choice1: "流星",
+choice2: "琉惺",
+choice3: "流性",
+answer: 1,
+},
+
+{
+id: "A2420",
+question: "(こうりゅうかい)に参加する。",
+choice1: "効流合",
+choice2: "校流絵",
+choice3: "交流会",
+answer: 3,
+},
+
+{
+id: "A2421",
+question: "それは私には(到底)出来ない。",
+choice1: "どうてい",
+choice2: "とうてい",
+choice3: "ちゃくてい",
+answer: 2,
+},
+
+{
+id: "A2422",
+question: "決め事は(徹底的)にやる。",
+choice1: "とうていてき",
+choice2: "てっていてき",
+choice3: "てつていてき",
+answer: 2,
+},
+
+{
+id: "A2423",
+question: "物の(形)を正しくない形にする。",
+choice1: "かたち",
+choice2: "けい",
+choice3: "はたち",
+answer: 1,
+},
+
+{
+id: "A2424",
+question: "この写真は興味(深い)。",
+choice1: "ふすい",
+choice2: "あさい",
+choice3: "ふかい",
+answer: 3,
+},
+
+{
+id: "A2425",
+question: "貸しの(形)を取る。",
+choice1: "けい",
+choice2: "かた",
+choice3: "がた",
+answer: 2,
+},
+
+{
+id: "A2426",
+question: "彼女は(人形)が好きだ。",
+choice1: "じんけい",
+choice2: "にんぎょう",
+choice3: "にんけい",
+answer: 2,
+},
+
+{
+id: "A2427",
+question: "あなたは(深夜)まで働きます。",
+choice1: "しんや",
+choice2: "ふかや",
+choice3: "じんや",
+answer: 1,
+},
+
+{
+id: "A2428",
+question: "彼は実業界での経験が(浅い)。",
+choice1: "ふかい",
+choice2: "あさい",
+choice3: "やさい",
+answer: 2,
+},
+
+{
+id: "A2429",
+question: "内容が(形式)を決める。",
+choice1: "かたちしき",
+choice2: "きょうしき",
+choice3: "けいしき",
+answer: 3,
+},
+
+{
+id: "A2430",
+question: "何という(浅ましい)ことをしたのだろう。",
+choice1: "あやましい",
+choice2: "あさましい",
+choice3: "なやましい",
+answer: 2,
+},
+
+{
+id: "A2431",
+question: "実用的な知識を(深める)。",
+choice1: "あさめる",
+choice2: "しめる",
+choice3: "ふかめる",
+answer: 3,
+},
+
+{
+id: "A2432",
+question: "その事態は(深刻)です。",
+choice1: "しんこく",
+choice2: "じんそつ",
+choice3: "ふかこく",
+answer: 1,
+},
+
+{
+id: "A2433",
+question: "(底)が透いて見える。",
+choice1: "そこ",
+choice2: "てい",
+choice3: "かた",
+answer: 1,
+},
+
+{
+id: "A2434",
+question: "(三角形)の面積を求める。",
+choice1: "さんがくかたち",
+choice2: "ざんがくせい",
+choice3: "さんかくけい",
+answer: 3,
+},
+
+{
+id: "A2435",
+question: "質問することで、理解が(深まる)。",
+choice1: "しかまる",
+choice2: "ふまる",
+choice3: "ふかまる",
+answer: 3,
+},
+
+{
+id: "A2436",
+question: "これはシステムの論理的な(地形図)です。",
+choice1: "ちけいず",
+choice2: "ちいげいず",
+choice3: "ちきょうず",
+answer: 1,
+},
+
+{
+id: "A2437",
+question: "船底が(海底)に当たった。",
+choice1: "がいてい",
+choice2: "かいてい",
+choice3: "うみそこ",
+answer: 2,
+},
+
+{
+id: "A2438",
+question: "その線は三角形の(底辺)に対して直角である。",
+choice1: "ていしゅう",
+choice2: "ていへん",
+choice3: "そこへん",
+answer: 2,
+},
+
+{
+id: "A2439",
+question: "これは非常に大型の(深海)にすむ日本のカニだ。",
+choice1: "しんかい",
+choice2: "ふかがい",
+choice3: "しんがい",
+answer: 1,
+},
+
+{
+id: "A2440",
+question: "それは(浅薄な)議論だ。",
+choice1: "ざんはくな",
+choice2: "せんぱくな",
+choice3: "ぜんぱくな",
+answer: 2,
+},
+
+{
+id: "A2441",
+question: "めいに(にんぎょう)をプレゼントする。",
+choice1: "入刑",
+choice2: "人形",
+choice3: "人型",
+answer: 2,
+},
+
+{
+id: "A2442",
+question: "温暖化の原因を(てってい)てきに調べる。",
+choice1: "徹底",
+choice2: "撤低",
+choice3: "澈挺",
+answer: 1,
+},
+
+{
+id: "A2443",
+question: "秋が(ふかまって)紅葉がうつくしい。",
+choice1: "深って",
+choice2: "沈まって",
+choice3: "深まって",
+answer: 3,
+},
+
+{
+id: "A2444",
+question: "火事で家がかげも(かたち)もなくなった。",
+choice1: "型",
+choice2: "形",
+choice3: "刑",
+answer: 2,
+},
+
+{
+id: "A2445",
+question: "これは(とうてい)我慢できない。",
+choice1: "到庭",
+choice2: "倒低",
+choice3: "到底",
+answer: 3,
+},
+
+{
+id: "A2446",
+question: "(ちけいず)を持って山に登る。",
+choice1: "弛刑図",
+choice2: "地形図",
+choice3: "他形図",
+answer: 2,
+},
+
+{
+id: "A2447",
+question: "彼の病気は(しんこく)だ。",
+choice1: "深刻",
+choice2: "沈剋",
+choice3: "涙刻",
+answer: 1,
+},
+
+{
+id: "A2448",
+question: "このプールは(ふかい)ので注意が必要だ。",
+choice1: "沈い",
+choice2: "染い",
+choice3: "深い",
+answer: 3,
+},
+
+{
+id: "A2449",
+question: "雨にぬれて洋服の(かた)がくずれた。",
+choice1: "刑",
+choice2: "形",
+choice3: "型",
+answer: 2,
+},
+
+{
+id: "A2450",
+question: "心の(そこ)からお礼を言う。",
+choice1: "底",
+choice2: "低",
+choice3: "廷",
+answer: 1,
+},
+
+{
+id: "A2451",
+question: "川の(しんせん)をはかる。",
+choice1: "深残",
+choice2: "深浅",
+choice3: "染銭",
+answer: 2,
+},
+
+{
+id: "A2452",
+question: "(しんやま)でアルバイトをしている。",
+choice1: "深夜",
+choice2: "沈夜",
+choice3: "湊屋",
+answer: 1,
+},
+
+{
+id: "A2453",
+question: "(かいてい)調査をする。",
+choice1: "梅廷",
+choice2: "毎低",
+choice3: "海底",
+answer: 3,
+},
+
+{
+id: "A2454",
+question: "(しんかい)に住む魚。",
+choice1: "深海",
+choice2: "深毎",
+choice3: "湊悔",
+answer: 1,
+},
+
+{
+id: "A2455",
+question: "昔ながらの(けいしき)で結婚式を行う。",
+choice1: "形伐",
+choice2: "刑成",
+choice3: "形式",
+answer: 3,
+},
+
+{
+id: "A2456",
+question: "(さんかくけい)のていへんの長さを測る。",
+choice1: "三各形",
+choice2: "三角形",
+choice3: "三角刑",
+answer: 2,
+},
+
+{
+id: "A2457",
+question: "人の弱みに付け込むとは、(あさましい)ことだ。",
+choice1: "賎ましい",
+choice2: "残しい",
+choice3: "浅ましい",
+answer: 3,
+},
+
+{
+id: "A2458",
+question: "(あさい)海で泳ぐ。",
+choice1: "践い",
+choice2: "浅い",
+choice3: "銭い",
+answer: 2,
+},
+
+{
+id: "A2459",
+question: "日本人と交流を(ふかめる)。",
+choice1: "湊める",
+choice2: "深める",
+choice3: "浣める",
+answer: 2,
+},
+
+{
+id: "A2460",
+question: "それは(せんぱく)な議論だ。",
+choice1: "浅薄",
+choice2: "残博",
+choice3: "銭",
+answer: 1,
+},
+
+{
+id: "A2461",
+question: "この(島)の星は綺麗だ。",
+choice1: "うま",
+choice2: "しま",
+choice3: "くま",
+answer: 2,
+},
+
+{
+id: "A2462",
+question: "舟が(岸)に着く。",
+choice1: "ぎし",
+choice2: "きし",
+choice3: "うし",
+answer: 2,
+},
+
+{
+id: "A2463",
+question: "彼はその島に(上陸)する。",
+choice1: "じょうりく",
+choice2: "うえりく",
+choice3: "じょうきく",
+answer: 1,
+},
+
+{
+id: "A2464",
+question: "日本は(島国)だ。",
+choice1: "とりくに",
+choice2: "じまぐに",
+choice3: "しまぐに",
+answer: 3,
+},
+
+{
+id: "A2465",
+question: "彼は(無人島)に一人残された。",
+choice1: "なじんとう",
+choice2: "むじんとう",
+choice3: "むにんとう",
+answer: 2,
+},
+
+{
+id: "A2466",
+question: "船が(陸)に接近する。",
+choice1: "きく",
+choice2: "りく",
+choice3: "ひく",
+answer: 2,
+},
+
+{
+id: "A2467",
+question: "これはハワイ(諸島)で2番目に大きい島だ。",
+choice1: "しょとう",
+choice2: "じょとう",
+choice3: "しゃどう",
+answer: 1,
+},
+
+{
+id: "A2468",
+question: "船が入ってきた時に彼女は(岸壁)で待っていた。",
+choice1: "かんぺき",
+choice2: "がんぺき",
+choice3: "がんうき",
+answer: 2,
+},
+
+{
+id: "A2469",
+question: "その道はずっと(上り坂)だ。",
+choice1: "こぼりさか",
+choice2: "じょうりさか",
+choice3: "のぼりざか",
+answer: 3,
+},
+
+{
+id: "A2470",
+question: "日本では(お彼岸)はお墓参りに行く日です。",
+choice1: "おびがん",
+choice2: "おひがん",
+choice3: "おかがん",
+answer: 2,
+},
+
+{
+id: "A2471",
+question: "市街から少し離れると(急坂)が多くなる。",
+choice1: "きゅうさか",
+choice2: "きゅうざか",
+choice3: "きゅうはん",
+answer: 3,
+},
+
+{
+id: "A2472",
+question: "インドは亜(大陸)の国だ。",
+choice1: "たいりく",
+choice2: "だいりく",
+choice3: "だいいく",
+answer: 1,
+},
+
+{
+id: "A2473",
+question: "彼は(陸上)勤務をしている。",
+choice1: "りくじょう",
+choice2: "りくうえ",
+choice3: "とうじょう",
+answer: 1,
+},
+
+{
+id: "A2474",
+question: "(半島)が大陸から突き出ている。",
+choice1: "はんどう",
+choice2: "ばんとう",
+choice3: "はんとう",
+answer: 3,
+},
+
+{
+id: "A2475",
+question: "道は(下り坂)になった。",
+choice1: "ふりざか",
+choice2: "さがりざか",
+choice3: "くだりざか",
+answer: 3,
+},
+
+{
+id: "A2476",
+question: "その飛行機は無事に(着陸)した。",
+choice1: "ちゃくりく",
+choice2: "ちゃうりく",
+choice3: "きりく",
+answer: 1,
+},
+
+{
+id: "A2477",
+question: "(島民)は日本中に住んでいる。",
+choice1: "しまみん",
+choice2: "とうみん",
+choice3: "くまみん",
+answer: 2,
+},
+
+{
+id: "A2478",
+question: "その(坂)はとても急です。",
+choice1: "うか",
+choice2: "さか",
+choice3: "ざか",
+answer: 2,
+},
+
+{
+id: "A2479",
+question: "(岸辺)で魚を釣る。",
+choice1: "きしべ",
+choice2: "がんべ",
+choice3: "ぎしぺ",
+answer: 1,
+},
+
+{
+id: "A2480",
+question: "(坂道)を上ることができる。",
+choice1: "さかどう",
+choice2: "さかみち",
+choice3: "ざかみち",
+answer: 2,
+},
+
+{
+id: "A2481",
+question: "(海岸沿い)を歩きます。",
+choice1: "かいがん",
+choice2: "がんかい",
+choice3: "かいかん",
+answer: 1,
+},
+
+{
+id: "A2482",
+question: "(むじんとう)を発見した。",
+choice1: "無入鳥",
+choice2: "無人島",
+choice3: "無人馬",
+answer: 2,
+},
+
+{
+id: "A2483",
+question: "台風が九州に(じょうりく)した。",
+choice1: "上陸",
+choice2: "上淕",
+choice3: "上陵",
+answer: 1,
+},
+
+{
+id: "A2484",
+question: "毎朝(かいがん)をランニングしている。",
+choice1: "梅岸",
+choice2: "毎岩",
+choice3: "海岸",
+answer: 3,
+},
+
+{
+id: "A2485",
+question: "(さかみち)で転んだ。",
+choice1: "反道",
+choice2: "坂道",
+choice3: "版道",
+answer: 2,
+},
+
+{
+id: "A2486",
+question: "結婚して大島の(とうみん)となった。",
+choice1: "烏眠",
+choice2: "鳥民",
+choice3: "島民",
+answer: 3,
+},
+
+{
+id: "A2487",
+question: "日本は(しまぐ)にだ。",
+choice1: "烏国",
+choice2: "島国",
+choice3: "鳥国",
+answer: 2,
+},
+
+{
+id: "A2488",
+question: "利根川の(きしべ)をさんぽする。",
+choice1: "岸辺",
+choice2: "岩辺",
+choice3: "炭辺",
+answer: 1,
+},
+
+{
+id: "A2489",
+question: "船が(がんぺ)きについた。",
+choice1: "岩陸",
+choice2: "革壁",
+choice3: "岸壁",
+answer: 3,
+},
+
+{
+id: "A2490",
+question: "(きゅうはん)を車で上る。",
+choice1: "急阪",
+choice2: "急坂",
+choice3: "急反",
+answer: 2,
+},
+
+{
+id: "A2491",
+question: "海ガメが産卵で(りく)に上がる。",
+choice1: "陸",
+choice2: "淕",
+choice3: "逵",
+answer: 1,
+},
+
+{
+id: "A2492",
+question: "9時に飛行機が(ちゃくりく)する予定だ。",
+choice1: "着淕",
+choice2: "着陸",
+choice3: "差逵",
+answer: 2,
+},
+
+{
+id: "A2493",
+question: "下北(はんとう)へドライブに行く。",
+choice1: "半島",
+choice2: "伴鳥",
+choice3: "判島",
+answer: 1,
+},
+
+{
+id: "A2494",
+question: "アメリカ(たいりく)を横断する。",
+choice1: "太陸",
+choice2: "犬逵",
+choice3: "大陸",
+answer: 3,
+},
+
+{
+id: "A2495",
+question: "(のぼりざか)が続く道。",
+choice1: "上り坂",
+choice2: "上り反",
+choice3: "上り版",
+answer: 1,
+},
+
+{
+id: "A2496",
+question: "天草(しょとう)を観光する。",
+choice1: "緒島",
+choice2: "渚鳥",
+choice3: "諸島",
+answer: 3,
+},
+
+{
+id: "A2497",
+question: "(りくじょう)選手。",
+choice1: "逵上",
+choice2: "陸上",
+choice3: "陸土",
+answer: 2,
+},
+
+{
+id: "A2498",
+question: "(おひがん)にはかまいりをする。",
+choice1: "お被岸",
+choice2: "お披岩",
+choice3: "お彼岸",
+answer: 3,
+},
+
+{
+id: "A2499",
+question: "そこは(さか)が多いです。",
+choice1: "阪",
+choice2: "坂",
+choice3: "板",
+answer: 2,
+},
+
+{
+id: "A2500",
+question: "(かわぎし)にきれいな花がさいている。",
+choice1: "洲岩",
+choice2: "川岸",
+choice3: "州岸",
+answer: 2,
+},
+
+{
+id: "A2501",
+question: "(きし)に帰り着く。",
+choice1: "岸",
+choice2: "岩",
+choice3: "帯",
+answer: 1,
+},
+
+{
+id: "A2502",
+question: "道は(くだりざか)だ。",
+choice1: "下り反",
+choice2: "下り阪",
+choice3: "下り坂",
+answer: 3,
+},
+
 ]

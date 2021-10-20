@@ -19,6 +19,7 @@ analyticBtn.addEventListener('click', ()=>{
     main.style.display = "none";
     certificate.style.display = "flex";
     returnBtn.style.display= "flex";
+    analyticBtn.style.display= "none";
 })
 // Khởi tạo
 document.getElementById('main').style.display             = "flex";
@@ -72,7 +73,6 @@ saveScoreBtn.addEventListener('click',()=>{
     o_question = MAX_QUESTIONS;
     o_name     = document.getElementById('username').value
     document.querySelector('.o_name').innerText= o_name;
-    
     // Không biết tại sao nhưng counter = 1 ở lần 2 trở đi thì nó không dư
     questionCounter      = 1;
     score                = 0;
@@ -82,7 +82,10 @@ saveScoreBtn.addEventListener('click',()=>{
     scoreBtn.innerText   = '0';
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
     startBtn.style       = 'background: #fff';
-    resetGame();
+    // resetGame();
+    document.getElementById('end').style.display         = "none"
+    document.getElementById('certificate').style.display = "flex";
+    document.getElementById('returnBtn').style.display   = "flex";
 })
 // Reset
 function resetGame(){
@@ -127,6 +130,13 @@ function getInputValue(){
     document.querySelector('.o_list').innerHTML = '';
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
     startBtn.style       = 'background: #fff';
+    //Reset chart
+    labels.splice(0,labels.length);
+    data.datasets[0].data.splice(0,data.datasets[0].data.length);
+    data.datasets[1].data.splice(0,data.datasets[1].data.length);
+    steak = 1;
+    plus  = 1;
+    chart.update();
 }
 //------------------------------------------>
 // Lưu lại tổng số câu ra chỗ riêng
@@ -224,8 +234,6 @@ getNewQuestion = () => {
         endGame();
     }
     questionCounter++;
-    //
-    
     const questionsIndex = Math.floor(Math.random() * availableQuestions.length);
     currentQuestion = availableQuestions[questionsIndex];
     // Đẩy câu hỏi từ database vào question
