@@ -1450,7 +1450,7 @@ question: "むすこは(いっさくねん)の12月に結婚しました。",
 choice1: "一昨年",
 choice2: "昨年",
 choice3: "去年",
-answer: 3,
+answer: 1,
 },
 
 {
@@ -22525,5 +22525,699 @@ choice2: "下り阪",
 choice3: "下り坂",
 answer: 3,
 },
+
+{
+id: "A2503",
+question: "私たちは彼を家族として(迎える)。",
+choice1: "でかえる",
+choice2: "むかえる",
+choice3: "げかえる",
+answer: 2,
+},
+
+{
+id: "A2504",
+question: "そのホテルは(設備)がよい。",
+choice1: "せっび",
+choice2: "せつび",
+choice3: "せっぴ",
+answer: 2,
+},
+
+{
+id: "A2505",
+question: "私はあなたを(送迎)に行きます。",
+choice1: "そうげい",
+choice2: "そうけい",
+choice3: "そうむか",
+answer: 1,
+},
+
+{
+id: "A2506",
+question: "船にはレーダーが(備わって)いる。",
+choice1: "ぞなわって",
+choice2: "うなわって",
+choice3: "そなわって",
+answer: 3,
+},
+
+{
+id: "A2507",
+question: "彼の作品は(標準)以上だ。",
+choice1: "ほうじゅん",
+choice2: "ひょうじゅん",
+choice3: "きじゅん",
+answer: 2,
+},
+
+{
+id: "A2508",
+question: "この(変化)は自然に起こる。",
+choice1: "へんが",
+choice2: "へんか",
+choice3: "へんこ",
+answer: 2,
+},
+
+{
+id: "A2509",
+question: "必要なものを(備える)。",
+choice1: "そなえる",
+choice2: "うなえる",
+choice3: "こえなる",
+answer: 1,
+},
+
+{
+id: "A2510",
+question: "彼らが私を(出迎え)てくれる。",
+choice1: "だかえ",
+choice2: "でむかえ",
+choice3: "でげえ",
+answer: 2,
+},
+
+{
+id: "A2511",
+question: "彼の気分はすぐ(変わる)。",
+choice1: "がわる",
+choice2: "へわる",
+choice3: "かわる",
+answer: 3,
+},
+
+{
+id: "A2512",
+question: "彼のゴール(守備)はリーグ一だ。",
+choice1: "じゅび",
+choice2: "しゅび",
+choice3: "まもび",
+answer: 2,
+},
+
+{
+id: "A2513",
+question: "決勝戦で負けて、(準優勝)に終わった。",
+choice1: "じゅゆうよう",
+choice2: "きゆうしょう",
+choice3: "じゅんゆうしょう",
+answer: 3,
+},
+
+{
+id: "A2514",
+question: "発送情報の(変更)を確認する。",
+choice1: "へんこう",
+choice2: "へんか",
+choice3: "へんたい",
+answer: 1,
+},
+
+{
+id: "A2515",
+question: "引っ越しの(準備)をした。",
+choice1: "じゅんび",
+choice2: "しゅび",
+choice3: "しゅんび",
+answer: 1,
+},
+
+{
+id: "A2516",
+question: "それは(大変な)事になるだろう。",
+choice1: "おおへんな",
+choice2: "だいへんな",
+choice3: "たいへんな",
+answer: 3,
+},
+
+{
+id: "A2517",
+question: "(変な)こと言うなよ。",
+choice1: "せんな",
+choice2: "べんな",
+choice3: "へんな",
+answer: 3,
+},
+
+{
+id: "A2518",
+question: "(予備)のタイヤは車の下にあります。",
+choice1: "よび",
+choice2: "ようび",
+choice3: "こび",
+answer: 1,
+},
+
+{
+id: "A2519",
+question: "私たちは山田さんの(歓迎会)を開きます。",
+choice1: "しんげいあい",
+choice2: "かんげいかい",
+choice3: "がんけいかい",
+answer: 2,
+},
+
+{
+id: "A2520",
+question: "彼女は髪型を(変える)。",
+choice1: "むかる",
+choice2: "かえる",
+choice3: "さえる",
+answer: 2,
+},
+
+{
+id: "A2521",
+question: "会社の(基準)に同意出来なかった。",
+choice1: "きじゅん",
+choice2: "ぎじゅん",
+choice3: "ほじゅん",
+answer: 1,
+},
+
+{
+id: "A2522",
+question: "パーデイーの(じゅんび)を進める。",
+choice1: "隼備",
+choice2: "準備",
+choice3: "準蒲",
+answer: 2,
+},
+
+{
+id: "A2523",
+question: "家族そろって新年を(むかえる)。",
+choice1: "迎える",
+choice2: "卯える",
+choice3: "卵える",
+answer: 1,
+},
+
+{
+id: "A2524",
+question: "新入社員の(かんげいかい)を開く。",
+choice1: "勧迎合",
+choice2: "観印会",
+choice3: "歓迎会",
+answer: 3,
+},
+
+{
+id: "A2525",
+question: "新井選手は(しゅび)が上手だ。",
+choice1: "守催",
+choice2: "守備",
+choice3: "宇偏",
+answer: 2,
+},
+
+{
+id: "A2526",
+question: "この牛乳は(へんな)においがする。",
+choice1: "恋な",
+choice2: "愛な",
+choice3: "変な",
+answer: 3,
+},
+
+{
+id: "A2527",
+question: "下水の(せつび)が整った。",
+choice1: "説備",
+choice2: "設備",
+choice3: "設卯",
+answer: 2,
+},
+
+{
+id: "A2528",
+question: "温かいで(むかえ)を受ける。",
+choice1: "出迎え",
+choice2: "出卯え",
+choice3: "出卵え",
+answer: 1,
+},
+
+{
+id: "A2529",
+question: "万一に(そなえて)貯金する。",
+choice1: "偏えて",
+choice2: "供えて",
+choice3: "備えて",
+answer: 3,
+},
+
+{
+id: "A2530",
+question: "葉の色が黄色から赤に(かわる)。",
+choice1: "恋わる",
+choice2: "変わる",
+choice3: "奕わる",
+answer: 2,
+},
+
+{
+id: "A2531",
+question: "私が彼を(そうげい)します。",
+choice1: "送迎",
+choice2: "迭迎",
+choice3: "咲卯",
+answer: 1,
+},
+
+{
+id: "A2532",
+question: "あの女性は気品が(そなわって)いる。",
+choice1: "催って",
+choice2: "備わって",
+choice3: "備って",
+answer: 2,
+},
+
+{
+id: "A2533",
+question: "(よび)のタイヤを車に積む。",
+choice1: "予備",
+choice2: "子催",
+choice3: "字備",
+answer: 1,
+},
+
+{
+id: "A2534",
+question: "(じゅんゆうしょう)のチーム。",
+choice1: "准優勝",
+choice2: "隼優券",
+choice3: "準優勝",
+answer: 3,
+},
+
+{
+id: "A2535",
+question: "顔色を(かえて)、部屋を出て行った。",
+choice1: "変えて",
+choice2: "恋えて",
+choice3: "奕えて",
+answer: 1,
+},
+
+{
+id: "A2536",
+question: "今年は(へんか)の多い年だった。",
+choice1: "奕化",
+choice2: "変花",
+choice3: "変化",
+answer: 3,
+},
+
+{
+id: "A2537",
+question: "彼の作品は(ひょうじゅん)以上だ。",
+choice1: "票準",
+choice2: "標準",
+choice3: "漂隼",
+answer: 2,
+},
+
+{
+id: "A2538",
+question: "予約を(へんこう)する。",
+choice1: "恋更",
+choice2: "奕硬",
+choice3: "変更",
+answer: 3,
+},
+
+{
+id: "A2539",
+question: "なかなか(たいへん)な仕事だ。",
+choice1: "太変",
+choice2: "大変",
+choice3: "犬恋",
+answer: 2,
+},
+
+{
+id: "A2540",
+question: "(きじゅん)を設定する。",
+choice1: "棋隼",
+choice2: "基準",
+choice3: "期準",
+answer: 2,
+},
+
+{
+id: "A2541",
+question: "私はここによく(泊まる)。",
+choice1: "しまる",
+choice2: "とまる",
+choice3: "くまる",
+answer: 2,
+},
+
+{
+id: "A2542",
+question: "彼らはとても速く(飛ぶ)。",
+choice1: "ぎぶ",
+choice2: "とぶ",
+choice3: "うぶ",
+answer: 2,
+},
+
+{
+id: "A2543",
+question: "彼の口座を(登録)した。",
+choice1: "とうろく",
+choice2: "どうろく",
+choice3: "そうろく",
+answer: 1,
+},
+
+{
+id: "A2544",
+question: "彼はあちこち(移転)した。",
+choice1: "いでん",
+choice2: "じてん",
+choice3: "いてん",
+answer: 3,
+},
+
+{
+id: "A2545",
+question: "私たちの家は人を(泊める)ことができません。",
+choice1: "じまる",
+choice2: "とめる",
+choice3: "そめる",
+answer: 2,
+},
+
+{
+id: "A2546",
+question: "空中に物を(飛ばす)。",
+choice1: "うばす",
+choice2: "とばす",
+choice3: "そばす",
+answer: 2,
+},
+
+{
+id: "A2547",
+question: "私は次の話題に(移る)。",
+choice1: "うつす",
+choice2: "じつす",
+choice3: "いつす",
+answer: 1,
+},
+
+{
+id: "A2548",
+question: "これは(登山道)からの景色です。",
+choice1: "ほざんどう",
+choice2: "とざんどう",
+choice3: "とざんみち",
+answer: 2,
+},
+
+{
+id: "A2549",
+question: "部屋から(飛び出す)。",
+choice1: "とびです",
+choice2: "そびだす",
+choice3: "とびだす",
+answer: 3,
+},
+
+{
+id: "A2550",
+question: "私はよく山に(登る)。",
+choice1: "ほぞる",
+choice2: "のぼる",
+choice3: "こぼる",
+answer: 2,
+},
+
+{
+id: "A2551",
+question: "他の国へ(移り)住む。",
+choice1: "きつり",
+choice2: "いつり",
+choice3: "うつり",
+answer: 3,
+},
+
+{
+id: "A2552",
+question: "強風の中に(飛び込む)。",
+choice1: "とびこむ",
+choice2: "そびこむ",
+choice3: "あびです",
+answer: 1,
+},
+
+{
+id: "A2553",
+question: "(登坂)走行での発進時に車体の後退を防止する。",
+choice1: "とうはん",
+choice2: "どはん",
+choice3: "とばん",
+answer: 1,
+},
+
+{
+id: "A2554",
+question: "人々に病気を(移す)。",
+choice1: "しつす",
+choice2: "いつす",
+choice3: "うつす",
+answer: 3,
+},
+
+{
+id: "A2555",
+question: "パリまで(飛行機)で行く。",
+choice1: "びこうき",
+choice2: "ぶうこき",
+choice3: "ひこうき",
+answer: 3,
+},
+
+{
+id: "A2556",
+question: "日本からブラジルに(移住)する。",
+choice1: "いじゅう",
+choice2: "いしゅう",
+choice3: "いしゅ",
+answer: 1,
+},
+
+{
+id: "A2557",
+question: "(二泊三日)で金沢に旅行に行きました。",
+choice1: "にぱくみっか",
+choice2: "にはくみっか",
+choice3: "にばくみっか",
+answer: 2,
+},
+
+{
+id: "A2558",
+question: "少しあなたの左側に(移動)してください。",
+choice1: "いてん",
+choice2: "いどう",
+choice3: "いしゅ",
+answer: 2,
+},
+
+{
+id: "A2559",
+question: "私は(登山)がすごく楽しかった。",
+choice1: "とざん",
+choice2: "とうざん",
+choice3: "こざん",
+answer: 1,
+},
+
+{
+id: "A2560",
+question: "(宿泊客)の次の宿を世話する。",
+choice1: "しゅはくきゃく",
+choice2: "しゅくはくきゃく",
+choice3: "しゅうばくきゃく",
+answer: 2,
+},
+
+{
+id: "A2561",
+question: "鳥が大空を(とぶ)。",
+choice1: "兆ぶ",
+choice2: "飛ぶ",
+choice3: "跳ぶ",
+answer: 2,
+},
+
+{
+id: "A2562",
+question: "結婚して広めのアパートに(うつった)。",
+choice1: "移った",
+choice2: "侈った",
+choice3: "移た",
+answer: 1,
+},
+
+{
+id: "A2563",
+question: "けわしい(とざんどう)を歩く。",
+choice1: "澄山道",
+choice2: "登山首",
+choice3: "登山道",
+answer: 3,
+},
+
+{
+id: "A2564",
+question: "オーストラリアに(いじゅう)する。",
+choice1: "侈主",
+choice2: "移住",
+choice3: "移玉",
+answer: 2,
+},
+
+{
+id: "A2565",
+question: "(ひこうき)のチケットを買う。",
+choice1: "飛交棋",
+choice2: "飛竹幾",
+choice3: "飛行機",
+answer: 3,
+},
+
+{
+id: "A2566",
+question: "友人を部屋に(とめる)。",
+choice1: "拍める",
+choice2: "泊める",
+choice3: "伯める",
+answer: 2,
+},
+
+{
+id: "A2567",
+question: "夏休みに富士山に(のぼる)。",
+choice1: "登る",
+choice2: "澄る",
+choice3: "登ぼる",
+answer: 1,
+},
+
+{
+id: "A2568",
+question: "ホテルに(とまる)。",
+choice1: "栢まる",
+choice2: "箔まる",
+choice3: "泊まる",
+answer: 3,
+},
+
+{
+id: "A2569",
+question: "ベッドをとなりの部屋に(うつす)。",
+choice1: "多す",
+choice2: "移す",
+choice3: "移つす",
+answer: 2,
+},
+
+{
+id: "A2570",
+question: "風船を(とばす)。",
+choice1: "飛ばす",
+choice2: "飛す",
+choice3: "虱ばす",
+answer: 1,
+},
+
+{
+id: "A2571",
+question: "車で(いどう)する。",
+choice1: "侈働",
+choice2: "移動",
+choice3: "移働",
+answer: 2,
+},
+
+{
+id: "A2572",
+question: "(にはくみっか)の旅行をする。",
+choice1: "二泊三日",
+choice2: "二拍三目",
+choice3: "二伯三日",
+answer: 1,
+},
+
+{
+id: "A2573",
+question: "店の場所を駅前に(いてん)する。",
+choice1: "移較",
+choice2: "移動",
+choice3: "移転",
+answer: 3,
+},
+
+{
+id: "A2574",
+question: "子どもが車道へ(とびだした)。",
+choice1: "飛び出した",
+choice2: "兆び出した",
+choice3: "飛び山した",
+answer: 1,
+},
+
+{
+id: "A2575",
+question: "インタネットで会員(とうろく)する。",
+choice1: "痘碌",
+choice2: "燈禄",
+choice3: "登録",
+answer: 3,
+},
+
+{
+id: "A2576",
+question: "季節の(うつり)変わり。",
+choice1: "移つり",
+choice2: "移り",
+choice3: "侈り",
+answer: 2,
+},
+
+{
+id: "A2577",
+question: "冬山(とざん)は危険だ。",
+choice1: "橙山",
+choice2: "搭山",
+choice3: "登山",
+answer: 3,
+},
+
+{
+id: "A2578",
+question: "プールに(とびこむ)。",
+choice1: "飛び入む",
+choice2: "飛び込む",
+choice3: "飛び辺む",
+answer: 2,
+},
+
+{
+id: "A2579",
+question: "(しゅくはく)客へのサービス。",
+choice1: "佰拍",
+choice2: "宿泊",
+choice3: "宿白",
+answer: 2,
+},
+
 
 ]
