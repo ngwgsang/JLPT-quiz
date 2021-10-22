@@ -26011,4 +26011,706 @@ choice3: "歩道橋",
 answer: 3,
 },
 
+{
+id: "A2890",
+question: "人に援助を(求める)。",
+choice1: "そとめる",
+choice2: "もとめる",
+choice3: "まとめる",
+answer: 2,
+},
+
+{
+id: "A2891",
+question: "彼は熱心に主人に(仕える)。",
+choice1: "しかえる",
+choice2: "つかえる",
+choice3: "ひかえる",
+answer: 2,
+},
+
+{
+id: "A2892",
+question: "彼の(職業)は何ですか。",
+choice1: "しゅうぎょう",
+choice2: "しょうぎょう",
+choice3: "しょくぎょう",
+answer: 3,
+},
+
+{
+id: "A2893",
+question: "人の(要求)に応ずる。",
+choice1: "こうきゅう",
+choice2: "ようきゅう",
+choice3: "ひつきゅう",
+answer: 2,
+},
+
+{
+id: "A2894",
+question: "私たちは彼を(探す)。",
+choice1: "さくす",
+choice2: "さがす",
+choice3: "さつす",
+answer: 2,
+},
+
+{
+id: "A2895",
+question: "この(仕事)は普通の仕事とはちがう。",
+choice1: "しごと",
+choice2: "しこと",
+choice3: "じごと",
+answer: 1,
+},
+
+{
+id: "A2896",
+question: "(求職)の広告を出す。",
+choice1: "ようしょく",
+choice2: "きゅうしょく",
+choice3: "ちゅうしゅく",
+answer: 2,
+},
+
+{
+id: "A2897",
+question: "私は(求職中)です。",
+choice1: "ちゅうしょくちゅう",
+choice2: "きゅうしょくちゅう",
+choice3: "しゅうしょくしゅう",
+answer: 2,
+},
+
+{
+id: "A2898",
+question: "車の運転の(仕方)を学んだ。",
+choice1: "しほう",
+choice2: "しがた",
+choice3: "しかた",
+answer: 3,
+},
+
+{
+id: "A2899",
+question: "(探し物)は見つかりましたか。",
+choice1: "さがしもの",
+choice2: "ざがしもの",
+choice3: "さけしもの",
+answer: 1,
+},
+
+{
+id: "A2900",
+question: "父が大学の(仕送り)をしてくれている。",
+choice1: "しおくり",
+choice2: "じおくり",
+choice3: "こおくり",
+answer: 1,
+},
+
+{
+id: "A2901",
+question: "私は急に(転職)が決まりました。",
+choice1: "うんしょく",
+choice2: "てんしょう",
+choice3: "てんしょく",
+answer: 3,
+},
+
+{
+id: "A2902",
+question: "新聞に(求人)の広告を出す。",
+choice1: "ちゅうじん",
+choice2: "こうじん",
+choice3: "きゅうじん",
+answer: 3,
+},
+
+{
+id: "A2903",
+question: "彼は(就業)が決まったみたいです。",
+choice1: "しゅうぎょう",
+choice2: "しょくぎょう",
+choice3: "じゅうぎょう",
+answer: 1,
+},
+
+{
+id: "A2904",
+question: "(給仕)が注文を取りに来た。",
+choice1: "ちゅうじ",
+choice2: "きゅうじ",
+choice3: "きゅうし",
+answer: 2,
+},
+
+{
+id: "A2905",
+question: "(職)に応募する。",
+choice1: "しょう",
+choice2: "しょく",
+choice3: "じゅく",
+answer: 2,
+},
+
+{
+id: "A2906",
+question: "相手の気持ちを互いに(探り)合う。",
+choice1: "さぐり",
+choice2: "さがり",
+choice3: "さげり",
+answer: 1,
+},
+
+{
+id: "A2907",
+question: "彼はこの(職場)に合わない。",
+choice1: "ちゅくば",
+choice2: "しょくば",
+choice3: "しゅくば",
+answer: 2,
+},
+
+{
+id: "A2908",
+question: "私は(探検)が好きです。",
+choice1: "たんけん",
+choice2: "しゅうけん",
+choice3: "せんけん",
+answer: 1,
+},
+
+{
+id: "A2909",
+question: "残業してたまった(しごと)をかたづける。",
+choice1: "士事",
+choice2: "仕事",
+choice3: "件事",
+answer: 2,
+},
+
+{
+id: "A2910",
+question: "王様に(つかえる)。",
+choice1: "仕える",
+choice2: "士える",
+choice3: "仕る",
+answer: 1,
+},
+
+{
+id: "A2911",
+question: "失業して、あらたに職を(もとめる)。",
+choice1: "球める",
+choice2: "救める",
+choice3: "求める",
+answer: 3,
+},
+
+{
+id: "A2912",
+question: "会長の(しょく)につく。",
+choice1: "織",
+choice2: "職",
+choice3: "試",
+answer: 2,
+},
+
+{
+id: "A2913",
+question: "無理な(ようきゅう)を受け入れる。",
+choice1: "要球",
+choice2: "腰求",
+choice3: "要求",
+answer: 3,
+},
+
+{
+id: "A2914",
+question: "今年大学を卒業して、(しゅうしょく)した。",
+choice1: "蹴職",
+choice2: "就職",
+choice3: "就織",
+answer: 2,
+},
+
+{
+id: "A2915",
+question: "今さらあわてても(しかた)がない。",
+choice1: "仕方",
+choice2: "士方",
+choice3: "仕万",
+answer: 1,
+},
+
+{
+id: "A2916",
+question: "(きゅうじ)に食事の準備をたのむ。",
+choice1: "給士",
+choice2: "級士",
+choice3: "給仕",
+answer: 3,
+},
+
+{
+id: "A2917",
+question: "前の仕事を辞めて、今は(きゅうしょくちゅう)だ。",
+choice1: "就職中",
+choice2: "求職中",
+choice3: "球織中",
+answer: 2,
+},
+
+{
+id: "A2918",
+question: "彼は(きゅうしょく)している。",
+choice1: "求職",
+choice2: "球織",
+choice3: "救織",
+answer: 1,
+},
+
+{
+id: "A2919",
+question: "(てんしょく)する。",
+choice1: "運織",
+choice2: "転職",
+choice3: "伝職",
+answer: 2,
+},
+
+{
+id: "A2920",
+question: "親から(しおくり)をもらう。",
+choice1: "仕送り",
+choice2: "士迷り",
+choice3: "土送り",
+answer: 1,
+},
+
+{
+id: "A2921",
+question: "(さがしもの)が見つかる。",
+choice1: "控し物",
+choice2: "深し物",
+choice3: "探し物",
+answer: 3,
+},
+
+{
+id: "A2922",
+question: "(きゅうじん)こうこくを見て、でんわする。",
+choice1: "求人",
+choice2: "救人",
+choice3: "球入",
+answer: 1,
+},
+
+{
+id: "A2923",
+question: "ゆびわをなくして部屋中(さがした)。",
+choice1: "深た",
+choice2: "深した",
+choice3: "探した",
+answer: 3,
+},
+
+{
+id: "A2924",
+question: "お互いの気持ちを(さぐり)合う。",
+choice1: "深り",
+choice2: "探り",
+choice3: "探ぐり",
+answer: 2,
+},
+
+{
+id: "A2925",
+question: "あこがれの(しょくぎょう)につく。",
+choice1: "識業",
+choice2: "織業",
+choice3: "職業",
+answer: 3,
+},
+
+{
+id: "A2926",
+question: "私の家は(しょくば)から遠い。",
+choice1: "識場",
+choice2: "職場",
+choice3: "織暘",
+answer: 2,
+},
+
+{
+id: "A2927",
+question: "ジャングルを(たんけん)する。",
+choice1: "深険",
+choice2: "探検",
+choice3: "控剣",
+answer: 2,
+},
+
+{
+id: "A2928",
+question: "警察に(紛失届)が出されないうちは旅券の再交付はできない。",
+choice1: "ぶんしつとどけ",
+choice2: "ふんしつとどけ",
+choice3: "ふうしつつづき",
+answer: 2,
+},
+
+{
+id: "A2929",
+question: "私は皆さんに(お礼)を言いたい。",
+choice1: "おしつ",
+choice2: "おれい",
+choice3: "おせい",
+answer: 2,
+},
+
+{
+id: "A2930",
+question: "火は(常に)危険だ。",
+choice1: "つねに",
+choice2: "じょうに",
+choice3: "ふねに",
+answer: 1,
+},
+
+{
+id: "A2931",
+question: "彼は(無意識)に泳いでいる。",
+choice1: "ふいしき",
+choice2: "むいじき",
+choice3: "むいしき",
+answer: 3,
+},
+
+{
+id: "A2932",
+question: "私は1000ドルを(失う)だろう。",
+choice1: "うきなう",
+choice2: "うしなう",
+choice3: "うさなう",
+answer: 2,
+},
+
+{
+id: "A2933",
+question: "彼が(意識)を失った。",
+choice1: "みしき",
+choice2: "いしき",
+choice3: "いじき",
+answer: 2,
+},
+
+{
+id: "A2934",
+question: "(礼儀)作法を守る。",
+choice1: "れいぎ",
+choice2: "れいき",
+choice3: "れいご",
+answer: 1,
+},
+
+{
+id: "A2935",
+question: "お先に(失礼)します。",
+choice1: "しっれい",
+choice2: "しつれい",
+choice3: "じつれい",
+answer: 2,
+},
+
+{
+id: "A2936",
+question: "私はお(礼状)を書いた。",
+choice1: "れいたい",
+choice2: "れいしつ",
+choice3: "れいじょう",
+answer: 3,
+},
+
+{
+id: "A2937",
+question: "(失業)率を引き下げる。",
+choice1: "しっぎょう",
+choice2: "しつぎょう",
+choice3: "そうぎょう",
+answer: 2,
+},
+
+{
+id: "A2938",
+question: "2千ドルの謝(礼金)を出す。",
+choice1: "れいしき",
+choice2: "れいぎ",
+choice3: "れいきん",
+answer: 3,
+},
+
+{
+id: "A2939",
+question: "(常夏)の国をしりますか。",
+choice1: "とこなつ",
+choice2: "じょうなつ",
+choice3: "つねなつ",
+answer: 1,
+},
+
+{
+id: "A2940",
+question: "かれはみんなの(礼賛)で有名になった。",
+choice1: "しつさん",
+choice2: "れいさん",
+choice3: "らいさん",
+answer: 3,
+},
+
+{
+id: "A2941",
+question: "経験は(知識)に役立つ。",
+choice1: "ちしき",
+choice2: "じしき",
+choice3: "きしち",
+answer: 1,
+},
+
+{
+id: "A2942",
+question: "(失敗)の原因を調べる。",
+choice1: "しつばい",
+choice2: "しっぱい",
+choice3: "しっばい",
+answer: 2,
+},
+
+{
+id: "A2943",
+question: "彼は(常識)が豊かだ。",
+choice1: "じょうじき",
+choice2: "じょうしき",
+choice3: "とこしき",
+answer: 2,
+},
+
+{
+id: "A2944",
+question: "私は今日は(通常通り)、仕事をしています。",
+choice1: "つうじょうどおり",
+choice2: "ふうじょうどおり",
+choice3: "つうじょうとおり",
+answer: 1,
+},
+
+{
+id: "A2945",
+question: "その建物には(非常口)がない。",
+choice1: "みじょうぐち",
+choice2: "ひじょうぐち",
+choice3: "いじょうくち",
+answer: 2,
+},
+
+{
+id: "A2946",
+question: "彼は恐ろしく(失望)した。",
+choice1: "しつぽう",
+choice2: "しつぼう",
+choice3: "しっぽう",
+answer: 2,
+},
+
+{
+id: "A2947",
+question: "彼女は(日常)的に料理をします。",
+choice1: "にちじょう",
+choice2: "ひじょう",
+choice3: "しちじょう",
+answer: 1,
+},
+
+{
+id: "A2948",
+question: "年末年始も(つうじょうどおり)えいぎょうする。",
+choice1: "甬常甬り",
+choice2: "通常通り",
+choice3: "角常通り",
+answer: 2,
+},
+
+{
+id: "A2949",
+question: "会社が倒産し、(しつぎょう)した。",
+choice1: "失業",
+choice2: "夫業",
+choice3: "矢業",
+answer: 1,
+},
+
+{
+id: "A2950",
+question: "(むいしき)に手を動かす。",
+choice1: "無意職",
+choice2: "無音識",
+choice3: "無意識",
+answer: 3,
+},
+
+{
+id: "A2951",
+question: "(つねに)笑顔をたやさない。",
+choice1: "営に",
+choice2: "常に",
+choice3: "堂に",
+answer: 2,
+},
+
+{
+id: "A2952",
+question: "彼は世間知らずで、(じょうしき)がない。",
+choice1: "営識",
+choice2: "堂職",
+choice3: "常識",
+answer: 3,
+},
+
+{
+id: "A2953",
+question: "火事で家を(うしなって)しまった。",
+choice1: "失って",
+choice2: "夫って",
+choice3: "矢って",
+answer: 1,
+},
+
+{
+id: "A2954",
+question: "彼は(れいぎ)正しく、まじめな学生だ。",
+choice1: "礼議",
+choice2: "糺義",
+choice3: "礼儀",
+answer: 3,
+},
+
+{
+id: "A2955",
+question: "手伝ってもらった(おれい)をする。",
+choice1: "お糺",
+choice2: "お礼",
+choice3: "お怜",
+answer: 2,
+},
+
+{
+id: "A2956",
+question: "ハワイは(とこなつ)の島だ。",
+choice1: "常夏",
+choice2: "當夏",
+choice3: "堂夏",
+answer: 1,
+},
+
+{
+id: "A2957",
+question: "ビジネス書で(ちしき)を深める。",
+choice1: "知職",
+choice2: "知識",
+choice3: "知織",
+answer: 2,
+},
+
+{
+id: "A2958",
+question: "実験は(しっぱい)だった。",
+choice1: "失敗",
+choice2: "夫敗",
+choice3: "失販",
+answer: 1,
+},
+
+{
+id: "A2959",
+question: "しき金、(れいきん)をはらう。",
+choice1: "糺金",
+choice2: "礼欽",
+choice3: "礼金",
+answer: 3,
+},
+
+{
+id: "A2960",
+question: "(にちじょう)生活を忘れて、ゆっくりする。",
+choice1: "日常",
+choice2: "白常",
+choice3: "日堂",
+answer: 1,
+},
+
+{
+id: "A2961",
+question: "一時間後に(いしき)を取り戻した。",
+choice1: "竟職",
+choice2: "音織",
+choice3: "意識",
+answer: 3,
+},
+
+{
+id: "A2962",
+question: "お先に(しつれい)します。",
+choice1: "夫糺",
+choice2: "失礼",
+choice3: "天礼",
+answer: 2,
+},
+
+{
+id: "A2963",
+question: "(ふんしつ)とどけを出す。",
+choice1: "分失",
+choice2: "粉失",
+choice3: "紛失",
+answer: 3,
+},
+
+{
+id: "A2964",
+question: "その結果は彼を(しつぼう)させた。",
+choice1: "夫望",
+choice2: "失望",
+choice3: "失塑",
+answer: 2,
+},
+
+{
+id: "A2965",
+question: "(ひじょうぐち)はどこにありますか。",
+choice1: "緋常口",
+choice2: "非常口",
+choice3: "悲常口",
+answer: 2,
+},
+
+{
+id: "A2966",
+question: "お(れいじょう)を書く。",
+choice1: "礼状",
+choice2: "令状",
+choice3: "糺杖",
+answer: 1,
+},
+
+{
+id: "A2967",
+question: "「(らいさん)」の意味はほめたたえること。",
+choice1: "糺替",
+choice2: "礼潜",
+choice3: "礼賛",
+answer: 3,
+},
+
 ]

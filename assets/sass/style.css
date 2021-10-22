@@ -793,6 +793,20 @@ body {
   }
 }
 
+@media (max-width: 600px) {
+  .start .content-box__options .choice-container:hover {
+    -webkit-transform: translateY(0rem);
+            transform: translateY(0rem);
+  }
+}
+
+@media (max-height: 680px) {
+  .start .content-box__options .choice-container:hover {
+    -webkit-transform: translateY(0rem);
+            transform: translateY(0rem);
+  }
+}
+
 @media (max-width: 1200px) {
   .start .content-box__options .choice-container {
     width: 16rem;

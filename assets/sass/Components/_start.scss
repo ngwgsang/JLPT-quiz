@@ -60,9 +60,14 @@
                 &:hover{
                     transform: translateY(-1rem);
                     background-color: $cl-y;
-
                     @include respond(tab){
                         transform: translateY(-0.2rem);
+                    }
+                    @include respond(phone){
+                        transform: translateY(0rem);
+                    }
+                    @include respond(small-phone){
+                        transform: translateY(0rem);
                     }
                 }
                 @include respond(tab-land){
