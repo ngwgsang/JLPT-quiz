@@ -23220,4 +23220,1067 @@ answer: 2,
 },
 
 
+{
+id: "A2580",
+question: "北海道は(本州)の北方にある。",
+choice1: "きゅうしゅう",
+choice2: "ほんしゅう",
+choice3: "ほうしゅう",
+answer: 2,
+},
+
+{
+id: "A2581",
+question: "(団体)で旅行をする。",
+choice1: "だんかい",
+choice2: "だんたい",
+choice3: "たんたい",
+answer: 2,
+},
+
+{
+id: "A2582",
+question: "サクラメント川で大きな(三角州)を形成する。",
+choice1: "さんかくす",
+choice2: "さんかくしゅう",
+choice3: "さんがくじゅう",
+answer: 1,
+},
+
+{
+id: "A2583",
+question: "(団結)には力がある。",
+choice1: "たんけつ",
+choice2: "だんげつ",
+choice3: "だんけつ",
+answer: 3,
+},
+
+{
+id: "A2584",
+question: "海外、特に(欧米)に行きたい。",
+choice1: "ようべい",
+choice2: "おうべい",
+choice3: "おうめい",
+answer: 2,
+},
+
+{
+id: "A2585",
+question: "駅周辺は(団地)が多い。",
+choice1: "はんち",
+choice2: "だんち",
+choice3: "だんじ",
+answer: 2,
+},
+
+{
+id: "A2586",
+question: "(欧米化)が普及した。",
+choice1: "おうべいか",
+choice2: "とうべいか",
+choice3: "ようべいか",
+answer: 1,
+},
+
+{
+id: "A2587",
+question: "私は(先程)ここに着きました。",
+choice1: "ざきほど",
+choice2: "さきほど",
+choice3: "さきぼど",
+answer: 2,
+},
+
+{
+id: "A2588",
+question: "何事も(程度)が肝心だ。",
+choice1: "せいど",
+choice2: "へいど",
+choice3: "ていど",
+answer: 3,
+},
+
+{
+id: "A2589",
+question: "下記の(日程)で予約したいです。",
+choice1: "にちどう",
+choice2: "にってい",
+choice3: "にちほど",
+answer: 2,
+},
+
+{
+id: "A2590",
+question: "あなたはこの(布団)で寒くないですか。",
+choice1: "ふだん",
+choice2: "ぶとん",
+choice3: "ふとん",
+answer: 3,
+},
+
+{
+id: "A2591",
+question: "死ぬ(程疲)れた。",
+choice1: "ほど",
+choice2: "てい",
+choice3: "こど",
+answer: 1,
+},
+
+{
+id: "A2592",
+question: "彼らの売上は(欧州)で多い。",
+choice1: "おうしゅう",
+choice2: "おうす",
+choice3: "おうじゅう",
+answer: 1,
+},
+
+{
+id: "A2593",
+question: "その薬が成長の(過程)を早めた。",
+choice1: "がてい",
+choice2: "すてい",
+choice3: "かてい",
+answer: 3,
+},
+
+{
+id: "A2594",
+question: "彼が(楽団)を率いる歌手だ。",
+choice1: "がっだん",
+choice2: "らくだん",
+choice3: "がくだん",
+answer: 3,
+},
+
+{
+id: "A2595",
+question: "彼女は(九州)に行って留守です。",
+choice1: "きゅうしゅう",
+choice2: "ちゃうしゅう",
+choice3: "ほんしゅう",
+answer: 1,
+},
+
+{
+id: "A2596",
+question: "小さな(がくだん)に入る。",
+choice1: "薬団",
+choice2: "楽団",
+choice3: "楽困",
+answer: 2,
+},
+
+{
+id: "A2597",
+question: "旅行の(にってい)を決める。",
+choice1: "日程",
+choice2: "日呈",
+choice3: "日逞",
+answer: 1,
+},
+
+{
+id: "A2598",
+question: "あの宿は(だんたい)客の利用が多い。",
+choice1: "団休",
+choice2: "囚体",
+choice3: "団体",
+answer: 3,
+},
+
+{
+id: "A2599",
+question: "今度の連休に(きゅうしゅう)を旅行する。",
+choice1: "久州",
+choice2: "九州",
+choice3: "九洲",
+answer: 2,
+},
+
+{
+id: "A2600",
+question: "(さきほど)、田中さんから電話があったそうだ。",
+choice1: "先捏",
+choice2: "洗程",
+choice3: "先程",
+answer: 3,
+},
+
+{
+id: "A2601",
+question: "このチームは(だんけつ)力が強い。",
+choice1: "団桔",
+choice2: "団結",
+choice3: "団訣",
+answer: 2,
+},
+
+{
+id: "A2602",
+question: "(さんかくす)は川の河口近くにできる。",
+choice1: "三角州",
+choice2: "三角洲",
+choice3: "三各州",
+answer: 1,
+},
+
+{
+id: "A2603",
+question: "格安の(おうべい)ツアーを予約する。",
+choice1: "欧迷",
+choice2: "殴米",
+choice3: "欧米",
+answer: 3,
+},
+
+{
+id: "A2604",
+question: "(ふとん)をしいて寝る。",
+choice1: "府団",
+choice2: "布団",
+choice3: "怖団",
+answer: 2,
+},
+
+{
+id: "A2605",
+question: "その(かてい)を彼に説明した。",
+choice1: "過程",
+choice2: "渦捏",
+choice3: "過逞",
+answer: 1,
+},
+
+{
+id: "A2606",
+question: "英語はある(ていど)理解できる。",
+choice1: "呈渡",
+choice2: "程度",
+choice3: "程席",
+answer: 2,
+},
+
+{
+id: "A2607",
+question: "これは(おうしゅう)で高い評価を受ける。",
+choice1: "欧州",
+choice2: "殴洲",
+choice3: "区州",
+answer: 1,
+},
+
+{
+id: "A2608",
+question: "食の(おうべいか)が進む。",
+choice1: "欧迷花",
+choice2: "殴米花",
+choice3: "欧米化",
+answer: 3,
+},
+
+{
+id: "A2609",
+question: "あと1時間(ほど)で目的地に着く。",
+choice1: "程",
+choice2: "逞",
+choice3: "提",
+answer: 1,
+},
+
+{
+id: "A2610",
+question: "青森県は(ほんしゅう)の一番北にある。",
+choice1: "体州",
+choice2: "休洲",
+choice3: "本州",
+answer: 3,
+},
+
+{
+id: "A2611",
+question: "(だんち)に住む。",
+choice1: "団池",
+choice2: "団地",
+choice3: "団弛",
+answer: 2,
+},
+
+{
+id: "A2612",
+question: "能楽とは日本の(伝統芸能)である。",
+choice1: "てんとうげいのう",
+choice2: "でんとうげいのう",
+choice3: "でいとうげいのう",
+answer: 2,
+},
+
+{
+id: "A2613",
+question: "彼の(観察)は正確だ。",
+choice1: "かんざつ",
+choice2: "かんさつ",
+choice3: "けんさつ",
+answer: 2,
+},
+
+{
+id: "A2614",
+question: "私は(芸術)に恋する。",
+choice1: "げいじゅつ",
+choice2: "けいしゅつ",
+choice3: "げいしつ",
+answer: 1,
+},
+
+{
+id: "A2615",
+question: "彼女は(園芸)を楽しんでいます。",
+choice1: "せんげい",
+choice2: "こうげい",
+choice3: "えんげい",
+answer: 3,
+},
+
+{
+id: "A2616",
+question: "私は(船盛り)で寿司を食べた。",
+choice1: "ふねもり",
+choice2: "ふなもり",
+choice3: "かねもり",
+answer: 2,
+},
+
+{
+id: "A2617",
+question: "そこは(観光地)として知られている。",
+choice1: "がんこうち",
+choice2: "かんこうち",
+choice3: "かんほうち",
+answer: 2,
+},
+
+{
+id: "A2618",
+question: "(観光客)の数が増えた。",
+choice1: "かんこうきゃく",
+choice2: "かんほうきゃく",
+choice3: "かんこうぎゃく",
+answer: 1,
+},
+
+{
+id: "A2619",
+question: "私は妹の(学芸会)を見に行く予定です。",
+choice1: "がっげいかい",
+choice2: "がくげいかい",
+choice3: "かくげいかい",
+answer: 2,
+},
+
+{
+id: "A2620",
+question: "(観客)から拍手が起きた。",
+choice1: "かんぎゃく",
+choice2: "がんかく",
+choice3: "かんきゃく",
+answer: 3,
+},
+
+{
+id: "A2621",
+question: "(漁舟)で魚を釣る。",
+choice1: "きょじゅう",
+choice2: "ぎょしゅう",
+choice3: "ぎょふな",
+answer: 2,
+},
+
+{
+id: "A2622",
+question: "(開演)は午後７時です。",
+choice1: "さいえん",
+choice2: "かいぜん",
+choice3: "かいえん",
+answer: 3,
+},
+
+{
+id: "A2623",
+question: "彼は私と(人生観)を異にする。",
+choice1: "じんせいかん",
+choice2: "にんせいかん",
+choice3: "じんせいかく",
+answer: 1,
+},
+
+{
+id: "A2624",
+question: "彼女は(演技)が上手い。",
+choice1: "えんぎ",
+choice2: "えんぎつ",
+choice3: "えんき",
+answer: 1,
+},
+
+{
+id: "A2625",
+question: "これは(客観的)な意見です。",
+choice1: "ぎゃっかんてき",
+choice2: "きゃくかんてき",
+choice3: "きゃっかんてき",
+answer: 3,
+},
+
+{
+id: "A2626",
+question: "(舟)が岸に着く。",
+choice1: "ふり",
+choice2: "ふな",
+choice3: "ふね",
+answer: 3,
+},
+
+{
+id: "A2627",
+question: "会議で(演説)する。",
+choice1: "えんぜつ",
+choice2: "えんせつ",
+choice3: "えんけつ",
+answer: 1,
+},
+
+{
+id: "A2628",
+question: "彼らは(小舟)で川を渡った。",
+choice1: "こふね",
+choice2: "こぶね",
+choice3: "しょうふね",
+answer: 2,
+},
+
+{
+id: "A2629",
+question: "彼は(文芸)を専門に仕事をする人だ。",
+choice1: "ふんげい",
+choice2: "ぶんげい",
+choice3: "ふんけい",
+answer: 2,
+},
+
+{
+id: "A2630",
+question: "それはとても(主観的)な見方だ。",
+choice1: "しゅかんてき",
+choice2: "じゅかんてき",
+choice3: "じゅさつてき",
+answer: 1,
+},
+
+{
+id: "A2631",
+question: "誰がお姫様の役を(演じる)の？",
+choice1: "せいじる",
+choice2: "えんじる",
+choice3: "かんじる",
+answer: 2,
+},
+
+{
+id: "A2632",
+question: "(かんきゃく)の期待にこたえる。",
+choice1: "勧客",
+choice2: "観客",
+choice3: "歓客",
+answer: 2,
+},
+
+{
+id: "A2633",
+question: "(こぶね)が岸にとまっている。",
+choice1: "小舟",
+choice2: "少船",
+choice3: "抄舟",
+answer: 1,
+},
+
+{
+id: "A2634",
+question: "パリは(げいじゅつ)の都とよく言われる。",
+choice1: "芫街",
+choice2: "芸衝",
+choice3: "芸術",
+answer: 3,
+},
+
+{
+id: "A2635",
+question: "知事の(えんぜつ)を聞く。",
+choice1: "反道",
+choice2: "演節",
+choice3: "版道",
+answer: 2,
+},
+
+{
+id: "A2636",
+question: "京都は(かんこうち)として有名だ。",
+choice1: "勧光弛",
+choice2: "歓光池",
+choice3: "観光地",
+answer: 3,
+},
+
+{
+id: "A2637",
+question: "(しゅかんてき)な意見を言う。",
+choice1: "住観的",
+choice2: "主観的",
+choice3: "玉勧的",
+answer: 2,
+},
+
+{
+id: "A2638",
+question: "(ふね)で対岸にわたる。",
+choice1: "舟",
+choice2: "船",
+choice3: "舩",
+answer: 1,
+},
+
+{
+id: "A2639",
+question: "娘の(がくげいかい)を見に行く。",
+choice1: "学伝会",
+choice2: "学怯会",
+choice3: "学芸会",
+answer: 3,
+},
+
+{
+id: "A2640",
+question: "ドラマの主役を(えんじる)。",
+choice1: "寅じる",
+choice2: "演じる",
+choice3: "寛じる",
+answer: 2,
+},
+
+{
+id: "A2641",
+question: "(えんげい)の技術を学ぶ、家業をつぐ。",
+choice1: "園芸",
+choice2: "薗芸",
+choice3: "袁芸",
+answer: 1,
+},
+
+{
+id: "A2642",
+question: "(たくさん)のかんこうきゃく。",
+choice1: "勧光各",
+choice2: "観光客",
+choice3: "歓光格",
+answer: 2,
+},
+
+{
+id: "A2643",
+question: "(ぶんげい)作品を好んで読む。",
+choice1: "文芸",
+choice2: "丈芸",
+choice3: "文伝",
+answer: 1,
+},
+
+{
+id: "A2644",
+question: "(じんせい)かんがかわる。",
+choice1: "人牲観",
+choice2: "入性観",
+choice3: "人生観",
+answer: 3,
+},
+
+{
+id: "A2645",
+question: "全選手が(えんぎ)を終えた。",
+choice1: "演技",
+choice2: "演伎",
+choice3: "寅妓",
+answer: 1,
+},
+
+{
+id: "A2646",
+question: "(ぎょしゅう)で始まる単語を探します。",
+choice1: "魚船",
+choice2: "漁船",
+choice3: "漁舟",
+answer: 3,
+},
+
+{
+id: "A2647",
+question: "(ふなもり)は人気の料理だ。",
+choice1: "船盛り",
+choice2: "舟盛り",
+choice3: "舟盆り",
+answer: 2,
+},
+
+{
+id: "A2648",
+question: "オペラの(かいえん)時間を待つ。",
+choice1: "関演",
+choice2: "閉演",
+choice3: "開演",
+answer: 3,
+},
+
+{
+id: "A2649",
+question: "(でんとうげい)のうを大切にする。",
+choice1: "芸統伝",
+choice2: "伝統芸",
+choice3: "云流芸",
+answer: 2,
+},
+
+{
+id: "A2650",
+question: "植物を(かんさつ)する。",
+choice1: "歓祭",
+choice2: "観察",
+choice3: "勧察",
+answer: 2,
+},
+
+{
+id: "A2651",
+question: "私は自分を(きゃっかんてき)に見る。",
+choice1: "各歓的",
+choice2: "客観的",
+choice3: "喀歓的",
+answer: 2,
+},
+
+
+{
+id: "A2652",
+question: "(神戸)市に住んでいます。",
+choice1: "ごうべ",
+choice2: "こうべ",
+choice3: "かみべ",
+answer: 2,
+},
+
+{
+id: "A2653",
+question: "地域の(夏祭り)に参加しました。",
+choice1: "なつおつり",
+choice2: "なつまつり",
+choice3: "かつまつり",
+answer: 2,
+},
+
+{
+id: "A2654",
+question: "彼は(仏様)のような人だ。",
+choice1: "ほとけさま",
+choice2: "ほこけさま",
+choice3: "とほけさま",
+answer: 1,
+},
+
+{
+id: "A2655",
+question: "緊張して(神経質)になる。",
+choice1: "かみけいしつ",
+choice2: "しんけいせつ",
+choice3: "しんけいしつ",
+answer: 3,
+},
+
+{
+id: "A2656",
+question: "彼女は映画の流血シーンを見て(失神)した。",
+choice1: "しつかみ",
+choice2: "しっしん",
+choice3: "しつしん",
+answer: 2,
+},
+
+{
+id: "A2657",
+question: "その(絵画展)は新宿で行われている。",
+choice1: "えいがてん",
+choice2: "かいがてん",
+choice3: "えがいてん",
+answer: 2,
+},
+
+{
+id: "A2658",
+question: "在学中に映画に(仏心)を注入したい。",
+choice1: "ほとけごころ",
+choice2: "ほとけこころ",
+choice3: "ほこけごごろ",
+answer: 1,
+},
+
+{
+id: "A2659",
+question: "当地で(お神酒)で乾杯し、お供え物の御下がりを食する。",
+choice1: "おしんき",
+choice2: "おみき",
+choice3: "おかみざけ",
+answer: 2,
+},
+
+{
+id: "A2660",
+question: "大声で(念仏)を唱える。",
+choice1: "ぜんぶつ",
+choice2: "ねんふつ",
+choice3: "ねんぶつ",
+answer: 3,
+},
+
+{
+id: "A2661",
+question: "あなたは(精神)疾患だ。",
+choice1: "しょうしん",
+choice2: "せいしん",
+choice3: "せいじん",
+answer: 2,
+},
+
+{
+id: "A2662",
+question: "この神社は神を(祭る)ために建てられた。",
+choice1: "つまる",
+choice2: "さまる",
+choice3: "まつる",
+answer: 3,
+},
+
+{
+id: "A2663",
+question: "この(仏像)は作が好い。",
+choice1: "ぶつぞう",
+choice2: "ぶっぞう",
+choice3: "ふっきょう",
+answer: 1,
+},
+
+{
+id: "A2664",
+question: "私は(絵本)作家になりたかった。",
+choice1: "えほん",
+choice2: "かいほん",
+choice3: "えぼん",
+answer: 1,
+},
+
+{
+id: "A2665",
+question: "今度の(祭日)は日曜だ。",
+choice1: "さいにち",
+choice2: "さつにち",
+choice3: "さいじつ",
+answer: 3,
+},
+
+{
+id: "A2666",
+question: "(神社)は頂上に在る。",
+choice1: "かみしゃ",
+choice2: "しんしゃ",
+choice3: "じんじゃ",
+answer: 3,
+},
+
+{
+id: "A2667",
+question: "(水性絵具)で絵を描いた。",
+choice1: "すいせいえのぐ",
+choice2: "すいせいかいのぐ",
+choice3: "すいしょうえのぐ",
+answer: 1,
+},
+
+{
+id: "A2668",
+question: "奈良は(大仏)で有名です。",
+choice1: "たいぶつ",
+choice2: "だいぶつ",
+choice3: "おおぶつ",
+answer: 2,
+},
+
+{
+id: "A2669",
+question: "あなたは(油絵)を習っているのですか。",
+choice1: "ゆうえ",
+choice2: "あぶらえ",
+choice3: "あぶらかい",
+answer: 2,
+},
+
+{
+id: "A2670",
+question: "彼は(仏教)信者だ。",
+choice1: "ぶっきょう",
+choice2: "ぶつきょう",
+choice3: "ふつぎょう",
+answer: 1,
+},
+
+{
+id: "A2671",
+question: "(学園祭)を通してクラスの仲が深まる。",
+choice1: "がっこうさい",
+choice2: "がくえんさい",
+choice3: "がくえんさつ",
+answer: 2,
+},
+
+{
+id: "A2672",
+question: "(神)を信じる。",
+choice1: "かみ",
+choice2: "しん",
+choice3: "しみ",
+answer: 1,
+},
+
+{
+id: "A2673",
+question: "(雪祭り)はとても楽しかったです。",
+choice1: "ふゆまつり",
+choice2: "ゆきまつり",
+choice3: "ゆきおつり",
+answer: 2,
+},
+
+{
+id: "A2674",
+question: "私の学校は明日(文化祭)です。",
+choice1: "ぶんかさい",
+choice2: "ふんかさい",
+choice3: "ぶんかつり",
+answer: 1,
+},
+
+{
+id: "A2675",
+question: "日本一大きい(だいぶつ)を見に行く。",
+choice1: "太仏",
+choice2: "大仏",
+choice3: "大払",
+answer: 2,
+},
+
+{
+id: "A2676",
+question: "(しんけいしつ)な性格を直したい。",
+choice1: "神経質",
+choice2: "伸径質",
+choice3: "紳性質",
+answer: 1,
+},
+
+{
+id: "A2677",
+question: "(ほとけさま)にお供えをする。",
+choice1: "弘様",
+choice2: "払様",
+choice3: "仏様",
+answer: 3,
+},
+
+{
+id: "A2678",
+question: "来月ゴッホの(かいがてん)が開かれる。",
+choice1: "会画殿",
+choice2: "絵画展",
+choice3: "桧画展",
+answer: 2,
+},
+
+{
+id: "A2679",
+question: "(かみ)の存在を信じる。",
+choice1: "伸",
+choice2: "紳",
+choice3: "神",
+answer: 3,
+},
+
+{
+id: "A2680",
+question: "亡くなった人を(まつる)。",
+choice1: "察る",
+choice2: "祭る",
+choice3: "擦る",
+answer: 2,
+},
+
+{
+id: "A2681",
+question: "(なつまつり)でかき氷をかった。",
+choice1: "夏祭り",
+choice2: "雪祭り",
+choice3: "暑察る",
+answer: 1,
+},
+
+{
+id: "A2682",
+question: "(ぶっきょう)は6世紀ごろに伝来した。",
+choice1: "払敦",
+choice2: "仏教",
+choice3: "払考",
+answer: 2,
+},
+
+{
+id: "A2683",
+question: "駅前にある教室で(あぶらえ)を習っている。",
+choice1: "油絵",
+choice2: "由絵",
+choice3: "柚会",
+answer: 1,
+},
+
+{
+id: "A2684",
+question: "(ねんぶつ)をとなえる。",
+choice1: "捻払",
+choice2: "念仏",
+choice3: "稔仏",
+answer: 2,
+},
+
+{
+id: "A2685",
+question: "(じんじゃ)に初もうでに行く。",
+choice1: "神社",
+choice2: "紳社",
+choice3: "伸祉",
+answer: 1,
+},
+
+{
+id: "A2686",
+question: "子どもに(えほん)を読み聞かせる。",
+choice1: "桧本",
+choice2: "陰本",
+choice3: "絵本",
+answer: 3,
+},
+
+{
+id: "A2687",
+question: "あの店は(さいじつ)も営業している。",
+choice1: "祭日",
+choice2: "察日",
+choice3: "際日",
+answer: 1,
+},
+
+{
+id: "A2688",
+question: "(ほとけごころ)を出す。",
+choice1: "仏少",
+choice2: "払必",
+choice3: "仏心",
+answer: 3,
+},
+
+{
+id: "A2689",
+question: "ショックで(しっしん)した。",
+choice1: "夫神",
+choice2: "失神",
+choice3: "失紳",
+answer: 2,
+},
+
+{
+id: "A2690",
+question: "大学の(ぶんかさい)に行った。",
+choice1: "文花蔡",
+choice2: "丈化察",
+choice3: "文化祭",
+answer: 3,
+},
+
+{
+id: "A2691",
+question: "この(ぶつぞう)は木で作られている。",
+choice1: "仏象",
+choice2: "仏像",
+choice3: "払像",
+answer: 2,
+},
+
+{
+id: "A2692",
+question: "とても楽しい(がくえんさい)でした。",
+choice1: "学薗際",
+choice2: "学園祭",
+choice3: "学園蔡",
+answer: 2,
+},
+
+{
+id: "A2693",
+question: "水性(えのぐ)を使って書く。",
+choice1: "絵具",
+choice2: "桧倶",
+choice3: "絵俱",
+answer: 1,
+},
+
+{
+id: "A2694",
+question: "北海道の(ゆきまつり)はとても人気がある。",
+choice1: "雷祭り",
+choice2: "冬際り",
+choice3: "雪祭り",
+answer: 3,
+},
+
+{
+id: "A2695",
+question: "(こうべ)市に住んでいます。",
+choice1: "紳声",
+choice2: "神戸",
+choice3: "伸戸",
+answer: 2,
+},
+
+{
+id: "A2696",
+question: "彼は(せいしん)病になる。",
+choice1: "青神",
+choice2: "精神",
+choice3: "静紳",
+answer: 2,
+},
+
+{
+id: "A2697",
+question: "(おみき)を供える。",
+choice1: "お神酉",
+choice2: "お申酒",
+choice3: "お神",
+answer: 3,
+},
+
 ]
