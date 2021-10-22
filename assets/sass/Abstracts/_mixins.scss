@@ -14,6 +14,11 @@
             @content
         };
     }
+    @if $breakpoint == small-phone{
+        @media (max-height: 680px){
+            @content
+        };
+    }
 }
 
 @mixin btn{

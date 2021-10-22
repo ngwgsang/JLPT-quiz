@@ -24283,4 +24283,1732 @@ choice3: "お神",
 answer: 3,
 },
 
+{
+id: "A2698",
+question: "法律を無理に(曲げる)。",
+choice1: "うげる",
+choice2: "まげる",
+choice3: "うまげる",
+answer: 2,
+},
+
+{
+id: "A2699",
+question: "(角)を左に曲がってください。",
+choice1: "かく",
+choice2: "かど",
+choice3: "がど",
+answer: 2,
+},
+
+{
+id: "A2700",
+question: "紙を二つに(折る)。",
+choice1: "おる",
+choice2: "おりる",
+choice3: "きる",
+answer: 1,
+},
+
+{
+id: "A2701",
+question: "牛は(角)が有る。",
+choice1: "かの",
+choice2: "かど",
+choice3: "つの",
+answer: 3,
+},
+
+{
+id: "A2702",
+question: "細い物がかんたんに(折れる)。",
+choice1: "われる",
+choice2: "おれる",
+choice3: "これる",
+answer: 2,
+},
+
+{
+id: "A2703",
+question: "私は(作曲)することはできません。",
+choice1: "さくきょく",
+choice2: "さっきょく",
+choice3: "さつきょく",
+answer: 2,
+},
+
+{
+id: "A2704",
+question: "2番目の通りを(右折)しなさい。",
+choice1: "うせつ",
+choice2: "ゆせつ",
+choice3: "かせつ",
+answer: 1,
+},
+
+{
+id: "A2705",
+question: "紙を(三角)形に切る。",
+choice1: "かんかく",
+choice2: "さんかく",
+choice3: "さんかど",
+answer: 2,
+},
+
+{
+id: "A2706",
+question: "古い(曲)を一曲歌う。",
+choice1: "かよく",
+choice2: "ぎょく",
+choice3: "きょく",
+answer: 3,
+},
+
+{
+id: "A2707",
+question: "箱の形は普通(四角)です。",
+choice1: "こかく",
+choice2: "しかく",
+choice3: "しがく",
+answer: 2,
+},
+
+{
+id: "A2708",
+question: "人生の(進路)を決める。",
+choice1: "しんど",
+choice2: "しんぞ",
+choice3: "しんろ",
+answer: 3,
+},
+
+{
+id: "A2709",
+question: "この(角度)は他の角度よりも大きい。",
+choice1: "かくど",
+choice2: "たいど",
+choice3: "かいど",
+answer: 1,
+},
+
+{
+id: "A2710",
+question: "私は(骨折)しやすくなる。",
+choice1: "こっせつ",
+choice2: "こつせつ",
+choice3: "ほねせつ",
+answer: 1,
+},
+
+{
+id: "A2711",
+question: "彼女はめきめきと(頭角)を現す。",
+choice1: "どうがく",
+choice2: "あたまかく",
+choice3: "とうかく",
+answer: 3,
+},
+
+{
+id: "A2712",
+question: "彼は(道路)で寝てしまう。",
+choice1: "しんろ",
+choice2: "しんど",
+choice3: "どうろ",
+answer: 3,
+},
+
+{
+id: "A2713",
+question: "交差点を右に(曲がる)。",
+choice1: "まがる",
+choice2: "うがる",
+choice3: "きょがる",
+answer: 1,
+},
+
+{
+id: "A2714",
+question: "かみを三(つ折り)にする。",
+choice1: "さんつおり",
+choice2: "みっつおり",
+choice3: "みっつうり",
+answer: 2,
+},
+
+{
+id: "A2715",
+question: "彼はたくさんの(名曲)を生み出した。",
+choice1: "なきょく",
+choice2: "めいきょく",
+choice3: "めいきょう",
+answer: 2,
+},
+
+{
+id: "A2716",
+question: "車は急に(左折)した。",
+choice1: "させつ",
+choice2: "ゆせつ",
+choice3: "うせつ",
+answer: 1,
+},
+
+{
+id: "A2717",
+question: "日が暮れてきたので(家路)を急いだ。",
+choice1: "かろう",
+choice2: "いえじ",
+choice3: "いえろ",
+answer: 2,
+},
+
+{
+id: "A2718",
+question: "列車が(線路)を脱する。",
+choice1: "せんろ",
+choice2: "せんろう",
+choice3: "せんじ",
+answer: 1,
+},
+
+{
+id: "A2719",
+question: "あらゆる(かくど)から考える。",
+choice1: "甬度",
+choice2: "角度",
+choice3: "角席",
+answer: 2,
+},
+
+{
+id: "A2720",
+question: "布団を三つ(おり)にする。",
+choice1: "折り",
+choice2: "圻り",
+choice3: "析り",
+answer: 1,
+},
+
+{
+id: "A2721",
+question: "自分の(しんろ)を決める。",
+choice1: "進蕗",
+choice2: "進賂",
+choice3: "進路",
+answer: 3,
+},
+
+{
+id: "A2722",
+question: "オスの牛はりっぱな(つの)を持っている。",
+choice1: "争",
+choice2: "角",
+choice3: "甬",
+answer: 2,
+},
+
+{
+id: "A2723",
+question: "そこの信号を(うせつ)する。",
+choice1: "右圻",
+choice2: "左折",
+choice3: "右折",
+answer: 3,
+},
+
+{
+id: "A2724",
+question: "つぎの(かど)を曲がってください。",
+choice1: "争",
+choice2: "角",
+choice3: "甬",
+answer: 2,
+},
+
+{
+id: "A2725",
+question: "転んで前歯を(おった)。",
+choice1: "折った",
+choice2: "圻った",
+choice3: "析った",
+answer: 1,
+},
+
+{
+id: "A2726",
+question: "仕事が終わって(いえじ)につく。",
+choice1: "家跪",
+choice2: "豕路",
+choice3: "家路",
+answer: 3,
+},
+
+{
+id: "A2727",
+question: "こしが痛くて(まがらない)。",
+choice1: "由がらない",
+choice2: "曲がらない",
+choice3: "典がらない",
+answer: 2,
+},
+
+{
+id: "A2728",
+question: "台風で木のえだが(おれた)。",
+choice1: "折れた",
+choice2: "圻れた",
+choice3: "折た",
+answer: 1,
+},
+
+{
+id: "A2729",
+question: "(めいきょく)を集めたCDを買った。",
+choice1: "各曲",
+choice2: "名曲",
+choice3: "右由",
+answer: 2,
+},
+
+{
+id: "A2730",
+question: "(せんろ)ぞいにあるく。",
+choice1: "線路",
+choice2: "腺路",
+choice3: "線蕗",
+answer: 1,
+},
+
+{
+id: "A2731",
+question: "ピアノでバッハの(きょく)をひく。",
+choice1: "油",
+choice2: "由",
+choice3: "曲",
+answer: 3,
+},
+
+{
+id: "A2732",
+question: "私は(こっせつ)のため入院した。",
+choice1: "骨折",
+choice2: "滑折",
+choice3: "骨沂",
+answer: 1,
+},
+
+{
+id: "A2733",
+question: "(さんかく)形の面積を求める。",
+choice1: "三各",
+choice2: "三通",
+choice3: "三角",
+answer: 3,
+},
+
+{
+id: "A2734",
+question: "(どうろ)が込んでいる。",
+choice1: "首路",
+choice2: "道路",
+choice3: "道賂",
+answer: 2,
+},
+
+{
+id: "A2735",
+question: "(とうかく)を現す。",
+choice1: "顕角",
+choice2: "顔角",
+choice3: "頭角",
+answer: 3,
+},
+
+{
+id: "A2736",
+question: "あの交差点を(させつ)する。",
+choice1: "右折",
+choice2: "左折",
+choice3: "在圻",
+answer: 2,
+},
+
+{
+id: "A2737",
+question: "彼は紙を(しかく)に切った。",
+choice1: "匹角",
+choice2: "四角",
+choice3: "四甬",
+answer: 2,
+},
+
+{
+id: "A2738",
+question: "最後まで信念を(まげない)。",
+choice1: "曲げない",
+choice2: "由ない",
+choice3: "曲ない",
+answer: 1,
+},
+
+{
+id: "A2739",
+question: "(さっきょく)家になりたいです。",
+choice1: "昨由",
+choice2: "乍曲",
+choice3: "作曲",
+answer: 3,
+},
+
+{
+id: "A2740",
+question: "私は急に(転職)が決まりました。",
+choice1: "こうしょく",
+choice2: "てんしょく",
+choice3: "けんしょく",
+answer: 2,
+},
+
+{
+id: "A2741",
+question: "子が母の後を(追う)。",
+choice1: "あう",
+choice2: "おう",
+choice3: "かう",
+answer: 2,
+},
+
+{
+id: "A2742",
+question: "人をひじでそっと(突く)。",
+choice1: "つく",
+choice2: "こく",
+choice3: "きく",
+answer: 1,
+},
+
+{
+id: "A2743",
+question: "(突然)激しく雨が降る。",
+choice1: "こうぜん",
+choice2: "とっぜん",
+choice3: "とつぜん",
+answer: 3,
+},
+
+{
+id: "A2744",
+question: "日々の仕事に(追われる)。",
+choice1: "うわれる",
+choice2: "おわれる",
+choice3: "つわれる",
+answer: 2,
+},
+
+{
+id: "A2745",
+question: "彼女は病に(倒れる)。",
+choice1: "かおれる",
+choice2: "たおれる",
+choice3: "おたれる",
+answer: 2,
+},
+
+{
+id: "A2746",
+question: "彼はドアに(突進)した。",
+choice1: "とっしん",
+choice2: "とつしん",
+choice3: "どっしん",
+answer: 1,
+},
+
+{
+id: "A2747",
+question: "(転げ落ちる)とき、どっちもすっごい音をたてるんだな。",
+choice1: "ここげおちる",
+choice2: "ころげおちる",
+choice3: "てんげおちる",
+answer: 2,
+},
+
+{
+id: "A2748",
+question: "あの店は先(週倒産)した。",
+choice1: "ちゃくさん",
+choice2: "てんさん",
+choice3: "とうさん",
+answer: 3,
+},
+
+{
+id: "A2749",
+question: "もう一つ(追加)のお願いがあります。",
+choice1: "おうか",
+choice2: "ついか",
+choice3: "こうか",
+answer: 2,
+},
+
+{
+id: "A2750",
+question: "あれは彼の(自転車)です。",
+choice1: "じとうしゃ",
+choice2: "じこうしゃ",
+choice3: "じてんしゃ",
+answer: 3,
+},
+
+{
+id: "A2751",
+question: "(転倒)して彼は大ケガをした。",
+choice1: "てんとう",
+choice2: "でんこう",
+choice3: "でんとう",
+answer: 1,
+},
+
+{
+id: "A2752",
+question: "この運転手は(運転)が下手だ。",
+choice1: "うんてん",
+choice2: "こうてん",
+choice3: "とうてん",
+answer: 1,
+},
+
+{
+id: "A2753",
+question: "私はそれをごろごろと(転がす)。",
+choice1: "てんがす",
+choice2: "こぼがす",
+choice3: "ころがす",
+answer: 3,
+},
+
+{
+id: "A2754",
+question: "私は原因の(追及)を行いたい。",
+choice1: "おうきゅう",
+choice2: "ついとつ",
+choice3: "ついきゅう",
+answer: 3,
+},
+
+{
+id: "A2755",
+question: "私の車は(衝突)事故で壊れた。",
+choice1: "しょうとつ",
+choice2: "かいとつ",
+choice3: "しょうこつ",
+answer: 1,
+},
+
+{
+id: "A2756",
+question: "(転ぶ)とすぐに彼女は泣いてしまった。",
+choice1: "ここぶ",
+choice2: "ころぶ",
+choice3: "こうぶ",
+answer: 2,
+},
+
+{
+id: "A2757",
+question: "彼女の車はバスに(追突)した。",
+choice1: "ついか",
+choice2: "ついとつ",
+choice3: "ついきゅう",
+answer: 2,
+},
+
+{
+id: "A2758",
+question: "物がごろごろと(転がる)。",
+choice1: "ころがる",
+choice2: "ここがる",
+choice3: "こがる",
+answer: 1,
+},
+
+{
+id: "A2759",
+question: "立っているものを(倒す)。",
+choice1: "こぶす",
+choice2: "たおす",
+choice3: "ころす",
+answer: 2,
+},
+
+{
+id: "A2760",
+question: "前の車に(ついとつ)した。",
+choice1: "追空",
+choice2: "追突",
+choice3: "官突",
+answer: 2,
+},
+
+{
+id: "A2761",
+question: "(とつぜん)、子供が飛び出してきた。",
+choice1: "突然",
+choice2: "突烈",
+choice3: "究然",
+answer: 1,
+},
+
+{
+id: "A2762",
+question: "だれかに押されて、階段から(ころげ)落ちた。",
+choice1: "斬げ",
+choice2: "乾げ",
+choice3: "転げ",
+answer: 3,
+},
+
+{
+id: "A2763",
+question: "仕事に(おわれる)毎日なんていやだ。",
+choice1: "官われる",
+choice2: "追われる",
+choice3: "棺われる",
+answer: 2,
+},
+
+{
+id: "A2764",
+question: "ボールが坂道を(ころがる)。",
+choice1: "動がる",
+choice2: "転る",
+choice3: "転がる",
+answer: 3,
+},
+
+{
+id: "A2765",
+question: "大きなもりで魚を(つく)。",
+choice1: "空く",
+choice2: "突く",
+choice3: "究く",
+answer: 2,
+},
+
+{
+id: "A2766",
+question: "ねこがネズミを(おう)。",
+choice1: "追う",
+choice2: "官う",
+choice3: "宮う",
+answer: 1,
+},
+
+{
+id: "A2767",
+question: "急に(てんしょく)が決まりました。",
+choice1: "軽織",
+choice2: "転織",
+choice3: "転職",
+answer: 3,
+},
+
+{
+id: "A2768",
+question: "この運転手は(うんてん)が下手だ。",
+choice1: "連転",
+choice2: "運転",
+choice3: "渾転",
+answer: 2,
+},
+
+{
+id: "A2769",
+question: "雪道で(てんとう)してけがした。",
+choice1: "転倒",
+choice2: "動到",
+choice3: "転到",
+answer: 1,
+},
+
+{
+id: "A2770",
+question: "貧血で(たおれる)。",
+choice1: "到れる",
+choice2: "倒れる",
+choice3: "到る",
+answer: 2,
+},
+
+{
+id: "A2771",
+question: "あやまって、花瓶を(たおした)。",
+choice1: "倒した",
+choice2: "到した",
+choice3: "倒た",
+answer: 1,
+},
+
+{
+id: "A2772",
+question: "ゴールめがけて(とっしん)する。",
+choice1: "突准",
+choice2: "空淮",
+choice3: "突進",
+answer: 3,
+},
+
+{
+id: "A2773",
+question: "英文を(ついか)する。",
+choice1: "追加",
+choice2: "官迦",
+choice3: "追迦",
+answer: 1,
+},
+
+{
+id: "A2774",
+question: "石につまずいて(ころぶ)。",
+choice1: "転ろぶ",
+choice2: "倒ぶ",
+choice3: "転ぶ",
+answer: 3,
+},
+
+{
+id: "A2775",
+question: "バイクが電柱に(しょうとつ)する。",
+choice1: "働突",
+choice2: "衝突",
+choice3: "街究",
+answer: 2,
+},
+
+{
+id: "A2776",
+question: "(じてんしゃ)で通学する。",
+choice1: "目転車",
+choice2: "白転者",
+choice3: "自転車",
+answer: 3,
+},
+
+{
+id: "A2777",
+question: "サイコロを(ころがす)。",
+choice1: "転す",
+choice2: "転がす",
+choice3: "到がる",
+answer: 2,
+},
+
+{
+id: "A2778",
+question: "理想を(ついきゅう)する。",
+choice1: "官汲",
+choice2: "追及",
+choice3: "追汲",
+answer: 2,
+},
+
+{
+id: "A2779",
+question: "会社が(とうさん)する。",
+choice1: "倒産",
+choice2: "到産",
+choice3: "転",
+answer: 1,
+},
+
+{
+id: "A2780",
+question: "(横)になっていた。",
+choice1: "ほこ",
+choice2: "よこ",
+choice3: "おう",
+answer: 2,
+},
+
+{
+id: "A2781",
+question: "(一の位)が四捨五入される。",
+choice1: "いちのい",
+choice2: "いちのくらい",
+choice3: "いちのくい",
+answer: 2,
+},
+
+{
+id: "A2782",
+question: "(横書)きの日本文で,左から右へ書く。",
+choice1: "よこがき",
+choice2: "よこかき",
+choice3: "おうがき",
+answer: 1,
+},
+
+{
+id: "A2783",
+question: "英国は第一(位)に位する。",
+choice1: "こ",
+choice2: "くらい",
+choice3: "い",
+answer: 3,
+},
+
+{
+id: "A2784",
+question: "ゴミ(置き場)はどこですか。",
+choice1: "ほきば",
+choice2: "おきば",
+choice3: "たきば",
+answer: 2,
+},
+
+{
+id: "A2785",
+question: "(位置)が後ろへ移る。",
+choice1: "いこ",
+choice2: "いち",
+choice3: "いお",
+answer: 2,
+},
+
+{
+id: "A2786",
+question: "船は(横転)して沈没した。",
+choice1: "おうてん",
+choice2: "じょてん",
+choice3: "よこてん",
+answer: 1,
+},
+
+{
+id: "A2787",
+question: "エアコンを(設置)する。",
+choice1: "せっび",
+choice2: "せっち",
+choice3: "せつち",
+answer: 2,
+},
+
+{
+id: "A2788",
+question: "成績でクラスで(上位)を占める。",
+choice1: "じょうくらい",
+choice2: "うえい",
+choice3: "じょうい",
+answer: 3,
+},
+
+{
+id: "A2789",
+question: "私の目の前に(横断歩道)が見える。",
+choice1: "おうだんほうど",
+choice2: "おうだんほどう",
+choice3: "ようだんほど",
+answer: 2,
+},
+
+{
+id: "A2790",
+question: "彼の(横顔)はとても美しい。",
+choice1: "よこかお",
+choice2: "おうがお",
+choice3: "よこがお",
+answer: 3,
+},
+
+{
+id: "A2791",
+question: "15番通りで(横道)に入りなさい。",
+choice1: "よこみち",
+choice2: "おうみち",
+choice3: "おうどう",
+answer: 1,
+},
+
+{
+id: "A2792",
+question: "かばんをタクシーの中に(置き忘れる)なんて，私はばかだ。",
+choice1: "おきわすれる",
+choice2: "ちきわすれ",
+choice3: "おきわれる",
+answer: 1,
+},
+
+{
+id: "A2793",
+question: "彼はテストで毎回(一位)を取る。",
+choice1: "いちくらい",
+choice2: "いっこ",
+choice3: "いちい",
+answer: 3,
+},
+
+{
+id: "A2794",
+question: "彼は(地位)が高くなった。",
+choice1: "ぢい",
+choice2: "じい",
+choice3: "ちい",
+answer: 3,
+},
+
+{
+id: "A2795",
+question: "彼は歯科(処置)を受けた。",
+choice1: "しょち",
+choice2: "しょうち",
+choice3: "しょっち",
+answer: 1,
+},
+
+{
+id: "A2796",
+question: "本を棚に(置く)。",
+choice1: "かく",
+choice2: "おく",
+choice3: "ちく",
+answer: 2,
+},
+
+{
+id: "A2797",
+question: "舵を(中央)の位置へ戻す。",
+choice1: "なかおう",
+choice2: "ちゅうおう",
+choice3: "しゅうおう",
+answer: 2,
+},
+
+{
+id: "A2798",
+question: "今、自分がいる(いち)を地図で確認する。",
+choice1: "立置",
+choice2: "位置",
+choice3: "位値",
+answer: 2,
+},
+
+{
+id: "A2799",
+question: "電車にかばんを(おきわすれる)。",
+choice1: "置き忘れる",
+choice2: "署き忘れる",
+choice3: "曙き忘れる",
+answer: 1,
+},
+
+{
+id: "A2800",
+question: "手紙を(よこがき)で書いた。",
+choice1: "横事く",
+choice2: "黄書き",
+choice3: "横書き",
+answer: 3,
+},
+
+{
+id: "A2801",
+question: "雪道で車が(おうてん)した。",
+choice1: "黄転",
+choice2: "横転",
+choice3: "横到",
+answer: 2,
+},
+
+{
+id: "A2802",
+question: "国王の(い)をゆずる。",
+choice1: "拉",
+choice2: "立",
+choice3: "位",
+answer: 3,
+},
+
+{
+id: "A2803",
+question: "駅の自転車(おきば)を利用する。",
+choice1: "値き場",
+choice2: "置き場",
+choice3: "署き暘",
+answer: 2,
+},
+
+{
+id: "A2804",
+question: "名古屋に支社を(おく)。",
+choice1: "置く",
+choice2: "署く",
+choice3: "置",
+answer: 1,
+},
+
+{
+id: "A2805",
+question: "町の(ちゅうおう)に大きな公園がある。",
+choice1: "中映",
+choice2: "仲央",
+choice3: "中央",
+answer: 3,
+},
+
+{
+id: "A2806",
+question: "マラソンで日本選手が(じょうい)をしめる。",
+choice1: "土位",
+choice2: "上位",
+choice3: "上立",
+answer: 2,
+},
+
+{
+id: "A2807",
+question: "運動会のリレーで(いちい)になった。",
+choice1: "一位",
+choice2: "一立",
+choice3: "一泣",
+answer: 1,
+},
+
+{
+id: "A2808",
+question: "彼女の(よこ)がおを見つめる。",
+choice1: "黄頭",
+choice2: "横顔",
+choice3: "黃頸",
+answer: 2,
+},
+
+{
+id: "A2809",
+question: "会社で重要な(ちい)につく。",
+choice1: "地位",
+choice2: "池位",
+choice3: "弛拉",
+answer: 1,
+},
+
+{
+id: "A2810",
+question: "(おうだんほどう)をわたりましょう。",
+choice1: "横断步首",
+choice2: "黄断步道",
+choice3: "横断歩道",
+answer: 3,
+},
+
+{
+id: "A2811",
+question: "話が(よこみち)にそれる。",
+choice1: "横道",
+choice2: "横首",
+choice3: "黄道",
+answer: 1,
+},
+
+{
+id: "A2812",
+question: "公園にゴミ箱を(せっち)する。",
+choice1: "節置",
+choice2: "説値",
+choice3: "設置",
+answer: 3,
+},
+
+{
+id: "A2813",
+question: "(よこ)に線を引く。",
+choice1: "黄",
+choice2: "横",
+choice3: "黃",
+answer: 2,
+},
+
+{
+id: "A2814",
+question: "一の(くらい)を支社五入する。",
+choice1: "泣",
+choice2: "拉",
+choice3: "位",
+answer: 3,
+},
+
+{
+id: "A2815",
+question: "彼は歯科(しょち)を受けた。",
+choice1: "拠置",
+choice2: "処置",
+choice3: "処署",
+answer: 2,
+},
+
+{
+id: "A2816",
+question: "君は(逆立ち)ができるか。",
+choice1: "ぎゃくだち",
+choice2: "さかだち",
+choice3: "ぎゃくたち",
+answer: 2,
+},
+
+{
+id: "A2817",
+question: "ネクタイをまっすぐに(直す)。",
+choice1: "ちょくす",
+choice2: "なおす",
+choice3: "さおす",
+answer: 2,
+},
+
+{
+id: "A2818",
+question: "(率直)な意見を述べる。",
+choice1: "そっちょく",
+choice2: "りっちょく",
+choice3: "そつちょく",
+answer: 1,
+},
+
+{
+id: "A2819",
+question: "この薬を一服飲むと(直る)。",
+choice1: "ちょくる",
+choice2: "まごる",
+choice3: "なおる",
+answer: 3,
+},
+
+{
+id: "A2820",
+question: "順序を(逆)にする。",
+choice1: "さか",
+choice2: "ぎゃく",
+choice3: "きゃく",
+answer: 2,
+},
+
+{
+id: "A2821",
+question: "(直接)の影響を受ける。",
+choice1: "なおせつ",
+choice2: "ちょくせつ",
+choice3: "しょくせつ",
+answer: 2,
+},
+
+{
+id: "A2822",
+question: "彼は怒りで(逆上)していた。",
+choice1: "ぎゃくじょう",
+choice2: "さかじょう",
+choice3: "さかうえ",
+answer: 1,
+},
+
+{
+id: "A2823",
+question: "そのドアは(外側)へ開く。",
+choice1: "そとがい",
+choice2: "そとがわ",
+choice3: "がいしょく",
+answer: 2,
+},
+
+{
+id: "A2824",
+question: "水などが(直進)するように流れる。",
+choice1: "しょうしん",
+choice2: "なおしん",
+choice3: "ちょくしん",
+answer: 3,
+},
+
+{
+id: "A2825",
+question: "そのドアは(内側)へ開く。",
+choice1: "ないがわ",
+choice2: "うちがわ",
+choice3: "なかがわ",
+answer: 2,
+},
+
+{
+id: "A2826",
+question: "二つの点を(直線)で結びなさい。",
+choice1: "しょくせん",
+choice2: "ちょうせん",
+choice3: "ちょくせん",
+answer: 3,
+},
+
+{
+id: "A2827",
+question: "彼は山の(向こう側)に住んでい。",
+choice1: "むこうがわ",
+choice2: "むこうがい",
+choice3: "むこうかわ",
+answer: 1,
+},
+
+{
+id: "A2828",
+question: "あなたは(正直)すぎる。",
+choice1: "しょうじき",
+choice2: "しょうしょく",
+choice3: "せいじき",
+answer: 1,
+},
+
+{
+id: "A2829",
+question: "兄弟が無いから意に(逆らう)者が無かった。",
+choice1: "ざからう",
+choice2: "ぎゃくらう",
+choice3: "さからう",
+answer: 3,
+},
+
+{
+id: "A2830",
+question: "彼はとても(素直)に見える。",
+choice1: "そっちょく",
+choice2: "そなお",
+choice3: "すなお",
+answer: 3,
+},
+
+{
+id: "A2831",
+question: "僕らの立場は全く(逆転)していた。",
+choice1: "ぎゃくてん",
+choice2: "さかてん",
+choice3: "ぎゃくでん",
+answer: 1,
+},
+
+{
+id: "A2832",
+question: "地面に(線)を引く。",
+choice1: "ぜん",
+choice2: "せん",
+choice3: "せい",
+answer: 2,
+},
+
+{
+id: "A2833",
+question: "(直ちに)答えを見つけた。",
+choice1: "さかちに",
+choice2: "ただちに",
+choice3: "ちょくちに",
+answer: 2,
+},
+
+{
+id: "A2834",
+question: "彼は(側面)から援助してくれた。",
+choice1: "そくめん",
+choice2: "がいめん",
+choice3: "せんめん",
+answer: 1,
+},
+
+{
+id: "A2835",
+question: "(逆子)で生まれた赤ん坊。",
+choice1: "ぎゃくご",
+choice2: "さかご",
+choice3: "ざかこ",
+answer: 2,
+},
+
+{
+id: "A2836",
+question: "自転車のパンクを(なおす)。",
+choice1: "値す",
+choice2: "直す",
+choice3: "埴す",
+answer: 2,
+},
+
+{
+id: "A2837",
+question: "これは彼から(ちょくせつ)聞いた話だ。",
+choice1: "直接",
+choice2: "埴節",
+choice3: "値接",
+answer: 1,
+},
+
+{
+id: "A2838",
+question: "交差点を(ちょくしん)する。",
+choice1: "直准",
+choice2: "値淮",
+choice3: "直進",
+answer: 3,
+},
+
+{
+id: "A2839",
+question: "立場が(ぎゃく)になる。",
+choice1: "迎",
+choice2: "逆",
+choice3: "迚",
+answer: 2,
+},
+
+{
+id: "A2840",
+question: "先生の言うことに(さからう)。",
+choice1: "迎らう",
+choice2: "逆う",
+choice3: "逆らう",
+answer: 3,
+},
+
+{
+id: "A2841",
+question: "通報を受け、(ただち)に現場に向かう。",
+choice1: "埴だち",
+choice2: "直ち",
+choice3: "値ち",
+answer: 2,
+},
+
+{
+id: "A2842",
+question: "彼は(しょうじき)な人だ。",
+choice1: "正直",
+choice2: "証値",
+choice3: "止直",
+answer: 1,
+},
+
+{
+id: "A2843",
+question: "(ぎゃくだち)して歩く。",
+choice1: "逆位ち",
+choice2: "迎立ち",
+choice3: "逆立ち",
+answer: 3,
+},
+
+{
+id: "A2844",
+question: "(さかご)で生まれた赤ん坊。",
+choice1: "迎予",
+choice2: "逆子",
+choice3: "逆字",
+answer: 2,
+},
+
+{
+id: "A2845",
+question: "酔った男が(ぎゃくじょう)した。",
+choice1: "逆上",
+choice2: "迎上",
+choice3: "迭上",
+answer: 1,
+},
+
+{
+id: "A2846",
+question: "日本一長い(ちょくせん)道路。",
+choice1: "植線",
+choice2: "直線",
+choice3: "値腺",
+answer: 2,
+},
+
+{
+id: "A2847",
+question: "(そっちょく)な意見を言う。",
+choice1: "率直",
+choice2: "卒直",
+choice3: "率値",
+answer: 1,
+},
+
+{
+id: "A2848",
+question: "川の(むこうがわ)にわたる。",
+choice1: "向う測",
+choice2: "同こう則",
+choice3: "向こう側",
+answer: 3,
+},
+
+{
+id: "A2849",
+question: "友人の以外な(そくめん)を知る。",
+choice1: "側面",
+choice2: "測緬",
+choice3: "則面",
+answer: 1,
+},
+
+{
+id: "A2850",
+question: "ローカル(せん)に乗る。",
+choice1: "泉",
+choice2: "腺",
+choice3: "線",
+answer: 3,
+},
+
+{
+id: "A2851",
+question: "(ぎゃくてん)ホームランを打つ。",
+choice1: "逆点",
+choice2: "逆転",
+choice3: "迎店",
+answer: 2,
+},
+
+{
+id: "A2852",
+question: "そのドアは(うちがわ)へ開く。",
+choice1: "うち則",
+choice2: "丙側",
+choice3: "内側",
+answer: 3,
+},
+
+{
+id: "A2853",
+question: "その窓は(そとがわ)へ開く。",
+choice1: "夜測",
+choice2: "外側",
+choice3: "夘側",
+answer: 2,
+},
+
+{
+id: "A2854",
+question: "こわれたコピーきが(なおった)。",
+choice1: "値った",
+choice2: "直った",
+choice3: "殖った",
+answer: 2,
+},
+
+{
+id: "A2855",
+question: "彼は実に(すなお)な人だ。",
+choice1: "素直",
+choice2: "索直",
+choice3: "麦直",
+answer: 1,
+},
+
+{
+id: "A2856",
+question: "会議をさっさと(進める)。",
+choice1: "しんめる",
+choice2: "すすめる",
+choice3: "すめる",
+answer: 2,
+},
+
+{
+id: "A2857",
+question: "彼は(意識)不明になった。",
+choice1: "みしき",
+choice2: "いしき",
+choice3: "いじき",
+answer: 2,
+},
+
+{
+id: "A2858",
+question: "(意見)を聞かせてください。",
+choice1: "いけん",
+choice2: "みけん",
+choice3: "しけん",
+answer: 1,
+},
+
+{
+id: "A2859",
+question: "その道路に新しい(歩道橋)がかかった。",
+choice1: "ほどうばし",
+choice2: "ほどうはし",
+choice3: "ほどうきょう",
+answer: 3,
+},
+
+{
+id: "A2860",
+question: "彼は何事にも(石橋)を叩いて渡る。",
+choice1: "いしきょう",
+choice2: "いしばし",
+choice3: "いしぎょう",
+answer: 2,
+},
+
+{
+id: "A2861",
+question: "仕事が予定通り(進む)。",
+choice1: "ししむ",
+choice2: "すすむ",
+choice3: "しすむ",
+answer: 2,
+},
+
+{
+id: "A2862",
+question: "これからも彼らの活動に(注目)する。",
+choice1: "ちゅうもく",
+choice2: "しゅうもく",
+choice3: "じゅうもく",
+answer: 1,
+},
+
+{
+id: "A2863",
+question: "花に水を(注ぐ)。",
+choice1: "ささぐ",
+choice2: "そそぐ",
+choice3: "さそぐ",
+answer: 2,
+},
+
+{
+id: "A2864",
+question: "彼の英会話は急速に(進歩)した。",
+choice1: "しんぼ",
+choice2: "すすぽ",
+choice3: "しんぽ",
+answer: 3,
+},
+
+{
+id: "A2865",
+question: "これは健康を(意味)します。",
+choice1: "ぎみ",
+choice2: "いみ",
+choice3: "きみ",
+answer: 2,
+},
+
+{
+id: "A2866",
+question: "その川には(鉄橋)がすでに建設中だ。",
+choice1: "てつぎょう",
+choice2: "てつきょう",
+choice3: "てっきょう",
+answer: 3,
+},
+
+{
+id: "A2867",
+question: "私は大学へ(進学)する。",
+choice1: "しんがく",
+choice2: "ほうがく",
+choice3: "だいがく",
+answer: 1,
+},
+
+{
+id: "A2868",
+question: "食べ過ぎに(注意)！。",
+choice1: "ちゅうい",
+choice2: "しゅうい",
+choice3: "いみ",
+answer: 1,
+},
+
+{
+id: "A2869",
+question: "あの(橋)はこの橋より長い。",
+choice1: "ぱし",
+choice2: "ばし",
+choice3: "はし",
+answer: 3,
+},
+
+{
+id: "A2870",
+question: "(注文)はお決まりですか？。",
+choice1: "ちゅうもく",
+choice2: "きゅうもん",
+choice3: "ちゅうもん",
+answer: 3,
+},
+
+{
+id: "A2871",
+question: "この会社を辞めることを(決意)した。",
+choice1: "けつい",
+choice2: "けっい",
+choice3: "けつみ",
+answer: 1,
+},
+
+{
+id: "A2872",
+question: "その企業はタイに(進出)した。",
+choice1: "しんで",
+choice2: "しんしゅつ",
+choice3: "すんしゅつ",
+answer: 2,
+},
+
+{
+id: "A2873",
+question: "出馬の(けつい)を固める。",
+choice1: "訣意",
+choice2: "決意",
+choice3: "决竟",
+answer: 2,
+},
+
+{
+id: "A2874",
+question: "(いしばし)をたたいてわたる。",
+choice1: "石橋",
+choice2: "右喬",
+choice3: "石僑",
+answer: 1,
+},
+
+{
+id: "A2875",
+question: "デビュー間もない新人作家に(ちゅうもく)する。",
+choice1: "柱目",
+choice2: "主目",
+choice3: "注目",
+answer: 3,
+},
+
+{
+id: "A2876",
+question: "昨日の台風で(はし)が流された。",
+choice1: "喬",
+choice2: "橋",
+choice3: "僑",
+answer: 2,
+},
+
+{
+id: "A2877",
+question: "予定どおり工事を(すすめて)ください。",
+choice1: "准めて",
+choice2: "推めて",
+choice3: "進めて",
+answer: 3,
+},
+
+{
+id: "A2878",
+question: "来年大学院に(しんがく)するつもりだ。",
+choice1: "准学",
+choice2: "進学",
+choice3: "准字",
+answer: 2,
+},
+
+{
+id: "A2879",
+question: "漢字の(いみ)を辞書で調べる。",
+choice1: "意味",
+choice2: "竟味",
+choice3: "章未",
+answer: 1,
+},
+
+{
+id: "A2880",
+question: "コップに水を(そそいで)飲む。",
+choice1: "玉いで",
+choice2: "柱いで",
+choice3: "注いで",
+answer: 3,
+},
+
+{
+id: "A2881",
+question: "こどもの飛び出しに(ちゅうい)する。",
+choice1: "柱意",
+choice2: "注意",
+choice3: "主竟",
+answer: 2,
+},
+
+{
+id: "A2882",
+question: "料理を(ちゅうもん)する。",
+choice1: "注文",
+choice2: "往文",
+choice3: "逵文",
+answer: 1,
+},
+
+{
+id: "A2883",
+question: "反対(いけん)を言う。",
+choice1: "竟見",
+choice2: "意見",
+choice3: "意硯",
+answer: 2,
+},
+
+{
+id: "A2884",
+question: "科学技術は(しんぽ)している。",
+choice1: "進歩",
+choice2: "堆歩",
+choice3: "准步",
+answer: 1,
+},
+
+{
+id: "A2885",
+question: "病院で(いしき)をとりもどす。",
+choice1: "竟職",
+choice2: "意職",
+choice3: "意識",
+answer: 3,
+},
+
+{
+id: "A2886",
+question: "予定通りに(すすむ)。",
+choice1: "進む",
+choice2: "准む",
+choice3: "隹む",
+answer: 1,
+},
+
+{
+id: "A2887",
+question: "きぎょうの海外(しんしゅつ)。",
+choice1: "准出",
+choice2: "隹出",
+choice3: "進出",
+answer: 3,
+},
+
+{
+id: "A2888",
+question: "列車が(てっきょう)をわたる。",
+choice1: "鉄喬",
+choice2: "鉄橋",
+choice3: "針僑",
+answer: 2,
+},
+
+{
+id: "A2889",
+question: "新しく(ほどうきょう)が設置された。",
+choice1: "歩首僑",
+choice2: "少道僑",
+choice3: "歩道橋",
+answer: 3,
+},
+
 ]

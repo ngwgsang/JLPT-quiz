@@ -11,6 +11,12 @@
         justify-content: center;
         flex-direction: column;
         gap: 4rem;
+        @include respond(phone){
+            gap: 2rem;
+        }
+        @include respond (small-phone){
+            gap: 1.5rem;
+        }
         &__quiz{
             position: relative;
             background: $cl-f;
@@ -25,6 +31,9 @@
             @include respond(tab){
                 margin-top: 4rem;
             }
+            @include respond(phone){
+                padding-top: 2rem;
+            }
         }
         &__options{
             width: 80vw;
@@ -34,6 +43,12 @@
             @include respond(tab){
                 flex-direction: column;
                 margin-bottom: 5vh;
+            }
+            @include respond(phone){    
+                gap: 1rem;
+            }
+            @include respond (small-phone){
+                gap: 0.6rem;
             }
             .choice-container {
                 background-color: #fff;
@@ -61,8 +76,11 @@
                         background-color: $cl-f;
                     }
                     &:active{
-                        background-color: $cl-y;
+                        background-color: $cl-f;
                     }
+                }
+                @include respond (small-phone){
+                    height: 4rem;
                 }
             }
         }
@@ -93,14 +111,31 @@
     top: 1rem;
     right: 1rem;
     border-radius: 0.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    @include respond(phone){
+        width: 7rem;
+        height: 3rem;
+        top: -2rem;
+        right: 0rem;
+    }
 }
 #count{
     background-color: #fff;
-    width: auto;
+    width: 7rem;
     height: 4rem;
     position: absolute;
     top: 1rem;
     left: 1rem;
     padding: 0 1rem;
     border-radius: 0.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    @include respond(phone){
+        height: 3rem;
+        top: -2rem;
+        left: 0rem;
+    }
 }
