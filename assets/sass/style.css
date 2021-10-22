@@ -950,6 +950,13 @@ body {
   overflow-y: scroll;
   overflow-x: hidden;
   height: 37rem;
+  gap: 1rem;
+}
+
+@media (max-width: 600px) {
+  .preQuestionBoard__list {
+    margin-top: 5rem;
+  }
 }
 
 .preQuestionBoard__list li {
@@ -965,11 +972,23 @@ body {
   width: 100%;
   text-align: center;
   padding: 2rem;
-  margin-bottom: 1rem;
   background-color: rgba(0, 0, 0, 0.3);
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+@media (max-width: 600px) {
+  .preQuestionBoard__list li {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    text-align: start;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
 }
 
 .preQuestionBoard__list .list__left {
@@ -977,6 +996,12 @@ body {
   width: 70%;
   color: #fff;
   border-radius: 0.4rem;
+}
+
+@media (max-width: 600px) {
+  .preQuestionBoard__list .list__left {
+    width: 90%;
+  }
 }
 
 .preQuestionBoard__list .list__right {
@@ -995,6 +1020,14 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+}
+
+@media (max-width: 600px) {
+  .preQuestionBoard__list .list__right {
+    margin-top: 0.5rem;
+    width: 90%;
+    height: 4rem;
+  }
 }
 
 .end {
@@ -1662,11 +1695,31 @@ body {
   text-transform: uppercase;
 }
 
+@media (max-width: 900px) {
+  .preQuestionBoard h3 {
+    font-size: 2rem;
+    line-height: 2.1;
+  }
+}
+
+@media (max-width: 600px) {
+  .preQuestionBoard h3 {
+    display: none;
+  }
+}
+
 .preQuestionBoard__list li {
   font-family: 'Noto Sans JP', sans-serif;
   font-weight: 500;
   font-size: 2rem;
   line-height: 2.1rem;
+}
+
+@media (max-width: 900px) {
+  .preQuestionBoard__list li {
+    font-size: 1.4rem;
+    line-height: 1.5;
+  }
 }
 
 .rankBoard h3 {
