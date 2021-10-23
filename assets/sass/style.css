@@ -886,7 +886,7 @@ body {
 
 #count {
   background-color: #fff;
-  width: 7rem;
+  width: auto;
   height: 4rem;
   position: absolute;
   top: 1rem;
