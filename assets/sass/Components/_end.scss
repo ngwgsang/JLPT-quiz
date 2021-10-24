@@ -1,5 +1,6 @@
 
 .end{
+    padding: 2rem;
     width: 40rem;
     height: 50rem;
     border-radius: 0.4rem;
@@ -43,6 +44,7 @@
         @include respond(phone){
             width: 18rem;
             height: 35%;
+            margin: 2rem 0;
         }
     }
     form{
@@ -50,16 +52,16 @@
         *{  
             z-index: 3;
             margin: 2rem 0;
-            @include respond(phone){
-            margin: 0.4rem;
-            }
+        }
+        @include respond(phone){
+        position: absolute;
+        bottom: 0.5rem;
+        padding: 0 0.5rem;
+        margin-top: 1rem;
         }
     }
     h1{
         margin: 0.5rem;
-        @include respond(phone){   
-        margin-bottom: 1rem;
-        }
     }
     h2{
         @include respond(phone){
@@ -74,6 +76,7 @@
         color: #c3c3c3;
         @include respond(phone){
         height: 4rem;
+        width: 80%;
         }
     }
     #saveScoreBtn{
@@ -85,7 +88,7 @@
         background-color: $cl-g;
         color:  $cl-f;
         @include respond(phone){
-        width: 18rem;
+        // width: 18rem;
         height: 4rem;
         }
     }

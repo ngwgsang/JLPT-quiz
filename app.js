@@ -82,10 +82,11 @@ saveScoreBtn.addEventListener('click',()=>{
     scoreBtn.innerText   = '0';
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
     startBtn.style       = 'background: #fff';
-    // resetGame();
-    document.getElementById('end').style.display         = "none"
-    document.getElementById('certificate').style.display = "flex";
-    document.getElementById('returnBtn').style.display   = "flex";
+    resetGame();
+
+    // document.getElementById('end').style.display         = "none";
+    // document.getElementById('certificate').style.display = "flex";
+    // document.getElementById('returnBtn').style.display   = "flex";
 })
 // Reset
 function resetGame(){

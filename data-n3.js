@@ -29359,4 +29359,364 @@ choice3: "支時",
 answer: 1,
 },
 
+{
+id: "A3262",
+question: "私は戦争に(反対)です。",
+choice1: "かんたい",
+choice2: "はんたい",
+choice3: "はんせい",
+answer: 2,
+},
+
+{
+id: "A3263",
+question: "今日の(会議)は中止です。",
+choice1: "かいき",
+choice2: "かいぎ",
+choice3: "がいぎ",
+answer: 2,
+},
+
+{
+id: "A3264",
+question: "彼は(不思議)な話をした。",
+choice1: "ふしぎ",
+choice2: "ふじぎ",
+choice3: "ふしき",
+answer: 1,
+},
+
+{
+id: "A3265",
+question: "2つの提案は(対立)する。",
+choice1: "だいりつ",
+choice2: "たいこう",
+choice3: "たいりつ",
+answer: 3,
+},
+
+{
+id: "A3266",
+question: "彼のやり方に(賛同)しています。",
+choice1: "さんせい",
+choice2: "さんどう",
+choice3: "さんい",
+answer: 2,
+},
+
+{
+id: "A3267",
+question: "板を日に当てると(反る)。",
+choice1: "しる",
+choice2: "そる",
+choice3: "かる",
+answer: 2,
+},
+
+{
+id: "A3268",
+question: "３(対)６は１(対)２に等しい。",
+choice1: "たい",
+choice2: "はい",
+choice3: "かい",
+answer: 1,
+},
+
+{
+id: "A3269",
+question: "彼らは契約(違反)をしています。",
+choice1: "みはん",
+choice2: "いはん",
+choice3: "ちはん",
+answer: 2,
+},
+
+{
+id: "A3270",
+question: "私は(議事録)を作っています。",
+choice1: "ぎしろく",
+choice2: "ぎじりょく",
+choice3: "ぎじろく",
+answer: 3,
+},
+
+{
+id: "A3271",
+question: "体を後ろの方へ(反らす)。",
+choice1: "こらす",
+choice2: "そらす",
+choice3: "しらす",
+answer: 2,
+},
+
+{
+id: "A3272",
+question: "最後のメールで(議題)について書きました。",
+choice1: "しだい",
+choice2: "わだい",
+choice3: "ぎだい",
+answer: 3,
+},
+
+{
+id: "A3273",
+question: "(謀反)と謀叛は別の罪である。",
+choice1: "むほん",
+choice2: "きはん",
+choice3: "むはん",
+answer: 1,
+},
+
+{
+id: "A3274",
+question: "私は(絶対に)帰らない。",
+choice1: "ぜったいに",
+choice2: "せつたいに",
+choice3: "ぜっこうに",
+answer: 1,
+},
+
+{
+id: "A3275",
+question: "この(反物)は染めが好い。",
+choice1: "ほんもの",
+choice2: "はんもの",
+choice3: "たんもの",
+answer: 3,
+},
+
+{
+id: "A3276",
+question: "彼の計画に(賛成)です。",
+choice1: "せいどう",
+choice2: "せいさん",
+choice3: "さんせい",
+answer: 3,
+},
+
+{
+id: "A3277",
+question: "自分の作品を(自画自賛)してどうするの。",
+choice1: "じがじさん",
+choice2: "しがしさん",
+choice3: "じかしざん",
+answer: 1,
+},
+
+{
+id: "A3278",
+question: "(反り返って)座る。",
+choice1: "ふりかえって",
+choice2: "そりかえって",
+choice3: "うりかえって",
+answer: 2,
+},
+
+{
+id: "A3279",
+question: "それは保証の(対象)外となる。",
+choice1: "たいそう",
+choice2: "たいしょう",
+choice3: "たいぞう",
+answer: 2,
+},
+
+{
+id: "A3280",
+question: "彼は注意されても(反省)しません。",
+choice1: "はんせい",
+choice2: "はんしょう",
+choice3: "はんりょう",
+answer: 1,
+},
+
+{
+id: "A3281",
+question: "二つのものが一(対)になる。",
+choice1: "たい",
+choice2: "つい",
+choice3: "いち",
+answer: 2,
+},
+
+{
+id: "A3282",
+question: "係長の意見に(さんせい)する。",
+choice1: "讃成",
+choice2: "賛成",
+choice3: "賛式",
+answer: 2,
+},
+
+{
+id: "A3283",
+question: "いすに(そりかえって)座る。",
+choice1: "反り返って",
+choice2: "坂り反って",
+choice3: "返り反って",
+answer: 1,
+},
+
+{
+id: "A3284",
+question: "交通(いはん)をして、お金をはらう。",
+choice1: "違坂",
+choice2: "偉阪",
+choice3: "違反",
+answer: 3,
+},
+
+{
+id: "A3285",
+question: "(かいぎ)に出席する。",
+choice1: "会義",
+choice2: "会議",
+choice3: "絵儀",
+answer: 2,
+},
+
+{
+id: "A3286",
+question: "(ぎじろく)を作成する。",
+choice1: "儀事碌",
+choice2: "義事禄",
+choice3: "議事録",
+answer: 3,
+},
+
+{
+id: "A3287",
+question: "(ぜったい)に今年は合格したい。",
+choice1: "色対に",
+choice2: "絶対に",
+choice3: "絶付に",
+answer: 2,
+},
+
+{
+id: "A3288",
+question: "まわりの(さんどう)をえる。",
+choice1: "賛同",
+choice2: "替同",
+choice3: "潜同",
+answer: 1,
+},
+
+{
+id: "A3289",
+question: "自分の行いを(はんせい)する。",
+choice1: "板雀",
+choice2: "坂省",
+choice3: "反省",
+answer: 3,
+},
+
+{
+id: "A3290",
+question: "日本(たい)ブラジル戦を見る。",
+choice1: "村",
+choice2: "対",
+choice3: "付",
+answer: 2,
+},
+
+{
+id: "A3291",
+question: "親が子供の留学に(はんたい)する。",
+choice1: "反対",
+choice2: "坂対",
+choice3: "反村",
+answer: 1,
+},
+
+{
+id: "A3292",
+question: "彼は(ふしぎ)な話をした。",
+choice1: "不思儀な",
+choice2: "不思議な",
+choice3: "不恩義な",
+answer: 2,
+},
+
+{
+id: "A3293",
+question: "雨にぬれて本の表紙が(そって)しまった。",
+choice1: "反って",
+choice2: "阪って",
+choice3: "坂って",
+answer: 1,
+},
+
+{
+id: "A3294",
+question: "出来ばえに(じがじさん)する。",
+choice1: "白画白賛",
+choice2: "目画自替",
+choice3: "自画自賛",
+answer: 3,
+},
+
+{
+id: "A3295",
+question: "むねをうしろに(そらす)。",
+choice1: "反らす",
+choice2: "坂す",
+choice3: "反す",
+answer: 1,
+},
+
+{
+id: "A3296",
+question: "彼女の行動は(むほん)に等しかった。",
+choice1: "棋反",
+choice2: "期坂",
+choice3: "謀反",
+answer: 3,
+},
+
+{
+id: "A3297",
+question: "彼と意見が(たいりつ)する。",
+choice1: "対位",
+choice2: "対立",
+choice3: "付立",
+answer: 2,
+},
+
+{
+id: "A3298",
+question: "約36cmの(たんもの)の幅。",
+choice1: "阪勿",
+choice2: "坂物",
+choice3: "反物",
+answer: 3,
+},
+
+{
+id: "A3299",
+question: "(ぎだい)をあげる。",
+choice1: "義題",
+choice2: "議題",
+choice3: "儀題",
+answer: 2,
+},
+
+{
+id: "A3300",
+question: "(つい)になっている置物。",
+choice1: "村",
+choice2: "対",
+choice3: "付",
+answer: 2,
+},
+
+{
+id: "A3301",
+question: "これは保証(たいしょう)外です。",
+choice1: "対象",
+choice2: "村像",
+choice3: "対像",
+answer: 1,
+},
+
 ]

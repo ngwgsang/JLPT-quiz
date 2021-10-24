@@ -162,14 +162,14 @@ body{
         font-size: 2rem;
         font-weight: 500;
         @include respond(phone){   
-        font-size: 4.4rem;
+        font-size: 3.4rem;
         }
     }
     h2{
         font-size: 2.4rem;
         font-weight: 500;
         @include respond(phone){
-        font-size: 2.2rem;
+        font-size: 2rem;
         }
     }
     #saveScoreBtn{
@@ -179,6 +179,9 @@ body{
 #percentCorrect{
     font-size: 5rem;
     font-weight: 700;
+    @include respond(phone){
+        font-size: 3.4rem;
+    }
 }
 #level{
     font-size: 2rem;

@@ -325,6 +325,13 @@ body {
   }
 }
 
+@media (max-width: 600px) {
+  .docBtn {
+    -webkit-transform: translateX(-14rem);
+            transform: translateX(-14rem);
+  }
+}
+
 #frame {
   cursor: pointer;
 }
@@ -515,7 +522,8 @@ body {
 
 @media (max-width: 600px) {
   .analyticBtn {
-    display: none;
+    -webkit-transform: translateX(14rem);
+            transform: translateX(14rem);
     width: 40vw;
     padding: 0 0.5rem;
   }
@@ -1031,6 +1039,7 @@ body {
 }
 
 .end {
+  padding: 2rem;
   width: 40rem;
   height: 50rem;
   border-radius: 0.4rem;
@@ -1104,6 +1113,7 @@ body {
   .end img {
     width: 18rem;
     height: 35%;
+    margin: 2rem 0;
   }
 }
 
@@ -1119,19 +1129,16 @@ body {
 }
 
 @media (max-width: 600px) {
-  .end form * {
-    margin: 0.4rem;
+  .end form {
+    position: absolute;
+    bottom: 0.5rem;
+    padding: 0 0.5rem;
+    margin-top: 1rem;
   }
 }
 
 .end h1 {
   margin: 0.5rem;
-}
-
-@media (max-width: 600px) {
-  .end h1 {
-    margin-bottom: 1rem;
-  }
 }
 
 @media (max-width: 600px) {
@@ -1151,6 +1158,7 @@ body {
 @media (max-width: 600px) {
   .end input {
     height: 4rem;
+    width: 80%;
   }
 }
 
@@ -1172,7 +1180,6 @@ body {
 
 @media (max-width: 600px) {
   .end #saveScoreBtn {
-    width: 18rem;
     height: 4rem;
   }
 }
@@ -1659,7 +1666,7 @@ body {
 
 @media (max-width: 600px) {
   .end h1 {
-    font-size: 4.4rem;
+    font-size: 3.4rem;
   }
 }
 
@@ -1670,7 +1677,7 @@ body {
 
 @media (max-width: 600px) {
   .end h2 {
-    font-size: 2.2rem;
+    font-size: 2rem;
   }
 }
 
@@ -1681,6 +1688,12 @@ body {
 #percentCorrect {
   font-size: 5rem;
   font-weight: 700;
+}
+
+@media (max-width: 600px) {
+  #percentCorrect {
+    font-size: 3.4rem;
+  }
 }
 
 #level {
