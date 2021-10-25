@@ -31033,4 +31033,1338 @@ choice3: "旨",
 answer: 2,
 },
 
+
+{
+id: "A3448",
+question: "利益を(最大)にしてください！。",
+choice1: "さいこう",
+choice2: "さいだい",
+choice3: "さいてい",
+answer: 2,
+},
+
+{
+id: "A3449",
+question: "薬には(副作用)が有ります。",
+choice1: "ふくさくよう",
+choice2: "ふくさよう",
+choice3: "ふうさよう",
+answer: 2,
+},
+
+{
+id: "A3450",
+question: "私は夏が(最も)好きだ。",
+choice1: "もっとも",
+choice2: "さいも",
+choice3: "おっとも",
+answer: 1,
+},
+
+{
+id: "A3451",
+question: "あなたは(若者)のように見えます。",
+choice1: "かわもの",
+choice2: "かんもの",
+choice3: "わかもの",
+answer: 3,
+},
+
+{
+id: "A3452",
+question: "(最近)雨が多いです。",
+choice1: "さいこう",
+choice2: "さいきん",
+choice3: "さいだい",
+answer: 2,
+},
+
+{
+id: "A3453",
+question: "戦いは(強い者)が勝つとはかぎらない。",
+choice1: "かよいしゃ",
+choice2: "つよいもの",
+choice3: "つよいじゃ",
+answer: 2,
+},
+
+{
+id: "A3454",
+question: "(最後)まであきらめない。",
+choice1: "さいご",
+choice2: "さいこ",
+choice3: "さいごう",
+answer: 1,
+},
+
+{
+id: "A3455",
+question: "あなたは私の(最初)の先生です。",
+choice1: "さいしょう",
+choice2: "さいしょ",
+choice3: "だいしょ",
+answer: 2,
+},
+
+{
+id: "A3456",
+question: "父は(医者)です。",
+choice1: "いもの",
+choice2: "いじゃ",
+choice3: "いしゃ",
+answer: 3,
+},
+
+{
+id: "A3457",
+question: "壊れた(水道管)から水が噴き出していた",
+choice1: "すいどうくだ",
+choice2: "すいどうかん",
+choice3: "ずいどうがん",
+answer: 2,
+},
+
+{
+id: "A3458",
+question: "彼はこの新聞の(記者)をしている。",
+choice1: "ぎしゃ",
+choice2: "きもの",
+choice3: "きしゃ",
+answer: 3,
+},
+
+{
+id: "A3459",
+question: "今夜は気分が(最高)だ。",
+choice1: "さいこう",
+choice2: "だいこう",
+choice3: "さいだい",
+answer: 1,
+},
+
+{
+id: "A3460",
+question: "湿気を避けて(保管)してください。",
+choice1: "ほかん",
+choice2: "ごかん",
+choice3: "ほうかん",
+answer: 1,
+},
+
+{
+id: "A3461",
+question: "この(作者)は文がうまい。",
+choice1: "さっしゃ",
+choice2: "さしゃ",
+choice3: "さくしゃ",
+answer: 3,
+},
+
+{
+id: "A3462",
+question: "その商品は(最短)でいつ発送できますか？。",
+choice1: "さいだん",
+choice2: "さいたい",
+choice3: "さいたん",
+answer: 3,
+},
+
+{
+id: "A3463",
+question: "彼はみんなの(人気者)だ。",
+choice1: "にんきもの",
+choice2: "にんきしゃ",
+choice3: "じんきもの",
+answer: 1,
+},
+
+{
+id: "A3464",
+question: "今日は(副社長)の送別会です。",
+choice1: "ろうしゃちょう",
+choice2: "ふくしゃちょう",
+choice3: "ふしゃちょう",
+answer: 2,
+},
+
+{
+id: "A3465",
+question: "水が(管)からふき出た。",
+choice1: "ぐた",
+choice2: "くだ",
+choice3: "さだ",
+answer: 2,
+},
+
+{
+id: "A3466",
+question: "(副賞)として彼女は 10 万円相当の商品券をもらった。",
+choice1: "ふくしょう",
+choice2: "ふうしょう",
+choice3: "こうしょう",
+answer: 1,
+},
+
+{
+id: "A3467",
+question: "彼を通して私は町の(有力者)と知り合いになった。",
+choice1: "こうりょくしゃ",
+choice2: "ゆうりょくしゃ",
+choice3: "ゆうりょくもの",
+answer: 2,
+},
+
+{
+id: "A3468",
+question: "彼は(管理職)に昇進した。",
+choice1: "かんりしょく",
+choice2: "かんりしき",
+choice3: "かんにんしょう",
+answer: 1,
+},
+
+{
+id: "A3469",
+question: "(ふくしょう)で電子辞書をもらった。",
+choice1: "福賞",
+choice2: "副賞",
+choice3: "幅賞",
+answer: 2,
+},
+
+{
+id: "A3470",
+question: "酒に酔ってくだを(まく)。",
+choice1: "管",
+choice2: "官",
+choice3: "館",
+answer: 1,
+},
+
+{
+id: "A3471",
+question: "じしんで(すいどうかん)がはれつした。",
+choice1: "氷首館",
+choice2: "永首官",
+choice3: "水道管",
+answer: 3,
+},
+
+{
+id: "A3472",
+question: "カスピ海は世界(さいだい)の湖だ。",
+choice1: "最太",
+choice2: "最大",
+choice3: "最犬",
+answer: 2,
+},
+
+{
+id: "A3473",
+question: "田中さんはクラスの(にんきもの)だ。",
+choice1: "人气煮",
+choice2: "入気煮",
+choice3: "人気者",
+answer: 3,
+},
+
+{
+id: "A3474",
+question: "学校から家まで(さいたん)で1時間だ。",
+choice1: "量短",
+choice2: "最短",
+choice3: "晨短",
+answer: 2,
+},
+
+{
+id: "A3475",
+question: "彼は政界の(ゆうりょくしゃ)だ。",
+choice1: "有力者",
+choice2: "宥力渚",
+choice3: "侑方煮",
+answer: 1,
+},
+
+{
+id: "A3476",
+question: "まちで(きしゃ)のインタビューを受けた。",
+choice1: "起者",
+choice2: "気煮",
+choice3: "記者",
+answer: 3,
+},
+
+{
+id: "A3477",
+question: "この会社の(ふくかいしゃ)は社長の弟だ。",
+choice1: "福合者",
+choice2: "副会社",
+choice3: "幅絵者",
+answer: 2,
+},
+
+{
+id: "A3478",
+question: "(さいきん)、いもうとが結婚した。",
+choice1: "最近",
+choice2: "晨近",
+choice3: "最所",
+answer: 1,
+},
+
+{
+id: "A3479",
+question: "東京は日本で(もっと)も人口が多い。",
+choice1: "暘も",
+choice2: "最も",
+choice3: "晨も",
+answer: 2,
+},
+
+{
+id: "A3480",
+question: "(かんりしょく)はレストランがたまりやすい。",
+choice1: "管理職",
+choice2: "官裡織",
+choice3: "官理識",
+answer: 1,
+},
+
+{
+id: "A3481",
+question: "原宿には多くの(わかもの)が集まる。",
+choice1: "右者",
+choice2: "古者",
+choice3: "若者",
+answer: 3,
+},
+
+{
+id: "A3482",
+question: "(さいご)に教室を出た人は田中さんだ。",
+choice1: "最後",
+choice2: "晨後",
+choice3: "量後",
+answer: 1,
+},
+
+{
+id: "A3483",
+question: "薬の(ふくさよう)で眠くなった。",
+choice1: "福作用",
+choice2: "幅乍用",
+choice3: "副作用",
+answer: 3,
+},
+
+{
+id: "A3484",
+question: "婚約指輪を大切に(ほかん)する。",
+choice1: "呆官",
+choice2: "保管",
+choice3: "保館",
+answer: 2,
+},
+
+{
+id: "A3485",
+question: "今日は今年の(さいこう)気温を記録した。",
+choice1: "最稿",
+choice2: "最大",
+choice3: "最高",
+answer: 3,
+},
+
+{
+id: "A3486",
+question: "子どもの時は、(いしゃ)になりたかった。",
+choice1: "矢諸",
+choice2: "医者",
+choice3: "医煮",
+answer: 2,
+},
+
+{
+id: "A3487",
+question: "1年の(さいしょ)の月。",
+choice1: "晨処",
+choice2: "最初",
+choice3: "最処",
+answer: 2,
+},
+
+{
+id: "A3488",
+question: "私がこの絵の(さくしゃ)です。",
+choice1: "作者",
+choice2: "乍煮",
+choice3: "昨諸",
+answer: 1,
+},
+
+{
+id: "A3489",
+question: "あの男はよわい(もの)いじめをする。",
+choice1: "渚",
+choice2: "煮",
+choice3: "者",
+answer: 3,
+},
+
+{
+id: "A3490",
+question: "効き目がゆっくり(現れる)。",
+choice1: "あわれる",
+choice2: "あらわれる",
+choice3: "わあられる",
+answer: 2,
+},
+
+{
+id: "A3491",
+question: "泥棒は(現行)犯でつかまった。",
+choice1: "かんこう",
+choice2: "げんこう",
+choice3: "けんこう",
+answer: 2,
+},
+
+{
+id: "A3492",
+question: "男が目の前に姿を(現す)。",
+choice1: "あらわす",
+choice2: "けんす",
+choice3: "あわらす",
+answer: 1,
+},
+
+{
+id: "A3493",
+question: "(昔)のあなたが好きです。",
+choice1: "しかし",
+choice2: "むざし",
+choice3: "むかし",
+answer: 3,
+},
+
+{
+id: "A3494",
+question: "完成でき(次第)お送りします。",
+choice1: "じだい",
+choice2: "しだい",
+choice3: "ぎだい",
+answer: 2,
+},
+
+{
+id: "A3495",
+question: "この商品は(現在)検討中です",
+choice1: "けんだい",
+choice2: "げんざい",
+choice3: "げんだい",
+answer: 2,
+},
+
+{
+id: "A3496",
+question: "「(今昔)物語集」に登場する。",
+choice1: "こんじゃく",
+choice2: "こんやく",
+choice3: "こんじゃし",
+answer: 1,
+},
+
+{
+id: "A3497",
+question: "(次回)は気をつけます。",
+choice1: "じだい",
+choice2: "じかい",
+choice3: "しかい",
+answer: 2,
+},
+
+{
+id: "A3498",
+question: "彼には(昔日)の面影がない。",
+choice1: "むかしにち",
+choice2: "むかしじつ",
+choice3: "せきじつ",
+answer: 3,
+},
+
+{
+id: "A3499",
+question: "彼の考えは(現実)的だ",
+choice1: "げんこう",
+choice2: "げんじつ",
+choice3: "じつげん",
+answer: 2,
+},
+
+{
+id: "A3500",
+question: "(次)もよろしくお願いします。",
+choice1: "づき",
+choice2: "ふぎ",
+choice3: "つぎ",
+answer: 3,
+},
+
+{
+id: "A3501",
+question: "ベトナムで一番大切な休日は(旧正月)のお祝いです。",
+choice1: "きゅうしょうがつ",
+choice2: "きゅうせいがつ",
+choice3: "きゅうしょうげつ",
+answer: 1,
+},
+
+{
+id: "A3502",
+question: "私は彼の突然の(出現)に我を忘れた。",
+choice1: "しゅつげん",
+choice2: "でげん",
+choice3: "だつげん",
+answer: 1,
+},
+
+{
+id: "A3503",
+question: "私の家は(旧家)です。",
+choice1: "ぎゅうか",
+choice2: "じゅうか",
+choice3: "きゅうか",
+answer: 3,
+},
+
+{
+id: "A3504",
+question: "この道にかけては彼に(次ぐ)者は無い。",
+choice1: "じぐ",
+choice2: "ふぐ",
+choice3: "つぐ",
+answer: 3,
+},
+
+{
+id: "A3505",
+question: "通りで(旧友)に偶然で会った。",
+choice1: "きゅうゆう",
+choice2: "ぎゅうゆう",
+choice3: "じゅうゆう",
+answer: 1,
+},
+
+{
+id: "A3506",
+question: "彼は日本(昔話)に出てくる主人公です",
+choice1: "むがしはなし",
+choice2: "むかしばなし",
+choice3: "むかしはなし",
+answer: 2,
+},
+
+{
+id: "A3507",
+question: "去年の帽子はもう(旧式)だ。",
+choice1: "ぎゅうじき",
+choice2: "きゅうしき",
+choice3: "しゅうしき",
+answer: 2,
+},
+
+{
+id: "A3508",
+question: "職場での(旧姓)の使用を許す。",
+choice1: "きゅうせい",
+choice2: "すいせい",
+choice3: "きゅうしょう",
+answer: 1,
+},
+
+{
+id: "A3509",
+question: "(席次表)を見て座ってください。",
+choice1: "せいじきょう",
+choice2: "せきじひょう",
+choice3: "せきしびょう",
+answer: 2,
+},
+
+{
+id: "A3510",
+question: "芸能界に期待の新人が(しゅつげん)した。",
+choice1: "拙現",
+choice2: "出現",
+choice3: "出規",
+answer: 2,
+},
+
+{
+id: "A3511",
+question: "この家は100年続く(きゅうか)だ。",
+choice1: "旧家",
+choice2: "但家",
+choice3: "怛豕",
+answer: 1,
+},
+
+{
+id: "A3512",
+question: "私は英語に(ついで)数学が好きだ。",
+choice1: "返いで",
+choice2: "欠いで",
+choice3: "次いで",
+answer: 3,
+},
+
+{
+id: "A3513",
+question: "(げんこう)の教科書には載っていない。",
+choice1: "規行",
+choice2: "現行",
+choice3: "視行",
+answer: 2,
+},
+
+{
+id: "A3514",
+question: "この薬は1時間で効果を(あらわす)。",
+choice1: "俔す",
+choice2: "視す",
+choice3: "現す",
+answer: 3,
+},
+
+{
+id: "A3515",
+question: "田村さんの(きゅうせい)は田中だ。",
+choice1: "但性",
+choice2: "旧姓",
+choice3: "坦生",
+answer: 2,
+},
+
+{
+id: "A3516",
+question: "会社に戻り(しだい)、連絡してください。",
+choice1: "次第",
+choice2: "欠弟",
+choice3: "姿弟",
+answer: 1,
+},
+
+{
+id: "A3517",
+question: "そふからこの地方の(むかしばなし)を聞いた。",
+choice1: "借話",
+choice2: "惜語",
+choice3: "昔話",
+answer: 3,
+},
+
+{
+id: "A3518",
+question: "(じかい)のテストは来週の金曜日だ。",
+choice1: "炊回",
+choice2: "次回",
+choice3: "次廻",
+answer: 2,
+},
+
+{
+id: "A3519",
+question: "彼は約束の時間ぴったりに(あらわれた)。",
+choice1: "現れた",
+choice2: "視われた",
+choice3: "規た",
+answer: 1,
+},
+
+{
+id: "A3520",
+question: "(せきじひょう)を見て座ってください。",
+choice1: "席欠俵",
+choice2: "席次表",
+choice3: "度次俵",
+answer: 2,
+},
+
+{
+id: "A3521",
+question: "(むかし)この辺りは畑だったそうだ。",
+choice1: "昔",
+choice2: "惜",
+choice3: "借",
+answer: 1,
+},
+
+{
+id: "A3522",
+question: "(げんじつ)てきな計画を立てた。",
+choice1: "現美",
+choice2: "規実",
+choice3: "現実",
+answer: 3,
+},
+
+{
+id: "A3523",
+question: "このパソコンは(きゅうしき)だ。",
+choice1: "旧式",
+choice2: "担式",
+choice3: "但成",
+answer: 1,
+},
+
+{
+id: "A3524",
+question: "(きゅうゆう)との再会。",
+choice1: "但有",
+choice2: "担友",
+choice3: "旧友",
+answer: 3,
+},
+
+{
+id: "A3525",
+question: "(つぎ)の日曜日、友達に会う予定だ。",
+choice1: "茨",
+choice2: "次",
+choice3: "吹",
+answer: 2,
+},
+
+{
+id: "A3526",
+question: "「こんじゃく物語集」に(登場)する。",
+choice1: "念昔",
+choice2: "今惜",
+choice3: "今昔",
+answer: 3,
+},
+
+{
+id: "A3527",
+question: "(げんざい)の社会問題について話し合う。",
+choice1: "現存",
+choice2: "現在",
+choice3: "規左",
+answer: 2,
+},
+
+{
+id: "A3528",
+question: "(きゅうしょうがつ)には国へ帰りたい。",
+choice1: "担証月",
+choice2: "旧正月",
+choice3: "但止月",
+answer: 2,
+},
+
+{
+id: "A3529",
+question: "この石垣を見ると(せきじつ)を連想する。",
+choice1: "昔日",
+choice2: "借日",
+choice3: "昔旧",
+answer: 1,
+},
+
+
+{
+id: "A3530",
+question: "時間や労力を(費やす)。",
+choice1: "ふいやす",
+choice2: "ついやす",
+choice3: "ひえやす",
+answer: 2,
+},
+
+{
+id: "A3531",
+question: "英語で(一億)円は何と言いますか。",
+choice1: "いちえん",
+choice2: "いちおく",
+choice3: "いちそく",
+answer: 2,
+},
+
+{
+id: "A3532",
+question: "私は(学費)を支払いに来た。",
+choice1: "がくひ",
+choice2: "がっび",
+choice3: "かくひ",
+answer: 1,
+},
+
+{
+id: "A3533",
+question: "何(十億)円も稼げます。",
+choice1: "いちこく",
+choice2: "じゅうおく",
+choice3: "いちおく",
+answer: 3,
+},
+
+{
+id: "A3534",
+question: "彼には(暗算)の才がある。",
+choice1: "あんさん",
+choice2: "あんざん",
+choice3: "らんざん",
+answer: 2,
+},
+
+{
+id: "A3535",
+question: "私たちの(食費)は月 400 ドルです。",
+choice1: "しょくび",
+choice2: "しょくひ",
+choice3: "しょうひ",
+answer: 2,
+},
+
+{
+id: "A3536",
+question: "私は(億万長者)になりたいです。",
+choice1: "おくまんちょうじゃ",
+choice2: "ちょうまんちょしゃ",
+choice3: "おくばんちょうしゃ",
+answer: 1,
+},
+
+{
+id: "A3537",
+question: "(消費者)センターで働いています。",
+choice1: "しょうひもの",
+choice2: "しょうひしゃ",
+choice3: "しょびしゃ",
+answer: 2,
+},
+
+{
+id: "A3538",
+question: "暴風雨が三日前から(兆して)いる。",
+choice1: "かざして",
+choice2: "ちざして",
+choice3: "きざして",
+answer: 3,
+},
+
+{
+id: "A3539",
+question: "参加のための(会費)は不要です",
+choice1: "あいひ",
+choice2: "かいひ",
+choice3: "かいび",
+answer: 2,
+},
+
+{
+id: "A3540",
+question: "一ケ月の家計(予算)を立てる。",
+choice1: "よざん",
+choice2: "こさん",
+choice3: "よさん",
+answer: 3,
+},
+
+{
+id: "A3541",
+question: "物事が起こる(兆し)が見える。",
+choice1: "きざし",
+choice2: "ほざし",
+choice3: "さぎし",
+answer: 1,
+},
+
+{
+id: "A3542",
+question: "私は３年生と４年生に(算数)を教えています。",
+choice1: "さんすう",
+choice2: "よすう",
+choice3: "さんかず",
+answer: 1,
+},
+
+{
+id: "A3543",
+question: "旅行は(費用)がかかる。",
+choice1: "ひこう",
+choice2: "ひかい",
+choice3: "ひよう",
+answer: 3,
+},
+
+{
+id: "A3544",
+question: "預金量は5(兆)1123億円。",
+choice1: "みょう",
+choice2: "ひょう",
+choice3: "ちょう",
+answer: 3,
+},
+
+{
+id: "A3545",
+question: "私は(計算)が得意です。",
+choice1: "けいさん",
+choice2: "けんさん",
+choice3: "けいざん",
+answer: 1,
+},
+
+{
+id: "A3546",
+question: "雲は雨の(前兆)を示す。",
+choice1: "まえきざ",
+choice2: "ぜんちょう",
+choice3: "ぜんびょう",
+answer: 2,
+},
+
+{
+id: "A3547",
+question: "そんなことをすると時間が(費える)ばかりだ。",
+choice1: "ひえる",
+choice2: "ついえる",
+choice3: "かいえる",
+answer: 2,
+},
+
+{
+id: "A3548",
+question: "1960年代に日本の人口は(いちおく)をこえた。",
+choice1: "一憶",
+choice2: "一億",
+choice3: "一臆",
+answer: 2,
+},
+
+{
+id: "A3549",
+question: "(がくひ)は親に送ってもらった。",
+choice1: "学費",
+choice2: "学責",
+choice3: "字貰",
+answer: 1,
+},
+
+{
+id: "A3550",
+question: "パーティー会場の入口で(かいひ)を払う。",
+choice1: "絵賁",
+choice2: "会責",
+choice3: "会費",
+answer: 3,
+},
+
+{
+id: "A3551",
+question: "(しょうひしゃ)行動を研究する。",
+choice1: "硝費煮",
+choice2: "消費者",
+choice3: "肖費渚",
+answer: 2,
+},
+
+{
+id: "A3552",
+question: "天気が回復の(きざし)を見せている。",
+choice1: "眺し",
+choice2: "挑し",
+choice3: "兆し",
+answer: 3,
+},
+
+{
+id: "A3553",
+question: "(さんすう)の授業が一番好きだ。",
+choice1: "纂数",
+choice2: "算数",
+choice3: "筧類",
+answer: 2,
+},
+
+{
+id: "A3554",
+question: "(しょくひ)をせつやくする。",
+choice1: "食費",
+choice2: "喰費",
+choice3: "喰賁",
+answer: 1,
+},
+
+{
+id: "A3555",
+question: "仕事がなくなり、貯金が(ついえる)。",
+choice1: "賃える",
+choice2: "賁える",
+choice3: "費える",
+answer: 3,
+},
+
+{
+id: "A3556",
+question: "国全体に独立のムードが(きざす)。",
+choice1: "挑す",
+choice2: "兆す",
+choice3: "眺す",
+answer: 2,
+},
+
+{
+id: "A3557",
+question: "私は(あんざん)が得意だ。",
+choice1: "暗算",
+choice2: "音簀",
+choice3: "暗筧",
+answer: 1,
+},
+
+{
+id: "A3558",
+question: "宝くじ(じゅうおく)えんが当たる。",
+choice1: "十憶",
+choice2: "十億",
+choice3: "十臆",
+answer: 2,
+},
+
+{
+id: "A3559",
+question: "ガム建設に長い年月を(ついやした)。",
+choice1: "費やした",
+choice2: "責やした",
+choice3: "賣やした",
+answer: 1,
+},
+
+{
+id: "A3560",
+question: "来年度の(よさん)が決まった。",
+choice1: "予簀",
+choice2: "子筧",
+choice3: "予算",
+answer: 3,
+},
+
+{
+id: "A3561",
+question: "国がかかえるなん(ちょう)もの借金。",
+choice1: "兆",
+choice2: "眺",
+choice3: "挑",
+answer: 1,
+},
+
+{
+id: "A3562",
+question: "彼は(けいさん)が速い。",
+choice1: "許筧",
+choice2: "訃算",
+choice3: "計算",
+answer: 3,
+},
+
+{
+id: "A3563",
+question: "(おくまんちょうじゃ)になりたい。",
+choice1: "憶万脹者",
+choice2: "億万長者",
+choice3: "億方長煮",
+answer: 2,
+},
+
+{
+id: "A3564",
+question: "じしんの(ぜんちょう)。",
+choice1: "前挑",
+choice2: "前眺",
+choice3: "前兆",
+answer: 3,
+},
+
+{
+id: "A3565",
+question: "国へ帰る(ひよう)を貯金している。",
+choice1: "責用",
+choice2: "費用",
+choice3: "賽用",
+answer: 2,
+},
+
+{
+id: "A3566",
+question: "紅茶の(お供)にクッキーはいかがですか？。",
+choice1: "おきょう",
+choice2: "おとも",
+choice3: "おそと",
+answer: 2,
+},
+
+{
+id: "A3567",
+question: "価格は(消費税)を含みます。",
+choice1: "そうひぜい",
+choice2: "しょうひぜい",
+choice3: "しょひぜい",
+answer: 1,
+},
+
+{
+id: "A3568",
+question: "私は家族と(供に)川へ行った。",
+choice1: "ともに",
+choice2: "おとに",
+choice3: "とおに",
+answer: 3,
+},
+
+{
+id: "A3569",
+question: "その商品には(関税)がかかりますか。",
+choice1: "けんぜい",
+choice2: "げんぜい",
+choice3: "かんぜい",
+answer: 2,
+},
+
+{
+id: "A3570",
+question: "彼はまだ(子供)だった。",
+choice1: "よこも",
+choice2: "こども",
+choice3: "よども",
+answer: 3,
+},
+
+{
+id: "A3571",
+question: "(税金)を支払いください。",
+choice1: "げんきん",
+choice2: "ぜいきん",
+choice3: "せんきん",
+answer: 2,
+},
+
+{
+id: "A3572",
+question: "神棚にお茶を(供える)。",
+choice1: "そなえる",
+choice2: "ともえる",
+choice3: "こなえる",
+answer: 1,
+},
+
+{
+id: "A3573",
+question: "政府は(減税)すると確約をした。",
+choice1: "こうぜい",
+choice2: "げんぜい",
+choice3: "ぞうぜい",
+answer: 3,
+},
+
+{
+id: "A3574",
+question: "適切な教育経験を(提供)する。",
+choice1: "じきょう",
+choice2: "てきゅう",
+choice3: "ていきょう",
+answer: 2,
+},
+
+{
+id: "A3575",
+question: "乾燥地に水を(供給)する。",
+choice1: "ゆうきゅう",
+choice2: "きょうきゅう",
+choice3: "ていきゅう",
+answer: 1,
+},
+
+{
+id: "A3576",
+question: "政府が(増税)について言及した。",
+choice1: "そうぜい",
+choice2: "ふうぜい",
+choice3: "ぞうぜい",
+answer: 2,
+},
+
+{
+id: "A3577",
+question: "(試供品)を下さってありがとうございました。",
+choice1: "しきょうひん",
+choice2: "しききょうひん",
+choice3: "じきょうびん",
+answer: 1,
+},
+
+{
+id: "A3578",
+question: "犯人は窃盗を(自供)した。",
+choice1: "じきょう",
+choice2: "こきょう",
+choice3: "りきょう",
+answer: 3,
+},
+
+{
+id: "A3579",
+question: "あなたは(税関)の手続きについて知っていますか。",
+choice1: "ふうかん",
+choice2: "かんぜい",
+choice3: "ぜいかん",
+answer: 1,
+},
+
+{
+id: "A3580",
+question: "仏前に花を供えて(供養)する。",
+choice1: "ていきょう",
+choice2: "きょうよう",
+choice3: "くよう",
+answer: 3,
+},
+
+{
+id: "A3581",
+question: "社長の(おとも)で、京都へ行った。",
+choice1: "お共",
+choice2: "お供",
+choice3: "お洪",
+answer: 2,
+},
+
+{
+id: "A3582",
+question: "このお酒には(かんぜい)がかかっている。",
+choice1: "関税",
+choice2: "間説",
+choice3: "閑説",
+answer: 1,
+},
+
+{
+id: "A3583",
+question: "国民は(ぞうぜい)に反対している。",
+choice1: "憎説",
+choice2: "贈税",
+choice3: "増税",
+answer: 3,
+},
+
+{
+id: "A3584",
+question: "おはかに花を(そなえる)。",
+choice1: "洪える",
+choice2: "供える",
+choice3: "共える",
+answer: 2,
+},
+
+{
+id: "A3585",
+question: "彼女は犯行を(じきょう)した。",
+choice1: "白供",
+choice2: "自共",
+choice3: "自供",
+answer: 3,
+},
+
+{
+id: "A3586",
+question: "(ぜいきん)は有効に使わなければならない。",
+choice1: "祝欽",
+choice2: "税金",
+choice3: "悦金",
+answer: 2,
+},
+
+{
+id: "A3587",
+question: "けいさつに情報を(ていきょう)する。",
+choice1: "提供",
+choice2: "程共",
+choice3: "堤供",
+answer: 1,
+},
+
+{
+id: "A3588",
+question: "政府は来年(げんぜい)を行うことを決めた。",
+choice1: "緘説",
+choice2: "感悦",
+choice3: "減税",
+answer: 3,
+},
+
+{
+id: "A3589",
+question: "シャンプーの(しきょうひん)をもらった。",
+choice1: "式洪品",
+choice2: "試供品",
+choice3: "咸共品",
+answer: 2,
+},
+
+{
+id: "A3590",
+question: "安定した食料の(きょうきゅう)を目指す。",
+choice1: "供給",
+choice2: "洪級",
+choice3: "共給",
+answer: 1,
+},
+
+{
+id: "A3591",
+question: "(くよう)のため寄付をした。",
+choice1: "拱養",
+choice2: "供養",
+choice3: "拱様",
+answer: 2,
+},
+
+{
+id: "A3592",
+question: "ねだんには(しょうひぜい)がふくまれる。",
+choice1: "消費税",
+choice2: "肖費説",
+choice3: "硝費悦",
+answer: 1,
+},
+
+{
+id: "A3593",
+question: "彼の行動は(こども)っぽい。",
+choice1: "子共",
+choice2: "予洪",
+choice3: "子供",
+answer: 3,
+},
+
+{
+id: "A3594",
+question: "筋肉は年齢と(ともに)弱くなる。",
+choice1: "供に",
+choice2: "共に",
+choice3: "拱に",
+answer: 1,
+},
+
+{
+id: "A3595",
+question: "(ぜいかん)で荷物を調べられた。",
+choice1: "脱閑",
+choice2: "説開",
+choice3: "税関",
+answer: 3,
+},
+
 ]
