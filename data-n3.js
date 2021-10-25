@@ -29719,4 +29719,1318 @@ choice3: "対像",
 answer: 1,
 },
 
+{
+id: "A3302",
+question: "僕が行くといつも不在とばかりで(居留守)を使う。",
+choice1: "るすばん",
+choice2: "いるす",
+choice3: "いりゅうす",
+answer: 2,
+},
+
+{
+id: "A3303",
+question: "否定が二つあると(肯定)になる。",
+choice1: "そうてい",
+choice2: "こうてい",
+choice3: "ごうてい",
+answer: 2,
+},
+
+{
+id: "A3304",
+question: "その法案には(賛否)の議論がたくさんあった。",
+choice1: "さんぴ",
+choice2: "さんひ",
+choice3: "さんび",
+answer: 1,
+},
+
+{
+id: "A3305",
+question: "返答は(肯定的な)ものだった。",
+choice1: "こうていできな",
+choice2: "そうていてきな",
+choice3: "こうていてきな",
+answer: 3,
+},
+
+{
+id: "A3306",
+question: "(保護)を提供する。",
+choice1: "こぼ",
+choice2: "ほご",
+choice3: "そぼ",
+answer: 2,
+},
+
+{
+id: "A3307",
+question: "彼が部屋にはいる(や否や)、彼女はわっと泣き出した。",
+choice1: "やふや",
+choice2: "やいなや",
+choice3: "やひや",
+answer: 2,
+},
+
+{
+id: "A3308",
+question: "宝石に(保険)をかける。",
+choice1: "ほけん",
+choice2: "ぼけん",
+choice3: "こけん",
+answer: 1,
+},
+
+{
+id: "A3309",
+question: "男の子が1人で(留守番)をする。",
+choice1: "しるす",
+choice2: "るすばん",
+choice3: "くるばん",
+answer: 2,
+},
+
+{
+id: "A3310",
+question: "この可能性を(否定)できない。",
+choice1: "いなてい",
+choice2: "ふてい",
+choice3: "ひてい",
+answer: 3,
+},
+
+{
+id: "A3311",
+question: "(残留)トナーの回収量を正確に検知する。",
+choice1: "こうりゅう",
+choice2: "ざんりゅう",
+choice3: "ざんる",
+answer: 2,
+},
+
+{
+id: "A3312",
+question: "私はその(提案)を拒否します。",
+choice1: "きょふ",
+choice2: "きょくひ",
+choice3: "きょひ",
+answer: 3,
+},
+
+{
+id: "A3313",
+question: "仕事に心を(留める)。",
+choice1: "とめる",
+choice2: "ととめる",
+choice3: "とぼめる",
+answer: 1,
+},
+
+{
+id: "A3314",
+question: "この判断は(保留)させてください。",
+choice1: "ほりゅう",
+choice2: "ほきゅう",
+choice3: "ほしゅう",
+answer: 1,
+},
+
+{
+id: "A3315",
+question: "子供を(保育園)へ迎えに行く。",
+choice1: "ぼいくえん",
+choice2: "ほだつえん",
+choice3: "ほいくえん",
+answer: 3,
+},
+
+{
+id: "A3316",
+question: "(留年)したので、今年は大学を卒業することが出来ない。",
+choice1: "りゅうとし",
+choice2: "しゅうねん",
+choice3: "りゅうねん",
+answer: 3,
+},
+
+{
+id: "A3317",
+question: "彼は決して(否定的)にならない。",
+choice1: "ひていてき",
+choice2: "ふていてき",
+choice3: "ふでいてき",
+answer: 1,
+},
+
+{
+id: "A3318",
+question: "この風習は一地方に(留まる)。",
+choice1: "どまる",
+choice2: "とどまる",
+choice3: "ととまる",
+answer: 2,
+},
+
+{
+id: "A3319",
+question: "社会の地歩を(保つ)。",
+choice1: "まもつ",
+choice2: "たもつ",
+choice3: "にもつ",
+answer: 2,
+},
+
+{
+id: "A3320",
+question: "彼らがやっていたことに(留意)した。",
+choice1: "りゅうい",
+choice2: "きゅうい",
+choice3: "りゅい",
+answer: 1,
+},
+
+{
+id: "A3321",
+question: "(こうていてき)な考え方をする。",
+choice1: "溝定的",
+choice2: "肯定的",
+choice3: "背定的",
+answer: 2,
+},
+
+{
+id: "A3322",
+question: "板がくぎで(とまって)いる。",
+choice1: "留まって",
+choice2: "溜まって",
+choice3: "瑠まって",
+answer: 1,
+},
+
+{
+id: "A3323",
+question: "問題を(ほりゅう)にする。",
+choice1: "保溜",
+choice2: "俣溜",
+choice3: "保留",
+answer: 3,
+},
+
+{
+id: "A3324",
+question: "広まっているうわさを(ひてい)する。",
+choice1: "不定",
+choice2: "否定",
+choice3: "杏疋",
+answer: 2,
+},
+
+{
+id: "A3325",
+question: "小さな記事に、ふと目を(とめる)。",
+choice1: "留る",
+choice2: "溜める",
+choice3: "留める",
+answer: 3,
+},
+
+{
+id: "A3326",
+question: "彼は教育における競争を(こうてい)している。",
+choice1: "黄定",
+choice2: "肯定",
+choice3: "背定",
+answer: 2,
+},
+
+{
+id: "A3327",
+question: "室温を同じ温度に(たもつ)。",
+choice1: "保つ",
+choice2: "呆つ",
+choice3: "俣つ",
+answer: 1,
+},
+
+{
+id: "A3328",
+question: "(るすばん)電話にメッセージを入れる。",
+choice1: "貿守番",
+choice2: "溜宇番",
+choice3: "留守番",
+answer: 3,
+},
+
+{
+id: "A3329",
+question: "話を聞く(やいなや)、家を飛び出した。",
+choice1: "や杏や",
+choice2: "や否や",
+choice3: "や呑や",
+answer: 2,
+},
+
+{
+id: "A3330",
+question: "デパートでまいごを(ほご)する。",
+choice1: "保護",
+choice2: "呆護",
+choice3: "保譲",
+answer: 1,
+},
+
+{
+id: "A3331",
+question: "出席者に(さんぴ)を問う。",
+choice1: "替否",
+choice2: "賛否",
+choice3: "賛呑",
+answer: 2,
+},
+
+{
+id: "A3332",
+question: "(ほいくえん)に子どもを預ける。",
+choice1: "保育園",
+choice2: "呆肓園",
+choice3: "保肓袁",
+answer: 1,
+},
+
+{
+id: "A3333",
+question: "事実を(ひにん)する。",
+choice1: "否忍",
+choice2: "杏忍",
+choice3: "否認",
+answer: 3,
+},
+
+{
+id: "A3334",
+question: "(けんこう)にりゅういする。",
+choice1: "留意",
+choice2: "溜違",
+choice3: "留音",
+answer: 1,
+},
+
+{
+id: "A3335",
+question: "生命(ほけん)をかける。",
+choice1: "保検",
+choice2: "呆剣",
+choice3: "保険",
+answer: 3,
+},
+
+{
+id: "A3336",
+question: "新聞のかんゆうに(いるす)をつかう。",
+choice1: "房留守",
+choice2: "居留守",
+choice3: "届留狩",
+answer: 2,
+},
+
+{
+id: "A3337",
+question: "チームに(ざんりゅう)する。",
+choice1: "残溜",
+choice2: "浅留",
+choice3: "残留",
+answer: 3,
+},
+
+{
+id: "A3338",
+question: "投稿(きょひ)の子供。",
+choice1: "巨否",
+choice2: "拒否",
+choice3: "炬杏",
+answer: 2,
+},
+
+{
+id: "A3339",
+question: "単位を落として、(りゅうねん)する。",
+choice1: "溜牛",
+choice2: "留年",
+choice3: "榴年",
+answer: 2,
+},
+
+{
+id: "A3340",
+question: "喫煙の習慣を(断つ)。",
+choice1: "こつ",
+choice2: "たつ",
+choice3: "ことわつ",
+answer: 2,
+},
+
+{
+id: "A3341",
+question: "この(判定)は有効だ。",
+choice1: "こうてい",
+choice2: "はんてい",
+choice3: "ばんてい",
+answer: 2,
+},
+
+{
+id: "A3342",
+question: "あの先生は学生に(評判)が良い。",
+choice1: "ひょうばん",
+choice2: "みょうばん",
+choice3: "ひょうはん",
+answer: 1,
+},
+
+{
+id: "A3343",
+question: "彼は(判断)を誤った。",
+choice1: "ばんだん",
+choice2: "こうだん",
+choice3: "はんだん",
+answer: 3,
+},
+
+{
+id: "A3344",
+question: "自分の罪を(否認)する。",
+choice1: "ふにん",
+choice2: "ひにん",
+choice3: "ひかく",
+answer: 2,
+},
+
+{
+id: "A3345",
+question: "私は彼に時刻を(確かめる)。",
+choice1: "したかめる",
+choice2: "たしかめる",
+choice3: "かしかめる",
+answer: 2,
+},
+
+{
+id: "A3346",
+question: "人に自由行動を(認める)。",
+choice1: "ひとめる",
+choice2: "みとめる",
+choice3: "にとめる",
+answer: 2,
+},
+
+{
+id: "A3347",
+question: "上記の情報は間違っていると(断定)できます。",
+choice1: "ばんてい",
+choice2: "はんてい",
+choice3: "だんてい",
+answer: 1,
+},
+
+{
+id: "A3348",
+question: "彼の(観察)は正確だ。",
+choice1: "しょうかく",
+choice2: "せいかく",
+choice3: "せいがく",
+answer: 2,
+},
+
+{
+id: "A3349",
+question: "(判決)は彼に不利だった。",
+choice1: "ばんけつ",
+choice2: "だんけつ",
+choice3: "はんけつ",
+answer: 3,
+},
+
+{
+id: "A3350",
+question: "彼に(確認)を取りました。",
+choice1: "かくにん",
+choice2: "しかにん",
+choice3: "かくとめ",
+answer: 1,
+},
+
+{
+id: "A3351",
+question: "友達からの誘いを(断る)ことは心が痛む。",
+choice1: "ことわる",
+choice2: "だんる",
+choice3: "ことだる",
+answer: 1,
+},
+
+{
+id: "A3352",
+question: "(確か)にお化けを見た。",
+choice1: "かくか",
+choice2: "かしか",
+choice3: "たしか",
+answer: 3,
+},
+
+{
+id: "A3353",
+question: "私たちの(認識)が間違っていました。",
+choice1: "にんじき",
+choice2: "にんしょく",
+choice3: "にんしき",
+answer: 3,
+},
+
+{
+id: "A3354",
+question: "彼は腕を(切断)した。",
+choice1: "せつだん",
+choice2: "けつだん",
+choice3: "せっだん",
+answer: 1,
+},
+
+{
+id: "A3355",
+question: "私には、(確信)がありません。",
+choice1: "にんしん",
+choice2: "かくしん",
+choice3: "がくしん",
+answer: 2,
+},
+
+{
+id: "A3356",
+question: "私は彼の(承認)を得た。",
+choice1: "しょうじん",
+choice2: "しょうにん",
+choice3: "りょうしん",
+answer: 2,
+},
+
+{
+id: "A3357",
+question: "有罪の(はんけつ)を受けた。",
+choice1: "半決",
+choice2: "判決",
+choice3: "伴訣",
+answer: 2,
+},
+
+{
+id: "A3358",
+question: "彼の料理のうでは(たしか)だ。",
+choice1: "確か",
+choice2: "権か",
+choice3: "碓か",
+answer: 1,
+},
+
+{
+id: "A3359",
+question: "犯人が罪を(みとめる)。",
+choice1: "認る",
+choice2: "忍める",
+choice3: "認める",
+answer: 3,
+},
+
+{
+id: "A3360",
+question: "合否を(はんてい)する。",
+choice1: "半定",
+choice2: "判定",
+choice3: "伴疋",
+answer: 2,
+},
+
+{
+id: "A3361",
+question: "ここは味がいいと(ひょうばん)の店だ。",
+choice1: "訐半",
+choice2: "評半",
+choice3: "評判",
+answer: 3,
+},
+
+{
+id: "A3362",
+question: "健康のため、お酒を(ことわった)。",
+choice1: "断わった",
+choice2: "断った",
+choice3: "欧った",
+answer: 2,
+},
+
+{
+id: "A3363",
+question: "書類に不備がないかどうかを(たしかめる)。",
+choice1: "確かめる",
+choice2: "碓かめる",
+choice3: "唯かめる",
+answer: 1,
+},
+
+{
+id: "A3364",
+question: "彼が犯人だと(だんてい)された。",
+choice1: "欧定",
+choice2: "断疋",
+choice3: "断定",
+answer: 3,
+},
+
+{
+id: "A3365",
+question: "(せいかく)に時間をはかる。",
+choice1: "定確",
+choice2: "正確",
+choice3: "止碓",
+answer: 2,
+},
+
+{
+id: "A3366",
+question: "社会人としての(にんしき)が不足している。",
+choice1: "認識",
+choice2: "忍職",
+choice3: "認織",
+answer: 1,
+},
+
+{
+id: "A3367",
+question: "人を外見で(はんだん)してはいけない。",
+choice1: "半断",
+choice2: "判断",
+choice3: "伴断",
+answer: 2,
+},
+
+{
+id: "A3368",
+question: "在庫を(かくにん)する。",
+choice1: "確認",
+choice2: "碓認",
+choice3: "碓忍",
+answer: 1,
+},
+
+{
+id: "A3369",
+question: "彼は無実だという(かくしん)がある。",
+choice1: "確信",
+choice2: "碓言",
+choice3: "唯信",
+answer: 1,
+},
+
+{
+id: "A3370",
+question: "私はこの結果を(しょうにん)できない。",
+choice1: "承恐",
+choice2: "承忍",
+choice3: "承認",
+answer: 3,
+},
+
+{
+id: "A3371",
+question: "強風で電線が(せつだん)された。",
+choice1: "功断",
+choice2: "切断",
+choice3: "坊断",
+answer: 2,
+},
+
+{
+id: "A3372",
+question: "自分の罪を(ひにん)する。",
+choice1: "杏忍",
+choice2: "不認",
+choice3: "否認",
+answer: 3,
+},
+
+{
+id: "A3373",
+question: "喫煙の習慣を(たつ)。",
+choice1: "断",
+choice2: "断つ",
+choice3: "欧つ",
+answer: 2,
+},
+
+{
+id: "A3374",
+question: "母と腕を(絡めて)歩く。",
+choice1: "さかめて",
+choice2: "からめる",
+choice3: "つらめて",
+answer: 2,
+},
+
+{
+id: "A3375",
+question: "明日は曇りの(予報)です。",
+choice1: "こぼう",
+choice2: "よほう",
+choice3: "よぼう",
+answer: 2,
+},
+
+{
+id: "A3376",
+question: "人の親切に(報いる)。",
+choice1: "むくいる",
+choice2: "ほいる",
+choice3: "ほくいむ",
+answer: 1,
+},
+
+{
+id: "A3377",
+question: "この機械は便利な(連絡網)を作ることができる。",
+choice1: "れんがくほう",
+choice2: "れんらくこう",
+choice3: "れんらくもう",
+answer: 3,
+},
+
+{
+id: "A3378",
+question: "それが(広告)の仕事です。",
+choice1: "こくはく",
+choice2: "こうこく",
+choice3: "ひろこく",
+answer: 2,
+},
+
+{
+id: "A3379",
+question: "文書に人名を書き(連ねる)。",
+choice1: "からねる",
+choice2: "つらねる",
+choice3: "つれねる",
+answer: 2,
+},
+
+{
+id: "A3380",
+question: "(情報)をまとめる。",
+choice1: "じょうほう",
+choice2: "しょうこう",
+choice3: "じょうぼう",
+answer: 1,
+},
+
+{
+id: "A3381",
+question: "私を一緒に(連れて)って。",
+choice1: "つなれて",
+choice2: "つれて",
+choice3: "すれて",
+answer: 2,
+},
+
+{
+id: "A3382",
+question: "明日までに(報告)しなさい。",
+choice1: "ようこく",
+choice2: "こうこく",
+choice3: "ほうこく",
+answer: 3,
+},
+
+{
+id: "A3383",
+question: "髪が(絡まって)る。",
+choice1: "つらまって",
+choice2: "からまって",
+choice3: "しかまって",
+answer: 2,
+},
+
+{
+id: "A3384",
+question: "彼の人生は絶望の(連続)だった。",
+choice1: "れんつづ",
+choice2: "れんらく",
+choice3: "れんぞく",
+answer: 3,
+},
+
+{
+id: "A3385",
+question: "ご(連絡)お待ちしております。",
+choice1: "れんらく",
+choice2: "れんがく",
+choice3: "つうらく",
+answer: 1,
+},
+
+{
+id: "A3386",
+question: "先へ着いたらご(一報)下さい。",
+choice1: "いっぽう",
+choice2: "いっぼう",
+choice3: "いちこく",
+answer: 1,
+},
+
+{
+id: "A3387",
+question: "名前と住所を(告げる)。",
+choice1: "こげる",
+choice2: "あげる",
+choice3: "つげる",
+answer: 3,
+},
+
+{
+id: "A3388",
+question: "喫煙と肺がんを(関連)させる。",
+choice1: "かいれん",
+choice2: "しんれん",
+choice3: "かんれん",
+answer: 3,
+},
+
+{
+id: "A3389",
+question: "彼は私に愛を(告白)しました。",
+choice1: "こくはく",
+choice2: "こくこう",
+choice3: "こうこく",
+answer: 1,
+},
+
+{
+id: "A3390",
+question: "列をなして(連なる)。",
+choice1: "さらなる",
+choice2: "つらなる",
+choice3: "からなる",
+answer: 2,
+},
+
+{
+id: "A3391",
+question: "私は彼に(絡む)必要はない。",
+choice1: "ならむ",
+choice2: "からむ",
+choice3: "けつむ",
+answer: 2,
+},
+
+{
+id: "A3392",
+question: "医者が患者に病名を(つげる)。",
+choice1: "吉げる",
+choice2: "告げる",
+choice3: "舎げる",
+answer: 2,
+},
+
+{
+id: "A3393",
+question: "車が何台も(つらなって)いる。",
+choice1: "連なって",
+choice2: "蓮なって",
+choice3: "漣なって",
+answer: 1,
+},
+
+{
+id: "A3394",
+question: "おんに(むくいる)。",
+choice1: "服いる",
+choice2: "報る",
+choice3: "報いる",
+answer: 3,
+},
+
+{
+id: "A3395",
+question: "恋と金が(からむ)。",
+choice1: "紹む",
+choice2: "絡む",
+choice3: "烙む",
+answer: 2,
+},
+
+{
+id: "A3396",
+question: "(じょうほう)を集める。",
+choice1: "倩報",
+choice2: "青報",
+choice3: "情報",
+answer: 3,
+},
+
+{
+id: "A3397",
+question: "友人にメールで結婚を(ほうこく)する。",
+choice1: "服告",
+choice2: "報告",
+choice3: "報吉",
+answer: 2,
+},
+
+{
+id: "A3398",
+question: "天気(よほう)をする。",
+choice1: "予報",
+choice2: "子報",
+choice3: "予服",
+answer: 1,
+},
+
+{
+id: "A3399",
+question: "かぜで三日間(れんぞく)して休んでしまった。",
+choice1: "蓮読",
+choice2: "速続",
+choice3: "連続",
+answer: 3,
+},
+
+{
+id: "A3400",
+question: "恋人とうでを(からめて)歩く。",
+choice1: "絡らめて",
+choice2: "絡めて",
+choice3: "絡て",
+answer: 2,
+},
+
+{
+id: "A3401",
+question: "会議の時間をメールで(れんらく)する。",
+choice1: "連絡",
+choice2: "連続",
+choice3: "連洛",
+answer: 1,
+},
+
+{
+id: "A3402",
+question: "糸がぐちゃぐちゃに(からまって)いる。",
+choice1: "絡って",
+choice2: "絡まって",
+choice3: "紹まって",
+answer: 2,
+},
+
+{
+id: "A3403",
+question: "リストに名を(つらねる)。",
+choice1: "連ねる",
+choice2: "練ねる",
+choice3: "蓮ねる",
+answer: 1,
+},
+
+{
+id: "A3404",
+question: "現場から(いっぽう)が届く。",
+choice1: "一執",
+choice2: "一服",
+choice3: "一報",
+answer: 3,
+},
+
+{
+id: "A3405",
+question: "愛を(こくはく)する。",
+choice1: "告白",
+choice2: "吉自",
+choice3: "告日",
+answer: 1,
+},
+
+{
+id: "A3406",
+question: "部長が部下を(つれて)飲みに行く。",
+choice1: "漣れて",
+choice2: "蓮れて",
+choice3: "連れて",
+answer: 3,
+},
+
+{
+id: "A3407",
+question: "(れんらく)もうを作る。",
+choice1: "車絡網",
+choice2: "連絡網",
+choice3: "連賂綯",
+answer: 2,
+},
+
+{
+id: "A3408",
+question: "新聞に(こうこく)を出す。",
+choice1: "宏舎",
+choice2: "拡告",
+choice3: "広告",
+answer: 3,
+},
+
+{
+id: "A3409",
+question: "二つの事件は(かんれん)がある。",
+choice1: "間練",
+choice2: "関連",
+choice3: "開連",
+answer: 2,
+},
+
+{
+id: "A3410",
+question: "以下に一例を(示す)。",
+choice1: "しす",
+choice2: "しめす",
+choice3: "しじす",
+answer: 2,
+},
+
+{
+id: "A3411",
+question: "(相手)が手におえない。",
+choice1: "あいぼ",
+choice2: "あいて",
+choice3: "そうて",
+answer: 2,
+},
+
+{
+id: "A3412",
+question: "気軽に(相談)してください。",
+choice1: "そうだん",
+choice2: "あいだん",
+choice3: "ぞうだん",
+answer: 1,
+},
+
+{
+id: "A3413",
+question: "私と彼女はとても(相思相愛)だった。",
+choice1: "あいしそうあい",
+choice2: "あいそあいぼ",
+choice3: "そうしそうあい",
+answer: 3,
+},
+
+{
+id: "A3414",
+question: "私たちはお客様と(商談)する。",
+choice1: "ひんだん",
+choice2: "しょうだん",
+choice3: "しょだん",
+answer: 2,
+},
+
+{
+id: "A3415",
+question: "自分自身に(暗示)をかける。",
+choice1: "くらじ",
+choice2: "あんじ",
+choice3: "あんし",
+answer: 2,
+},
+
+{
+id: "A3416",
+question: "私達は絶対に(相性)が良い。",
+choice1: "あいしょう",
+choice2: "そうせい",
+choice3: "そうしょう",
+answer: 1,
+},
+
+{
+id: "A3417",
+question: "彼が部下に(指示)を出す。",
+choice1: "あんじ",
+choice2: "しじ",
+choice3: "ゆじ",
+answer: 2,
+},
+
+{
+id: "A3418",
+question: "彼は熱心な(指導)者だ。",
+choice1: "ゆどう",
+choice2: "じどう",
+choice3: "しどう",
+answer: 3,
+},
+
+{
+id: "A3419",
+question: "人に指を(指す)。",
+choice1: "あび",
+choice2: "ゆび",
+choice3: "わび",
+answer: 2,
+},
+
+{
+id: "A3420",
+question: "彼はあまり良い(首相)ではない。",
+choice1: "しゅぼう",
+choice2: "しゅそう",
+choice3: "しゅしょう",
+answer: 3,
+},
+
+{
+id: "A3421",
+question: "どうして婚約指輪は(薬指)にするのか。",
+choice1: "くすりゆび",
+choice2: "ゆすりわび",
+choice3: "すくりわび",
+answer: 1,
+},
+
+{
+id: "A3422",
+question: "明日、(外相会談)が行われる。",
+choice1: "がいしょうかいだん",
+choice2: "がいそうかいだん",
+choice3: "かいじょうかいぎ",
+answer: 1,
+},
+
+{
+id: "A3423",
+question: "画面に(表示)する。",
+choice1: "しじ",
+choice2: "みょうじ",
+choice3: "ひょうじ",
+answer: 3,
+},
+
+{
+id: "A3424",
+question: "(真相)は必ず現れる。",
+choice1: "しんあい",
+choice2: "しんしょう",
+choice3: "しんそう",
+answer: 3,
+},
+
+{
+id: "A3425",
+question: "私は鈴木さんと(会談)します。",
+choice1: "かいだん",
+choice2: "がいだん",
+choice3: "そうだん",
+answer: 1,
+},
+
+{
+id: "A3426",
+question: "風向計は北を(指す)。",
+choice1: "ゆす",
+choice2: "さす",
+choice3: "しす",
+answer: 2,
+},
+
+{
+id: "A3427",
+question: "(冗談)言うなよ。",
+choice1: "ほうだん",
+choice2: "じょうだん",
+choice3: "じょだん",
+answer: 2,
+},
+
+{
+id: "A3428",
+question: "彼の話は(示唆)に富んでいた。",
+choice1: "しさ",
+choice2: "じさ",
+choice3: "じす",
+answer: 1,
+},
+
+{
+id: "A3429",
+question: "(しゅしょう)が記者会見を行う。",
+choice1: "道相",
+choice2: "首相",
+choice3: "首想",
+answer: 2,
+},
+
+{
+id: "A3430",
+question: "(じょうだん)を言って人を笑わせる。",
+choice1: "冗談",
+choice2: "亢淡",
+choice3: "几談",
+answer: 1,
+},
+
+{
+id: "A3431",
+question: "先生が学生を(さして)答えを求める。",
+choice1: "脂して",
+choice2: "旨して",
+choice3: "指して",
+answer: 3,
+},
+
+{
+id: "A3432",
+question: "結婚(あいて)を探す。",
+choice1: "想手",
+choice2: "相手",
+choice3: "湘手",
+answer: 2,
+},
+
+{
+id: "A3433",
+question: "彼は私たちにとどまるように(しさ)した。",
+choice1: "禾唆",
+choice2: "尓唆",
+choice3: "示唆",
+answer: 3,
+},
+
+{
+id: "A3434",
+question: "事件の(しんそう)はまだわからない。",
+choice1: "槙粗",
+choice2: "真相",
+choice3: "慎相",
+answer: 2,
+},
+
+{
+id: "A3435",
+question: "彼女との(あいしょう)をうらなう。",
+choice1: "相性",
+choice2: "想生",
+choice3: "相牲",
+answer: 1,
+},
+
+{
+id: "A3436",
+question: "きっと合格するという(あんじ)をかける。",
+choice1: "倍尓",
+choice2: "音示",
+choice3: "暗示",
+answer: 3,
+},
+
+{
+id: "A3437",
+question: "作文の書き方を(しどう)する。",
+choice1: "脂導",
+choice2: "指導",
+choice3: "旨導",
+answer: 2,
+},
+
+{
+id: "A3438",
+question: "部下の(そうだん)に乗る。",
+choice1: "相談",
+choice2: "想淡",
+choice3: "想談",
+answer: 1,
+},
+
+{
+id: "A3439",
+question: "(くすりゆび)のダイヤモンドがかがやいている。",
+choice1: "楽脂",
+choice2: "薬指",
+choice3: "薬旨",
+answer: 2,
+},
+
+{
+id: "A3440",
+question: "(そうしそうあい)の仲。",
+choice1: "相思相愛",
+choice2: "箱思箱恋",
+choice3: "想思箱優",
+answer: 1,
+},
+
+{
+id: "A3441",
+question: "(しょうだん)がまとまる。",
+choice1: "滴炎",
+choice2: "適談",
+choice3: "商談",
+answer: 3,
+},
+
+{
+id: "A3442",
+question: "社長の(しじ)にしたがって行動する。",
+choice1: "指示",
+choice2: "旨尓",
+choice3: "脂示",
+answer: 1,
+},
+
+{
+id: "A3443",
+question: "(がいしょうかいだん)がおこなわれる。",
+choice1: "外想絵談",
+choice2: "夜相合談",
+choice3: "外相会談",
+answer: 3,
+},
+
+{
+id: "A3444",
+question: "その(かいだん)は無事終了した。",
+choice1: "合淡",
+choice2: "会談",
+choice3: "会炎",
+answer: 2,
+},
+
+{
+id: "A3445",
+question: "画面を(ひょうじ)する。",
+choice1: "標示",
+choice2: "俵示",
+choice3: "表示",
+answer: 3,
+},
+
+{
+id: "A3446",
+question: "好きな気持ちをたいどで(しめす)。",
+choice1: "示めす",
+choice2: "示す",
+choice3: "尓す",
+answer: 2,
+},
+
+{
+id: "A3447",
+question: "人に(ゆび)を指す。",
+choice1: "脂",
+choice2: "指",
+choice3: "旨",
+answer: 2,
+},
+
 ]
