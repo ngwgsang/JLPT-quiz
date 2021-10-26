@@ -32367,4 +32367,347 @@ choice3: "税関",
 answer: 3,
 },
 
+{
+id: "A3596",
+question: "あの会社は(倒産)した。",
+choice1: "とうざん",
+choice2: "とうさん",
+choice3: "どうさん",
+answer: 2,
+},
+
+{
+id: "A3597",
+question: "京都大学(農学部)で聴講生として学んだ。",
+choice1: "こうがくぶ",
+choice2: "のうがくぶ",
+choice3: "こいがくぷ",
+answer: 2,
+},
+
+{
+id: "A3598",
+question: "私はいつか子供を(産む)。",
+choice1: "うむ",
+choice2: "さむ",
+choice3: "すむ",
+answer: 1,
+},
+
+{
+id: "A3599",
+question: "(商店)が客にサービスする。",
+choice1: "しょうみせ",
+choice2: "しょてん",
+choice3: "しょうてん",
+answer: 3,
+},
+
+{
+id: "A3600",
+question: "私の赤ちゃんがもうすぐ(産まれる)。",
+choice1: "すまれる",
+choice2: "うまれる",
+choice3: "さまれる",
+answer: 2,
+},
+
+{
+id: "A3601",
+question: "この土地は(農業)には適さない。",
+choice1: "こうぎょう",
+choice2: "のうぎょう",
+choice3: "のうきょう",
+answer: 2,
+},
+
+{
+id: "A3602",
+question: "息子に(財産)を譲る。",
+choice1: "ざいさん",
+choice2: "さいさん",
+choice3: "たいさん",
+answer: 1,
+},
+
+{
+id: "A3603",
+question: "彼は(農家)に育った。",
+choice1: "さいか",
+choice2: "のうか",
+choice3: "こうか",
+answer: 2,
+},
+
+{
+id: "A3604",
+question: "(商売)は今活気がない。",
+choice1: "うばい",
+choice2: "ほうばい",
+choice3: "しょうばい",
+answer: 3,
+},
+
+{
+id: "A3605",
+question: "わが国の主な(農産)物は米である。",
+choice1: "のうざん",
+choice2: "のうさん",
+choice3: "こうざん",
+answer: 2,
+},
+
+{
+id: "A3606",
+question: "私は(貿易)実務を勉強中です。",
+choice1: "ぼうやき",
+choice2: "ほうえき",
+choice3: "ぼうえき",
+answer: 3,
+},
+
+{
+id: "A3607",
+question: "それは日本からの(お土産)です。",
+choice1: "みやげ",
+choice2: "どさん",
+choice3: "とざん",
+answer: 1,
+},
+
+{
+id: "A3608",
+question: "英語は(商業)において役に立つ。",
+choice1: "しょうぎょう",
+choice2: "そうぎょう",
+choice3: "ほうきょう",
+answer: 1,
+},
+
+{
+id: "A3609",
+question: "このシステムでは，米の消費者と(生産者)が一体となって働く。",
+choice1: "せいざんもの",
+choice2: "しょうさんしゃ",
+choice3: "せいさんしゃ",
+answer: 3,
+},
+
+{
+id: "A3610",
+question: "この(産業)開発はまだ途中です。",
+choice1: "さいきょう",
+choice2: "さいぎょう",
+choice3: "さんぎょう",
+answer: 3,
+},
+
+{
+id: "A3611",
+question: "彼は魚を(商う)人だ。",
+choice1: "あきなう",
+choice2: "にきなう",
+choice3: "そきなう",
+answer: 1,
+},
+
+{
+id: "A3612",
+question: "私は(不動産)の仲介でその家を買った。",
+choice1: "ふろうさん",
+choice2: "ふどうさん",
+choice3: "ふどさん",
+answer: 2,
+},
+
+{
+id: "A3613",
+question: "息子は1999/11/21に(産声)をあげた。",
+choice1: "うむごえ",
+choice2: "うぶごえ",
+choice3: "うむこえ",
+answer: 2,
+},
+
+{
+id: "A3614",
+question: "彼女は(出産)が近い。",
+choice1: "しゅっさん",
+choice2: "しゅつざん",
+choice3: "しゅっざん",
+answer: 1,
+},
+
+{
+id: "A3615",
+question: "会社が(とうさん)して、仕事を失う。",
+choice1: "到産",
+choice2: "倒産",
+choice3: "到生",
+answer: 2,
+},
+
+{
+id: "A3616",
+question: "今日はどの(しょうてん)も休みだった。",
+choice1: "商店",
+choice2: "滴店",
+choice3: "適店",
+answer: 1,
+},
+
+{
+id: "A3617",
+question: "私の家は代々(のうか)だ。",
+choice1: "膿家",
+choice2: "濃家",
+choice3: "農家",
+answer: 3,
+},
+
+{
+id: "A3618",
+question: "(しゅっさん)のお祝いをおくる。",
+choice1: "拙童",
+choice2: "出産",
+choice3: "出章",
+answer: 2,
+},
+
+{
+id: "A3619",
+question: "大学の(のうがくぶ)に進学する。",
+choice1: "濃学陪",
+choice2: "濃学部",
+choice3: "農学部",
+answer: 3,
+},
+
+{
+id: "A3620",
+question: "たくさん(おみやげ)を買った。",
+choice1: "お士産",
+choice2: "お土産",
+choice3: "お仕産",
+answer: 2,
+},
+
+{
+id: "A3621",
+question: "この辺りの地方は(のうぎょう)がさかんだ。",
+choice1: "農業",
+choice2: "濃業",
+choice3: "膿業",
+answer: 1,
+},
+
+{
+id: "A3622",
+question: "(しょうばい)でもうける。",
+choice1: "滴尭",
+choice2: "摘売",
+choice3: "商売",
+answer: 3,
+},
+
+{
+id: "A3623",
+question: "(ふどうさん)やでアパートを探す。",
+choice1: "不働産",
+choice2: "不動産",
+choice3: "不慟童",
+answer: 2,
+},
+
+{
+id: "A3624",
+question: "(しょうぎょう)がさかんな町。",
+choice1: "商業",
+choice2: "適業",
+choice3: "滴業",
+answer: 1,
+},
+
+{
+id: "A3625",
+question: "留学の経験は人生の(ざいさん)になる。",
+choice1: "材産",
+choice2: "財産",
+choice3: "剤産",
+answer: 2,
+},
+
+{
+id: "A3626",
+question: "元気な(うぶごえ)が聞こえ。",
+choice1: "産声",
+choice2: "産戸",
+choice3: "彦声",
+answer: 1,
+},
+
+{
+id: "A3627",
+question: "ブランド品を(あきなう)仕事を始める。",
+choice1: "摘なう",
+choice2: "滴う",
+choice3: "商う",
+answer: 3,
+},
+
+{
+id: "A3628",
+question: "バーコードで野菜の(せいさんしゃ)をわかる。",
+choice1: "生産者",
+choice2: "性彦者",
+choice3: "牲産煮",
+answer: 1,
+},
+
+{
+id: "A3629",
+question: "(さんぎょう)がさかえた町。",
+choice1: "業産",
+choice2: "彦業",
+choice3: "産業",
+answer: 3,
+},
+
+{
+id: "A3630",
+question: "宝石を(ぼうえき)する会社で働く。",
+choice1: "留易",
+choice2: "貿易",
+choice3: "質昜",
+answer: 2,
+},
+
+{
+id: "A3631",
+question: "姉の家に赤ちゃんが(うまれた)。",
+choice1: "住まれた",
+choice2: "性まれた",
+choice3: "生まれた",
+answer: 3,
+},
+
+{
+id: "A3632",
+question: "金が金を(うむ)。",
+choice1: "住む",
+choice2: "生む",
+choice3: "牲む",
+answer: 2,
+},
+
+{
+id: "A3633",
+question: "今年の(のうさん)物の出来は思ったより良い。",
+choice1: "晨産",
+choice2: "農産",
+choice3: "最産",
+answer: 2,
+},
+
+
 ]

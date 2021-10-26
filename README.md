@@ -17,7 +17,7 @@
 ## :cherry_blossom:	 Thông tin về các bộ câu hỏi
 ID |Số        |Cấp độ  |Nội dung         |Phạm vi   |Cập nhập lần cuối  |Authors
 ---|----------|--------|---------------- |----------|-------------------|-----------------------------------------
-A  |0001-3595 |N3      |Kanji N3 Test    |C1 -> C18 |25/10/2021 |[sangcamap](https://github.com/sangcamap)
+A  |0001-3665 |N3      |Kanji N3 Test    |C1 -> C19.2 |25/10/2021 |[sangcamap](https://github.com/sangcamap)
 I  |0001-0740 |N4      |Kanji N4 Test    |    X     |19/10/2021 |[chellyyyy](https://github.com/chellyyyy), [sangcamap](https://github.com/sangcamap)
 
 ## :cherry_blossom:	 Báo lỗi
