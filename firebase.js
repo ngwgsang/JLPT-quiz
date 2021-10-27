@@ -36,9 +36,9 @@ function InsertData(){
         RollNo: newID,
         Level: level.innerText,
         NameOfStd: name.value,
-        Score: `${score}/${MAX_QUESTIONS+1}`,
+        Score: document.querySelector('.o_score').innerText,
         Percent: `${Math.round(Math.fround(score/(MAX_QUESTIONS+1))*100)}%`,
-        TimeToDone: `${totalSeconds}s` ,
+        TimeToDone: document.querySelector('.o_time').innerText,
         Time: localTime
     })
     // .then(()=>{
