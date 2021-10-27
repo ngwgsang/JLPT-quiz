@@ -102,6 +102,7 @@ saveScoreBtn.addEventListener('click', InsertData)
 function CreateList(){
     const dbref = ref(db);
     const mylist = document.getElementById('rankList'); 
+    mylist.innerHTML = '';
     for (let i = 0 ; i< 999 ; i++){
         get(child(dbref, "TheStudents/" + i)).then((snapshot)=>{
         if (snapshot.exists()){
