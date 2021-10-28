@@ -349,8 +349,8 @@ bg = [
     'background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url("./assets/theme/Itsukishima Gate Japan/ItsukishimaGateJapan-day/ItsukishimaGateJapan-day.png")',
     'background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)),url("./assets/theme/Itsukishima Gate Japan/ItsukishimaGateJapan-sunset/ItsukishimaGateJapan-sunset.png")',
     'background: url("./assets/theme/Itsukishima Gate Japan/ItsukishimaGateJapan-night/ItsukishimaGateJapan-night.png")',
-    'background: url("./assets/theme/Mt. Fuji Japan/Mt.FujiJapan-day/Mt.FujiJapan-day.png")',
-    'background: url("./assets/theme/Mt. Fuji Japan/Mt.FujiJapan-sunset/Mt.FujiJapan-sunset.png")',
+    'background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)),url("./assets/theme/Mt. Fuji Japan/Mt.FujiJapan-day/Mt.FujiJapan-day.png")',
+    'background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)),url("./assets/theme/Mt. Fuji Japan/Mt.FujiJapan-sunset/Mt.FujiJapan-sunset.png")',
     'background: url("./assets/theme/Mt. Fuji Japan/Mt.FujiJapan-night/Mt.FujiJapan-night.png")',
 ];
 

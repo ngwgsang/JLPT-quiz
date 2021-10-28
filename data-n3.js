@@ -32710,4 +32710,798 @@ answer: 2,
 },
 
 
+{
+id: "A3634",
+question: "医師が(手術)を行う。",
+choice1: "てしゅつ",
+choice2: "しゅじゅつ",
+choice3: "しゅしゅつ",
+answer: 2,
+},
+
+{
+id: "A3635",
+question: "一人前のプロ職人になるために(技)を磨く。",
+choice1: "えぎ",
+choice2: "わざ",
+choice3: "さぎ",
+answer: 2,
+},
+
+{
+id: "A3636",
+question: "私は(球技)が苦手です。",
+choice1: "きゅうぎ",
+choice2: "ぎゅうし",
+choice3: "きゅうじ",
+answer: 1,
+},
+
+{
+id: "A3637",
+question: "彼の(演技)が好きだ。",
+choice1: "えんき",
+choice2: "えんじ",
+choice3: "えんぎ",
+answer: 3,
+},
+
+{
+id: "A3638",
+question: "私が家族に求める(技術)は料理の技術です。",
+choice1: "きしゅつ",
+choice2: "ぎじゅつ",
+choice3: "しじゅつ",
+answer: 2,
+},
+
+{
+id: "A3639",
+question: "この作品はとても(芸術)的だ。",
+choice1: "けいじゅつ",
+choice2: "げいじゅつ",
+choice3: "げいしゅつ",
+answer: 2,
+},
+
+{
+id: "A3640",
+question: "このバスは(美術館)まで行きますか。",
+choice1: "びじゅつかん",
+choice2: "びしゅつかん",
+choice3: "びじゅうかん",
+answer: 1,
+},
+
+{
+id: "A3641",
+question: "学校で(きゅうぎ)大会が行われる。",
+choice1: "救伎",
+choice2: "球技",
+choice3: "求技",
+answer: 2,
+},
+
+{
+id: "A3642",
+question: "(げいじゅつ)家になる。",
+choice1: "芸術",
+choice2: "芸銜",
+choice3: "芸街",
+answer: 1,
+},
+
+{
+id: "A3643",
+question: "自動車の開発(ぎじゅつ)が向上した。",
+choice1: "伎術",
+choice2: "妓術",
+choice3: "技術",
+answer: 3,
+},
+
+{
+id: "A3644",
+question: "来週、(しゅじゅつ)を受けることになった。",
+choice1: "手街",
+choice2: "手術",
+choice3: "手銜",
+answer: 2,
+},
+
+{
+id: "A3645",
+question: "じゅうどうの(わざ)があざやかに決まる。",
+choice1: "伎",
+choice2: "枝",
+choice3: "技",
+answer: 3,
+},
+
+{
+id: "A3646",
+question: "(びじゅつかん)で有名な画家の絵を見る。",
+choice1: "美街棺",
+choice2: "美術館",
+choice3: "実術官",
+answer: 2,
+},
+
+{
+id: "A3647",
+question: "彼女の涙はどうやら(えんぎ)だった。",
+choice1: "演技",
+choice2: "寅枝",
+choice3: "演妓",
+answer: 1,
+},
+
+
+{
+id: "A3648",
+question: "先生はチラシを(配布)した。",
+choice1: "はいぶ",
+choice2: "はいふ",
+choice3: "はいぷ",
+answer: 2,
+},
+
+{
+id: "A3649",
+question: "毛糸で手袋を(編む)。",
+choice1: "ふむ",
+choice2: "あむ",
+choice3: "こむ",
+answer: 2,
+},
+
+{
+id: "A3650",
+question: "彼は(皮肉)を込めて言った。",
+choice1: "ひにく",
+choice2: "ふにく",
+choice3: "ひこく",
+answer: 1,
+},
+
+{
+id: "A3651",
+question: "母は私を(毛布)でくるんでくれた。",
+choice1: "もふう",
+choice2: "けいふ",
+choice3: "もうふ",
+answer: 3,
+},
+
+{
+id: "A3652",
+question: "私の趣味は読書と(編み物)です。",
+choice1: "ふみもの",
+choice2: "あみもの",
+choice3: "こみもの",
+answer: 2,
+},
+
+{
+id: "A3653",
+question: "私は(木綿)のシャツを２枚買った。",
+choice1: "こめん",
+choice2: "もめん",
+choice3: "もくめん",
+answer: 2,
+},
+
+{
+id: "A3654",
+question: "｛くだもの/やさい/動物...｝の(皮)。",
+choice1: "かわ",
+choice2: "がわ",
+choice3: "さわ",
+answer: 1,
+},
+
+{
+id: "A3655",
+question: "これは(毛皮)でつくった衣服だ。",
+choice1: "もがわ",
+choice2: "けがわ",
+choice3: "けいがわ",
+answer: 2,
+},
+
+{
+id: "A3656",
+question: "彼は三年級に(編入)された。",
+choice1: "しゅうにゅう",
+choice2: "こうにゅう",
+choice3: "へんにゅう",
+answer: 3,
+},
+
+{
+id: "A3657",
+question: "(布)でできたバッグを買う",
+choice1: "ふね",
+choice2: "ぬの",
+choice3: "ふの",
+answer: 2,
+},
+
+{
+id: "A3658",
+question: "(綿)で耳に栓をする。",
+choice1: "ごぎ",
+choice2: "わぎ",
+choice3: "わた",
+answer: 3,
+},
+
+{
+id: "A3659",
+question: "この本は既に(編集)されたものだ。",
+choice1: "へんしゅう",
+choice2: "へんにゅう",
+choice3: "へんちゅう",
+answer: 1,
+},
+
+{
+id: "A3660",
+question: "(綿)で洋服を作る。",
+choice1: "めん",
+choice2: "けん",
+choice3: "せん",
+answer: 1,
+},
+
+{
+id: "A3661",
+question: "飛行機が畑に肥料を(散布)した。",
+choice1: "さんぶ",
+choice2: "さんふ",
+choice3: "さんぷ",
+answer: 3,
+},
+
+{
+id: "A3662",
+question: "私はその本(全編)残らず読んだ。",
+choice1: "ぜんべん",
+choice2: "ぜんへん",
+choice3: "ぜんぺん",
+answer: 3,
+},
+
+{
+id: "A3663",
+question: "(後編)は来年４月に公開される予定だ。",
+choice1: "こうへん",
+choice2: "こうべん",
+choice3: "ごうぺん",
+answer: 1,
+},
+
+{
+id: "A3664",
+question: "蒲団の(綿入)れをする。",
+choice1: "めんいれ",
+choice2: "わたいれ",
+choice3: "ふたいれ",
+answer: 2,
+},
+
+{
+id: "A3665",
+question: "ヘビはいつ(脱皮)しますか。",
+choice1: "たっぴ",
+choice2: "だっぴ",
+choice3: "たつび",
+answer: 2,
+},
+
+{
+id: "A3666",
+question: "(あんだ)セーターをプレゼントする。",
+choice1: "偏んだ",
+choice2: "編んだ",
+choice3: "扁んだ",
+answer: 2,
+},
+
+{
+id: "A3667",
+question: "冬は(やはり)わた入りの布団が暖かい。",
+choice1: "綿入り",
+choice2: "緬入り",
+choice3: "棉入り",
+answer: 1,
+},
+
+{
+id: "A3668",
+question: "はさみで(ぬの)を切る。",
+choice1: "希",
+choice2: "怖",
+choice3: "布",
+answer: 3,
+},
+
+{
+id: "A3669",
+question: "ギョーザの(かわ)で具を包む。",
+choice1: "彼",
+choice2: "皮",
+choice3: "披",
+answer: 2,
+},
+
+{
+id: "A3670",
+question: "彼女のしゅみは(あみもの)だそうだ。",
+choice1: "偏み物",
+choice2: "扁み物",
+choice3: "編み物",
+answer: 3,
+},
+
+{
+id: "A3671",
+question: "大学の三年次(へんにゅう)の試験を受ける。",
+choice1: "篇入",
+choice2: "編入",
+choice3: "偏人",
+answer: 2,
+},
+
+{
+id: "A3672",
+question: "寒くて(もうふ)にくるまる。",
+choice1: "毛布",
+choice2: "手布",
+choice3: "毛怖",
+answer: 1,
+},
+
+{
+id: "A3673",
+question: "この服はシルクではなく(わた)100％だ。",
+choice1: "緬",
+choice2: "棉",
+choice3: "綿",
+answer: 3,
+},
+
+{
+id: "A3674",
+question: "仕事で失敗して部長に(ひにく)を言われる。",
+choice1: "被肉",
+choice2: "皮肉",
+choice3: "披肉",
+answer: 2,
+},
+
+{
+id: "A3675",
+question: "駅前で号外を(はいふ)する。",
+choice1: "配布",
+choice2: "配怖",
+choice3: "酉希",
+answer: 1,
+},
+
+{
+id: "A3676",
+question: "(てあみ)のセーター。",
+choice1: "毛偏み",
+choice2: "手編み",
+choice3: "手扁み",
+answer: 2,
+},
+
+{
+id: "A3677",
+question: "子供から大人へと(だっぴ)する。",
+choice1: "脱皮",
+choice2: "説披",
+choice3: "脱彼",
+answer: 1,
+},
+
+{
+id: "A3678",
+question: "(けがわ)のコートを買う。",
+choice1: "毛疲",
+choice2: "手披",
+choice3: "毛皮",
+answer: 3,
+},
+
+{
+id: "A3679",
+question: "(もめん)のシャツを2枚買った。",
+choice1: "木綿",
+choice2: "本綿",
+choice3: "休棉",
+answer: 1,
+},
+
+{
+id: "A3680",
+question: "小説の(ぜんぺん)と後編。",
+choice1: "全偏",
+choice2: "全扁",
+choice3: "全編",
+answer: 3,
+},
+
+{
+id: "A3681",
+question: "田んぼに農薬を(さんぷ)する。",
+choice1: "撒布",
+choice2: "散布",
+choice3: "散怖",
+answer: 2,
+},
+
+{
+id: "A3682",
+question: "小説の全編と(こうへん)。",
+choice1: "後偏",
+choice2: "後扁",
+choice3: "後編",
+answer: 3,
+},
+
+{
+id: "A3683",
+question: "記事を(へんしゅう)する。",
+choice1: "扁焦",
+choice2: "編集",
+choice3: "偏隻",
+answer: 2,
+},
+
+
+{
+id: "A3684",
+question: "今年は(豊年)だろう。",
+choice1: "こうねん",
+choice2: "ほうねん",
+choice3: "のうねん",
+answer: 2,
+},
+
+{
+id: "A3685",
+question: "国は(貧弱)な経済状態だった。",
+choice1: "びんやく",
+choice2: "ひんじゃく",
+choice3: "ひんしゃく",
+answer: 2,
+},
+
+{
+id: "A3686",
+question: "(富貴)の家に生まれた。",
+choice1: "ふうき",
+choice2: "ふくき",
+choice3: "ふくい",
+answer: 1,
+},
+
+{
+id: "A3687",
+question: "彼は(貧しい)家に生まれた。",
+choice1: "ひぶしい",
+choice2: "やぶしい",
+choice3: "まずしい",
+answer: 3,
+},
+
+{
+id: "A3688",
+question: "(上等)な暮らしをする。",
+choice1: "じょうどう",
+choice2: "じょうとう",
+choice3: "こうどう",
+answer: 2,
+},
+
+{
+id: "A3689",
+question: "今年はきっと(豊作)だよ。",
+choice1: "のうさく",
+choice2: "ほうさく",
+choice3: "ほうさ",
+answer: 2,
+},
+
+{
+id: "A3690",
+question: "リンゴを(均等)に５つに分ける。",
+choice1: "きんとう",
+choice2: "へいとう",
+choice3: "きんどく",
+answer: 1,
+},
+
+{
+id: "A3691",
+question: "ひどい(貧乏)暮らしをする。",
+choice1: "ひんぼう",
+choice2: "びんぼう",
+choice3: "びんぽう",
+answer: 2,
+},
+
+{
+id: "A3692",
+question: "健康は第一の(富)である。",
+choice1: "とふ",
+choice2: "ふみ",
+choice3: "とみ",
+answer: 3,
+},
+
+{
+id: "A3693",
+question: "(貧富)の差はますます甚しくなる。",
+choice1: "びんふ",
+choice2: "ひんぷ",
+choice3: "ひんふく",
+answer: 2,
+},
+
+{
+id: "A3694",
+question: "彼女の英語のレベルは私と(同等)だ。",
+choice1: "おうどう",
+choice2: "とうどう",
+choice3: "どうとう",
+answer: 3,
+},
+
+{
+id: "A3695",
+question: "彼は(貧血)で死んだ。",
+choice1: "ひんけつ",
+choice2: "ふんけつ",
+choice3: "びんけつ",
+answer: 1,
+},
+
+{
+id: "A3696",
+question: "私は彼女と(対等に)話せる。",
+choice1: "たいとうに",
+choice2: "たいどうに",
+choice3: "こうどうに",
+answer: 1,
+},
+
+{
+id: "A3697",
+question: "日本は物産に(富む)。",
+choice1: "あむ",
+choice2: "ふむ",
+choice3: "とむ",
+answer: 3,
+},
+
+{
+id: "A3698",
+question: "その町は自然(豊か)です。",
+choice1: "ほたか",
+choice2: "こたか",
+choice3: "ゆたか",
+answer: 3,
+},
+
+{
+id: "A3699",
+question: "彼らは能力が(等しい)。",
+choice1: "ひとしい",
+choice2: "とどしい",
+choice3: "とうしい",
+answer: 1,
+},
+
+{
+id: "A3700",
+question: "日本は物産が(豊富)だ。",
+choice1: "ほうゆう",
+choice2: "ほうふ",
+choice3: "ゆうふ",
+answer: 2,
+},
+
+{
+id: "A3701",
+question: "(富士山)に登ったことがある。",
+choice1: "ほじさん",
+choice2: "ふじさん",
+choice3: "ほうしさん",
+answer: 2,
+},
+
+{
+id: "A3702",
+question: "(等身大)の自分で生きることです。",
+choice1: "とうしんだい",
+choice2: "ふうしんだい",
+choice3: "とうみだい",
+answer: 1,
+},
+
+{
+id: "A3703",
+question: "家が(まずしくて)学校に行けなかった。",
+choice1: "貪しくて",
+choice2: "貧しくて",
+choice3: "資しくて",
+answer: 2,
+},
+
+{
+id: "A3704",
+question: "ギ大学卒業と(どうとう)の学力を持つ。",
+choice1: "同等",
+choice2: "同涛",
+choice3: "洞寺",
+answer: 1,
+},
+
+{
+id: "A3705",
+question: "彼なら経験に(とんで)いるので安心だ",
+choice1: "副んで",
+choice2: "冨んで",
+choice3: "富んで",
+answer: 3,
+},
+
+{
+id: "A3706",
+question: "この二つの図形は大きいが(ひとしい)。",
+choice1: "寺しい",
+choice2: "等しい",
+choice3: "筆しい",
+answer: 2,
+},
+
+{
+id: "A3707",
+question: "子供のころ、(びんぼう)な生活を送った。",
+choice1: "賓之",
+choice2: "貿乏",
+choice3: "貧乏",
+answer: 3,
+},
+
+{
+id: "A3708",
+question: "(ふじさん)に登る。",
+choice1: "冨土山",
+choice2: "富士山",
+choice3: "當士山",
+answer: 2,
+},
+
+{
+id: "A3709",
+question: "上司と(たいとう)に話し合う。",
+choice1: "対等",
+choice2: "対寺",
+choice3: "村等",
+answer: 1,
+},
+
+{
+id: "A3710",
+question: "(ほうふ)の差が大きいことが問題だ。",
+choice1: "曹富",
+choice2: "農冨",
+choice3: "豊富",
+answer: 3,
+},
+
+{
+id: "A3711",
+question: "彼は才能(ゆたか)な画家だ。",
+choice1: "曹か",
+choice2: "豊か",
+choice3: "農か",
+answer: 2,
+},
+
+{
+id: "A3712",
+question: "かざらず、(とうしんだい)の自分を出す。",
+choice1: "等身大",
+choice2: "寺身太",
+choice3: "寿身太",
+answer: 1,
+},
+
+{
+id: "A3713",
+question: "(ひんけつ)で倒れた人の手当てをする。",
+choice1: "賀血",
+choice2: "貧血",
+choice3: "貧皿",
+answer: 2,
+},
+
+{
+id: "A3714",
+question: "(ひんじゃく)な体格。",
+choice1: "貧弱",
+choice2: "賓弱",
+choice3: "貧溺",
+answer: 1,
+},
+
+{
+id: "A3715",
+question: "ケーキを(きんとう)に切り分ける。",
+choice1: "拘寺",
+choice2: "鈞等",
+choice3: "均等",
+answer: 3,
+},
+
+{
+id: "A3716",
+question: "(ひんぷ)の差が大きいことが問題だ。",
+choice1: "貧富",
+choice2: "貧冨",
+choice3: "貪冨",
+answer: 1,
+},
+
+{
+id: "A3717",
+question: "今年は(ほうさく)だった。",
+choice1: "農昨",
+choice2: "豊乍",
+choice3: "豊作",
+answer: 3,
+},
+
+{
+id: "A3718",
+question: "(じょうとう)なワインをプレゼントされた。",
+choice1: "上寺",
+choice2: "上等",
+choice3: "上持",
+answer: 2,
+},
+
+{
+id: "A3719",
+question: "(とみ)と名声を手にする。",
+choice1: "福",
+choice2: "冨",
+choice3: "富",
+answer: 3,
+},
+
+{
+id: "A3720",
+question: "(ふうき)の家に生まれた。",
+choice1: "幅貴",
+choice2: "富貴",
+choice3: "逼貴",
+answer: 2,
+},
+
+{
+id: "A3721",
+question: "今年は(ほうねん)だろう。",
+choice1: "農年",
+choice2: "豊年",
+choice3: "豊牛",
+answer: 2,
+},
+
 ]
