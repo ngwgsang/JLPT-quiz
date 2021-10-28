@@ -55,6 +55,7 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
+  background: #000;
 }
 
 *,
@@ -1917,7 +1918,7 @@ body {
 }
 
 .certificate .heading .level-box {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 500;
 }
 
