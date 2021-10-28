@@ -3,7 +3,7 @@
     height: 100vh;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     flex-direction: column;
     h3{
         margin-bottom: 0.5rem;
@@ -16,7 +16,7 @@
         flex-direction: column; 
         align-items: center;
         justify-content: flex-start;
-        height: 37rem;
+        height: 48rem;
         overflow-y: scroll;
         &::-webkit-scrollbar {
             width: 0.6rem;
@@ -39,8 +39,22 @@
             border-radius: 0.6rem;
             position: relative;
             gap: 1rem;
+            img{
+                width: 3rem;
+                height: 3rem;
+                position: absolute;
+                left: 0.5rem;
+                top: 50%;
+                transform: translateY(-50%);
+            }
+            &:nth-child(n+6){
+                img{
+                    display: none;
+                }                
+            }
             .name{
-                width: 40%;
+                margin-left: 4%;
+                width: 36%;
                 color: $cl-0;
                 display: flex;
                 align-items: center;
@@ -70,7 +84,8 @@
             }
             .level{
                 height: 4rem;
-                width: 5rem;
+                width: 7rem;
+                padding: 0 0.5rem;
                 border-radius: 0.6rem;
                 display: flex;
                 align-items: center;
@@ -104,4 +119,39 @@
             }
         }
     }
+    .listBtn{
+        position: absolute;
+        top: 50%;
+        right: 2rem;
+        transform: translate(0,-50%);
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-direction: column;
+        background: rgba(0, 0, 0, 0.3);
+        width: 6rem;
+        height: 50vh;
+        margin-bottom: 1rem;
+        border-radius: 0.6rem;
+    }
+    .btn{
+        width: 5rem;
+        height: 4rem;
+        border-radius: 0.6rem;
+        background: $cl-p;
+        color: $cl-f;
+        font-size: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 500;
+    }
+    .btn-active{
+        border: 4px solid #fff;
+    }
+    .rankAllBtn{
+        font-size: 1.2rem;
+    }
 }
+
+

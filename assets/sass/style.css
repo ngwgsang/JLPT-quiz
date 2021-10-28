@@ -1225,9 +1225,9 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
@@ -1254,7 +1254,7 @@ body {
   -webkit-box-pack: start;
       -ms-flex-pack: start;
           justify-content: flex-start;
-  height: 37rem;
+  height: 48rem;
   overflow-y: scroll;
 }
 
@@ -1289,8 +1289,23 @@ body {
   gap: 1rem;
 }
 
+.rankBoard__list li img {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.rankBoard__list li:nth-child(n+6) img {
+  display: none;
+}
+
 .rankBoard__list li .name {
-  width: 40%;
+  margin-left: 4%;
+  width: 36%;
   color: #000;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1341,7 +1356,8 @@ body {
 
 .rankBoard__list li .level {
   height: 4rem;
-  width: 5rem;
+  width: 7rem;
+  padding: 0 0.5rem;
   border-radius: 0.6rem;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1392,6 +1408,58 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+}
+
+.rankBoard .listBtn {
+  position: absolute;
+  top: 50%;
+  right: 2rem;
+  -webkit-transform: translate(0, -50%);
+          transform: translate(0, -50%);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background: rgba(0, 0, 0, 0.3);
+  width: 6rem;
+  height: 50vh;
+  margin-bottom: 1rem;
+  border-radius: 0.6rem;
+}
+
+.rankBoard .btn {
+  width: 5rem;
+  height: 4rem;
+  border-radius: 0.6rem;
+  background: #5105E0;
+  color: #fff;
+  font-size: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-weight: 500;
+}
+
+.rankBoard .btn-active {
+  border: 4px solid #fff;
+}
+
+.rankBoard .rankAllBtn {
+  font-size: 1.2rem;
 }
 
 .certificate {
@@ -1828,10 +1896,11 @@ body {
 }
 
 .rankBoard__list li {
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 .rankBoard__list li .point {
+  font-size: 1.6rem;
   font-weight: 500;
 }
 

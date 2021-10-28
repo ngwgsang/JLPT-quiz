@@ -24,7 +24,7 @@
             <img src="./assets/images/Frame-1.png" alt="" id="frame">
             <div class="container-number">
                 <select multiple name="Level" class="container-number__select" id="select-box">
-                    <option  onclick="changeLevel_All()">Tất cả</option>
+                    <option  onclick="changeLevel_All()">Tự do</option>
                     <option  onclick="changeLevel_N3()">N3</option>
                     <option  onclick="changeLevel_N4()">N4</option>
                     <option  onclick="changeLevel_N5()">N5</option>
@@ -58,7 +58,7 @@
         </div>
 <!---------------------------------------------END-------------------------------------------->
         <div class="end" id ="end">
-            <h1 id="level">All</h1>
+            <h1 id="level">Tự do</h1>
             <h1 id="percentCorrect">0%</h1>
             <h1 id="finalScore">0</h1>
             <img src="./assets/images/gif-1.gif" alt="" id="gif">
@@ -66,7 +66,7 @@
             <form class="end-form-container" onclick="playAudio('./assets/audio/pop.wav');">
                 <input type="text" name="name" id="username" placeholder="Tên bạn là">
                 <!-- <button class="btn" onclick="saveHighScore(event); " id="saveScoreBtn" type="submit"  disabled>Lưu</button> -->
-                <div class="btn" id="saveScoreBtn" onclick="saveScore(); resetGame();" >Lưu</div>
+                <div class="btn" id="saveScoreBtn">Lưu</div>
             </form>
         </div>
 
@@ -80,6 +80,13 @@
 <!---------------------------------------------RANK-------------------------------------------->
         <div class="rankBoard" id="rankBoard">
                 <h3>Bảng phong thần</h3>
+                <div class="listBtn">
+                    <div class="rankAllBtn btn">Tự do</div>
+                    <div class="rankN2Btn btn">N2</div>
+                    <div class="rankN3Btn btn">N3</div>
+                    <div class="rankN4Btn btn">N4</div>
+                    <div class="rankN5Btn btn">N5</div>
+                </div>
                 <ul class="rankBoard__list" id="rankList">
                     <!-- ----chèn list----- -->
                 </ul>
@@ -87,7 +94,7 @@
 <!-----------------------------------------CERTIFICATE------------------------------------------>
         <div class="certificate" id ="certificate">
             <div class="heading">
-                <div class="level-box">All</div>
+                <div class="level-box">Tự do</div>
                 <div class="name-box"><p>Tên</p><div class="o_name">USERNAME</div></div>
                 <div class="time-box"><p>Thời gian hoàn thành</p><div class="o_time">00:00:00</div></div>
                 <div class="score-box"><p>Điểm</p><div class="o_score"></div></div>

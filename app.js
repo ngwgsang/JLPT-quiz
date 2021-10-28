@@ -144,9 +144,9 @@ function getInputValue(){
 let indexQuestions= [];
 indexQuestions = questions;
 function changeLevel_All(){
-    level.innerText= "All";
+    level.innerText= "Tự do";
     score= 0;
-    document.querySelector('.level-box').innerText = "All";
+    document.querySelector('.level-box').innerText = "Tự do";
     level.style = "background: #000;  color: #fff;"
     startBtn.style       = 'background: #fff';
     document.querySelector('.o_list').innerHTML = '';
