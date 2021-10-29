@@ -109,6 +109,16 @@
 
 #frame{
     cursor: pointer;
+    @include btn;
+    bottom: 10rem;
+    right: 2rem;
+    color: $cl-f;
+    background-color: $cl-0;
+    opacity: 0.3;
+    @include respond(phone)
+    {
+        transform: translateX(10rem);
+    }
 }
 
 .preQuestionBtn{
@@ -146,12 +156,8 @@
         bottom: 14rem;
     }
     @include respond(tab){
-        display: none;
         left: 6rem;
         bottom: 2rem;
-    }
-    @include respond (phone){
-        transform: translateX(-10rem);
     }
 }
 

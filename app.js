@@ -15,11 +15,13 @@ const percent                = document.querySelector('#percentCorrect');
 const level                  = document.querySelector('#level');
 const analyticBtn            = document.querySelector('#analyticBtn');
 const certificate            = document.querySelector('#certificate');
+const contentbox             = document.querySelector('#content-box');
 analyticBtn.addEventListener('click', ()=>{
     main.style.display = "none";
     certificate.style.display = "flex";
     returnBtn.style.display= "flex";
     analyticBtn.style.display= "none";
+    playAudio('./assets/audio/pop.wav');
 })
 // Khởi tạo
 document.getElementById('main').style.display             = "flex";
@@ -33,6 +35,7 @@ document.getElementById('rankBoard').style.display        = "none";
 document.getElementById('certificate').style.display      = "none";
 // Quay về
 returnBtn.addEventListener('click', ()=>{
+    playAudio('./assets/audio/pop.wav');
     resetGame();
 });
 // Bắt đầu
@@ -45,7 +48,8 @@ startBtn.addEventListener('click', ()=>{
     document.getElementById('returnBtn').style.display      = "flex";
     document.getElementById('score').style.display          = "flex";
     document.getElementById('preQuestionBtn').style.display = "flex";
-    startBtn.style = 'color: #fff; background: #009FFF';
+    playAudio('./assets/audio/pop.wav');
+    startBtn.style = 'color: #fff; background: #5105E0';
     startBtn.innerHTML = '<p>Tiếp tục</p>'
 });
 // Pre-question board
@@ -54,6 +58,7 @@ preQuestionBoardBtn.addEventListener('click', ()=>{
     document.getElementById('preQuestionBoard').style.display = "flex";
     document.getElementById('returnBtn').style.display        = "flex";
     document.getElementById('analyticBtn').style.display      = "none";
+    playAudio('./assets/audio/pop.wav');
 });
 // Ranking-Board
 rankBtn.addEventListener('click',()=>{
@@ -62,6 +67,8 @@ rankBtn.addEventListener('click',()=>{
     document.getElementById('returnBtn').style.display        = "flex";
     document.getElementById('analyticBtn').style.display      = "none";
     document.getElementById('certificate').style.display      = "none";
+    document.getElementById('frame').style.display         = "none";
+    playAudio('./assets/audio/pop.wav');
 });
 // Save scrore
 let o_name = ''
@@ -81,7 +88,6 @@ saveScoreBtn.addEventListener('click',()=>{
     percent.innerText    = '0%';
     scoreBtn.innerText   = '0';
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
-    startBtn.style       = 'background: #fff';
     resetGame();
 
     // document.getElementById('end').style.display         = "none";
@@ -94,6 +100,7 @@ function resetGame(){
     document.getElementById('rankBtn').style.display          = "flex";
     document.getElementById('docBtn').style.display           = "flex";
     document.getElementById('analyticBtn').style.display      = "flex";
+    document.getElementById('frame').style.display            = "flex";
     document.getElementById('certificate').style.display      = "none";
     document.getElementById('start').style.display            = "none";
     document.getElementById('end').style.display              = "none";
@@ -122,6 +129,7 @@ let MAX_QUESTIONS = questions.length;
 // document.getElementById("number-box").value = 1; 
 document.getElementById("number-box").value = questions.length;
 function getInputValue(){
+    playAudio('./assets/audio/pop.wav');
     var inputVal = document.getElementById("number-box").value;
     MAX_QUESTIONS = inputVal - 1;
     document.getElementById("number-box").innerText = inputVal;
@@ -130,7 +138,6 @@ function getInputValue(){
     document.getElementById('count').innerText = `${questionCounter}/${MAX_QUESTIONS+1}`
     document.querySelector('.o_list').innerHTML = '';
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
-    startBtn.style       = 'background: #fff';
     //Reset chart
     labels.splice(0,labels.length);
     data.datasets[0].data.splice(0,data.datasets[0].data.length);
@@ -145,63 +152,84 @@ let indexQuestions= [];
 indexQuestions = questions;
 function changeLevel_All(){
     level.innerText= "Tự do";
+    contentbox.innerText= "Tự do";
     score= 0;
     document.querySelector('.level-box').innerText = "Tự do";
     level.style = "background: #000;  color: #fff;"
-    startBtn.style       = 'background: #fff';
+    startBtn.innerHTML   = '<i class="fas fa-play"></i>';
     document.querySelector('.o_list').innerHTML = '';
     questions = indexQuestions;
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
-    playAudio('./assets/audio/pop.wav');
+    closeChoiceBoard();
     startGame();
 }
 
 function changeLevel_N3(){
     questions = n3;
     level.innerText= "N3";
-    score= 0;
+    contentbox.innerText = "N3";
     document.querySelector('.level-box').innerText = "N3";
+    score= 0;
+    scoreBtn.innerText = 0;
+    startBtn.innerHTML   = '<i class="fas fa-play"></i>';
     level.style = "background: #FDC830;  color: #fff;"
-    startBtn.style       = 'background: #fff';
     document.querySelector('.o_list').innerHTML = '';
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
-    playAudio('./assets/audio/pop.wav');
+    closeChoiceBoard();
     startGame();
 }
 
 function changeLevel_N4(){
     questions = n4;
     level.innerText= "N4";
-    score= 0;
+    contentbox.innerText = "N4";
     document.querySelector('.level-box').innerText = "N4";
-    startBtn.style       = 'background: #fff';
+    score= 0;
+    scoreBtn.innerText = 0;
+    startBtn.innerHTML   = '<i class="fas fa-play"></i>';
     document.querySelector('.o_list').innerHTML = '';
     level.style = "background: #009FFF;  color: #fff;"
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
-    playAudio('./assets/audio/pop.wav');
+    closeChoiceBoard();
     startGame();
 }
 
 function changeLevel_N5(){
     questions = n5;
     level.innerText= "N5";
-    score= 0;
+    contentbox.innerText = "N5";
     document.querySelector('.level-box').innerText = "N5";
-    startBtn.style       = 'background: #fff';
+    score= 0;
+    scoreBtn.innerText = 0;
     document.querySelector('.o_list').innerHTML = '';
+    startBtn.innerHTML   = '<i class="fas fa-play"></i>';
     level.style = "background: #0f9b0f;  color: #fff;"
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
-    playAudio('./assets/audio/pop.wav');
+    closeChoiceBoard();
     startGame();
 }
+function openChoiceBoard(){
+    document.getElementById('choiceContentBoard').style.display = "flex";
+}
+function closeChoiceBoard(){
+    playAudio('./assets/audio/pop.wav');
+    document.getElementById('choiceContentBoard').style.display = "none";
+}
+document.getElementById('content-box').addEventListener('click', openChoiceBoard)
+document.getElementById('closeBtn').addEventListener('click',closeChoiceBoard)
+document.getElementById('kanjiAll').addEventListener('click',changeLevel_All)
+document.getElementById('kanjiN3').addEventListener('click',changeLevel_N3)
+document.getElementById('kanjiN4').addEventListener('click',changeLevel_N4)
+document.getElementById('kanjiN5').addEventListener('click',changeLevel_N5)
 
 //------------------------------------------>
 function startGame(){
     //Reset chart
+    totalSeconds = 0;
     labels.splice(0,labels.length);
     data.datasets[0].data.splice(0,data.datasets[0].data.length);
     data.datasets[1].data.splice(0,data.datasets[1].data.length);

@@ -61,10 +61,17 @@ body{
 }
 .rankBtn{
     font-size: 3rem;
+    @include respond (phone){
+        font-size: 2rem;
+    }
+}
+
+#frame{
+    font-size: 1.2rem;
 }
 //-----------------------> MAIN
 .main{
-    .container-number{
+    .container{
         *{
             font-size: 2.2rem;
             @include respond(phone){
@@ -74,20 +81,12 @@ body{
         @include respond(phone){
             font-size: 1.2rem;
         }
-        &__select{
-            font-size: 2rem;
-            option{
-                font-size: 1.6rem;
-                @include respond(phone){
-                font-size: 1.2rem;
-                }
-            }
-        }
-        &__box{
-            @include respond(phone){
+        #content-box{
             font-size: 1.4rem;
-            }
         }
+        #number-box{
+            font-size: 1.4rem;
+        }   
         &__btn{
             font-weight: 700;
             font-family: 'Quicksand',sans-serif;
@@ -222,6 +221,10 @@ body{
         font-size: 3rem;
         line-height: 3.1;
         text-transform: uppercase;
+        @include respond(tab){
+            font-size: 1.4rem;
+            line-height: 1.5;
+        }
     }
 
     &__list{
@@ -233,6 +236,26 @@ body{
             }
             .percent{
                 font-weight: 700;
+            }
+            @include respond(phone){
+                .level{
+                    font-size: 1rem;
+                }
+                .point{
+                    font-size: 1rem;
+                }
+                .percent{
+                    font-size: 1rem;
+                }
+                .timeToDone{
+                    font-size: 1rem;
+                }
+                .time{
+                    font-size: 1rem;
+                }
+                .name{
+                    font-size: 1rem;
+                }
             }
         }
     }

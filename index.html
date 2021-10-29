@@ -12,28 +12,53 @@
 <body>
     <div class="wrapper" id="wrapper">
 <!-------------------------------------------BUTTON------------------------------------------->
-        <div class="returnBtn" id="returnBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-undo-alt"></i></div>
+        <div class="returnBtn" id="returnBtn"><i class="fas fa-undo-alt"></i></div>
         <div class="scoreBtn" id="score">0</div>
         <div class="preQuestionBtn" id="preQuestionBtn"></div>
         <a href="https://forms.gle/PJ5ib4EdRPYoewSE7" target="_blank" onclick="playAudio('./assets/audio/pop.wav')"><div class="reportBtn"><i class="fas fa-exclamation"></i><p>Báo lỗi</p></div></a>
         <a href="https://github.com/sangcamap/JLPT-quiz" target="_blank" onclick="playAudio('./assets/audio/pop.wav')"><div class="docBtn" id="docBtn"><i class="fab fa-github-alt"></i></div></a>
         <div class="rankBtn" id="rankBtn"><i class="fas fa-trophy"></i></div>
         <div class="analyticBtn" id="analyticBtn">Phân tích</div>
+        <div class="frameBtn" id="frame">Frame</div>
 <!---------------------------------------------MAIN------------------------------------------->
         <div class="main" id="main">
-            <img src="./assets/images/Frame-1.png" alt="" id="frame">
-            <div class="container-number">
-                <select multiple name="Level" class="container-number__select" id="select-box">
+
+            <div class="container">
+                <!-- <select multiple name="Level" class="container-number__select" id="select-box">
                     <option  onclick="changeLevel_All()">Tự do</option>
                     <option  onclick="changeLevel_N3()">N3</option>
                     <option  onclick="changeLevel_N4()">N4</option>
                     <option  onclick="changeLevel_N5()">N5</option>
-                </select>
-                <input type="number" placeholder="Số lượng" id="number-box" class="container-number__box">
-                <button type="button" onclick="getInputValue(); playAudio('./assets/audio/pop.wav');" class="container-number__btn">OK</button>
+                </select> -->
+                <div>
+                    <div id="content-box">Tự do</div>
+                    <input type="number" placeholder="Số lượng" id="number-box">
+                </div>
+                <button type="button" onclick="getInputValue();" class="container__btn">OK</button>
             </div>
-            <button class="btn startBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-play"></i></button>
-            <button class="btn preQuestionBoardBtn" onclick="playAudio('./assets/audio/pop.wav')"><i class="fas fa-university"></i></button>
+            <button class="btn startBtn"><i class="fas fa-play"></i></button>
+            <button class="btn preQuestionBoardBtn"><i class="fas fa-university"></i></button>
+            <div id="choiceContentBoard">
+                <span id="closeBtn">X</span>
+                <div class="kanji-list">
+                    <h5>漢字</h5>
+                    <ul>
+                        <li id="kanjiAll">Tự do</li>
+                        <li id="kanjiN3">N3</li>
+                        <li id="kanjiN4">N4</li>
+                        <li id="kanjiN5">N5</li>
+                    </ul>
+                </div>
+                <div class="Bunpou-list">
+                    <h5> 文法</h5>
+                    <ul>
+                        <!-- <li>N2</li> -->
+                        <li id="bunpouN3">N3</li>
+                        <li id="bunpouN4">N4</li>
+                        <li id="bunpouN5">N5</li>
+                    </ul>
+                </div>
+            </div>
         </div>
 <!--------------------------------------------START------------------------------------------->
         <div class="start" id="start">
