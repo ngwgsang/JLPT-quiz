@@ -43,7 +43,7 @@ startBtn.addEventListener('click', ()=>{
     document.getElementById('main').style.display           = "none";
     document.getElementById('rankBtn').style.display        = "none";
     document.getElementById('docBtn').style.display         = "none";
-    document.getElementById('analyticBtn').style.display      = "none";
+    document.getElementById('analyticBtn').style.display    = "none";
     document.getElementById('start').style.display          = "flex";
     document.getElementById('returnBtn').style.display      = "flex";
     document.getElementById('score').style.display          = "flex";
@@ -254,6 +254,7 @@ function endGame(){
     document.getElementById('returnBtn').style.display = "none";
     document.getElementById('score').style.display="none";
     document.getElementById('preQuestionBtn').style.display="none";
+    document.getElementById('analyticBtn').style.display = "flex";
     questionCounter = 0;
 }
 
