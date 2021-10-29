@@ -372,7 +372,6 @@ frame=[
 
 var bg_count= 0;
 bg = [
-    'background: linear-gradient(to right,#0f0c29,#302b63,#24243e)',
     'background: linear-gradient(to right,#232526,#414345)',
     'background: linear-gradient(to right,#093028,#093028)',
     'background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url("./assets/theme/Itsukishima Gate Japan/ItsukishimaGateJapan-day/ItsukishimaGateJapan-day.png")',
@@ -381,6 +380,7 @@ bg = [
     'background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)),url("./assets/theme/Mt. Fuji Japan/Mt.FujiJapan-day/Mt.FujiJapan-day.png")',
     'background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)),url("./assets/theme/Mt. Fuji Japan/Mt.FujiJapan-sunset/Mt.FujiJapan-sunset.png")',
     'background: url("./assets/theme/Mt. Fuji Japan/Mt.FujiJapan-night/Mt.FujiJapan-night.png")',
+    'background: linear-gradient(to right,#0f0c29,#302b63,#24243e)',
 ];
 
 var qbg_count= 0;
