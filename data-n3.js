@@ -33504,4 +33504,1375 @@ choice3: "豊牛",
 answer: 2,
 },
 
+{
+id: "A3722",
+question: "私たちはその(規格)を厳しくする。",
+choice1: "きそく",
+choice2: "きかく",
+choice3: "きりつ",
+answer: 2,
+},
+
+{
+id: "A3723",
+question: "(規則)をばかにする。",
+choice1: "きかく",
+choice2: "きそく",
+choice3: "きりつ",
+answer: 2,
+},
+
+{
+id: "A3724",
+question: "新しい(方法)でやってみる。",
+choice1: "ほうほう",
+choice2: "ほうりつ",
+choice3: "ほうぼう",
+answer: 1,
+},
+
+{
+id: "A3725",
+question: "作業を(自律的)に行う。",
+choice1: "じほつてき",
+choice2: "じそくてき",
+choice3: "じりつてき",
+answer: 3,
+},
+
+{
+id: "A3726",
+question: "(規模)を小さくする。",
+choice1: "きそ",
+choice2: "きぼ",
+choice3: "きそく",
+answer: 2,
+},
+
+{
+id: "A3727",
+question: "彼が卒業している大学は(法学部)が有名です。",
+choice1: "ほつがくぶ",
+choice2: "ほうがくぶ",
+choice3: "りつがくぶ",
+answer: 2,
+},
+
+{
+id: "A3728",
+question: "基本(原則)を立てる。",
+choice1: "げんそく",
+choice2: "げんかく",
+choice3: "かんそく",
+answer: 1,
+},
+
+{
+id: "A3729",
+question: "私は(律儀)に守りました。",
+choice1: "りつぎ",
+choice2: "りちぎ",
+choice3: "ほうぎ",
+answer: 2,
+},
+
+{
+id: "A3730",
+question: "(法律)が実施になる。",
+choice1: "ほうりち",
+choice2: "ほうそく",
+choice3: "ほうりつ",
+answer: 3,
+},
+
+{
+id: "A3731",
+question: "彼らは(新規)事業を目指している。",
+choice1: "かんき",
+choice2: "しんき",
+choice3: "しんぎ",
+answer: 2,
+},
+
+{
+id: "A3732",
+question: "彼はこの国で最も有能な(立法)者のひとりだった。",
+choice1: "たっぽう",
+choice2: "はっけ",
+choice3: "りっぽう",
+answer: 3,
+},
+
+{
+id: "A3733",
+question: "その行為は(反則)だ。",
+choice1: "はんそく",
+choice2: "はんりつ",
+choice3: "はんきつ",
+answer: 1,
+},
+
+{
+id: "A3734",
+question: "この宗派は肉食妻帯はご(法度)だ。",
+choice1: "はっと",
+choice2: "ほっけ",
+choice3: "ほっと",
+answer: 1,
+},
+
+{
+id: "A3735",
+question: "私は英語の(文法)が苦手です。",
+choice1: "ぶんりつ",
+choice2: "ぶんぼう",
+choice3: "ぶんぽう",
+answer: 3,
+},
+
+{
+id: "A3736",
+question: "霊鷲山で(法華)経を説いた。",
+choice1: "はっけ",
+choice2: "ほっと",
+choice3: "ほっけ",
+answer: 3,
+},
+
+{
+id: "A3737",
+question: "規律は(厳しく)守らせる。",
+choice1: "きりつ",
+choice2: "きそく",
+choice3: "きぼう",
+answer: 1,
+},
+
+{
+id: "A3738",
+question: "自然の(法則)に従う。",
+choice1: "ほうりつ",
+choice2: "ほうそく",
+choice3: "ぼうそく",
+answer: 2,
+},
+
+{
+id: "A3739",
+question: "私の休みは(変則的)です。",
+choice1: "へんぞくてき",
+choice2: "へんそくてき",
+choice3: "へんりつてき",
+answer: 2,
+},
+
+{
+id: "A3740",
+question: "(ほうがくぶ)進学を目指している。",
+choice1: "琺学部",
+choice2: "法学部",
+choice3: "去学陪",
+answer: 2,
+},
+
+{
+id: "A3741",
+question: "国会は日本の(りっぽう)機関である。",
+choice1: "立法",
+choice2: "拉法",
+choice3: "位去",
+answer: 1,
+},
+
+{
+id: "A3742",
+question: "会社の(きそく)をやぶる。",
+choice1: "膿家",
+choice2: "濃家",
+choice3: "規則",
+answer: 3,
+},
+
+{
+id: "A3743",
+question: "(はっと)とは禁止されている事柄のこと。",
+choice1: "去席",
+choice2: "法度",
+choice3: "法席",
+answer: 2,
+},
+
+{
+id: "A3744",
+question: "何かいい(ほうほう)がないか考える。",
+choice1: "訪法",
+choice2: "万去",
+choice3: "方法",
+answer: 3,
+},
+
+{
+id: "A3745",
+question: "(きりつ)正しいい生活を送る。",
+choice1: "規則",
+choice2: "規律",
+choice3: "視聿",
+answer: 2,
+},
+
+{
+id: "A3746",
+question: "祝日は(ほうりつ)で決められている。",
+choice1: "法律",
+choice2: "法聿",
+choice3: "方律",
+answer: 1,
+},
+
+{
+id: "A3747",
+question: "(しんき)に回転んしたカラオケ店にいく。",
+choice1: "新則",
+choice2: "親律",
+choice3: "新規",
+answer: 3,
+},
+
+{
+id: "A3748",
+question: "海外の(ほっけ)講。",
+choice1: "法崋",
+choice2: "法華",
+choice3: "去菫",
+answer: 2,
+},
+
+{
+id: "A3749",
+question: "細かい心づかいのできる(りちぎ)な人だ。",
+choice1: "律儀",
+choice2: "聿義",
+choice3: "津議",
+answer: 1,
+},
+
+{
+id: "A3750",
+question: "すべては自然の(ほうそく)にしたがって動く。",
+choice1: "去側",
+choice2: "法則",
+choice3: "法測",
+answer: 2,
+},
+
+{
+id: "A3751",
+question: "検査に合格した(きかく)品。",
+choice1: "規格",
+choice2: "槻各",
+choice3: "現挌",
+answer: 1,
+},
+
+{
+id: "A3752",
+question: "会社の(きぼ)を広げる。",
+choice1: "規暮",
+choice2: "現墓",
+choice3: "規模",
+answer: 3,
+},
+
+{
+id: "A3753",
+question: "(へんそく)てきなスケジュール。",
+choice1: "変則",
+choice2: "恋側",
+choice3: "変測",
+answer: 1,
+},
+
+{
+id: "A3754",
+question: "(じりつてき)な人材を求める。",
+choice1: "目葎的",
+choice2: "白津的",
+choice3: "自律的",
+answer: 3,
+},
+
+{
+id: "A3755",
+question: "(はんそく)をして退場させられる。",
+choice1: "坂則",
+choice2: "反則",
+choice3: "阪側",
+answer: 2,
+},
+
+{
+id: "A3756",
+question: "金の貸し借りはしないというのが私の(げんそく)だ。",
+choice1: "原測",
+choice2: "源則",
+choice3: "原則",
+answer: 3,
+},
+
+{
+id: "A3757",
+question: "(ぶんぽう)の勉強は難しい。",
+choice1: "文去",
+choice2: "文法",
+choice3: "文怯",
+answer: 2,
+},
+
+{
+id: "A3758",
+question: "運転(免許)を取った。",
+choice1: "かんきょ",
+choice2: "めんきょ",
+choice3: "けんきょう",
+answer: 2,
+},
+
+{
+id: "A3759",
+question: "何か(用件)がありましたら、こちらまでメールをください。",
+choice1: "ようかん",
+choice2: "ようけん",
+choice3: "よけん",
+answer: 2,
+},
+
+{
+id: "A3760",
+question: "君の喫煙を(禁じる)。",
+choice1: "きんじる",
+choice2: "しんじる",
+choice3: "ぎんじる",
+answer: 1,
+},
+
+{
+id: "A3761",
+question: "労(働条)件を改善する。",
+choice1: "きょうけん",
+choice2: "じょうきょう",
+choice3: "じょうけん",
+answer: 3,
+},
+
+{
+id: "A3762",
+question: "彼はすぐ人を(許す)。",
+choice1: "しるす",
+choice2: "ゆるす",
+choice3: "ゆしす",
+answer: 2,
+},
+
+{
+id: "A3763",
+question: "そこでは飲食は(禁止)だ。",
+choice1: "きんと",
+choice2: "きんし",
+choice3: "きんとう",
+answer: 2,
+},
+
+{
+id: "A3764",
+question: "(事件)は君に任せる。",
+choice1: "じけん",
+choice2: "しけん",
+choice3: "じきょう",
+answer: 1,
+},
+
+{
+id: "A3765",
+question: "わたしは(禁酒)中です。",
+choice1: "けんしゅ",
+choice2: "きんしゅ",
+choice3: "ぎんしゅう",
+answer: 2,
+},
+
+{
+id: "A3766",
+question: "私たちは彼の乗船を(許可)した。",
+choice1: "きょかん",
+choice2: "きょうか",
+choice3: "きょか",
+answer: 3,
+},
+
+{
+id: "A3767",
+question: "彼はものすごくこの(物件)を気に入っている。",
+choice1: "ものけん",
+choice2: "ぶっけん",
+choice3: "ぶつけん",
+answer: 2,
+},
+
+{
+id: "A3768",
+question: "あなたはこの考えを(許容)できますか？。",
+choice1: "ゆるよう",
+choice2: "きょゆう",
+choice3: "きょよう",
+answer: 3,
+},
+
+{
+id: "A3769",
+question: "この部屋は(禁煙)です。",
+choice1: "きんえん",
+choice2: "きんしゅ",
+choice3: "きんけつ",
+answer: 1,
+},
+
+{
+id: "A3770",
+question: "交通事故の(件数)が増加している。",
+choice1: "けんすう",
+choice2: "きょうすう",
+choice3: "けんかず",
+answer: 1,
+},
+
+{
+id: "A3771",
+question: "車の通行を(きんし)する。",
+choice1: "埜止",
+choice2: "禁止",
+choice3: "楚正",
+answer: 2,
+},
+
+{
+id: "A3772",
+question: "彼のまちがいを(ゆるす)。",
+choice1: "許す",
+choice2: "計す",
+choice3: "訐す",
+answer: 1,
+},
+
+{
+id: "A3773",
+question: "(じょうけん)を満たした人だけが応募できる。",
+choice1: "条仟",
+choice2: "條件",
+choice3: "条件",
+answer: 3,
+},
+
+{
+id: "A3774",
+question: "医者にタバコを(きんじられる)。",
+choice1: "埜じられる",
+choice2: "禁じられる",
+choice3: "楚じられる",
+answer: 2,
+},
+
+{
+id: "A3775",
+question: "入学を(きょか)する。",
+choice1: "討可",
+choice2: "計何",
+choice3: "許可",
+answer: 3,
+},
+
+{
+id: "A3776",
+question: "未解決の(じけん)がようやく解決した。",
+choice1: "書件",
+choice2: "事件",
+choice3: "事牛",
+answer: 2,
+},
+
+{
+id: "A3777",
+question: "運転(めんきょ)を取る。",
+choice1: "免許",
+choice2: "晩訐",
+choice3: "俛計",
+answer: 1,
+},
+
+{
+id: "A3778",
+question: "駅の近くの(ぶっけん)をさがす。",
+choice1: "物任",
+choice2: "物侏",
+choice3: "物件",
+answer: 3,
+},
+
+{
+id: "A3779",
+question: "多少のミスは(きょよう)する。",
+choice1: "訐溶",
+choice2: "許容",
+choice3: "託容",
+answer: 2,
+},
+
+{
+id: "A3780",
+question: "今年こそ(きんしゅ)するつもりだ。",
+choice1: "禁酒",
+choice2: "埜酉",
+choice3: "森酒",
+answer: 1,
+},
+
+{
+id: "A3781",
+question: "携帯電話の登録(けんすう)。",
+choice1: "牛数",
+choice2: "件数",
+choice3: "侏数",
+answer: 2,
+},
+
+{
+id: "A3782",
+question: "取り急ぎ、メールで(ようけん)だけ伝える。",
+choice1: "用件",
+choice2: "用侏",
+choice3: "用佚",
+answer: 1,
+},
+
+{
+id: "A3783",
+question: "ここは(きんえん)です。",
+choice1: "婪煙",
+choice2: "歴要",
+choice3: "禁煙",
+answer: 3,
+},
+
+{
+id: "A3784",
+question: "彼はひどい(罪悪感)を持っていた。",
+choice1: "とうざん",
+choice2: "ざいあくかん",
+choice3: "どうさん",
+answer: 2,
+},
+
+{
+id: "A3785",
+question: "私の疑問は(解決)されました。",
+choice1: "きもん",
+choice2: "ぎもん",
+choice3: "ぎかん",
+answer: 2,
+},
+
+{
+id: "A3786",
+question: "殺人の罪を(犯す)。",
+choice1: "おかす",
+choice2: "あかす",
+choice3: "さかす",
+answer: 1,
+},
+
+{
+id: "A3787",
+question: "私は、美容院へ行く(予定)です。",
+choice1: "しょうみせ",
+choice2: "しょてん",
+choice3: "びよういん",
+answer: 3,
+},
+
+{
+id: "A3788",
+question: "自分の目を(疑う)。",
+choice1: "うかぎう",
+choice2: "うたがう",
+choice3: "うたぎう",
+answer: 2,
+},
+
+{
+id: "A3789",
+question: "私は彼が(犯人)だと知った。",
+choice1: "ざんにん",
+choice2: "はんにん",
+choice3: "ぼうにん",
+answer: 2,
+},
+
+{
+id: "A3790",
+question: "自動販売機１は、(防犯)カメラを備えている。",
+choice1: "ぼうはん",
+choice2: "ぼうさん",
+choice3: "ぼうざん",
+answer: 1,
+},
+
+{
+id: "A3791",
+question: "彼女は(犯罪)を犯した。",
+choice1: "はんぼう",
+choice2: "はんざい",
+choice3: "はんさい",
+answer: 2,
+},
+
+{
+id: "A3792",
+question: "CD は記憶(容量)がとても大きい。",
+choice1: "こうひょう",
+choice2: "ほうりょう",
+choice3: "ようりょう",
+answer: 3,
+},
+
+{
+id: "A3793",
+question: "その本は(内容)がある。",
+choice1: "のうよう",
+choice2: "ないよう",
+choice3: "こうよう",
+answer: 2,
+},
+
+{
+id: "A3794",
+question: "警察は(容疑者)を捕えた。",
+choice1: "ようきもの",
+choice2: "ぼうぎしゃ",
+choice3: "ようぎしゃ",
+answer: 3,
+},
+
+{
+id: "A3795",
+question: "彼は講義の後で(質疑)応答の時間をとった。",
+choice1: "しつぎ",
+choice2: "しっぎ",
+choice3: "しつき",
+answer: 1,
+},
+
+{
+id: "A3796",
+question: "このホテルには約1,500人の客を(収)容できる。",
+choice1: "しゅうよう",
+choice2: "きゅうよう",
+choice3: "じゅうよう",
+answer: 1,
+},
+
+{
+id: "A3797",
+question: "(罪)を犯したら、償わなければなりません。",
+choice1: "はん",
+choice2: "さい",
+choice3: "つみ",
+answer: 3,
+},
+
+{
+id: "A3798",
+question: "そこへは(容易)に行ける。",
+choice1: "ほうい",
+choice2: "よくい",
+choice3: "ようい",
+answer: 3,
+},
+
+{
+id: "A3799",
+question: "彼の言うことには(半信半疑)だ。",
+choice1: "はんしはんぎ",
+choice2: "はんしんはんぎ",
+choice3: "ばんしばんぎ",
+answer: 2,
+},
+
+{
+id: "A3800",
+question: "(ぼうはん)カメラを取り付ける。",
+choice1: "坊氾",
+choice2: "防犯",
+choice3: "防范",
+answer: 2,
+},
+
+{
+id: "A3801",
+question: "相手に(つみ)をかぶせて自分はうまくにげる。",
+choice1: "罪",
+choice2: "暃",
+choice3: "扉",
+answer: 1,
+},
+
+{
+id: "A3802",
+question: "大切な試験でミスを(おかす)。",
+choice1: "犯かす",
+choice2: "氾す",
+choice3: "犯す",
+answer: 3,
+},
+
+{
+id: "A3803",
+question: "(びよういん)でかみを切ってもらった。",
+choice1: "実熔院",
+choice2: "美容院",
+choice3: "美谷続",
+answer: 2,
+},
+
+{
+id: "A3804",
+question: "会社の(ほうしん)にぎもんを持つ。",
+choice1: "疑門",
+choice2: "擬問",
+choice3: "疑問",
+answer: 3,
+},
+
+{
+id: "A3805",
+question: "私のケーキを食べた(はんにん)をさがす。",
+choice1: "氾人",
+choice2: "犯人",
+choice3: "范入",
+answer: 2,
+},
+
+{
+id: "A3806",
+question: "テキストの(ないよう)をくわしく説明する。",
+choice1: "内容",
+choice2: "内蓉",
+choice3: "内浴",
+answer: 1,
+},
+
+{
+id: "A3807",
+question: "事件の(ようぎしゃ)がたいほされる。",
+choice1: "容擬煮",
+choice2: "浴擬者",
+choice3: "容疑者",
+answer: 3,
+},
+
+{
+id: "A3808",
+question: "(ざいあくかん)にくるしむ。",
+choice1: "扉悪緘",
+choice2: "罪悪感",
+choice3: "暃悪憾",
+answer: 2,
+},
+
+{
+id: "A3809",
+question: "(はんざい)の発生件数がぞうかしている。",
+choice1: "犯罪",
+choice2: "氾扉",
+choice3: "犯扉",
+answer: 1,
+},
+
+{
+id: "A3810",
+question: "説明のあと、(しつぎ)おうとうを行う。",
+choice1: "賢擬",
+choice2: "質疑",
+choice3: "貿疑",
+answer: 2,
+},
+
+{
+id: "A3811",
+question: "会場の(しゅうよう)人数を調べる。",
+choice1: "攻榕",
+choice2: "收容",
+choice3: "収容",
+answer: 3,
+},
+
+{
+id: "A3812",
+question: "これは(ようい)に解ける問題ではない。",
+choice1: "容易",
+choice2: "谷昜",
+choice3: "容湯",
+answer: 1,
+},
+
+{
+id: "A3813",
+question: "私がはんにんだと(うたがわれた)。",
+choice1: "疑がわれた",
+choice2: "擬われた",
+choice3: "疑われた",
+answer: 3,
+},
+
+{
+id: "A3814",
+question: "(はんしんはんぎ)で話を聞く。",
+choice1: "判信判疑",
+choice2: "半信半疑",
+choice3: "伴信伴擬",
+answer: 2,
+},
+
+{
+id: "A3815",
+question: "パソコンの空き(ようりょう)を調べる。",
+choice1: "浴量",
+choice2: "溶糧",
+choice3: "容量",
+answer: 3,
+},
+
+
+{
+id: "A3816",
+question: "人と人が(争う)。",
+choice1: "からそう",
+choice2: "あらそう",
+choice3: "あわそう",
+answer: 2,
+},
+
+{
+id: "A3817",
+question: "(兵士)を訓練する。",
+choice1: "ひんし",
+choice2: "へいし",
+choice3: "びんし",
+answer: 2,
+},
+
+{
+id: "A3818",
+question: "(争い)が示談になった。",
+choice1: "あらそい",
+choice2: "あわそい",
+choice3: "からそい",
+answer: 1,
+},
+
+{
+id: "A3819",
+question: "(軍)が兵器を用いて戦う。",
+choice1: "くみ",
+choice2: "くん",
+choice3: "ぐん",
+answer: 3,
+},
+
+{
+id: "A3820",
+question: "(兵)がバタバタ倒れた。",
+choice1: "へし",
+choice2: "へい",
+choice3: "びん",
+answer: 2,
+},
+
+{
+id: "A3821",
+question: "私は(戦争)に反対です。",
+choice1: "ぜんしょ",
+choice2: "せんそう",
+choice3: "せんしょ",
+answer: 2,
+},
+
+{
+id: "A3822",
+question: "(陸軍)は昇進が遅い。",
+choice1: "りくぐん",
+choice2: "くうぐん",
+choice3: "かいぐん",
+answer: 1,
+},
+
+{
+id: "A3823",
+question: "軍隊に(兵糧)を供給する。",
+choice1: "へいろう",
+choice2: "ひょうろう",
+choice3: "へいりょう",
+answer: 2,
+},
+
+{
+id: "A3824",
+question: "彼女は予選で(敗退)した。",
+choice1: "しょうはい",
+choice2: "たいはい",
+choice3: "はいたい",
+answer: 3,
+},
+
+{
+id: "A3825",
+question: "(勝敗)は問題ではない。",
+choice1: "しょうばい",
+choice2: "しょうはい",
+choice3: "しょばい",
+answer: 2,
+},
+
+{
+id: "A3826",
+question: "私は彼と(競争)した。",
+choice1: "ちょうそう",
+choice2: "せんそう",
+choice3: "きょうそう",
+answer: 3,
+},
+
+{
+id: "A3827",
+question: "軍が(兵器)を用いて戦う。",
+choice1: "へいき",
+choice2: "ぴんき",
+choice3: "しんき",
+answer: 1,
+},
+
+{
+id: "A3828",
+question: "戦いにおいて(不敗)である。",
+choice1: "ふはい",
+choice2: "ふばい",
+choice3: "ふぱい",
+answer: 1,
+},
+
+{
+id: "A3829",
+question: "(一軍)に到達する。",
+choice1: "いっぐん",
+choice2: "いちくん",
+choice3: "いちぐん",
+answer: 3,
+},
+
+{
+id: "A3830",
+question: "戦いに(敗れる)。",
+choice1: "あぶれる",
+choice2: "まぶれる",
+choice3: "やぶれる",
+answer: 3,
+},
+
+{
+id: "A3831",
+question: "私は(海軍)に入った。",
+choice1: "かいぐん",
+choice2: "りくぐん",
+choice3: "くうぐん",
+answer: 1,
+},
+
+{
+id: "A3832",
+question: "我々のチームは初戦で(大敗)した。",
+choice1: "だいはい",
+choice2: "たいはい",
+choice3: "だいばい",
+answer: 2,
+},
+
+{
+id: "A3833",
+question: "父は(空軍)のロードマスターだ。",
+choice1: "こうぐん",
+choice2: "くうぐん",
+choice3: "かいぐん",
+answer: 2,
+},
+
+{
+id: "A3834",
+question: "(失敗)に力を落とすな。",
+choice1: "しっぱい",
+choice2: "しつはい",
+choice3: "しっばい",
+answer: 1,
+},
+
+{
+id: "A3835",
+question: "父のいさんをめぐって兄弟で(あらそう)。",
+choice1: "筝う",
+choice2: "争う",
+choice3: "浄う",
+answer: 2,
+},
+
+{
+id: "A3836",
+question: "一点差で相手チ―ムに(やぶれた)。",
+choice1: "敗れた",
+choice2: "則れた",
+choice3: "財れた",
+answer: 1,
+},
+
+{
+id: "A3837",
+question: "両国は(へいき)をへらすことで同意した。",
+choice1: "岳器",
+choice2: "浜器",
+choice3: "兵器",
+answer: 3,
+},
+
+{
+id: "A3838",
+question: "隣の国と(せんそう)になる。",
+choice1: "戦浄",
+choice2: "戦争",
+choice3: "戟争",
+answer: 2,
+},
+
+{
+id: "A3839",
+question: "(しょうはい)は時の運にも左右される。",
+choice1: "勝則",
+choice2: "券敗",
+choice3: "勝敗",
+answer: 3,
+},
+
+{
+id: "A3840",
+question: "試合で(たいはい)する。",
+choice1: "犬則",
+choice2: "大敗",
+choice3: "太賠",
+answer: 2,
+},
+
+{
+id: "A3841",
+question: "多くの(へい)がいのちを落とす。",
+choice1: "兵",
+choice2: "浜",
+choice3: "近",
+answer: 1,
+},
+
+{
+id: "A3842",
+question: "このチームは(ふはい)をほこっている。",
+choice1: "不肺",
+choice2: "下賠",
+choice3: "不敗",
+answer: 3,
+},
+
+{
+id: "A3843",
+question: "(ぐん)を率いて、てきちに向かって進む。",
+choice1: "渾",
+choice2: "軍",
+choice3: "運",
+answer: 2,
+},
+
+{
+id: "A3844",
+question: "何事も(しっぱい)はせいこうのもと。",
+choice1: "失敗",
+choice2: "夫財",
+choice3: "矢敗",
+answer: 1,
+},
+
+{
+id: "A3845",
+question: "両社の(あらそい)にまきこまれる。",
+choice1: "浄い",
+choice2: "争い",
+choice3: "争そい",
+answer: 2,
+},
+
+{
+id: "A3846",
+question: "初戦で(はいたい)してしまった。",
+choice1: "敗退",
+choice2: "敗浪",
+choice3: "賠浪",
+answer: 1,
+},
+
+{
+id: "A3847",
+question: "(くうぐん)に入隊する。",
+choice1: "控軍",
+choice2: "究運",
+choice3: "空軍",
+answer: 3,
+},
+
+{
+id: "A3848",
+question: "努力して(いちぐん)に上がった。",
+choice1: "一軍",
+choice2: "一運",
+choice3: "一渾",
+answer: 1,
+},
+
+{
+id: "A3849",
+question: "ロシアは(かいぐん)が不得意だ。",
+choice1: "梅軍",
+choice2: "毎渾",
+choice3: "海軍",
+answer: 3,
+},
+
+{
+id: "A3850",
+question: "選挙の(きょうそう)は激しかった。",
+choice1: "兢争",
+choice2: "競争",
+choice3: "竸浄",
+answer: 2,
+},
+
+{
+id: "A3851",
+question: "(へいし)を訓練する。",
+choice1: "浜土",
+choice2: "斥士",
+choice3: "兵士",
+answer: 3,
+},
+
+{
+id: "A3852",
+question: "軍隊に(ひょうろう)を供給する。",
+choice1: "浜量",
+choice2: "兵糧",
+choice3: "丘糧",
+answer: 2,
+},
+
+{
+id: "A3853",
+question: "(りくぐん)人になっているい。",
+choice1: "淕渾",
+choice2: "陸軍",
+choice3: "控運",
+answer: 2,
+},
+
+
+{
+id: "A3854",
+question: "(総理大臣)の名前を知らないことを恥ずかしく思った。",
+choice1: "とうりだいじん",
+choice2: "そうりだいじん",
+choice3: "こうりだいしん",
+answer: 2,
+},
+
+{
+id: "A3855",
+question: "(役所)は4時に引けます。",
+choice1: "やうしょ",
+choice2: "やくしょ",
+choice3: "やっしょ",
+answer: 2,
+},
+
+{
+id: "A3856",
+question: "(兵役)は国家に対する義務である。",
+choice1: "へいやく",
+choice2: "ひんやく",
+choice3: "へいたつ",
+answer: 1,
+},
+
+{
+id: "A3857",
+question: "彼は(大臣)を辞めた。",
+choice1: "おおしん",
+choice2: "たいじん",
+choice3: "だいじん",
+answer: 3,
+},
+
+{
+id: "A3858",
+question: "私は(役員)になった。",
+choice1: "よういん",
+choice2: "やくいん",
+choice3: "よくいん",
+answer: 2,
+},
+
+{
+id: "A3859",
+question: "(使役形)を勉強しました。",
+choice1: "しやくけい",
+choice2: "しえきけい",
+choice3: "しえきかたち",
+answer: 2,
+},
+
+{
+id: "A3860",
+question: "(役割)をくじで決めよう。",
+choice1: "やくわり",
+choice2: "さいわり",
+choice3: "そくわり",
+answer: 1,
+},
+
+{
+id: "A3861",
+question: "(臣下)が天皇の問いに答える。",
+choice1: "きょか",
+choice2: "しんか",
+choice3: "じんか",
+answer: 2,
+},
+
+{
+id: "A3862",
+question: "そんな(大役)、自信ないんですが。",
+choice1: "だいやく",
+choice2: "だいじん",
+choice3: "たいやく",
+answer: 3,
+},
+
+{
+id: "A3863",
+question: "その映画は(配役)がよかった。",
+choice1: "ばいよく",
+choice2: "はいやく",
+choice3: "はいたつ",
+answer: 2,
+},
+
+{
+id: "A3864",
+question: "(やくしょ)で転入の手続きをする。",
+choice1: "没所",
+choice2: "役所",
+choice3: "投所",
+answer: 2,
+},
+
+{
+id: "A3865",
+question: "新作ドラマの(はいやく)が発表される。",
+choice1: "配役",
+choice2: "酌投",
+choice3: "酊殳",
+answer: 1,
+},
+
+{
+id: "A3866",
+question: "新しい(だいじん)がほうふを語った。",
+choice1: "大巨",
+choice2: "太宦",
+choice3: "大臣",
+answer: 3,
+},
+
+{
+id: "A3867",
+question: "自分にあたえられた(やくわり)を果たす。",
+choice1: "殳剖",
+choice2: "役割",
+choice3: "投刮",
+answer: 2,
+},
+
+{
+id: "A3868",
+question: "(へいやく)につくことが定められている。",
+choice1: "匠役",
+choice2: "浜投",
+choice3: "兵役",
+answer: 3,
+},
+
+{
+id: "A3869",
+question: "友人の会社の(やくいん)になる。",
+choice1: "投貝",
+choice2: "役員",
+choice3: "没音",
+answer: 2,
+},
+
+{
+id: "A3870",
+question: "(しえきけい)を覚える。",
+choice1: "使役形",
+choice2: "使没形",
+choice3: "吏役形",
+answer: 1,
+},
+
+{
+id: "A3871",
+question: "日本のないかく(そうりだいじん)。",
+choice1: "総裡太巨",
+choice2: "聡裡犬臣",
+choice3: "総理大臣",
+answer: 3,
+},
+
+{
+id: "A3872",
+question: "会議で議長の(たいやく)を果たす。",
+choice1: "犬殳",
+choice2: "大役",
+choice3: "大投",
+answer: 2,
+},
+
+{
+id: "A3873",
+question: "皇女が(しんか)に降嫁する。",
+choice1: "臣下",
+choice2: "巨下",
+choice3: "拒不",
+answer: 1,
+},
+
+
 ]
