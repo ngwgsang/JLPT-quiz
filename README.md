@@ -5,14 +5,16 @@
 
 :raccoon:  Repo này mình viết ra với mục đích chính chia sẻ kiến thức và tạo một môi trường nho nhỏ để luyện thi JLPT.
 
-:raccoon:  Quiz này bao gồm một bộ các câu hỏi về **[KANJI]** , **[TỪ VỰNG]**.
+:raccoon:  Quiz này bao gồm một bộ các câu hỏi về **[KANJI]** , **[BUNPOU]**.
 
 :raccoon:  Mình sẽ cập nhật các thông tin về các bộ câu hỏi sau mỗi lần push. 
 ## Sử dụng
 
-:fire:	Các bạn truy cập tại đây [JLPT Quiz](https://sangcamap.github.io/JLPT-quiz/)
+:fire: :fire:	Các bạn truy cập tại đây [JLPT Quiz](https://sangcamap.github.io/JLPT-quiz/)
 
-:fire:	Ngoài ra, mình có một gợi ý nhỏ các bạn nên sử dụng kết hợp [Extensions Nobitago](https://chrome.google.com/webstore/detail/nobitago/phkjgidaednepcinnjgofdfjmajjngji?hl=vi) để có thể đạt được hiệu quả cao trong quá trình ôn tập 
+:fire: :fire:	Ngoài ra, mình có một gợi ý nhỏ các bạn nên sử dụng kết hợp [Extensions Nobitago](https://chrome.google.com/webstore/detail/nobitago/phkjgidaednepcinnjgofdfjmajjngji?hl=vi) để có thể đạt được hiệu quả cao trong quá trình ôn tập 
+
+:fire: :fire: Together: Hiện tại các bạn lưu lại thành tích của mình trong bảng xếp hạng !!!
 
 ## :cherry_blossom:	 Thông tin về các bộ câu hỏi
 ID |Số        |Cấp độ  |Nội dung         |Phạm vi   |Cập nhập lần cuối  |Authors
@@ -32,6 +34,7 @@ I  |0001-0740 |N4      |Kanji N4 Test    |    X     |19/10/2021 |[chellyyyy](htt
 
 
 ## :cherry_blossom:	 P/S
+
 :raccoon:  Dữ liệu public các bạn cần cứ clone về dùng tự do chỉ cần để credit mình là được rồi :wink: :wink:
 
 :raccoon:  Để thực hiện project này mình tham khảo và làm theo [Brian Design](https://youtu.be/f4fB9Xg2JEY)  
