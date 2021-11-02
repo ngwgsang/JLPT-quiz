@@ -111,7 +111,7 @@ function resetGame(){
     document.getElementById('rankBoard').style.display        = "none"; 
 }
 //start
-let questions =[...n3,...n4,...n5];   // vì nó trỏ đến các mảng khác nên ưu tiên để lên đây
+let questions =[...n3,...n4];   // vì nó trỏ đến các mảng khác nên ưu tiên để lên đây
 const question  = document.querySelector('#question');
 const choices   = Array.from(document.querySelectorAll('.choice-text'));
 const scoreText = document.querySelector('#score');
@@ -150,28 +150,57 @@ document.querySelector('#number-box').addEventListener('keyup', () =>{
 
 //------------------------------------------>
 // Lưu lại tổng số câu ra chỗ riêng
-let indexQuestions= [];
-indexQuestions = questions;
-function changeLevel_All(){
+let indexQuestionsFull= [...n3,...n4];
+function changeLevel_Full(){
     level.innerText= "Tự do";
-    contentbox.innerText= "Tự do";
+    contentbox.innerText= "Tất cả";
     score= 0;
-    document.querySelector('.level-box').innerText = "Tự do";
+    document.querySelector('.level-box').innerText = "Tất cả";
     level.style = "background: #000;  color: #fff;"
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
     document.querySelector('.o_list').innerHTML = '';
-    questions = indexQuestions;
+    questions = indexQuestionsFull;
+    MAX_QUESTIONS = questions.length;
+    document.getElementById("number-box").value = questions.length;
+    closeChoiceBoard();
+    startGame();
+}
+let indexQuestionsN3= [...n3kanji,...n3bunpou];
+function changeLevel_N3All(){
+    level.innerText= "Tự do";
+    contentbox.innerText= "Tự do N3";
+    score= 0;
+    document.querySelector('.level-box').innerText = "Tự do N3";
+    level.style = "background: #000;  color: #fff;"
+    startBtn.innerHTML   = '<i class="fas fa-play"></i>';
+    document.querySelector('.o_list').innerHTML = '';
+    questions = indexQuestionsN3;
+    MAX_QUESTIONS = questions.length;
+    document.getElementById("number-box").value = questions.length;
+    closeChoiceBoard();
+    startGame();
+}
+let indexQuestionsN4= [...n4kanji,...n4bunpou];
+function changeLevel_N4All(){
+    level.innerText= "Tự do";
+    contentbox.innerText= "Tự do N4";
+    score= 0;
+    document.querySelector('.level-box').innerText = "Tự do N4";
+    level.style = "background: #000;  color: #fff;"
+    startBtn.innerHTML   = '<i class="fas fa-play"></i>';
+    document.querySelector('.o_list').innerHTML = '';
+    questions = indexQuestionsN4;
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
     closeChoiceBoard();
     startGame();
 }
 
-function changeLevel_N3(){
-    questions = n3;
-    level.innerText= "N3";
-    contentbox.innerText = "N3";
-    document.querySelector('.level-box').innerText = "N3";
+function changeLevel_kanjiN3(){
+    questions = n3kanji;
+    level.innerText= "Kanji N3";
+    contentbox.innerText = "Kanji N3";
+    document.querySelector('.level-box').innerText = "Kanji N3";
     score= 0;
     scoreBtn.innerText = 0;
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
@@ -183,11 +212,11 @@ function changeLevel_N3(){
     startGame();
 }
 
-function changeLevel_N4(){
+function changeLevel_kanjiN4(){
     questions = n4;
-    level.innerText= "N4";
-    contentbox.innerText = "N4";
-    document.querySelector('.level-box').innerText = "N4";
+    level.innerText= "Kanji N4";
+    contentbox.innerText = "Kanji N4";
+    document.querySelector('.level-box').innerText = "Kanji N4";
     score= 0;
     scoreBtn.innerText = 0;
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
@@ -199,21 +228,54 @@ function changeLevel_N4(){
     startGame();
 }
 
-function changeLevel_N5(){
-    questions = n5;
-    level.innerText= "N5";
-    contentbox.innerText = "N5";
-    document.querySelector('.level-box').innerText = "N5";
+
+// let indexQuestionsBunpou= [...n3bunpou];
+// function changeLevel_bunpouAll(){
+//     level.innerText= "Tự do";
+//     contentbox.innerText= "Tự do";
+//     score= 0;
+//     document.querySelector('.level-box').innerText = "Tự do";
+//     level.style = "background: #000;  color: #fff;"
+//     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
+//     document.querySelector('.o_list').innerHTML = '';
+//     questions = indexQuestionsBunpou;
+//     MAX_QUESTIONS = questions.length;
+//     document.getElementById("number-box").value = questions.length;
+//     closeChoiceBoard();
+//     startGame();
+// }
+function changeLevel_bunpouN3(){
+    questions = n3bunpou;
+    level.innerText= "Bunpou N3";
+    contentbox.innerText = "Bunpou N3";
+    document.querySelector('.level-box').innerText = "Bunpou N3";
     score= 0;
     scoreBtn.innerText = 0;
-    document.querySelector('.o_list').innerHTML = '';
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
-    level.style = "background: #0f9b0f;  color: #fff;"
+    level.style = "background: #FDC830;  color: #fff;"
+    document.querySelector('.o_list').innerHTML = '';
     MAX_QUESTIONS = questions.length;
     document.getElementById("number-box").value = questions.length;
     closeChoiceBoard();
     startGame();
 }
+function changeLevel_bunpouN4(){
+    questions = n4bunpou;
+    level.innerText= "Bunpou N4";
+    contentbox.innerText = "Bunpou N4";
+    document.querySelector('.level-box').innerText = "Bunpou N4";
+    score= 0;
+    scoreBtn.innerText = 0;
+    startBtn.innerHTML   = '<i class="fas fa-play"></i>';
+    level.style = "background: #FDC830;  color: #fff;"
+    document.querySelector('.o_list').innerHTML = '';
+    MAX_QUESTIONS = questions.length;
+    document.getElementById("number-box").value = questions.length;
+    closeChoiceBoard();
+    startGame();
+}
+
+
 function openChoiceBoard(){
     document.getElementById('choiceContentBoard').style.display = "flex";
 }
@@ -223,10 +285,15 @@ function closeChoiceBoard(){
 }
 document.getElementById('content-box').addEventListener('click', openChoiceBoard)
 document.getElementById('closeBtn').addEventListener('click',closeChoiceBoard)
-document.getElementById('kanjiAll').addEventListener('click',changeLevel_All)
-document.getElementById('kanjiN3').addEventListener('click',changeLevel_N3)
-document.getElementById('kanjiN4').addEventListener('click',changeLevel_N4)
-document.getElementById('kanjiN5').addEventListener('click',changeLevel_N5)
+document.getElementById('allFull').addEventListener('click',changeLevel_Full)
+document.getElementById('allN3').addEventListener('click',changeLevel_N3All)
+document.getElementById('allN4').addEventListener('click',changeLevel_N4All)
+document.getElementById('kanjiN3').addEventListener('click',changeLevel_kanjiN3)
+document.getElementById('kanjiN4').addEventListener('click',changeLevel_kanjiN4)
+// document.getElementById('kanjiN5').addEventListener('click',changeLevel_kanjiN5)
+// document.getElementById('bunpouAll').addEventListener('click',changeLevel_bunpouAll)
+document.getElementById('bunpouN3').addEventListener('click',changeLevel_bunpouN3)
+document.getElementById('bunpouN4').addEventListener('click',changeLevel_bunpouN4)
 
 //------------------------------------------>
 function startGame(){

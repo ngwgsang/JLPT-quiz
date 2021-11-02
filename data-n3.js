@@ -1,4 +1,4 @@
-let n3 = [
+let n3kanji = [
 {
 id: "A0001",
 question: " 7時に（起きる)。",
@@ -24429,7 +24429,7 @@ answer: 1,
 
 {
 id: "A2714",
-question: "かみを三(つ折り)にする。",
+question: "かみを(三つ折り)にする。",
 choice1: "さんつおり",
 choice2: "みっつおり",
 choice3: "みっつうり",
@@ -34874,5 +34874,18 @@ choice3: "拒不",
 answer: 1,
 },
 
-
 ]
+
+
+let n3bunpou =[
+{
+id: "A3873",
+question: "皇女が(しんか)に降嫁する。",
+choice1: "臣下",
+choice2: "巨下",
+choice3: "拒不",
+answer: 1,
+},
+]
+
+let n3 = [...n3kanji, ...n3bunpou]

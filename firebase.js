@@ -53,8 +53,8 @@ function CreateList(level){
     const dbref = ref(db);
     const mylist = document.getElementById('rankList'); 
     mylist.innerHTML = '';
-    let i = 0;
-    while (i < 9999){
+    let i = 3000;
+    while (i < 9000){
         get(child(dbref, `${level}/` + i)).then((snapshot)=>{
             if (snapshot.exists()){
                 mylist.innerHTML += `<li>
@@ -76,21 +76,16 @@ function CreateList(level){
 };
 function removeActive(){
     document.querySelector('.rankAllBtn').classList.remove('btn-active');
-    document.querySelector('.rankN2Btn').classList.remove('btn-active');
-    document.querySelector('.rankN3Btn').classList.remove('btn-active');
-    document.querySelector('.rankN4Btn').classList.remove('btn-active');
-    document.querySelector('.rankN5Btn').classList.remove('btn-active');
+    document.querySelector('.rankKanjiN3Btn').classList.remove('btn-active');
+    document.querySelector('.rankKanjiN4Btn').classList.remove('btn-active');
+    document.querySelector('.rankBunpouN3Btn').classList.remove('btn-active');
+    document.querySelector('.rankBunpouN4Btn').classList.remove('btn-active');
     badge = 1;
 }
 
 document.getElementById('rankBtn').addEventListener('click',()=>{
-    // CreateList('All');
-    // CreateList('N2');
-    CreateList('N3');
-    document.querySelector('.rankN3Btn').classList.add('btn-active');
-
-    // CreateList('N4');
-    // CreateList('N5');
+    CreateList('Tự do');
+    document.querySelector('.rankAllBtn').classList.add('btn-active');
 });
 
 document.querySelector('.rankAllBtn').addEventListener('click', () =>{
@@ -98,23 +93,23 @@ document.querySelector('.rankAllBtn').addEventListener('click', () =>{
     CreateList('Tự do');
     document.querySelector('.rankAllBtn').classList.add('btn-active');
 });
-document.querySelector('.rankN2Btn').addEventListener('click', () =>{
+document.querySelector('.rankKanjiN3Btn').addEventListener('click', () =>{
     removeActive();
-    CreateList('N2');
-    document.querySelector('.rankN2Btn').classList.add('btn-active');
+    CreateList('Kanji N3');
+    document.querySelector('.rankKanjiN3Btn').classList.add('btn-active');
 });
-document.querySelector('.rankN3Btn').addEventListener('click', () =>{
+document.querySelector('.rankKanjiN4Btn').addEventListener('click', () =>{
     removeActive();
-    CreateList('N3');
-    document.querySelector('.rankN3Btn').classList.add('btn-active');
+    CreateList('Kanji N4');
+    document.querySelector('..rankKanjiN4Btn').classList.add('btn-active');
 });
-document.querySelector('.rankN4Btn').addEventListener('click', () =>{
+document.querySelector('.rankBunpouN3Btn').addEventListener('click', () =>{
     removeActive();
-    CreateList('N4');
-    document.querySelector('.rankN4Btn').classList.add('btn-active');
+    CreateList('Bunpou N3');
+    document.querySelector('.rankBunpouN3Btn').classList.add('btn-active');
 });
-document.querySelector('.rankN5Btn').addEventListener('click', () =>{
+document.querySelector('.rankBunpouN4Btn').addEventListener('click', () =>{
     removeActive();
-    CreateList('N5');
-    document.querySelector('.rankN5Btn').classList.add('btn-active');
+    CreateList('Bunpou N4');
+    document.querySelector('.rankBunpouN4Btn').classList.add('btn-active');
 });

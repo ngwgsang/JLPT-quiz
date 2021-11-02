@@ -84,7 +84,7 @@
     justify-content: start;
     flex-direction: column;
     padding: 2rem;
-    gap: 1rem;
+    // gap: 1rem;
     border-radius: 0.6rem;
     span{
         position: absolute;
@@ -97,10 +97,10 @@
     div{
         width: 100%;
         height: auto;
-        padding: 1rem 0;
+        padding: 0.5rem 0;
         h5{
-            font-size: 2rem;
-            margin-bottom: 1rem;
+            font-size: 1.4rem;
+            margin-bottom: 0.5rem;
             font-family: 'Noto Sans JP', sans-serif;
             font-style: 600;
             color: $cl-p;

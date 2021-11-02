@@ -24,29 +24,35 @@
         <div class="main" id="main">
 
             <div class="container">
-                    <div id="content-box">Tự do</div>
+                    <div id="content-box">Full</div>
                     <input type="number" placeholder="Số lượng" id="number-box">
             </div>
             <button class="btn startBtn"><i class="fas fa-play"></i></button>
             <button class="btn preQuestionBoardBtn"><i class="fas fa-university"></i></button>
             <div id="choiceContentBoard">
                 <span id="closeBtn">X</span>
+                <div class="All-list">
+                    <h5>自由</h5>
+                    <ul>
+                        <li id="allFull">Full</li>
+                        <li id="allN3">N3</li>
+                        <li id="allN4">N4</li>
+                    </ul>
+                </div>
                 <div class="kanji-list">
                     <h5>漢字</h5>
                     <ul>
-                        <li id="kanjiAll">Tự do</li>
                         <li id="kanjiN3">N3</li>
                         <li id="kanjiN4">N4</li>
-                        <li id="kanjiN5">N5</li>
+                        <!-- <li id="kanjiN5">N5</li> -->
                     </ul>
                 </div>
                 <div class="Bunpou-list">
                     <h5> 文法</h5>
                     <ul>
-                        <!-- <li>N2</li> -->
                         <li id="bunpouN3">N3</li>
                         <li id="bunpouN4">N4</li>
-                        <li id="bunpouN5">N5</li>
+                        <!-- <li id="bunpouN5">N5</li> -->
                     </ul>
                 </div>
             </div>
@@ -97,11 +103,12 @@
         <div class="rankBoard" id="rankBoard">
                 <h3>Bảng phong thần</h3>
                 <div class="listBtn">
-                    <div class="rankAllBtn btn">Tự do</div>
-                    <div class="rankN2Btn btn">N2</div>
-                    <div class="rankN3Btn btn">N3</div>
-                    <div class="rankN4Btn btn">N4</div>
-                    <div class="rankN5Btn btn">N5</div>
+                    <div class="rankAllBtn btn">自由</div>
+                    <div class="rankKanjiN3Btn btn">漢字N3</div>
+                    <div class="rankKanjiN4Btn btn">漢字N4</div>
+                    <!-- <div class="rankBunpouAllBtn btn">N2</div> -->
+                    <div class="rankBunpouN3Btn btn">文法N3</div>
+                    <div class="rankBunpouN4Btn btn">文法N4</div>
                 </div>
                 <ul class="rankBoard__list" id="rankList">
                     <!-- ----chèn list----- -->

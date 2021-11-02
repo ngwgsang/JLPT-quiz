@@ -694,7 +694,6 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   padding: 2rem;
-  gap: 1rem;
   border-radius: 0.6rem;
 }
 
@@ -710,12 +709,12 @@ body {
 #choiceContentBoard div {
   width: 100%;
   height: auto;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
 }
 
 #choiceContentBoard div h5 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
   font-family: 'Noto Sans JP', sans-serif;
   font-style: 600;
   color: #5105E0;
@@ -1154,7 +1153,6 @@ body {
   .end {
     width: 80%;
     height: 80%;
-    border-radius: 0;
   }
 }
 
@@ -1162,7 +1160,6 @@ body {
   .end {
     width: 90%;
     height: 90%;
-    border-radius: 0;
   }
 }
 
@@ -1231,7 +1228,6 @@ body {
   padding: 2rem;
   height: 5rem;
   background-color: #c3c3c350;
-  color: #c3c3c3;
 }
 
 @media (max-width: 600px) {
@@ -1544,7 +1540,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   background: rgba(0, 0, 0, 0.3);
-  width: 6rem;
+  width: 8rem;
   height: 50vh;
   margin-bottom: 1rem;
   border-radius: 0.6rem;
@@ -1568,12 +1564,12 @@ body {
 }
 
 .rankBoard .btn {
-  width: 5rem;
+  width: 7rem;
   height: 4rem;
   border-radius: 0.6rem;
   background: #5105E0;
   color: #fff;
-  font-size: 2rem;
+  font-size: 1rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1588,12 +1584,9 @@ body {
 
 @media (max-width: 600px) {
   .rankBoard .btn {
-    font-size: 1rem;
-    width: 3.4rem;
-    height: 2.6rem;
-  }
-  .rankBoard .btn:nth-child(1) {
     font-size: 0.8rem;
+    width: 4rem;
+    height: 2.6rem;
   }
 }
 

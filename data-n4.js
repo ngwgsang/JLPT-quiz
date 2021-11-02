@@ -1,5 +1,5 @@
 
-let n4 = [
+let n4kanji = [
 
 {
 id: "I0001",
@@ -6658,3 +6658,15 @@ answer: 2,
     },
 
 ]
+let n4bunpou = [
+    {
+        id: "I0740",
+        question: "うんどうぶそくにならないようにじてんしゃを使わないで(あるく)ようにしています。",
+        choice1: "歩く",
+        choice2: "走く",
+        choice3: "定く",
+        answer: 1,
+    }
+]
+
+let n4 = [...n4kanji, ...n4bunpou]

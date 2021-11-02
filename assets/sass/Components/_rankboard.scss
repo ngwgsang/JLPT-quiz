@@ -157,7 +157,7 @@
         justify-content: space-around;
         flex-direction: column;
         background: rgba(0, 0, 0, 0.3);
-        width: 6rem;
+        width: 8rem;
         height: 50vh;
         margin-bottom: 1rem;
         border-radius: 0.6rem;
@@ -173,23 +173,20 @@
         }
     }
     .btn{
-        width: 5rem;
+        width: 7rem;
         height: 4rem;
         border-radius: 0.6rem;
         background: $cl-p;
         color: $cl-f;
-        font-size: 2rem;
+        font-size: 1rem;
         display: flex;
         align-items: center;
         justify-content: center;
         font-weight: 500;
         @include respond(phone){
-            font-size: 1rem;
-            width: 3.4rem;
+            font-size: 0.8rem;
+            width: 4rem;
             height: 2.6rem;
-            &:nth-child(1){
-                font-size: 0.8rem;
-            }
         }
     }
     .btn-active{
