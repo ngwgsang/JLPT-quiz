@@ -233,12 +233,15 @@ body{
                 font-size: 1.6rem;
                 font-weight: 500;
             }
+            .level{
+                font-size: 1rem;
+            }
             .percent{
                 font-weight: 700;
             }
             @include respond(phone){
                 .level{
-                    font-size: 1rem;
+                    font-size: 0.8rem;
                 }
                 .point{
                     font-size: 1rem;

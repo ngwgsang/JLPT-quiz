@@ -34,7 +34,7 @@ function InsertData(){
     let newID = `${10000-(5000 + score - (MAX_QUESTIONS-score))}`
     set(ref(db, `${level.innerText}/` + newID),{
         RollNo: newID,
-        Level: level.innerText,
+        Level: contentbox.innerText,
         NameOfStd: name.value,
         Score: document.querySelector('.o_score').innerText,
         Percent: `${Math.round(Math.fround(score/(MAX_QUESTIONS+1))*100)}%`,
