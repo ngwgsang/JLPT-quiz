@@ -14,7 +14,12 @@
 
 :fire: :fire:	Ngoài ra, mình có một gợi ý nhỏ các bạn nên sử dụng kết hợp [Extensions Nobitago](https://chrome.google.com/webstore/detail/nobitago/phkjgidaednepcinnjgofdfjmajjngji?hl=vi) để có thể đạt được hiệu quả cao trong quá trình ôn tập 
 
-:fire: :fire: Together: Hiện tại các bạn lưu lại thành tích của mình trong bảng xếp hạng !!!
+ 
+ 
+ ```diff
+@@ Together:Hiện tại các bạn có thể lưu lại thành tích của mình trong bảng xếp hạng !!! @@
+```
+
 
 ## :cherry_blossom:	 Thông tin về các bộ câu hỏi
 ID |Số        |Cấp độ  |Nội dung         |Phạm vi   |Cập nhập lần cuối  |Authors
