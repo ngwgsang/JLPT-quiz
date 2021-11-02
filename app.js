@@ -128,7 +128,8 @@ let   preId       =[];
 let MAX_QUESTIONS = questions.length;
 // document.getElementById("number-box").value = 1; 
 document.getElementById("number-box").value = questions.length;
-function getInputValue(){
+// function getInputValue(){
+document.querySelector('#number-box').addEventListener('keyup', () =>{
     playAudio('./assets/audio/pop.wav');
     var inputVal = document.getElementById("number-box").value;
     MAX_QUESTIONS = inputVal - 1;
@@ -145,7 +146,8 @@ function getInputValue(){
     steak = 1;
     plus  = 1;
     chart.update();
-}
+})
+
 //------------------------------------------>
 // Lưu lại tổng số câu ra chỗ riêng
 let indexQuestions= [];

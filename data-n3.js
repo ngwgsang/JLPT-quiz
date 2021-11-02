@@ -22330,7 +22330,7 @@ answer: 2,
 
 {
 id: "A2481",
-question: "(海岸沿い)を歩きます。",
+question: "(海岸)沿いを歩きます。",
 choice1: "かいがん",
 choice2: "がんかい",
 choice3: "かいかん",

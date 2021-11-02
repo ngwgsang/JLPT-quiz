@@ -592,6 +592,10 @@ body {
 
 .main .container {
   width: 26rem;
+  height: 5rem;
+  padding: 0.5rem;
+  border-radius: 0.4rem;
+  background: #5105E0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -605,35 +609,7 @@ body {
   gap: 1rem;
 }
 
-@media (max-width: 600px) {
-  .main .container {
-    width: 80vw;
-    height: 20vw;
-  }
-}
-
-.main .container div {
-  width: auto;
-  background: #5105E0;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  gap: 0.6rem;
-  padding: 0.5rem;
-  width: 20rem;
-  height: 5rem;
-  border-radius: 0.4rem;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-}
-
-.main .container div #content-box {
+.main .container #content-box {
   border-radius: 0.4rem;
   background: #fff;
   width: 45%;
@@ -649,7 +625,7 @@ body {
           justify-content: center;
 }
 
-.main .container div #number-box {
+.main .container #number-box {
   width: 55%;
   border-radius: 0.4rem;
   background: #fff;
@@ -666,20 +642,17 @@ body {
   text-align: center;
 }
 
-.main .container__btn {
-  cursor: pointer;
-  width: 5rem;
-  height: 5rem;
-  border-radius: 0.4rem;
-  background-color: #FDC830;
-  color: #000;
-  font-weight: 700;
-  font-family: 'Quicksand',sans-serif;
-}
-
 @media (max-width: 600px) {
-  .main .container__btn {
-    width: 20vw;
+  .main .container {
+    width: 80vw;
+    height: 20vw;
+    padding: 1vh;
+  }
+  .main .container #number-box {
+    height: 100%;
+  }
+  .main .container #content-box {
+    height: 100%;
   }
 }
 
@@ -1179,16 +1152,16 @@ body {
 
 @media (max-width: 900px) {
   .end {
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     border-radius: 0;
   }
 }
 
 @media (max-width: 600px) {
   .end {
-    width: 100%;
-    height: 100%;
+    width: 90%;
+    height: 90%;
     border-radius: 0;
   }
 }
@@ -1553,6 +1526,7 @@ body {
 
 .rankBoard .listBtn {
   position: absolute;
+  padding: 0 0.5rem;
   top: 50%;
   right: 2rem;
   -webkit-transform: translate(0, -50%);
@@ -1574,6 +1548,7 @@ body {
   height: 50vh;
   margin-bottom: 1rem;
   border-radius: 0.6rem;
+  gap: 0.5rem;
 }
 
 @media (max-width: 600px) {
@@ -1613,9 +1588,12 @@ body {
 
 @media (max-width: 600px) {
   .rankBoard .btn {
-    font-size: 1.4rem;
-    width: 3rem;
+    font-size: 1rem;
+    width: 3.4rem;
     height: 2.6rem;
+  }
+  .rankBoard .btn:nth-child(1) {
+    font-size: 0.8rem;
   }
 }
 
@@ -1869,12 +1847,6 @@ body {
   }
 }
 
-@media (max-width: 600px) {
-  .main .container {
-    font-size: 1.2rem;
-  }
-}
-
 .main .container #content-box {
   font-size: 1.4rem;
 }
@@ -1883,14 +1855,12 @@ body {
   font-size: 1.4rem;
 }
 
-.main .container__btn {
-  font-weight: 700;
-  font-family: 'Quicksand',sans-serif;
-}
-
 @media (max-width: 600px) {
-  .main .container__btn {
-    font-size: 1.4rem;
+  .main .container #content-box {
+    font-size: 1rem;
+  }
+  .main .container #number-box {
+    font-size: 1rem;
   }
 }
 

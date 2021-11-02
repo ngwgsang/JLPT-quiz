@@ -5,7 +5,6 @@
     justify-content: center;
     transition: 0.5s linear;
     margin-bottom: 4rem;
-    // padding: 44px 30px;
     background: rgba(0, 0, 0, 0.6);
     border-radius: 0.6rem;
     gap: 1rem;
@@ -14,61 +13,46 @@
     position: relative;
     .container{
         width: 26rem;
+        height: 5rem;
+        padding: 0.5rem;
+        border-radius: 0.4rem;
+        background: $cl-p;
         display: flex;
         justify-content: space-between;
         align-items: center;
         height: auto;
         gap: 1rem;
+        #content-box{
+            border-radius: 0.4rem;
+            background: $cl-f;
+            width: 45%;
+            height: 4rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #number-box{
+            width: 55%;
+            border-radius: 0.4rem;
+            background: $cl-f;
+            height: 4rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }   
         @include respond(phone){
             width: 80vw;
             height: 20vw;
-        }
-
-        div{
-            width: auto;
-            background: $cl-p;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 0.6rem;
-            padding: 0.5rem;
-            width: 20rem;
-            height: 5rem;
-            border-radius: 0.4rem;
-            box-sizing: border-box;
-            #content-box{
-                border-radius: 0.4rem;
-                background: $cl-f;
-                width: 45%;
-                height: 4rem;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-            }
+            padding: 1vh;
             #number-box{
-                width: 55%;
-                border-radius: 0.4rem;
-                background: $cl-f;
-                height: 4rem;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                text-align: center;
+                height: 100%;
             }
-        }   
-        &__btn{
-            cursor: pointer;
-            width: 5rem;
-            height: 5rem;
-            border-radius: 0.4rem;
-            background-color: $cl-y;
-            color: $cl-0;
-            font-weight: 700;
-            font-family: 'Quicksand',sans-serif;
-            @include respond(phone){
-                width: 20vw;
+            #content-box{
+                height: 100%;
             }
         }
+ 
     }
     .btn{
         cursor: pointer;
