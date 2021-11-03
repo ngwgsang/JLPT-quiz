@@ -6660,11 +6660,11 @@ answer: 2,
 ]
 let n4bunpou = [
     {
-        id: "I0740",
-        question: "うんどうぶそくにならないようにじてんしゃを使わないで(あるく)ようにしています。",
-        choice1: "歩く",
-        choice2: "走く",
-        choice3: "定く",
+        id: "IXXXX",
+        question: "Không có dữ liệu",
+        choice1: " ",
+        choice2: " ",
+        choice3: " ",
         answer: 1,
     }
 ]
