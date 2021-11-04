@@ -22,7 +22,7 @@
             background: $cl-f;
             width: 80vw;
             height: 35vh;
-            border-radius: 1rem;
+            border-radius: 0.6rem;
             padding: 1rem;
             display: flex;
             align-items: center;
@@ -54,7 +54,7 @@
                 background-color: #fff;
                 width: 30rem;
                 height: 15rem;
-                border-radius: 1rem;
+                border-radius: 0.6rem;
                 overflow: hidden;
                 transition: 0.2s linear;
                 &:hover{

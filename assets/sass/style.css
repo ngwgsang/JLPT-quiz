@@ -797,7 +797,7 @@ body {
   background: #fff;
   width: 80vw;
   height: 35vh;
-  border-radius: 1rem;
+  border-radius: 0.6rem;
   padding: 1rem;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -860,7 +860,7 @@ body {
   background-color: #fff;
   width: 30rem;
   height: 15rem;
-  border-radius: 1rem;
+  border-radius: 0.6rem;
   overflow: hidden;
   -webkit-transition: 0.2s linear;
   transition: 0.2s linear;
