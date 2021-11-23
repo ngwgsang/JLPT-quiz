@@ -1442,6 +1442,12 @@ body {
   gap: 1rem;
 }
 
+.rankBoard__list li:hover .id {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 @media (max-width: 600px) {
   .rankBoard__list li {
     width: auto;
@@ -1663,16 +1669,10 @@ body {
 }
 
 .id {
-  margin-left: 2rem;
-  width: 4rem;
+  margin-left: 3rem;
+  width: 3rem;
   color: #0f9b0f;
   display: none;
-}
-
-.overview:hover .id {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
 }
 
 .certificate {

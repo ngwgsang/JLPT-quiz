@@ -48,6 +48,11 @@
             border-radius: 0.6rem;
             position: relative;
             gap: 1rem;
+            &:hover{
+                .id{
+                    display: flex;
+                }
+            }
             @include respond(phone){
                 width: auto;
                 left: 10%;
@@ -198,13 +203,8 @@
 }
 
 .id{
-    margin-left: 2rem;
-    width: 4rem;
+    margin-left: 3rem;
+    width: 3rem;
     color:  $cl-g;
     display: none;
-}
-.overview:hover{
-    .id{
-        display: flex;
-    }
 }
