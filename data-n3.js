@@ -7755,10 +7755,10 @@ answer: 2,
 
 {
 id: "A0863",
-question: "(勝手)にお使い下さい。",
+question: "(勝手に)お使い下さい。",
 choice1: "かってに",
 choice2: "かつてに",
-choice3: "かっしゅ",
+choice3: "かっしゅに",
 answer: 1,
 },
 

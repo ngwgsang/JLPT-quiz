@@ -197,3 +197,32 @@
     }
 
 }
+
+
+.searchBtn{
+    
+    @include btn;
+    bottom: 2rem;
+    right: 2rem;
+    color: $cl-f;
+    background-color: $cl-0;
+    opacity: 0.3;
+    transition: 0.1s linear;
+    padding: 0.2rem;
+    overflow: hidden;
+    &:hover{
+        color: $cl-0;
+        opacity: 1;
+        background-color: $cl-y;
+    }
+    @include respond(tab){
+        width: 50vw;
+    }
+    @include respond(phone)
+    {
+        transform: translateX(14rem);
+        width: 40vw;
+        padding: 0 0.5rem;
+    }
+    display: none;
+}

@@ -16,11 +16,13 @@ const level                  = document.querySelector('#level');
 const analyticBtn            = document.querySelector('#analyticBtn');
 const certificate            = document.querySelector('#certificate');
 const contentbox             = document.querySelector('#content-box');
+const searchBtn              = document.querySelector('#searchBtn');
 analyticBtn.addEventListener('click', ()=>{
     main.style.display = "none";
     certificate.style.display = "flex";
     returnBtn.style.display= "flex";
     analyticBtn.style.display= "none";
+    searchBtn.style.display = "flex";
     playAudio('./assets/audio/pop.wav');
 })
 // Khởi tạo
@@ -33,6 +35,7 @@ document.getElementById('preQuestionBtn').style.display   = "none";
 document.getElementById('preQuestionBoard').style.display = "none";
 document.getElementById('rankBoard').style.display        = "none";
 document.getElementById('certificate').style.display      = "none";
+
 // Quay về
 returnBtn.addEventListener('click', ()=>{
     playAudio('./assets/audio/pop.wav');
@@ -108,7 +111,8 @@ function resetGame(){
     document.getElementById('score').style.display            = "none";
     document.getElementById('preQuestionBtn').style.display   = "none";
     document.getElementById('preQuestionBoard').style.display = "none";
-    document.getElementById('rankBoard').style.display        = "none"; 
+    document.getElementById('rankBoard').style.display        = "none";
+    document.getElementById('searchBtn').style.display        = "none"; 
 }
 //start
 let questions =[...n3,...n4];   // vì nó trỏ đến các mảng khác nên ưu tiên để lên đây
@@ -141,6 +145,7 @@ document.querySelector('#number-box').addEventListener('keyup', () =>{
     startBtn.innerHTML   = '<i class="fas fa-play"></i>';
     //Reset chart
     labels.splice(0,labels.length);
+    secondCount = 0;
     data.datasets[0].data.splice(0,data.datasets[0].data.length);
     data.datasets[1].data.splice(0,data.datasets[1].data.length);
     steak = 1;
@@ -299,6 +304,7 @@ document.getElementById('bunpouN4').addEventListener('click',changeLevel_bunpouN
 function startGame(){
     //Reset chart
     totalSeconds = 0;
+    secondCount = 0;
     labels.splice(0,labels.length);
     data.datasets[0].data.splice(0,data.datasets[0].data.length);
     data.datasets[1].data.splice(0,data.datasets[1].data.length);
@@ -342,7 +348,7 @@ getNewQuestion = () => {
         const number = choice.dataset['number'];
         choice.innerText = currentQuestion['choice' + number];
     })
-    
+    secondCount = 0;
     // Lưu lại giá trị trước khi cắt
     preId.push(currentQuestion.id);
     preQuestion.push(currentQuestion.question);
@@ -366,22 +372,27 @@ choices.forEach(choice => {
         const selectedAnswer = selectedChoice.dataset['number']
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
         if(classToApply === 'correct') {
+            correct.push(1);
             incrementScore(SCORE_POINTS);
-            document.querySelector('.o_list').innerHTML += `<li class = "true">${currentQuestion.id}</li>`
+            document.querySelector('.o_list').innerHTML += `<li class = "true overview">${currentQuestion.id}</li>`
         }
         else{
             steak = 1;
+            correct.push(0);
             labels.push(currentQuestion.id);
             data.datasets[0].data.push(plus);
             data.datasets[1].data.push(steak);
+            
             chart.update();
-            document.querySelector('.o_list').innerHTML += `<li class = "false">${currentQuestion.id}</li>`
+            document.querySelector('.o_list').innerHTML += `<li class = "false overview">${currentQuestion.id}</li>`
         }
         selectedChoice.classList.add(classToApply);
         setTimeout(() => {
             selectedChoice.classList.remove(classToApply);
             getNewQuestion()
         }, 1000)
+        data.datasets[2].data.push(Math.floor(secondCount));
+        chart.update();
     })
 })
 let maxScore= MAX_QUESTIONS+1;
@@ -397,8 +408,6 @@ incrementScore = num => {
     chart.update();
 }
 //--------------------------------------------->
-
-
 
 //--------------------------------------------->
 function playAudio(url) {
@@ -497,6 +506,7 @@ var totalSeconds =0;
 setInterval(setTime, 1000);
 function setTime() {
   ++totalSeconds;
+  ++secondCount;
   secondsLabel.innerHTML = pad(totalSeconds % 60);
   minutesLabel.innerHTML = pad(parseInt(totalSeconds / 60)%60);
   hoursLabel.innerHTML   = pad(parseInt(totalSeconds / 3600));
@@ -512,12 +522,16 @@ function pad(val) {
 //---------------------> CHART
 let plus = 1;
 let steak = 1;
+let secondCount = 1;
+let correct = [];
+let currentquestionID = [];
 const labels = [];
 const data = {
 labels: labels,
 datasets: [
 {label: 'Đúng', backgroundColor: '#0f9b0f', borderColor: '#0f9b0f', data: []},
 {label: 'Steak', backgroundColor: '#FDC830', borderColor: '#FDC830', data: []},
+{label: 'Thời gian', backgroundColor: '#5105E0', borderColor: '#5105E0', data: []},
 ]};
 const config = { type: 'line', data: data, options: {}};
 // Tạo chart

@@ -20,6 +20,7 @@
         <div class="rankBtn" id="rankBtn"><i class="fas fa-trophy"></i></div>
         <div class="analyticBtn" id="analyticBtn">Phân tích</div>
         <div class="frameBtn" id="frame">Theme</div>
+        <div class="searchBtn" id="searchBtn"><i class="fas fa-search"></i></div>
 <!---------------------------------------------MAIN------------------------------------------->
         <div class="main" id="main">
 
@@ -112,6 +113,7 @@
                 </div>
                 <ul class="rankBoard__list" id="rankList">
                     <!-- ----chèn list----- -->
+                    <li class="overview"><span class="id"></span></li>
                 </ul>
         </div>
 <!-----------------------------------------CERTIFICATE------------------------------------------>
@@ -134,14 +136,20 @@
             </div>
 
         </div>        
-        
+<!-----------------------------------------overview------------------------------------------>
+        <div class="overview-question" id="overview-question">
+            <span class="overview-question__close">X</span>
+            <div class="overview-question__box">
+                <div class="overview-question__box--left"></div>
+                <div class="overview-question__box--right"></div>
+            </div>
+        </div>
 </div>
 <!----------------------------------------------SCRIPT------------------------------------------>
 <script src="./firebase.js" type="module"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="./data-n3.js"></script>
 <script src="./data-n4.js"></script>
-<script src="./data-n5.js"></script>
 <script src="./app.js" defer></script>
 </body>
 </html>

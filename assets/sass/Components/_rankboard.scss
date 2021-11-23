@@ -197,4 +197,14 @@
     }
 }
 
-
+.id{
+    margin-left: 2rem;
+    width: 4rem;
+    color:  $cl-g;
+    display: none;
+}
+.overview:hover{
+    .id{
+        display: flex;
+    }
+}
