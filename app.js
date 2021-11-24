@@ -303,6 +303,7 @@ document.getElementById('bunpouN4').addEventListener('click',changeLevel_bunpouN
 //------------------------------------------>
 function startGame(){
     //Reset chart
+    correct = [];
     totalSeconds = 0;
     secondCount = 0;
     labels.splice(0,labels.length);
