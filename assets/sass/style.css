@@ -1440,6 +1440,8 @@ body {
   border-radius: 0.6rem;
   position: relative;
   gap: 1rem;
+  -webkit-transition: 0.5s ease-in;
+  transition: 0.5s ease-in;
 }
 
 .rankBoard__list li:hover .id {

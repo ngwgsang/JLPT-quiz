@@ -48,6 +48,7 @@
             border-radius: 0.6rem;
             position: relative;
             gap: 1rem;
+            transition: 0.5s ease-in;
             &:hover{
                 .id{
                     display: flex;

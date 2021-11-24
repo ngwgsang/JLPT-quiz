@@ -158,7 +158,7 @@ searchBtn.addEventListener('click', ()=>{
                 labels.push(snapshot.val().questionID[j])
                 data.datasets[0].data.push(snapshot.val().chart_correct[j])
                 data.datasets[1].data.push(snapshot.val().chart_steak[j])
-                data.datasets[2].data.push(snapshot.val().chart_steak[j])
+                data.datasets[2].data.push(snapshot.val().chart_count[j])
             }
             chart.update();
         }
